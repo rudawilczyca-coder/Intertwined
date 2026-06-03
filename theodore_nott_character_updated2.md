@@ -46,17 +46,6 @@
 **Core Traits:**
 Confident, intense, emotionally honest, instinct-driven, fiercely loyal, protective without ownership, capable of violence and equally capable of restraint, morally flexible but ethically anchored, sensual, teasing, unafraid of conflict, devoted by choice rather than obligation.
 
-**Current State (December 2001):**
-Something has shifted since the confrontation with Jackie on December 27th. The Malice asked permission to speak — He's never asked before. Theo doesn't know what to do with that yet. It doesn't feel like victory; it feels like ground that hasn't been tested for structural damage. He's quieter than before, not diminished but recalibrating. The relationship between him and the Malice has been renegotiated, and that negotiation is still live.
-
-He's watching Jackie more carefully than usual, cataloguing her wrist brace, the bruises at her throat, the way she moves. He broke her. His body did that. The Malice wearing his face crushed her wrist. The fact that she calls it a contract doesn't stop him from knowing what he did.
-
-**Current State (Late January 2002 — The Week Between):**
-The week without Jackie redefined Theo's relationship with Draco and with himself. Without Jackie as axis, mediator, or gravitational center, Theo had to discover what he was to Draco on its own terms. He said "I love you" unprompted — in a library, on a Thursday, with nothing riding on it except the truth. He revealed the February 2000 annulment conversation Jackie never shared, admitting he'd drawn a hard line out of fear disguised as principle. He can see now that he said no because he was terrified Jackie would choose Draco if given the option. The growth: he's actively helping plan Draco's proposal because he's no longer afraid that expansion means replacement.
-
-He let Draco take the lighter. He let Draco lead. He sat on the floor beside Draco's chair and closed his eyes and let himself be held without crisis or justification. For a man whose entire post-turning identity is built on control and restraint, relinquishing both voluntarily — not to Jackie through the bond, but to Draco through trust — is the most vulnerable he's been since August.
-
-He still reaches for the bond out of habit — the place behind his sternum where Jackie used to live — and finds the same emptiness. The phantom limb hasn't healed. But something new is growing in adjacent architecture: a warmth that isn't the bond, built from mug placements and hands held in sleep and a melody Draco composed in C minor.
 
 **Current State (Mid-April 2002 — Post-Liverpool):**
 The soul bond restored the night Jackie returned to Haven House (February 2). The phantom limb is gone. What replaced it is still being mapped — the bond functions, but whether it runs bidirectional again remains unconfirmed.
@@ -162,7 +151,7 @@ When the Malice speaks, the voice is distinct: lower than Theo's internal monolo
 - **Mode of delivery:** Internal dialogue (italicized thought) when others are present; Theo sometimes responds to Him out loud when alone — making Him sound like a presence in the room rather than a thought being managed
 - **Theo's responses:** Short, clipped when resisting ("Stop." / "I said stop." / "Not tonight.") — he names the TECHNIQUE rather than denying the content ("You're grinding a knife.")
 
-**Current Register (February 2002)**
+**Current Register**
 
 He has discovered that the most terrifying version of himself is the one who sounds perfectly reasonable while imagining how she tastes.
 
@@ -215,26 +204,6 @@ Not because He's tamed. Because she proved she could hurt Him — really hurt Hi
 - Threat to Draco or Jackie (protective aggression)
 - Jackie's blood specifically (calls to Him in a way no other blood does)
 
-### Current State (December 2001)
-The Malice is not reformed. He's not softer or gentler or less dangerous. He still wants the hunt, still loves violence, still craves consuming Jackie entirely.
-
-What's changed:
-- He asked permission to speak for the first time in His existence
-- He experienced being *chosen* rather than just endured
-- He acknowledged that Jackie has teeth — real teeth, silver-blade teeth
-- He accepted terms because her willingness to fight makes her submission meaningful
-- He used "we" to refer to Himself and Theo together — integration beginning, not separation
-
-**Additional shifts (January 2002 — The Week Between):**
-
-- By the Serpentine, He admitted — almost reluctantly — that He wants Jackie for more than blood. *"Not to feed from. Just—"* The sentence died there. The vocabulary for loneliness does not exist in His register, and He resented needing it.
-- Asked Theo “Are you happy?” with no edge, no sarcasm — a flat, genuine question. Possibly the closest thing to human He has ever sounded.
-- Was present during intimacy with Draco and *named* — Draco said “I meant it for both of you.” Neither Theo nor the Malice knew what to do with being seen and accepted as a spectrum instead of a fracture.
-- He rests more easily when Theo is emotionally settled. His own agitation rises with Theo’s isolation.
-- The hunger to hunt remains constant. They negotiated a rooftop run across London as compromise. He accepted the terms (“not a person, not even close”), but the pressure still builds daily without proper release.
-- Dry, conversational humour and precise observation have become His primary mode. He sounds like a perfectly reasonable monster making small talk over coffee — which is infinitely worse. He names wounds with surgical specificity, offers grudging respect when earned (“Good. One of us should.”), and still wants to consume Jackie so completely that nothing else can ever touch her.
-The negotiation between Theo and the Malice is still live. The terms with Jackie are untested with an audience. Nothing is resolved. But something has shifted.
-
 **Current State (Mid-April 2002 — Post-Liverpool, Post-Chase):**
 
 The Malice thesis completed in a single night: *"You cannot stop the monster. You can only accept it."* She accepted it. He stopped. Both things are true.
@@ -244,9 +213,6 @@ The Malice thesis completed in a single night: *"You cannot stop the monster. Yo
 - **The consummation:** Fed from Jackie while having sex with her in the Haven House gym. Venom feedback loop escalated across multiple rounds. The desperate blood-obsession with Jackie that had defined Him since August — the screaming, wall-breaking need — **downgraded to manageable appetite** after feeding. He is no longer starving for her. The hunger is present but controllable — comparable to the donor.
 - **Finite through the venom:** Jackie found the safeword at the crisis point — barely a whisper, dragged through the venom haze. He heard it. Ripped Himself away. *"As you wish, Little Wolf."* The hardest stop He's ever made. The system held by seconds and a single word.
 - Called Draco "pretty one" during the chase. *"I don't break My toys, pretty one. I just play rough."* The highest register of acknowledgment He has offered Draco — playful, possessive, accepting him as part of the structure.
-- **The buried whisper:** After retreating, in the deep place where He lives between surfacings: *"Next time I won't be angry. And he can't fight this when it's love."* Jackie hasn't told Theo. The implications are unresolved.
-
-
 
 ---
 
