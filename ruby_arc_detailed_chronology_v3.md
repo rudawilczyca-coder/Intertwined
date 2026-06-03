@@ -175,50 +175,113 @@
 
 ---
 
-## CURRENT STATE: Sunday evening, June 23, 2002
+## MONDAY, JUNE 24 — "I Need to Talk to You Both" (Triad scene, Haven House)
 
-**Draco:** En route to Haven House. Plans to tell Jackie and Theo that Ruby wants to meet them.
-**Ruby:** Asleep in Meg's car. Will be dropped at her Soho flat. Work tomorrow.
-**Jackie:** At Haven House. Received Draco's text. Making aubergines. **Privately jealous of Ruby** — admitted it to Theo during a Malice session on Saturday night. Doesn't want to break "his one good thing." Theo made her promise: if it gets too heavy, come to him.
-**Theo:** At Haven House. Carrying Jackie's secret. Watching from the margin.
-**Connor:** Left the farmhouse Sunday morning after Draco removed him. Current location/state unknown. Meg chose Ruby's side without hesitation.
+*The triad-side scene. Ruby not present. Logged here because it gates the dinner and reshapes Jackie's stance.*
+
+**The Dragon Tattoo Reveal:** Draco came home from work (~6:15PM). Jackie had made a casserole, opened wine. Draco had scrubbed the dragon tattoo off (faint purple ghost at his wrist). Before the conversation, Jackie clocked the temporary tattoos that HAD covered the Dark Mark — applied at Ruby's flat bathroom floor Saturday, the dragon Ruby drew. Draco explained, ears pink: *"I chose the dragon. She's called me that since the first night."* This detonated Jackie's jealousy (she'd never been able to touch the Mark; Ruby turned it into art and Draco *liked* it).
+
+**The Conversation:** Draco asked them to meet Ruby. Jackie said no — cited stalker / Statute risk, then admitted (after Theo pushed) the real reason: *"I don't want to watch you with her."* Revealed she'd installed the dating app never expecting it to become serious.
+- Jackie: *"Where is the line, Draco?"* / *"How do I give you a reason to come back?"*
+- **The root:** her fear isn't Ruby — it's that **Draco left once before (Jan 2000)** and she never fully healed. Ruby being a *real* relationship (tattoo, meeting family, exclusivity) triggered "he's leaving again."
+- Draco: *"I can't cast Fiendfyre anymore — the wand remembers. You are the only thing worth cursed fire."* / *"You don't need light when the sun's already in the room. You need it when the sun goes to work for ten hours."* / *"That's not safety, Jackie. That's grief on layaway."*
+- Theo held the middle — drew the **Fenholt parallel** (silence decides for people; he'd sat on a warning out of wounded pride and it nearly cost everything).
+- **Resolution:** Jackie agreed to meet Ruby. Kissed Draco. Hurt converted to resolve.
+
+**Ground Rules (Jackie set, Draco accepted):**
+1. No phone calls during the week unless emergency. Phone away at dinner/shared time. *(Draco set his phone face-down immediately.)*
+2. Jackie doesn't want weekend details "yet" — when she's ready, she'll ask.
+3. If weekends/girlfriend-status stops being enough, Draco comes to the triad and they discuss together.
+
+**The Exclusivity Realization:** Jackie identified Ruby is exclusive with Draco while he can't reciprocate (Statute/Camarilla ceiling). Theo: *"A girl who's chosen monogamy with someone who can't offer it back."* Jackie's parallel: she lived the split-life (Mar–Aug 2001, two homes, two toothbrushes) — survived only because Tuscany/Haven House existed as a destination. **Ruby has no Haven House.** *Possible future kindness: letting her go if she has something good to go toward.* Filed, not decided.
+
+**The Duel (cellar gym, ~7:30PM):** Footrace down (loser cooks Tuesday — Draco lost). Jackie vs Theo, no wands, daggers. First to three. Theo went 2-0 (caught a thrown blade bare-handed). Jackie scored with a four-move trap (planted a dagger in the heavy bag, played dead, ripped it free through the swinging bag), drew blood under Theo's jaw — 2-1. Glanced at Draco during the tiebreaker (*let him watch*), cost the point. **Theo won 3-2, pinned her. Malice surfaced (eyes bled crimson), called her "Little Wolf."** Draco recused, wrecked.
+
+**→ NEST:** Post-duel intimacy. **First full triad encounter since January 2002.** Jackie invited Draco onto the mat (*"You're missing the best part, Malfoy"*). Theo orchestrated the choice. Feeding inside parameters (Jackie's wrist), new act established, full aftercare (group shower, Draco checked water temp).
+- **THE "YOURS" PARALLEL:** Jackie asked Draco *"Whose are you?"* — near-verbatim Ruby's pre-first-time question. Draco said **"Yours"** to both. He's the only one who knows. **Loaded gun, dormant.**
+
+---
+
+## TUESDAY, JUNE 25 — Texts + The Vampire Slip
+
+**Morning texts:** Ruby had texted Mon evening (Draco left phone on the kitchen table, missed all 3 — she'd checked on him, then texted she got home safe from her night walk). Draco apologized 7:38AM, went full protective ("gorilla") about her walking alone after the Thursday stalking + her plan to advertise online for a walking buddy. Ruby pushed back (*"your overprotective gorilla is showing"*). Draco retired the gorilla but held one line: bad feeling on a walk = she calls him. **Ruby: *"I did call you. Last Thursday. You were the first person I wanted."*** — landed hard.
+
+**THE SLIP:** Draco, asking Ruby to pick the restaurant, joked over text that next Friday beat this Friday because *"two families in two days and one of them has a vampire."* **He typed *vampire* to a Muggle.** Ruby caught it (*"A vampire? What do you mean A VAMPIRE?"*) but read it as a weird way to describe Theo's health issues.
+
+**The Save (Haven House kitchen, ~7PM):** Draco panicked. Theo was DELIGHTED. Jackie drafted the cover text — truth-as-joke: *"Theodore is basically a vampire... allergic to sunlight and garlic... running joke for us."* Held.
+
+**Jackie's Library Research:** Jackie revealed she'd gone to a **Muggle library after work** to build Theo a medical cover for the dinner — the day after weeping about not being able to compete. Fierce protection. *"I won't let anyone break what we have."* The memorized diagnoses:
+- Cold skin → **Peripheral Artery Disease**
+- Pallor → **Vitamin D deficiency**
+- Sunlight → **Solar Urticaria / photodermatosis** (rash in minutes)
+- Garlic/food → **Crohn's Disease** (explains eating little)
+- Plus **chronic drug-resistant insomnia**
+- **Throughline:** *"Ill since a teenager, never had a single name, doctors gave up."* Almost true.
+- Jackie poked the Malice (*"diseases can be cured"* — He'd been waiting to use it). Draco saved the diagnoses to his phone so all three match.
+
+**Restaurant locked:** Ruby chose **Veeraswamy** (99 Regent Street, first floor) — posh, above her usual standard, not paying. **Private dining room, round table** (Draco gets Ruby one side, Jackie the other, Theo beside Ruby). **Dinner: Friday, July 5.** *(Originally floated for June 28 — night before Wales — Ruby pushed it a week.)*
+
+**Charlie introduced:** Neighbour — **Charlie** (springer spaniel, Jordie) — started joining Ruby's night walks Thu + Fri. No further stalker incidents. Draco collecting low-key intel (*"so I know whose hand I'm shaking"*). Gorilla journaling.
+
+---
+
+## SATURDAY, JUNE 29 — The Train to Wales (in progress)
+
+- ~9:50AM, Great Western service toward Swansea. Warm hazy morning. Draco reading *Fourth Wing* (~ch.20), Ruby reading over his shoulder, **Vex asleep in the footwell, muzzle on Draco's shoe.** Draco dressed down (Jackie-approved grey jumper), nervous, asking Ruby to walk him through family/table dynamics. **Heading to Morriston (Swansea) for Gareth's birthday weekend.**
+
+---
+
+## CURRENT STATE: Saturday morning, June 29, 2002 — train to Swansea
+
+**Draco:** On the train to Wales, meeting the Williams family for the first time (Gareth's birthday). Carrying the "Yours" parallel privately.
+**Ruby:** On the train beside Draco, Vex at their feet.
+**Jackie:** At Haven House. Jealousy now SPOKEN (to Draco, 24 June) and partially metabolized — agreed to the dinner, set ground rules, did the library research to protect Theo's cover. Root fear (Draco leaving, per Jan 2000) named but not fully resolved. At work this weekend.
+**Theo:** At Haven House. Was the steady middle through the kitchen fight. Has a full Muggle medical cover story for the July 5 dinner. Still carrying Jackie's older secrets (the Malice whisper).
+**Connor:** Left the Kent farmhouse (June 23) after Draco removed him. Current location/state unknown. Meg chose Ruby's side without hesitation.
+**Charlie:** New neighbour, joining Ruby's night walks. Unvetted. Status: probably benign, watched.
 
 ### What Draco Knows About Ruby
-- Full name, age (21), Welsh, lives in Soho, works in cybersecurity
+- Full name, age (21), Welsh (Morriston, Swansea), lives in Soho, works in cybersecurity
 - Has Vex (Doberman, trained herself — 3 courses, 5 seminars, 10+ books)
-- Abusive ex Robert — full story (knife, cigarettes, A&E, moved to London)
+- Abusive ex Robert/Robbie — full story (knife, cigarettes, A&E, moved to London)
 - Scars on her stomach (burns, cuts, three jagged ones)
-- Family: parents in Wales (dad's birthday next weekend), Callum, Clara (estranged — left with Michael's girlfriend), Alex, Michael (adopted, struggling)
-- Friends: Meg (closest), Jess, Adam, Danny, Priya, Sophie, Liam, Connor (now hostile)
+- Family: parents in Wales (Gemma + Gareth), Callum, Alex, Mike (adopted, struggling), + Clary (the estranged sister — left ~Dec 2001 with Mike's then-girlfriend Hannah; the family doesn't speak of her)
+- Friends: Meg (closest), Jess, Adam, Danny, Priya, Sophie, Liam, Connor (now hostile/gone)
+- Charlie — Soho neighbour, springer spaniel Jordie, new night-walk companion
 - Tab system, book preferences, reads "smut" romantasy
 - Bisexual-curious (experimented post-Robert)
 - Called him a purple tab (may not remember — was falling asleep on Xanax)
 - Can sing (Iris at the campfire — first time since 17)
 - Can swim well (Swansea Bay)
 - Can't spell "pigeons" (finally mastered it)
+- Called him first the night of the Thursday stalking — *"You were the first person I wanted"*
 
 ### What Ruby Knows About Draco
-- Full name, age (21), from money/old family, went to boarding school in Scotland
+- Full name, age (22 — birthday June 5; Ruby gave him the phone for it), from money/old family, went to boarding school in Scotland
 - Works in "civil service, records and documentation" (a lie)
 - In a polyamorous relationship with Jackie (wife) and Theo (partner). Jackie helped set up the dating profile.
 - Has a cat (Luna)
 - Father was in an "organisation" — imprisoned. Mother in Wiltshire, not speaking.
-- Dark Mark — branded at 16 by father's organisation. Permanent.
+- Dark Mark — branded at 16 by father's organisation. Permanent. (She covered it with the dragon tattoo.)
 - Sectumsempra scar across chest (unexplained — she hasn't pressed)
 - Feeding scar at wrist (explained as "an accident with a friend")
 - Plays piano (Rachmaninoff, Debussy, Satie). Never played for anyone before her.
-- Reads literary fiction + now reads romantasy (ACOTAR, Kingdom of the Wicked)
+- Reads literary fiction + now reads romantasy (ACOTAR, Kingdom of the Wicked); they're reading Fourth Wing together
 - Read aloud from Fourth Wing (purple tab passage). Reads to her.
 - Can cook (chicken tagliatelle, scrambled eggs, steak). Learning.
 - Cannot swim well, open a beer bottle, operate a washing machine, or separate darks and lights
-- Bisexual — in a relationship with Theo (she knows they're intimate, not just the kiss from the game). The Never Have I Ever answer confirmed it publicly but she'd already inferred the full picture.
+- Bisexual — in a relationship with Theo (knows they're intimate). Confirmed publicly at Never Have I Ever; she'd already inferred it.
 - Has never been to a cinema before her, never watched a film, never been on a date before her
 - Uses weird words sometimes ("Hogwarts," "Patronus") — filed under subculture, not questioned
 - "Good boy" is nuclear. Every time.
+- **NEW (June 25):** Theo is "basically a vampire" — read as a running joke / a clumsy way of describing his (fabricated) chronic illness. Cover story holds: PAD, Vitamin D deficiency, solar urticaria, Crohn's, drug-resistant insomnia. She felt sorry for him; pity, not suspicion.
 
 ### Unresolved Threads
-- **The Stalker:** Identity unknown. Ruby hasn't mentioned it since. Haven House is monitoring.
-- **Meeting Jackie & Theo:** Draco promised. Jackie will say ABSOLUTELY NOT.
-- **Wales next weekend:** Ruby's father's birthday. Draco meeting the family.
-- **Connor aftermath:** Removed from the weekend. Meg chose Ruby. Future group dynamic uncertain.
+- **The Stalker:** Identity unknown (a vampire, per the wizarding side — Ruby doesn't know). No incidents since Thursday June 20. Haven House monitoring.
+- **The "Yours" Parallel:** Draco said the same word to Jackie and Ruby. Only he knows. Dormant loaded gun.
+- **The Dinner:** Friday, July 5, Veeraswamy. Jackie's resolve set but the root fear (Draco leaving) not fully healed. Theo's medical cover prepped.
+- **Charlie:** New night-walk neighbour. Probably benign; unvetted. Draco's instincts loud, overridden by the gorilla-retirement promise.
+- **The Ceiling / Letting Her Go:** Jackie raised that it may one day be kinder to release Ruby if she has a future to move toward (no Haven House for Ruby). Filed, not decided.
+- **The Wales Weekend:** IN PROGRESS. Draco meeting Gemma, Gareth, Mike, Callum, Alex. The Clary void is a landmine he'll recognize. Gareth plays the long game.
+- **Connor aftermath:** Removed from the group. Meg chose Ruby. Future dynamic uncertain.
 - **Ruby's werewolf/shapeshifter potential:** Future arc — dormant gene activated by vampire proximity (custom mechanics, not yet triggered).
