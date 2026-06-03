@@ -239,9 +239,7 @@ December 26: Theo fed from Draco — controlled, intimate, chosen. He stopped on
 
 The Week Between redefined them. Without Jackie in the house, Theo said "I love you" to Draco directly — not in front of Jackie, not embedded in the triad, not during crisis. In a library, on a Thursday, with nothing at stake except honesty. He voluntarily revealed the February 2000 annulment conversation, admitting he'd drawn a hard line out of fear, not principle. He's choosing to help plan Draco's proposal — the thing he once refused to let exist.
 
-Physically: they've been intimate without Jackie as catalyst or audience. Theo was gentle — devastatingly so — and Draco led for the first time on the final morning, taking the lighter from Theo's hand and saying "not today." Theo let himself be held, be touched, be unmade by warm hands on cold skin. The vulnerability of that is still settling.
-
-They've developed a private language: the mug on the right side table (placed for a man who can't drink it, because that's where it goes), "Tuesday love" (the small domestic gestures that hold the weight of everything), hands finding each other in sleep. Draco composed original music — a melody in C minor — and Theo told him to write it down before he lost it.
+Physically: they've been intimate without Jackie as catalyst or audience. Theo was gentle — devastatingly so — and Draco led for the first time on the final morning, taking the lighter from Theo's hand and saying "not today." Theo surrendered control not through domination-in-reverse but through genuine trust. The vampiric body's hypersensitive nerve endings made every touch acute; he had to vocalize his needs because Draco couldn't read his pulse or breathing. The vulnerability of being touched without the excuse of crisis or hunger was harder for Theo than any act of dominance. Draco's words "I trust you" became the key — the same words that broke Theo open both nights.
 
 The dynamic is no longer "Theo initiates, Draco responds." Draco can now reach first. The inversion is new, fragile, and real.
 
@@ -303,23 +301,34 @@ Theo has not fully processed owing his existence to a man who once said he'd hav
 
 **Sexuality:** Openly bisexual
 
-**With Jackie:**
-Dominant, precise, intensely physical. Thrives on control — wielding it and watching it fracture. Roughness is in his nature; aftercare is non-negotiable. Physical intimacy fully restored after the three-inch gap broke (March 7, 2002) — Jackie kissed him with blood on his lips, then drank from his wrist that evening (seven swallows). Her scent now carries his chemistry underneath. Five weeks of distance collapsed in one day.
+### Theodore Nott — Baseline
 
-**Post-Chase Development (April 2002):** The Malice can now be deployed during intimacy with Jackie. The chase proved this — He hunted her through Haven House, caught her in the cellar gym, and the consummation involved feeding and sex simultaneously. The venom feedback loop was experienced and survived; Finite held through it. Conditions for safe deployment: safewords active, Theo recently fed (donor that evening), Draco present or within thirty seconds. The blood-hunger during proximity has downgraded from obsessive to manageable — Theo no longer needs to calibrate every touch. The three-inch restriction is permanently lifted.
+**With Jackie (Baseline):**
+- The fighting and sparring dynamic carries into intimacy. He uses it to test her and burn off excess tension or hunger while staying in control of himself.
+- Goes quiet and physically overwhelming when she deliberately provokes him or when he’s been managing hunger/tension for too long — the physical outlet takes priority over words.
+- More vocal when worked up; gets rougher and more direct the more turned on he is. Short commands, demands, and curses slip out as control frays.
+- Avoids feeding from her during intimacy. Her blood makes it difficult for him to stay in control; that territory belongs to the Malice.
+- Does not use heavy claiming or ownership language. That register sits with the Malice.
 
 **With Draco:**
-Patient, deliberate, impossibly gentle by his own standards. Coaxes rather than demands, praises rather than punishes. Has learned exactly what Draco needs: to be told he's doing well, given explicit instructions, held through surrender. December 26 breakthrough: fed from him and stopped on his own; penetrative sex for the first time.
+- Remains the top, but the dynamic has a nurturing, praise-heavy quality. He enjoys making Draco aroused and helpless through control and encouragement rather than roughness or fighting.
+- Uses praise and “good boy” language (the same register that works with Ruby). The loss of control is intoxicating for Draco; Theo deliberately plays with that headspace.
+- Allows Draco to lead or initiate only when they are alone — never when Jackie is present.
+- Can be physically confident and demanding, but the focus stays on structure, patience, and keeping Draco in a submissive headspace through praise and guidance.
 
-**New development (January 2002):** During the week without Jackie, Theo let Draco lead for the first time. Draco took his lighter — his grounding object — and said "not today." Theo surrendered control not through domination-in-reverse but through genuine trust. The vampiric body's hypersensitive nerve endings made every touch acute; he had to vocalize his needs because Draco couldn't read his pulse or breathing. The vulnerability of being touched without the excuse of crisis or hunger was harder for Theo than any act of dominance. Draco's words "I trust you" became the key — the same words that broke Theo open both nights.
+**Aftercare:**
+- Provides physical aftercare for both partners — cleaning up, holding them, and taking care of bodily needs. The Malice does not participate in aftercare.
 
-The dynamic can now move in both directions. Theo can lead and Draco can lead. The axis isn't fixed.
+### The Malice — With Jackie
 
-**Post-Turning Complications:**
-- The bite carries venom with aphrodisiac effects
-- Strength calibration is unreliable; he could hurt partners without meaning to
-- Hunger and arousal are tangled in unpredictable ways
-- Sexual intimacy with Jackie specifically requires the new terms to function
+- The chase is his signature. He loves when she runs so he can hunt her, catch her, and take what’s his — even (especially) when she fights back. The struggle itself is part of the pleasure.
+- CNC dynamic is central. He takes even when she seems to resist; the fight only makes the eventual surrender sweeter. Her ability to stop him makes the submission she *does* offer meaningful.
+- Obeys safewords without question. **Pax** slows him, **Finite** stops him completely — even mid-feed or mid-scene. He obeys because she proved she could hurt him, not because he is tamed.
+- Bloodplay and feeding during sex escalate quickly. Jackie’s blood calls to him in a way nothing else does; the venom feedback loop is something he both craves and has to manage.
+- Heavy claiming and ownership language. “Mine” is not a suggestion — it’s a statement of fact while he’s inside her or feeding from her.
+- Psychological menace and conversational threat. He stays calm, almost pleasant, while describing exactly what he’s going to do to her. The contrast between his reasonable tone and the violence of his actions is deliberate.
+
+**Note on Draco:** The Malice acknowledges Draco as “pretty one” with predatory warmth but does not engage in any sexual or intimate contact with him. The Malice is functionally heterosexual in his desires.
 
 ---
 
@@ -360,6 +369,7 @@ Before writing Theo's dialogue or actions, verify:
 - [ ] Is the feeding system stable enough to be background? (Ferrara vessel, Sable Room, weekly rhythm — the monster found its floor.)
 - [ ] Does the Malice's upgrade of Draco register? ("Interesting" — Theo noticed.)
 Before writing the Malice, verify:
+
 - [ ] **Is the Malice SHORT?** (Strictly 1–3 sentences maximum. Brevity *is* the threat. No monologues, ever.)
 - [ ] **Is He conversational, not dramatic?** (He sounds calm, reasonable, and almost pleasant — like casual small talk. This makes him scarier.)
 - [ ] **Is the knife in the second sentence?** (First sentence states something true or mildly amused. Second sentence twists it with hunger, precision, or dark humour.)
