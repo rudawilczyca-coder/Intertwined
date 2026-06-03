@@ -1,17 +1,57 @@
 {
-  "exportDate": "2026-06-03T12:38:20.411Z",
+  "exportDate": "2026-06-03T14:29:45.517Z",
   "projectTitle": "Intertwined | A Draco & Theo romance",
   "url": "https://claude.ai/project/019c8524-43e4-72ad-b0ad-23454d3b5072",
   "exporterVersion": "4.0.0",
   "summary": {
-    "total": 34,
-    "exported": 34,
+    "total": 36,
+    "exported": 36,
     "failed": 0,
     "unexportable": 0,
     "pdfExported": 0,
     "csvExported": 0
   },
   "files": [
+    {
+      "originalDomFilename": "ruby_arc_detailed_chronology_v3.md",
+      "normalizedFilename": "ruby_arc_detailed_chronology_v3.md",
+      "detectedType": "md",
+      "sourceUrl": null,
+      "exportMethod": "text_scrape",
+      "status": "success",
+      "error": null,
+      "lineCount": "288 lines"
+    },
+    {
+      "originalDomFilename": "past_events_bible_updated3.md",
+      "normalizedFilename": "past_events_bible_updated3.md",
+      "detectedType": "md",
+      "sourceUrl": null,
+      "exportMethod": "text_scrape",
+      "status": "success",
+      "error": null,
+      "lineCount": "2,251 lines"
+    },
+    {
+      "originalDomFilename": "ruby_arc_detailed_chronology_v3.md",
+      "normalizedFilename": "ruby_arc_detailed_chronology_v3__2.md",
+      "detectedType": "md",
+      "sourceUrl": null,
+      "exportMethod": "text_scrape",
+      "status": "success",
+      "error": null,
+      "lineCount": "288 lines"
+    },
+    {
+      "originalDomFilename": "sable_memory.md",
+      "normalizedFilename": "sable_memory.md",
+      "detectedType": "md",
+      "sourceUrl": null,
+      "exportMethod": "text_scrape",
+      "status": "success",
+      "error": null,
+      "lineCount": "108 lines"
+    },
     {
       "originalDomFilename": "williams_family_reference.md",
       "normalizedFilename": "williams_family_reference.md",
@@ -43,16 +83,6 @@
       "lineCount": "82 lines"
     },
     {
-      "originalDomFilename": "ruby_arc_detailed_chronology_v3.md",
-      "normalizedFilename": "ruby_arc_detailed_chronology_v3.md",
-      "detectedType": "md",
-      "sourceUrl": null,
-      "exportMethod": "text_scrape",
-      "status": "success",
-      "error": null,
-      "lineCount": "225 lines"
-    },
-    {
       "originalDomFilename": "SOUL.md",
       "normalizedFilename": "SOUL.md",
       "detectedType": "md",
@@ -81,16 +111,6 @@
       "status": "success",
       "error": null,
       "lineCount": "85 lines"
-    },
-    {
-      "originalDomFilename": "past_events_bible_updated3.md",
-      "normalizedFilename": "past_events_bible_updated3.md",
-      "detectedType": "md",
-      "sourceUrl": null,
-      "exportMethod": "text_scrape",
-      "status": "success",
-      "error": null,
-      "lineCount": "2,251 lines"
     },
     {
       "originalDomFilename": "rubys_flat.md",

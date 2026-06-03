@@ -111,9 +111,9 @@ Use this index to jump to specific events without scanning the full document. Or
 - **The Malice:** Stable, fed, has a moral code (hunts predators only); obeys *Finite* voluntarily as of Liverpool Raid; acknowledged Draco as "interesting"; His buried whisper to Jackie (*"Next time I won't be angry. And he can't fight this when it's love"*) — Theo does not know
 - **Soul bond:** Bidirectional (activated April 2001); snapped when Jackie left London airspace (Jan 28); restored on return (Feb 2); status unresolved post-arc
 - **Safewords:** Pax (slow), Finite (stop) — established July 2001; the Malice obeys because Jackie proved she could hurt Him; *Finite* obeyed voluntarily at Liverpool Raid
-- **Haven House:** Notting Hill, London; sun-proofed; five-person household as of Feb 21 (Jackie, Theo, Draco, Pansy, Blaise)
-- **Pansy Parkinson:** Lives at Haven House (Feb 21 onward); offered post-wedding position by Genevieve Lavigne; Imogen Parkinson (trafficking victim) is her first cousin once removed
-- **Blaise Zabini:** Lives at Haven House (Feb 21 onward); operational partner on Liverpool investigation
+- **Haven House:** Notting Hill, London; sun-proofed; three-person household (Jackie, Theo, Draco) + Luna the Kneazle. *(Note: Pansy & Blaise stayed Feb 21–post-Liverpool during the investigation; both have since moved out — see below.)*
+- **Pansy Parkinson:** Currently in **France** (took up Genevieve Lavigne's post-wedding position). Stayed at Haven House Feb 21 onward during the Liverpool investigation; no longer resident. Imogen Parkinson (trafficking victim) is her first cousin once removed.
+- **Blaise Zabini:** Lives in **his own flat**; visits Pansy in France occasionally. Stayed at Haven House during the investigation; no longer resident. Operational partner on the Liverpool investigation.
 - **Genevieve Lavigne:** Active in family affairs; paid Malfoy war reparations in full; attended the wedding; 1987 debt to Narcissa (basilisk venom) acknowledged
 - **Narcissa Malfoy:** Conditional engagement truce; heirs demand — three years (clock started Feb 27, 2002)
 - **Ferrara (Cosimo):** Contracted vessel arrangement active at Haven House; Camarilla political backing secured (three Primogen debts)
@@ -2219,7 +2219,7 @@ Three things happened on February 20th.
 - **Jackie + Theo:** Three-inch distance ELIMINATED. Jackie fed the Malice's blood obsession; it converted from desperate need to manageable appetite. Full physical proximity now safe. Soul bond status remains unresolved.
 - **Draco + Theo:** Strengthened through the arc. Draco can work through Theo's worst nights. The Malice has acknowledged him as "interesting" and called him "pretty one." Draco requesting to be present (not in the kitchen) for future Malice encounters with Jackie.
 - **The Malice:** Stable, fed, purposeful. Has a moral code. Obeys *Finite* voluntarily — twice in 24 hours, including once through the venom feedback loop with Jackie's blood in His mouth. Remembers the raid fully — and Theo felt all of it. Has fed from Jackie for the first time since Rome; the obsessive hunger has downgraded to manageable appetite. The chase consummated their bond through violent intimacy.
-- **Pansy + Blaise:** Operational partners, Haven House residents. Pansy offered Genevieve's position.
+- **Pansy + Blaise:** Operational partners through the arc; stayed at Haven House during the investigation. **Since moved out** — Pansy took Genevieve's position (now in France); Blaise lives in his own flat and visits her occasionally.
 - **Narcissa:** Conditional truce. Heirs demand clock started February 27, 2002.
 - **Genevieve:** Active in the family's affairs. Wedding attended. Reparations paid. Pansy recruited.
 - **Ferrara:** Contracted vessel arrangement active. Camarilla political backing secured (three Primogen debts).
@@ -2237,7 +2237,7 @@ Three things happened on February 20th.
 - **Narcissa's heirs demand** — three-year clock active from February 27, 2002
 - **Soul bond status** — restored Feb 2, but bidirectional function unconfirmed
 - **Theo's new continuity** during Malice control — significance unknown
-- **The Ruby dating arc** (post-Liverpool, May–June 2002)
+- **The Ruby Arc** — **ACTIVE / UNFINISHED.** Draco's relationship with Ruby Williams (Muggle, met via dating app post-Liverpool). Deepened May–June 2002: "I love you" exchanged (Kent, June 22), the Williams family weekend (Wales, June 29). Triad now read in: Jackie's jealousy surfaced & was partially addressed (June 24), ground rules set, meeting dinner locked for **July 5 (Veeraswamy)**. Live sub-threads: the **"Yours" parallel** (Draco said it to both Jackie & Ruby — only he knows); Jackie's unhealed fear of Draco leaving (rooted Jan 2000); the question of whether the relationship has a sustainable ceiling; the unidentified vampire stalker; Ruby's dormant shapeshifter potential. **Ongoing — not resolved.**
 - **Drake Lightwood** leverage via Albion Maritime filing — not yet activated
 
 ---
