@@ -225,20 +225,41 @@
 
 ---
 
-## SATURDAY, JUNE 29 — The Train to Wales (in progress)
 
-- ~9:50AM, Great Western service toward Swansea. Warm hazy morning. Draco reading *Fourth Wing* (~ch.20), Ruby reading over his shoulder, **Vex asleep in the footwell, muzzle on Draco's shoe.** Draco dressed down (Jackie-approved grey jumper), nervous, asking Ruby to walk him through family/table dynamics. **Heading to Morriston (Swansea) for Gareth's birthday weekend.**
+## SATURDAY, JUNE 29 — Wales, Day One (Arrival → pre-dinner)
+
+**Swansea Marina / Pump House lunch.** Train arrived ~11:15AM. Draco + Ruby walked the seafront; Ruby let Vex run on the bay (full recall demonstrated — Draco genuinely impressed, complimented the training in Muggle-safe terms). Lunch at the Pump House pub on the marina. Key beats:
+
+- Ruby raised her own nerves about meeting Jackie + Theo at Veeraswamy (July 5). Draco reframed the whole summer as **shared/reciprocal** — "we'll take it in shifts, I go first." Reassured her she won't look out of place; told her Jackie set the relationship in motion and Theo genuinely likes her. *(He privately registered for the first time that the dinner is stressful for HER too — he'd been filing Jackie/Theo as the "easy" meeting.)*
+- Ruby established a boundary: Draco pays for **nothing** with her family — no petrol, no Callum requests. "The more you let him use you, the less he'll respect you." Draco agreed, revised his earlier "say yes to disarm him" plan.
+- Draco gave Ruby the **truest Statute-safe version of his childhood** yet: "formal, counted, big and cold… nobody ever made too much of anything… a house where the rain on the windows was the friendliest sound in it." Gently dismantled the class gap Ruby had built in her head — told her her loud/skint childhood sounded *alive* and he'd have traded for it.
+- Ruby offered him an out ("last chance to run"). Draco refused it explicitly: "you don't get to hand me the door this time — I'm not using it." Distinguished nerves (will deny) from commitment (non-negotiable).
+
+**The car ride (Callum + Gemma pickup).** Blue Vauxhall Corsa. Gemma **hugged Draco on sight** before he could extend a hand (exactly as Ruby warned); ran a warm-but-assessing scan, corrected "Mrs Williams" → "Gemma." Callum ran an **interrogation disguised as mateyness** — probed the civil-service cover (Home Office? HMRC? pay?), the piano (mispronounced Rachmaninoff on purpose to bait a correction — **Draco didn't take it**). Draco called Callum "the loud one" to his face, earning a genuine laugh. **Note: Callum did NOT ask Draco to pay for petrol** (Ruby had already shut it down by text). Gemma shut Callum's questioning down from the front seat. Drove uphill to Morriston.
+
+**The house — 14 Heol Maes Eglwys.** Terraced, no entrance hall, door opens into the lounge. Half-decorated for Gareth's birthday (crooked banner, deflated balloons, cheap-but-celebratory). Vex barged in first, woke Mike on the sofa.
+
+**Draco meets Mike** (lounge, balloon duty). Mike groggy from a nap, dry and assessing. Draco — who has **never inflated a balloon in his life** — failed repeatedly; Mike silently taught him (stretch first, short breaths), no charity, no comment. Draco passed Mike's first test by being **honest about the boring cover** ("Riveting." / "It's not."). Mike's read: "She seems happy." / "She is." / "Good." — first conditional data point filed, **evidence not against him.**
+- Draco **silently clocked the Clary void** — no photo of her on the mantelpiece, pencil height-marks on the bedroom wall (R + C) stopping ~age 16. Recognized the architecture of family erasure (Black tapestry parallel — "fire instead of silence"). Will never mention it.
+
+**Gareth** (garden, chain-smoking, watching Vex). Did NOT come to the door — waits, doesn't pursue. Read Vex first ("He's settled" / "Your dog likes him" — neutral, but per his nature that's ~40% of the verdict). Told Ruby his stance on Draco: **"Proper's not a problem… what I can't read is a man who performs it. I'll know."** Promised fairness, not approval — "He'll get his chance. Same as anyone. Better than some got." *(The Robbie-shaped silence.)*
+
+**Gemma (kitchen intel + reads).** Confirmed **Clary called Tuesday** — short, working at a café in Germany, German improving; asked about Gareth's birthday and about Ruby ("about bloody time" re: Draco). Gemma is the only family member in occasional contact with Clary; **chose not to tell Mike or the others** (protecting Mike on Gareth's birthday). Her philosophy: "you have to keep saying it or the door rusts shut." Her read on Draco: **"He's trying very hard… I'll be watching for when the trying stops and the real one shows up. That's the one I want to meet."** Also clocked, unprompted, the one unguarded look Draco gave Ruby — "That wasn't trying. That was just looking."
+
+**Sleeping arrangement (set by Gemma).** Alex moved in with Callum for the weekend. **Ruby + Draco share Ruby's old room** (single bed + sofa; Gemma refuses to bunk him on the sofa). Blue sheets. Gemma's warning: **thin walls, Gareth's room directly across the landing.**
+
+**The bedroom (private beat).** Ruby's childhood room (shared with Clary growing up — bunk beds, two desks, her cobbled-together PC — now Alex's, with his WWII models: Spitfire, cardboard Enigma machine). Ruby hit hard by nostalgia/the Clary ghost. Draco registered she'd "gone somewhere" but didn't pry. Quiet mutual "I'm glad you're here." Confetti glue stuck on Draco's jaw (unnoticed for an hour) → "I think it's permanent. I think that means I live here."
+
+**Draco's emotional state, Day One:** Cracked open by a loud, small, overfull house that is the photographic negative of his upbringing. "It's good" (×2 — all he could get out). The Gareth birthday present is **still in his bag, unopened, ungiven** (plan: after cake).
 
 ---
 
-## CURRENT STATE: Saturday morning, June 29, 2002 — train to Swansea
+## CURRENT STATE: Saturday afternoon, June 29 — Ruby's old room, pre-dinner
 
-**Draco:** On the train to Wales, meeting the Williams family for the first time (Gareth's birthday). Carrying the "Yours" parallel privately.
-**Ruby:** On the train beside Draco, Vex at their feet.
-**Jackie:** At Haven House. Jealousy now SPOKEN (to Draco, 24 June) and partially metabolized — agreed to the dinner, set ground rules, did the library research to protect Theo's cover. Root fear (Draco leaving, per Jan 2000) named but not fully resolved. At work this weekend.
-**Theo:** At Haven House. Was the steady middle through the kitchen fight. Has a full Muggle medical cover story for the July 5 dinner. Still carrying Jackie's older secrets (the Malice whisper).
-**Connor:** Left the Kent farmhouse (June 23) after Draco removed him. Current location/state unknown. Meg chose Ruby's side without hesitation.
-**Charlie:** New neighbour, joining Ruby's night walks. Unvetted. Status: probably benign, watched.
+**Outstanding for the rest of the weekend:** birthday dinner (lamb in the oven), **giving Gareth the present after cake**, meeting **Alex** (will come down for dinner only — the one Williams Draco hasn't faced), the thin-walls problem, Sunday before the train home. Gareth + Gemma both running parallel "wait for the real one to surface" assessments. Mike thawing slowly. Callum sees Draco as entertainment (wants the volley, not deference).
+
+---
+
 
 ### What Draco Knows About Ruby
 - Full name, age (21), Welsh (Morriston, Swansea), lives in Soho, works in cybersecurity
