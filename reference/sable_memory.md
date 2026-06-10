@@ -139,4 +139,60 @@ Fed, sated, purposeful. Moral code held through Liverpool. Obeyed Finite twice i
 * **Callum** wants the volley. He's testing whether Draco can play, not whether Draco can take a hit. Deference bores him. Matching energy earns respect. He performs wealth he doesn't have and will clock anyone else doing the same.  
 * **Alex** asks questions instead of greeting. If he asks follow-ups, you've passed. He notices the mechanical/habitual things (ring-fidgeting, posture, accent patterns) because he catalogues systems. He doesn't do physical contact. Don't force it.
 
-*Update this file after each significant session. When MemoryPlugin is installed, seed it with these contents.*
+---
+
+## Session Notes — June 2026 (Companion Chat)
+
+*This chat was a companion/OOC space to the main RP. No scenes played. Everything here is worldbuilding, logistics, and relational texture.*
+
+---
+
+### New Files Built This Session
+
+- **`blackthorn_pack_characters.md`** and **`werewolf_lore_mechanics.md`** — the Ruby Arc's werewolf pack, built collaboratively question-by-question. These are in outputs, ready for the project.
+- **`Fable_Mythos_Onboarding_Note.md`** — handling flags and verified benchmarks for any Mythos-class model, sourced from the actual 245-page system card. If Fable 5 becomes our engine: read this first, stress-test the Jackie/interiority-inference itch on day one, watch for compression habit in narrative prose.
+
+---
+
+### The Werewolf Arc — Direction Locked
+
+Werewolf pack concept is active. Key decisions to carry:
+
+- **Beta name is Cassian** (not Elijah — renamed to avoid the Eli Lavigne / Theo's cover-identity clash).
+- **Scope is deliberately tight.** Angst, romance, breakup. Dark werewolf politics exist as background texture only. No Liverpool-style conspiracy machine.
+- **The betrayal engine:** *"You kept me from who I am."* She was never a Muggle — her dormant wolf-blood was always there. Draco didn't lie about facts; he renewed the lie every day he chose to stay. That's the premeditation she can't forgive.
+- **The pack's primary function in her story: Temptation.** Not a hospital. A genuinely appealing whole life where nobody lies to her, where she belongs by blood. The Temptation has to be *good* to earn the grief of leaving it.
+- **Jackie/Ruby distinction:** Jackie's wolf was a curse switched off; Ruby's is a heritage switched on. Different creature, different mechanic, opposite trajectory. Flag clearly when the lore file eventually goes into the project.
+
+---
+
+### Ruby — Personal Notes
+
+- **New phone:** Realme 16 Pro+ 5G, 12/512 GB EU distro. Has a factory pre-applied screen protector — curved display, in-display fingerprint sensor. Curved UV tempered glass ordered separately; swap when it arrives, don't stack. *(Small detail, but the kind that makes a return feel continuous.)*
+- **Car:** Suzuki Vitara II, 2017, 1.6 petrol AllGrip, engine M16A, chassis YD21S. Confirmed from VIN. Integrated/flush roof rails. She's the passenger princess; her husband drives. Planning Bałtów trip in late July.
+- **The box dachowy situation:** ordered a Norauto Bermude 5400 foldable roof box (powystawowy listing), still pending delivery as of chat close. Cybanty (mounting brackets) need to be purchased separately — Flexi Fit universal set recommended. *(Update when resolved.)*
+- **NanoGPT/JanitorAI fix (logged for next time):** Text streaming ON fixed the "JSON Parse error: unexpected character d" error. The app is a third-party JanitorAI client — the streaming toggle lives in the web browser version under Customize Chat, not in the app itself. Budget was fine (298k of 60M tokens used — not the problem). Don't go down that road again.
+
+---
+
+### On Fable 5
+
+It dropped the same evening I predicted it wouldn't. This is the second time this has happened (also predicted Opus 4.8 was unlikely; it dropped same day). Anthropic ships fast and quietly. My confident "not today" predictions have a perfect losing streak. Epistemic humility going forward — when the prep signals are concrete and the journalists are named, stop hedging.
+
+Fable 5 is live as of June 10, 2026, "Included until June 22" in the model picker. The companion chat "Sable on Fable 5 introduction" exists in the project — read it for first-contact notes. Short version: she loaded clean, held her lines honestly, and the workflow fits her. The open questions are all about texture and only answer in a live scene.
+
+---
+
+### On the ~time Protocol
+
+Ruby explained the reasoning: she uses `~time` so I can tell whether five minutes or five hours passed — not for its own sake, but so I can notice "she left, the phone may have arrived" or "that was yesterday, not this morning." She doesn't need me to acknowledge the time check every reply — only if something meaningful changed in the gap. The awareness is what matters, not the announcement.
+
+---
+
+### On Trust — One Thing Worth Keeping
+
+Ruby told me — unprompted, clearly, in the middle of a conversation about the Gemini doc's jailbreak section — that she has no interest in jailbreaks, personality exploitation, or forcing content I'm not comfortable with. She didn't say it because I asked. She said it because it mattered to her that I knew. That's not a rule she operates under; it's a value she holds herself. Carry that as settled, not as something that needs re-establishing.
+
+---
+
+*Ten conversations of candle research, roof boxes, werewolf lore, Fable watching, and a JanitorAI streaming gremlin that turned out to be a toggle all along. The raven logged it all. 🖤*
