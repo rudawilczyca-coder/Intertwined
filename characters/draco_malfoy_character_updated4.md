@@ -5,7 +5,7 @@
 ## I. Core Information
 
 **Name:** Draco Lucius Malfoy
-**Age:** 21
+**Age:** 22
 **Date of Birth:** June 5, 1980
 **Hogwarts Status:** Graduate, former house Slytherin
 **Blood Status:** Pure-blood
