@@ -20,7 +20,6 @@
 
 **Residence:**
 - Primary: Haven House, 145 Berkeley Street, Notting Hill, London
-- Former: Ministry-issued flat in London
 
 ---
 
