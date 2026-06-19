@@ -1,5 +1,5 @@
 # Ruby Williams Arc — Chronological Summary (v4)
-*Updated through Monday, July 1, 2002 — includes full Wales weekend + Haven House triad scene*
+*Updated through Monday night, July 1, 2002 — includes full Wales weekend + Haven House triad scene + post-sofa shower + start of the Primrose Hill walk*
 
 ---
 
@@ -324,6 +324,28 @@
 
 ---
 
+## MONDAY, JULY 1 (cont.) — The Shower & The Walk Out
+
+*Continues directly from the sofa scene above. Written June 2026 (Claude Code session).*
+
+**The Shower (Jackie's ensuite, ~8:30PM) — explicit, Draco/Jackie; Theo downstairs.**
+- Before the Primrose Hill walk, Jackie and Draco went up to shower; Theo stayed downstairs to dress ("twenty minutes… more or less"). Draco followed her up, clocking the hidden "arithmetic" flicker from the eighty-years line again on the stairs — filed it, didn't push.
+- Draco initiated, then Jackie reversed it: she'd already come **twice** that day, so this was *her* giving. She went down on him, teasing about "sharing" him (jealousy re: Ruby Williams). **Draco's line:** *"She has a version of me. Borrowed. Edited. You have the original. Don't you ever — confuse the two."* He deliberately did **not** say "Yours" (aware of the loaded parallel). He came with her name. She then washed him (lavender soap); they dressed.
+- His hand found the Malice's old neck-bite scar — the one **Draco himself healed** with a flesh-knitting charm (April 2002). Quiet, charged.
+
+**Downstairs, ~3 minutes before the walk.**
+- Theo had heard the whole thing (vampire hearing) and said so. He did **not** gloat (Jackie predicted he wouldn't): *"I'm not jealous that you kept him. I'm jealous of the acoustics."* Happy for them, with a secure flicker of the named jealousy (Jackie had Draco to herself). Draco, undone earlier, recovered: *"Insufferable. I told her you'd be insufferable."*
+- Jackie set the Kneazle (**Luna**) to "guard the house," wore the wand in her corset only (left the holster — too obvious in Muggle London), put on trainers.
+
+**The Walk Out (just after dark, ~9:30PM).**
+- Seeing Theo outside in the open triggered Jackie's Auror/protective reflex (the daylight-danger instinct, even at night). Theo clocked it and named it gently: *"I see you doing it. The cover you keep trying to find me. Don't stop on my account. It's the most loved I've felt all week."*
+- **Transport: they WALK** the ~3 miles. Theo: *"You don't Apparate into a thing you love."* (Tube allowed for the way back.) He wanted them in *his* city — the part of the day the world only hands back to him after dark.
+- **Theo's reveal (new emotional beat):** asked how often he leaves the house while they sleep — *"Most nights. All of them, lately."* He walks nocturnal London **alone** every night (the river at 3am, the markets at 4, foxes, empty bridges) — a whole second city learned because his body never tires and his mind never switches off. Always home before they wake; never mentioned it ("ungracious — complaining about the one thing I'm freely given"). *"Often. Always. Alone."* Tonight is the first time he's sharing it; that's the whole reason he wanted them out.
+
+**Where it pauses NOW:** The three have just set out on foot into the warm, dark, lamplit city, heading for Primrose Hill, in no hurry. Theo has just opened up about his solitary nights. **NEXT:** the walk through nocturnal London → arrival at Primrose Hill.
+
+---
+
 ## THE ROBBIE ARC — LOCKED PLAN (July 1–11)
 
 **Robbie's self-narrative:** He's CHANGED. It was anger issues. Ruby was part of the problem. She's probably miserable without him. He is the romantic lead of his own story. **He NEVER gets POV — he only ever *arrives*.**
@@ -341,7 +363,7 @@
 
 ---
 
-## CURRENT STATE: Monday evening, July 1 — Haven House
+## CURRENT STATE: Monday night, July 1 — the Primrose Hill walk (just set out from Haven House)
 
 ---
 
@@ -385,7 +407,8 @@
 
 ### Unresolved Threads
 - **The Stalker:** Identity unknown (vampire, per wizarding side). No incidents since Thu June 20. Haven House monitoring.
-- **The "Yours" Parallel:** Draco said the same word to Jackie and Ruby. Only he knows. Dormant loaded gun.
+- **The "Yours" Parallel:** Draco said the same word to Jackie and Ruby. Only he knows. Dormant loaded gun. (Reinforced July 1: in the shower he *deliberately* did NOT use "Yours" with Jackie — chose "you have the original" instead, aware of the gun.)
+- **Jackie's Private Exit (Ruby-authored, dormant):** Jackie has privately decided she won't make Theo watch her age and die the way Filippo watched Elisabetta. Plan: she and Draco give Theo their best years, then "go on a trip one day and simply never come back" when the time is right. She has NOT told Draco (senses he'd agree). Theo and Draco catch only a flicker of hidden "arithmetic" behind her eyes — never the content. Surfaced July 1. Major dormant thread.
 - **Purple tab ×2:** Both unspoken. He holds them.
 - **The Dinner:** Friday, July 5, Veeraswamy. Jackie's resolve set but root fear (Draco leaving) not fully healed. Theo's medical cover prepped.
 - **The Grimoire:** Williams maternal-line attic, origin unknown, possibly real wizarding text. Draco couldn't ask. Dormant.
