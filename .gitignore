@@ -1,0 +1,9 @@
+# Obsidian — keep shared config & plugins tracked; mute per-device noise and secrets
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/plugins/obsidian-git/data.json
+
+# OS / misc
+.trash/
+.DS_Store
