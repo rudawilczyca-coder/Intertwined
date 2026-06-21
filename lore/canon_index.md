@@ -1,0 +1,156 @@
+# Jackie's Story: Canon Index
+**Full Timeline: 1994 – mid-April 2002**
+
+Use this index to find specific events without loading the full bible. Each book section links to its detail file — only load those when specific dates, dialogue, or sequences are load-bearing for the scene.
+
+---
+
+## SABLE'S QUICK REFERENCE GUIDE
+
+### BOOK ONE: LAST YEAR (1994–1999)
+→ `events/book1_last_year_1994-1999.md`
+
+| Period | Key Events |
+|--------|------------|
+| 1994–1997 | Maledictus curse confirmed; Samaya dates Draco; Theo recognizes bisexuality; first kiss at Parkinson's Gala (1995); intercepted letters; Jackie pulled from school (1997) |
+| Sept 1998 | Betrothal announced; Hogwarts Express confrontation; Protean rings created in Charms; ring message ritual begins |
+| Sept–Nov 1998 | Theo's truce proposal; Hogsmeade meetings; the trivia bet kiss; changing room kiss; Draco punches Theo; Jackie reveals Maledictus curse to Draco |
+| Dec 1998–Jan 1999 | Month-long wolf transformation; Draco waits at forest edge daily; Jackie returns to human form; spends night in Draco's room; Theo's assault (January 6) |
+| Jan–Feb 1999 | The aftermath — Jackie's PTSD, Theo's guilt, Draco's confusion; the gloves; the letter; Jackie decides to help Theo fight his darkness |
+| Mar–Apr 1999 | Truce forms; Theo confesses to Draco about January 6; ritual discovery; Theo's unsent letter to Draco found |
+| Apr–May 1999 | Samaya's visit and wedding dress; Astronomy Tower declaration (all three); the Gentleman's War; the Deal; Jackie's counter-terms |
+| June 1999 | Draco's date (lake walk, chess); Theo's date (Blackwood hunt, Animagus reveal); Jackie's ultimatum — share or neither; Summer Solstice ritual; wolf severed; Theo becomes tether |
+| June–Aug 1999 | St. Mungo's recovery; Cyrus forces wedding (August 1); move to Scottish estate |
+
+### BOOK TWO: INTERTWINED (August 1999–May 2000)
+→ `events/book2_intertwined_1999-2000.md`
+
+| Period | Key Events |
+|--------|------------|
+| Aug 1999 | Scottish estate domestic life; "Draco and I should get married too"; boundaries conversation; wedding planning (Halloween); bond revelation — Theo feels Jackie's emotions; two-week separation |
+| Sept 1999 | Eirik Fenholt kidnapping — torture, rape, rescue with Harry Potter; St. Mungo's catatonia; Samaya pulls Jackie out |
+| Oct 1999 | First post-kidnapping intimacy; Taylor Estate training with Samaya; Amalthea visit; Pensieve night; Wizengamot hearing (life sentence); Hermione encounter |
+| Oct 30–31, 1999 | Stag/bachelorette parties; Theo kisses Draco (stag night); Halloween wedding ceremony; wedding night — first time with Draco |
+| Nov 1999–Jan 2000 | Golden Trio dinner (disaster); Sectumsempra duel; dowry condition revealed; Jackie confesses Theo's rape to Draco; Draco asked to move out; Christmas gifts; Draco leaves (Dec 26) |
+| Jan–Feb 2000 | Theo's parents visit; Jackie reclaims agency through dueling; confrontation with Cyrus; Snake Soirée (first); betrothal clause voided; Narcissa sentenced |
+| Feb–Apr 2000 | Pansy teaches Jackie strategic cruelty; Jackie cracks Theo's ribs in training; Animagus breakthrough (snow leopard); Snake Soirée reprise — Jackie confronts Draco, brief kiss, offers future meeting |
+
+### BOOK THREE: NEW BEGINNINGS (March 2001–May 2001)
+→ `events/book3_new_beginnings_2001.md`
+
+| Period | Key Events |
+|--------|------------|
+| Early Mar 2001 | Café reunion (all three); St. Mungo's volunteering begins; dinner with Anne & Caroline; Knockturn concert (Samuel performs); dance with Draco; Pansy interrupts |
+| Mid-Mar 2001 | Café date with Draco; three-night arrangement established; first intimacy since wedding night; Theo's terms |
+| Mid-Apr 2001 | Ministry cafeteria meeting (Theo & Draco); Theo selling Manor; trial week proposed; wand fight; Theo disappears for weekend; reconciliation |
+| Italy Trip | Flight to Florence; Villa Aurelia; beach confession (Theo admits feelings for Draco); Venice; first triad intimacy; CNC dynamics exposed to Draco; Finite moment; guided scene (Theo directs); first Theo/Draco intimate contact; Florence underground ring (Filippo de' Medici); Filippo's two gifts |
+
+### BOOK FOUR: POST-FLORENCE & THE SUMMER (April–August 2001)
+→ `events/book4_post_florence_2001.md`
+
+| Period | Key Events |
+|--------|------------|
+| Late Apr 2001 | Bidirectional bond activated; memory exchanges; Occlumency Anchor State; Taylor Estate tea — Cyrus's confession; Amalthea's revenge |
+| May 2001 | Cyrus found dead; private funeral; Lavigne Luminary invitation |
+| July 1–3, 2001 | Auror tryouts (physical, magical, psychological); Jackie passes all three |
+| July 4, 2001 | Verdant Table celebration; first full triad intimacy at Draco's flat; Theo says "I love you" to both |
+| July 21–22, 2001 | Samuel Carrow crisis — near-miss; Theo establishes Samuel boundary; Pax/Finite safewords established |
+| Aug 4–11, 2001 | France Arc (Lavigne Luminary) — formal debut; tournament; Theo's confession about kidnapping warning; Filippo feeding; the Malice claims Jackie; assassination attempt on Draco; **Theo turned into a vampire** |
+
+### BOOK FIVE: THE VIGIL, DEPARTURE & FLORENCE SEPARATION (August–November 2001)
+→ `events/book5_vigil_departure_2001.md`
+
+| Period | Key Events |
+|--------|------------|
+| Aug 11–14 | 72-hour vigil; the Waking — Theo attacks Draco; empty-casket funeral; blood crisis; spiked bags solution |
+| Aug 17 | Jackie and Draco depart for London; Filippo and Theo leave for Florence |
+| Sept–Oct 2001 | Correspondence arc; Haven House established (Notting Hill); Second Sons concert; bathroom assault (Voss & Flint); Draco uses Cruciatus; Snake Soirée — Blaise's secret marriage, Daphne's heroism |
+| Oct–Nov 2001 | Draco's sexual paralysis; Jackie lifts Samuel restrictions unilaterally; Draco's letter to Theo; Jackie's silence; the Verdant Table date |
+
+### BOOK SIX: THE ASSESSMENT & THE BALL (December 2001)
+→ `events/book6_assessment_ball_dec2001.md`
+
+| Period | Key Events |
+|--------|------------|
+| Dec 7–8 | Florence visit; Camarilla Archon Dante's assessment; public feeding ruling |
+| Dec 10–23 | Trials in Florence; Theo's breakthrough — stops feeding unprompted; Malice's hunger = fear of abandonment |
+| Dec 24–25 | Christmas reunion in Florence; Jackie's sun-spell; Filippo's mortality fear |
+| Dec 26 | First feeding (Theo/Draco) — voluntary, controlled; **first penetrative sex between Theo and Draco** |
+| Dec 27 | Jackie confronts the Malice directly; forces respect; mutual terms established |
+| Dec 28–31 | Rome; Hotel Obscura; Caterina's villa; feeding test; New Year's Eve ball — successful public feeding; Camarilla assessment passed |
+
+### BOOK SEVEN: HOMECOMING & SEVERANCE (January–February 2, 2002)
+→ `events/book7_homecoming_jan-feb2002.md`
+
+| Period | Key Events |
+|--------|------------|
+| Jan 1–20 | Theo completes fledgling training in Florence; Jackie and Draco in London; piano and sun-proofing installed at Haven House |
+| Jan 21 | Theo arrives at Haven House; threshold invitation; triad reunion; the Malice marked by Jackie's bite; proposal permission granted |
+| Jan 25–27 | Samuel's visit; Theo revealed as vampire to Samuel; marking offer to Malice (postponed); Lamb and Flag meeting; Samuel's terms |
+| Jan 28 | Jackie departs for US trip; soul bond snaps mid-flight; The Week Between begins |
+| Jan 29 | Pansy & Blaise dinner — Theo revealed alive; New Orleans arrival; Silas Thorne; Sanguinem Mortis discovered |
+| Jan 30 | Marchetti's warehouse raid; mercy kills; Jackie drinks Silas's blood; Samuel and Eli's first kiss |
+| Jan 31 | Jackie releases Samuel from orbit; Samuel and Eli's first night together |
+| Feb 1 | Tour extension announced; Theo and Draco's first chosen kiss (no crisis); mutual intimacy; proposal letter conceived |
+| Feb 2 | Jackie departs New Orleans; Draco composes C minor melody; Jackie returns to Haven House ~7-8 PM; soul bond restored |
+
+### BOOK EIGHT: THE LIVERPOOL ARC (February 3 – mid-April 2002)
+→ `events/book8_liverpool_feb-apr2002.md`
+
+| Period | Key Events |
+|--------|------------|
+| Feb 3 | Triad reunion at Haven House; wrist holster presented (Italian leather, gold flame, silver thread) |
+| Feb 5 | Intimacy conversation on cellar gym mat; three-inch gap established in bed; Malice terms pending renegotiation |
+| Feb 3–13 | Investigation opens; Albion Maritime traced to Victorian Liverpool dockside warehouse; Sanguinem Mortis sample sent for independent alchemical analysis |
+| Feb 13 | Travers charity dinner; Draco spots a figure behind Alistair Travers who didn't eat, drink, or move correctly — "a recent acquisition from the continent" |
+| Feb 20 | Imogen Parkinson identified; alchemical batch trace; Draco proposes in music room — joint letter inside illuminated manuscript, C minor played on Bösendorfer; Jackie says yes; calls Theo "husband" |
+| Feb 20 | Malice cellar confrontation; Jackie provokes rage to give Theo leverage; Jackie says NO to the Malice's first ask; gives the Hunt instead; Malice's buried whisper — Jackie did not tell Theo |
+| Feb 21 | Pansy moves in drunk at 6 PM after learning about Imogen; Blaise arrives 40 minutes later with her pillow; Haven House becomes five-person household |
+| Feb 26 | Hunt 1 (Knockturn); Gino Marchetti / Rotterdam intel extracted; Malice surges post-hunt; bruises Draco's wrist; The Inversion articulated; Pansy/Draco hallway confrontation |
+| Feb 27 | Narcissa visit at Malfoy Manor; conditional engagement truce; heirs demand (three years); Genevieve's 1987 debt acknowledged; Draco to Kensington flat; Theo finds him with a bottle |
+| Mar 4 | Hunt 2; three predator targets; Malice's moral code established — "I am not an animal" |
+| Mar 6–7 | Genevieve activated (Prophet record corrected; reparations paid; Pansy offered position); Jackie goes alone to Ferrara — pays 2 pints of blood; secures contracted vessel + Camarilla political backing |
+| Mar 7 (evening) | Malice detonates on Jackie's return; Draco draws his wand on Theo's body; Jackie talks Him down; three-inch gap breaks — Jackie drinks from Theo's wrist (seven swallows; Draco counted); Jackie's scent changes |
+| Mar 10 | First contracted donor arrives at Haven House |
+| Mar 14 | Hunt 3 — Sable Room; Theo feeds alone, consensually; Malice retreats without quiet room; Hunt Trilogy complete |
+| Mar 18–19 | Voss breaks into Draco's Ministry office (reads, doesn't take); Liverpool warehouse recon — Jackie, Draco, Blaise; warded, active, designed to look empty |
+| Mar 20–21 | Serafine confirms live fledgling sales; Imogen was product, not waste; Marcus Croft identified — Level 2 clerk, Being Division; buried cases for three years |
+| Mar 25 | Lucius visit to Azkaban; Pansy plays fiancée 40 minutes; Aldous Greaves identified; working assumption: Voss is Greaves; wartime roots confirmed |
+| Late Mar | Malice baseline stabilized; donor system + Sable Room functioning; Jackie kept the Nott name — hyphenated Nott-Malfoy |
+| Early April | The Wedding — nightfall ceremony; midnight blue dress; Draco in white; Polyjuice-Theo as Eli; Blaise as Best Man; Pansy as Maid of Honour; Genevieve, Vivienne, Margaux attend |
+| Mid-April | The Liverpool Raid — full team; Malice invoked by full name; deployed with consent; Voss dismantled (13 minutes, alive and conscious); Finite — voluntary retreat, no spell; Theo resurfaced with bullet in ribs; Draco extracted on corridor floor; 4 fledglings extracted; warehouse destroyed via Fiendfyre; Dante's name on 3 shipping manifests |
+
+---
+
+### KEY CHARACTER REFERENCE
+- **Jackie Nott-Malfoy (née Taylor):** Maledictus curse broken (1999); snow leopard Animagus; Auror trainee; married Theo (Ministry-voided) and Draco (early April 2002); kept hyphenated name
+- **Theodore Nott:** Vampire (turned Aug 11, 2001, sired by Filippo); black panther Animagus; the Malice (inner darkness, capital-H He/Him); legally dead; donor system + Sable Room feeding established; Malice stabilized and purposeful
+- **Draco Malfoy:** Ministry employee; Luna the Kneazle; married Jackie (early April 2002); war reparations paid in full by Genevieve Lavigne
+- **The Malice:** Stable, fed, has a moral code (hunts predators only); obeys *Finite* voluntarily as of Liverpool Raid; acknowledged Draco as "interesting"; His buried whisper to Jackie (*"Next time I won't be angry. And he can't fight this when it's love"*) — Theo does not know
+- **Soul bond:** Bidirectional (activated April 2001); snapped when Jackie left London airspace (Jan 28); restored on return (Feb 2); status unresolved post-arc
+- **Safewords:** Pax (slow), Finite (stop) — established July 2001; the Malice obeys because Jackie proved she could hurt Him; *Finite* obeyed voluntarily at Liverpool Raid
+- **Haven House:** Notting Hill, London; sun-proofed; three-person household (Jackie, Theo, Draco) + Luna the Kneazle. *(Note: Pansy & Blaise stayed Feb 21–post-Liverpool during the investigation; both have since moved out — see below.)*
+- **Pansy Parkinson:** Currently in **France** (took up Genevieve Lavigne's post-wedding position). Stayed at Haven House Feb 21 onward during the Liverpool investigation; no longer resident. Imogen Parkinson (trafficking victim) is her first cousin once removed.
+- **Blaise Zabini:** Lives in **his own flat**; visits Pansy in France occasionally. Stayed at Haven House during the investigation; no longer resident. Operational partner on the Liverpool investigation.
+- **Genevieve Lavigne:** Active in family affairs; paid Malfoy war reparations in full; attended the wedding; 1987 debt to Narcissa (basilisk venom) acknowledged
+- **Narcissa Malfoy:** Conditional engagement truce; heirs demand — three years (clock started Feb 27, 2002)
+- **Ferrara (Cosimo):** Contracted vessel arrangement active at Haven House; Camarilla political backing secured (three Primogen debts)
+- **Dante:** Three shipping manifests from Liverpool Raid. Fingerprints in the operation's legal architecture. Not yet actionable
+- **Samuel Carrow / Eli Lavigne:** Extended US stay; Samuel released from Jackie's orbit (Jan 31); Samuel/Eli relationship begun
+
+---
+
+### OPEN THREADS (Post-Liverpool)
+- **Harry Potter** learning about Theo — deliberately deferred
+- **Dante Medici's involvement** in the trafficking infrastructure — filed, not reviewed
+- **The Malice's buried whisper** (*"Next time I won't be angry. And he can't fight this when it's love."*) — Jackie has not told Theo
+- **Narcissa's heirs demand** — three-year clock active from February 27, 2002
+- **Soul bond status** — restored Feb 2, but bidirectional function unconfirmed
+- **Theo's new continuity** during Malice control — significance unknown
+- **The Ruby Arc** — **ACTIVE / UNFINISHED.** Draco's relationship with Ruby Williams (Muggle, met via dating app post-Liverpool). Deepened May–June 2002: "I love you" exchanged (Kent, June 22), the Williams family weekend (Wales, June 29). Triad now read in: Jackie's jealousy surfaced & was partially addressed (June 24), ground rules set, meeting dinner locked for **July 5 (Veeraswamy)**. Live sub-threads: the **"Yours" parallel** (Draco said it to both Jackie & Ruby — only he knows); Jackie's unhealed fear of Draco leaving (rooted Jan 2000); the question of whether the relationship has a sustainable ceiling; the unidentified vampire stalker; Ruby's dormant shapeshifter potential. **Ongoing — not resolved.**
+- **Drake Lightwood** leverage via Albion Maritime filing — not yet activated
+
+---
+
+*[End of Canon Index]*
+*For full event details, load the specific book file from `events/`.*
