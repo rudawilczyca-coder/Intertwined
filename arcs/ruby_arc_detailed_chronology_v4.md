@@ -1,5 +1,5 @@
 # Ruby Williams Arc — Chronological Summary (v4)
-*Updated through Monday night, July 1, 2002 — includes full Wales weekend + Haven House triad scene + post-sofa shower + start of the Primrose Hill walk*
+*Updated through Monday night, July 1, 2002 — includes full Wales weekend + Haven House triad scene + post-sofa shower + full Primrose Hill walk*
 
 ---
 
@@ -363,7 +363,50 @@
 
 ---
 
-## CURRENT STATE: Monday night, July 1 — the Primrose Hill walk (just set out from Haven House)
+## MONDAY, JULY 1 (cont.) — The Primrose Hill Walk
+
+*Continues from the walk-out above. The triad walking ~3 miles from Haven House to Primrose Hill, just after dark (~9:30PM).*
+
+**The Prince of London thread (en route).**
+- Jackie raised the idea of formally presenting Theo to the Prince of London (the Camarilla one). She framed it as getting him peers — someone in London who knows what he's going through.
+- **Theo's briefing:** Filippo has already briefed him. A fledgling isn't a person in Camarilla law — it's a liability with the sire's name on it. Presenting means hat in hand, throat bared, to a sovereign who can order him unmade. Worse: he's been living in the Prince's Domain unpresented for almost a year, which is "somewhere between an insult and a provocation." He hasn't fixed it because fixing it badly is worse than leaving it.
+- **Draco's framing:** "You're describing accreditation. Presenting credentials to a foreign court." Immediately pivoted to operational: it must be done correctly, through Filippo, with terms, with leverage going in.
+- **The Ferrara/Filippo conflict surfaced:** Jackie mentioned Ferrara's boon as leverage. Theo corrected: Ferrara was *paid* (in Jackie's blood); what exists are three Primogen debts owed to the household. More critically — the Ferrara arrangement is secret from Filippo. Asking Filippo for presentation guidance while concealing a Ferrara-brokered Camarilla deal creates a contradiction: "Those are two different doors, and they open into the same room." Revealing Ferrara loses the secrecy they paid for. Going to the Prince without Filippo loses the sire who's legally responsible for Theo's actions.
+- **Decision deferred:** "Not tonight. Tonight's for the hill." But the timetable is acknowledged — before someone chooses for them. **Pinned for next week.**
+
+**The walk (en route to the hill).**
+- Jackie hooked her hand under Theo's arm. Her other hand found Draco's. Linked formation on the gravel path — no one rehearsed it.
+- Jackie noticed Theo tracking a late-night runner — the half-second of predatory orientation (identify, assess, dismiss). She didn't ask him to apologise. He didn't.
+- **Theo's answer to "what do you think about?"** — She gave him the out (the acceptable version). He didn't take it.
+  - *"You. Both of you."* Not romantically, usually. He thinks about the fact that they're asleep. He can hear every breath from three streets away. He knows Draco steals the duvet at about two. Jackie never takes it back.
+  - *"I think about the mathematics."* How many nights he's done this. How many more he'll do it after— (Stopped. The end of the sentence was *after you're gone.* He didn't put it on the pavement.)
+  - The fox: a vixen near Camden Lock, half an ear missing. Sits four feet away while he smokes. Neither has anything to prove. *"It's the most uncomplicated relationship in my life."*
+  - Breakfast. What to make her. Whether the coffee he bought is the one she actually likes or the one she said she liked because he'd already paid for it. *"The ordinary things. They're harder to hold onto, so I practice."*
+- **Draco's puncture:** *"He makes a terrible omelette, for the record. Don't let the sentiment fool you."* / *"The omelette is adequate. Your standards are French."* / *"My standards are edible."*
+
+**Jackie pivoted to lighter things on the climb:** Catherine's love life. Samaya's last letter — photo of her, Pierre, and their son Edmund. A new case involving petrified dragon eggs being smuggled to Ireland.
+
+**The hilltop.**
+- Settled on the side of the hill, ground still warm from the day, grass freshly cut. Jackie leaned her head on Theo's shoulder.
+- *"Your city is beautiful."* — Theo: *"It is."* No qualification, no deflection. Owned it.
+- **Draco on the Eye:** *"It's a Muggle ferris wheel with aspirations. It moves at the speed of bureaucracy and achieves the same amount."* (Performing complaint as contentment. His shoulder touching Jackie's.)
+- **Theo asked Draco to play something.** Draco: *"I don't have a piano, Theo."* Theo: *"Hum it."*
+- **Draco hummed the C minor melody** — the piece he composed January 31–February 2 during the Week Between. Unfinished, slow, careful, a line that climbed and didn't resolve. Given to the dark because Theo asked and the hill was high enough that no one else would hear.
+- **The Malice's response:** *This. Keep this.* — a hunger that had nothing to do with blood.
+- Theo: *He intended to.*
+
+**Canon established this scene:**
+- **Prince of London presentation** is now an active operational thread. Filippo/Ferrara door conflict identified. Pinned for next week.
+- The Malice prefers "selectively diplomatic" to "well-behaved." Liverpool proved the thesis: He holds. He *chose* to hold.
+- Theo has a fox — Camden Lock vixen, half an ear. The most uncomplicated relationship in his life.
+- Samaya and Pierre's son is named **Edmund.**
+- Jackie is working a case involving petrified dragon eggs smuggled to Ireland.
+- Draco steals the duvet at ~2AM. Jackie never takes it back. Theo knows.
+- The C minor melody remains unfinished.
+
+---
+
+## CURRENT STATE: Monday night, July 1 — Primrose Hill scene complete. Next session picks up Tuesday July 2 or jumps to Veeraswamy prep.
 
 ---
 
@@ -421,4 +464,4 @@
 - **The Robbie Week:** IN PROGRESS. First text landed Mon July 1 at 16:47. Ruby hiding it from Draco. Four days of escalation ahead before Veeraswamy.
 - **The TV:** Purchase planned for Tuesday July 2 after work (Jackie + Draco). Haven House has no television.
 - **Soul bond bidirectionality:** Unconfirmed (Intertwined-side).
-- **Theo's London Prince presentation:** Liverpool fallout (Intertwined-side).
+- **Theo's Prince of London presentation:** Active thread. Filippo/Ferrara door conflict identified (can't ask Filippo for guidance without revealing Ferrara deal). Pinned for next week. Theo has been unpresented in the Prince's Domain for ~1 year.
