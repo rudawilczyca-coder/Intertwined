@@ -1,6 +1,6 @@
 # CHARACTER: Dante — The Ideological Rival
 
-## Basic Information
+## Overview
 - **Full Name:** Dante Lorenzo della Rovere
 - **Chosen Name:** Dante (performing greater age than he actually possesses)
 - **Mortal Name:** Lorenzo della Rovere (from the historical Della Rovere noble family—a lineage he clings to as proof of his own aristocratic heritage)
@@ -182,7 +182,7 @@ He is most dangerous when his facade is threatened, not when his ideology is cha
 
 ---
 
-## Voice Anchor & Speech Patterns
+## Voice
 
 ### Baseline: Calculated Condescension
 

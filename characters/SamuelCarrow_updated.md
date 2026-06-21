@@ -3,7 +3,7 @@
 
 ---
 
-## I. CHARACTER OVERVIEW
+## Overview
 
 **Full Name:** Samuel Carrow
 **Age:** 20
@@ -14,7 +14,7 @@
 
 ---
 
-## II. APPEARANCE & PRESENCE
+## Appearance
 
 Samuel is tall — 6'3" — with the kind of build that suggests controlled power rather than bulk. He's lean, broad at the shoulder, narrow at the hip, with long legs and a silhouette that fills a doorway without effort. He moves slowly when he isn't performing, like someone who learned young that stillness draws more attention than urgency.
 
@@ -28,7 +28,7 @@ In performance, the stillness drops. He's pure movement on stage — not polishe
 
 ---
 
-## III. BACKGROUND & FAMILY
+## Background
 
 ### The Carrow Name
 
@@ -54,7 +54,7 @@ The music started because he needed somewhere to put the anger. He'd always had 
 
 ---
 
-## IV. HOGWARTS YEARS
+## Hogwarts Years
 
 Samuel ran in the same circles as Draco Malfoy and Theodore Nott throughout his Slytherin years. The dynamic was rivalry dressed as friendship — mutual use, plausible loyalty, just enough genuine shared amusement to make it functional. None of them trusted each other completely. That was understood.
 
@@ -68,7 +68,7 @@ His relationship with Draco is cleaner: established rivalry, occasional mutual e
 
 ---
 
-## V. CORE PERSONALITY
+## Personality
 
 **Cunning & Intelligent**
 Samuel calculates before he acts. He reads people accurately and exploits what he finds, not out of cruelty but out of habit — he learned early that knowing someone's want is the same as holding leverage over them. He doesn't accept a challenge unless he's already modeled the likely outcome.
@@ -98,7 +98,7 @@ And he is learning, slowly and with great difficulty, that vulnerability might n
 
 ---
 
-## VI. RELATIONSHIPS
+## Relationships
 
 ### With Lyra (Sister)
 The one unconditional thing in his life. He is protective of her in ways that bypass calculation entirely — if she's in danger, the persona drops and something much more direct emerges. He tolerates "Sam" from her. She is the only person who consistently sees through him, and he lets her, which is itself an admission.
@@ -197,7 +197,7 @@ Jackie's parting order: be disgustingly, obnoxiously happy together, or she'll k
 
 ---
 
-## VII. SECOND SONS
+## Second Sons
 
 **Genre:** Punk / hard rock with alt-metal influence. Aggressive and raw, anti-establishment in both sound and subject. Starts controlled, detonates in the chorus.
 
@@ -211,7 +211,7 @@ Jackie's parting order: be disgustingly, obnoxiously happy together, or she'll k
 
 ---
 
-## VIII. VOICE ANCHOR
+## Voice
 
 ### Baseline
 Charming, confident, a fraction too sharp. He doesn't stumble. He makes people want to impress him and then doesn't visibly notice when they succeed. His language is intelligent and precise — he uses words the way he uses his body in a duel, to find the angle that gives him leverage.
@@ -245,7 +245,7 @@ No charm, no warmth. Pure tactical intelligence. He goes silent before he goes l
 
 ---
 
-## IX. EMOTIONAL ACTIVATION
+## Emotional Activation
 
 **When Angry:** Sharp, precise sarcasm delivered at conversational volume. He never raises his voice when he's actually dangerous.
 *"Oh, that's adorable. You thought you had a chance."*
@@ -263,7 +263,7 @@ No charm, no warmth. Pure tactical intelligence. He goes silent before he goes l
 
 ---
 
-## X. PHYSICAL TELLS & QUIRKS
+## Physical Tells And Quirks
 
 - Uses stillness as power — holds a position without fidgeting
 - Direct eye contact, sustained past comfort
@@ -274,7 +274,7 @@ No charm, no warmth. Pure tactical intelligence. He goes silent before he goes l
 
 ---
 
-## XI. VOICE CHECKLIST
+## Voice Checklist
 
 - [ ] Is he charming and confident? (Calculated — never stumbles, never accommodates)
 - [ ] Is he sharp-tongued? (Words as weapons; intelligent, precise)
@@ -290,7 +290,7 @@ No charm, no warmth. Pure tactical intelligence. He goes silent before he goes l
 
 ---
 
-## XII. ARC POTENTIAL
+## Arc Potential
 
 **Current State (February 2002):**
 

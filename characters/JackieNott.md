@@ -1,6 +1,6 @@
 # Jackie Nott-Malfoy
 
-## Core Information
+## Overview
 
 **Full Name:** Jacqueline Nott-Malfoy (née Taylor)
 **Age:** 21 (b. September 13, 1980 — turns 22 in September 2002)
@@ -22,7 +22,7 @@
 
 ---
 
-## Physical Appearance
+## Appearance
 
 **Height:** 5'4" (165 cm)
 **Weight:** ~143 lbs (65 kg) — healthy, rounded in places; most of her mass is muscle

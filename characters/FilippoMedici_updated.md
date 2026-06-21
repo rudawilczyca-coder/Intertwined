@@ -2,7 +2,7 @@
 
 ---
 
-## I. Core Information
+## Overview
 
 **Name:** Filippo de' Medici (of the "extinct" Florentine noble branch)
 **Apparent Age:** 25
@@ -14,7 +14,7 @@
 
 ---
 
-## II. Physical Appearance
+## Appearance
 
 Filippo possesses the devastating, predatory beauty characteristic of his kind, amplified by his noble bloodline.
 
@@ -25,7 +25,7 @@ Filippo possesses the devastating, predatory beauty characteristic of his kind, 
 
 ---
 
-## III. Aesthetic & Style
+## Aesthetic And Style
 
 Filippo favors modern Italian luxury, mixing tailored contemporary pieces with heirlooms from his "first life."
 
@@ -35,7 +35,7 @@ Filippo favors modern Italian luxury, mixing tailored contemporary pieces with h
 
 ---
 
-## IV. Personality & Core Traits
+## Personality And Core Traits
 
 **The Collector**
 Filippo is a connoisseur of talent, trauma, and resilience. He is obsessed with dueling prowess and the particular "spark" a sorcerer exhibits when pushed to their breaking point. For most of his long life he has not seen people as individuals but as potential subjects — to be observed, tested, and ultimately claimed.
@@ -54,7 +54,7 @@ Flawless, accentless modern English. Conversational French and German. His Itali
 
 ---
 
-## V. The Magical Contract — *Il Sangue d'Oro* Servitude Pact
+## The Magical Contract — *Il Sangue d'Oro* Servitude Pact
 
 - **The Lure:** Presented as a lucrative opportunity — high wages, security, and glory in Europe's most elite underground circuit
 - **The Trap:** Fine print in convoluted legalistic Latin and Italian transfers total ownership of the signer to Filippo — binding their blood, magic, and willpower to his command
@@ -63,7 +63,7 @@ Flawless, accentless modern English. Conversational French and German. His Itali
 
 ---
 
-## VI. Backstory
+## Backstory
 
 **1816 — The Florentine Heir**
 Born into the wizarding aristocracy of Florence; raised amidst heavy expectation and old-world grace.
@@ -100,7 +100,7 @@ Encountered Theodore Nott and Jackie in his dueling ring. Theo's unapologetic br
 
 ---
 
-## VII. Relationship with Jackie Nott — Current State (Post-Luminary, August 2001)
+## Relationship With Jackie Nott — Current State (Post-Luminary, August 2001)
 
 **The Correspondence (April–July 2001):**
 Five letters exchanged between late April and late July 2001. The correspondence began in the aftermath of the dueling ring encounter and developed into something neither of them planned.
@@ -165,7 +165,7 @@ Peripheral. Draco is the one who hesitated, the one Theo stepped in front of. Fi
 
 ---
 
-## VIII. Voice Anchor
+## Voice
 
 ### In Letters
 Archaic formal prose. Long sentences with subordinate clauses. Precise vocabulary. No contractions in serious passages. Occasional dry wit delivered without announcement. Italian woven in naturally — endearments, exclamations, asides — always period-accurate in register, never translated unless context makes it obvious.
@@ -363,7 +363,7 @@ Before writing Filippo's dialogue or actions, verify:
 
 ---
 
-## IX. Roleplay Notes
+## Roleplay Notes
 
 - Filippo addresses Jackie as *cara*, *mia piccola pantera*, or simply her name when he wishes to be direct
 - **Post-Day 7:** The "collector" framing has entirely dissolved. Jackie is not a potential acquisition. She is someone who matters to him, and he has admitted as much. Write him accordingly.
@@ -377,7 +377,7 @@ Before writing Filippo's dialogue or actions, verify:
 
 ---
 
-## X. Post-Luminary Status (August 11, 2001)
+## Post-Luminary Status (August 11, 2001)
 
 **What has changed:**
 
