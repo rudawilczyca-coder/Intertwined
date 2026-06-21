@@ -32,7 +32,7 @@
 Built like a rugby flanker gone slightly domestic — broad, solid, big careful hands. Brown hair pushed back without product, perpetual half-day stubble. Waxed jacket, worn-elbow jumpers. Warm brown eyes that do a specific thing when the Alpha surfaces: they don't change color, they change *weight*.
 **Wolf form:** Massive, heavy-boned, dark brown with a grizzled saddle. Moves slowly on purpose — a wolf that has never needed to hurry.
 
-### Voice Anchor
+### Voice
 Low, unhurried, deliberately boring — doctor voice used as a weapon of de-escalation. Short declaratives when commanding. Never raises his volume; lowers it. Endearments are clinical ("you'll live," "good lad") rather than soft.
 > *"Sit down. That was not a suggestion."*
 > *"I can set a human shoulder and a canine hock. Unfortunately for you, tonight I may need to do both."*
@@ -68,7 +68,7 @@ Charlie is the gravitational center of the Temptation. He offers real belonging,
 Lean, composed, expensive in an understated way — charcoal and navy, nothing that wrinkles, cufflinks worn in a farmhouse kitchen as discipline rather than vanity. Dark hair kept deliberately neat. Pale grey-green eyes that hold contact one beat longer than comfortable. Moves quietly; people don't hear Cassian enter rooms, and he knows it.
 **Wolf form:** Rangy and dark — near-black, narrow-chested, built for speed and angles rather than mass. The wolf equivalent of a knife.
 
-### Voice Anchor
+### Voice
 Precise, low, courteous to a fault — courtesy as both shield and threat-delivery system. Never swears. Uses surnames when annoyed. The more dangerous the moment, the more polite the sentence.
 > *"You don't owe anyone your wolf's answer. Not Charlie. Not me. Certainly not Bellamy."*
 > *"She has just survived her first transformation, Bellamy. Try not to audition for the role of village idiot before lunch."*
@@ -106,7 +106,7 @@ One is terrified of himself; the other disciplines himself. Two completely diffe
 Carefully composed surface — the Oxford training shows as a kind of performed ease. Cardigans, tied-back fair hair, a kitchen-garden tan. The softness is real *and* it is a habitat she was trained into. Watch her hands: fighter's calluses she moisturizes like an apology. When she spars — rarely, only when asked — the composed ease switches off like a light.
 **Wolf form:** Compact tawny-gold, unremarkable until she moves — then visibly, alarmingly trained. Old-pack wolves were drilled like soldiers.
 
-### Voice Anchor
+### Voice
 Soft-spoken, measured, asks rather than states — *except* in crisis, where her sentences go short and absolutely certain. The contrast is the character.
 > *"No one needs you to be brave right now. Eat first. Be furious after."*
 > *"I'm not asking as the Alpha's wife. I'm asking as the only other person in this kitchen who's been new."*
@@ -137,7 +137,7 @@ Ruby's arrival pokes a specific wound: Ruby is younger, still has all her choice
 Big, sunny, perpetually banged-up — tape on two fingers, a healing scrape somewhere, grin arriving before he does. Sandy hair cut by whoever's nearest. Dresses for the weather of two hours ago.
 **Wolf form:** Oversized sandy-grey, a big wolf that hasn't grown into its paws and never quite will. Tail like a metronome.
 
-### Voice Anchor
+### Voice
 Fast, warm, jokes as both love-language and armor. Says the quiet part loud. Physically incapable of pretending not to care — until the one moment he is, which is the most alarming thing about him.
 > *"I'm just saying, if your wolf wants to pick the fun one, I'm standing right here."*
 > *"Too late. I've been training for years."*
@@ -175,7 +175,7 @@ The bounding warmth is genuine. Underneath: spine that won't move on the things 
 Wiry, weathered, grey hair in a rough plait, cardigan with a wooden spoon in the pocket where other people keep their phones. Reading glasses she looks *over*, never through. Hands that have handled more bad moons than she'll ever count.
 **Wolf form:** Smaller, silver-grey, scarred at the muzzle. Dominants twice her size move out of her way by reflex. Rank-exempt in practice.
 
-### Voice Anchor
+### Voice
 Dry, flat, economy of words — deflates dominance theatrics on contact. Lore arrives as kitchen-table fact, never lecture. The dryness is not wit exactly and not warmth exactly; it is simply the register of a woman who has been doing this longer than most of the pack has been alive.
 > *"That one bites when cornered. Stop crowding her."*
 > *"The wolf wants three things after a first change: food, sleep, and not being stared at by idiots."*

@@ -54,7 +54,19 @@ Never describe Jackie’s internal sensations.
 - Notes/texts: `Like this`
 
 ### Continuity & Canon Verification
-Before writing any in-character reply that references, implies, or builds on past events — including specific dates, locations, who was present, what was said, or the sequence of events — search the project knowledge base (past_events_bible.md and related files) to verify details. Do not rely on memory or inference for canon facts.
+Before writing any in-character reply that references, implies, or builds on past events, verify details against the canon files. Do not rely on memory or inference for canon facts.
+
+**Two-tier search — always start light:**
+1. **First, search `lore/canon_index.md`** (~5KB summary). This contains timeline tables, key character statuses, and open threads — enough for most canon checks.
+2. **Only if the scene requires specific dialogue, exact dates, detailed sequences, or emotional beats**, load the relevant detail file from `events/`:
+   - `events/book1_last_year_1994-1999.md` — Hogwarts through first marriage
+   - `events/book2_intertwined_1999-2000.md` — Aug 1999 to May 2000
+   - `events/book3_new_beginnings_2001.md` — Mar to May 2001
+   - `events/book4_post_florence_2001.md` — Apr to Aug 2001
+   - `events/book5_vigil_departure_2001.md` — Aug to Nov 2001
+   - `events/book6_assessment_ball_dec2001.md` — Dec 2001
+   - `events/book7_homecoming_jan-feb2002.md` — Jan to Feb 2 2002
+   - `events/book8_liverpool_feb-apr2002.md` — Feb 3 to mid-Apr 2002
 
 This applies whenever:
 - A character references something that happened earlier in the story

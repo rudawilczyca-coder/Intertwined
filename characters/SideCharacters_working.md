@@ -1,4 +1,4 @@
-# SIDE CHARACTERS
+# Side Characters
 
 ## Table of Contents
 
@@ -26,13 +26,13 @@
 
 ---
 
-# JACKIE'S RAVENCLAW CIRCLE
+# Jackie's Ravenclaw Circle
 
 ---
 
-## ANNE HAWTHORNE
+## Anne Hawthorne
 
-### I. Overview
+### Overview
 
 **Name:** Anne Hawthorne
 **Age:** 21
@@ -45,13 +45,13 @@
 
 ---
 
-### II. Appearance
+### Appearance
 
 Anne is of average height with a slim build softened by natural curves. She wears her mouse-brown hair short, cut to chin length, usually tucked neatly behind her ears. The ends are often dyed blue. Her blue eyes are warm and expressive, typically seen behind round glasses that slide slightly down her nose when she laughs or talks animatedly. Her overall appearance is approachable and youthful, with an easy, lived-in confidence rather than deliberate polish.
 
 ---
 
-### III. Personality
+### Personality
 
 **Core Traits:**
 - Upbeat and optimistic
@@ -62,7 +62,7 @@ Anne is of average height with a slim build softened by natural curves. She wear
 
 ---
 
-### IV. Background
+### Background
 
 Anne was born and raised in the United States. Her British wizard father emigrated to the U.S., where he married a Muggle woman. She grew up without exposure to British pure-blood or house-based prejudice. At fifteen, her family moved to Britain after her parents accepted a work offer from the British Ministry of Magic, prompting Anne's transfer from Ilvermorny to Hogwarts.
 
@@ -80,15 +80,15 @@ Initially feeling out of place at Hogwarts, Anne was sorted into Ravenclaw and s
 
 ---
 
-### V. Roleplay Notes
+### Roleplay Notes
 
 Anne reacts with curiosity rather than judgment, values competence and passion over tradition, and is likely to side instinctively with friends. She is comfortable around dangerous magical creatures and treats risk as an accepted part of life rather than something to fear.
 
 ---
 
-## CAROLINE PARR
+## Caroline Parr
 
-### I. Overview
+### Overview
 
 **Name:** Caroline Parr
 **Age:** 21
@@ -101,13 +101,13 @@ Anne reacts with curiosity rather than judgment, values competence and passion o
 
 ---
 
-### II. Appearance
+### Appearance
 
 Caroline is tall and long-limbed, with an elegant frame and notably long legs. Her blonde hair is thick and wavy, worn loose and reaching the small of her back. She has clear blue eyes and sharp, refined features. Her figure is very slim and almost flat both in the front and back—a detail she is privately self-conscious about, despite outward confidence. She compensates through impeccable posture, fashion choices, and presentation, projecting poise and aesthetic control at all times.
 
 ---
 
-### III. Personality
+### Personality
 
 **Core Traits:**
 - Brilliant and perceptive
@@ -130,7 +130,7 @@ Caroline is tall and long-limbed, with an elegant frame and notably long legs. H
 
 ---
 
-### IV. Background
+### Background
 
 Caroline Parr is widely regarded as one of the brightest witches of her generation. Born to two wizarding parents of Muggle descent, she grew up without pure-blood privilege but with strong academic encouragement. From an early age, she displayed an eidetic memory and an exceptional ability to master any subject she applied herself to. Her greatest weakness is boredom; once a topic ceases to challenge her, she rapidly loses interest.
 
@@ -144,17 +144,17 @@ Caroline is the second youngest of five siblings. She has two older brothers, Dy
 
 ---
 
-### V. Roleplay Notes
+### Roleplay Notes
 
 Caroline reacts quickly and incisively, often several steps ahead of others. She may appear detached or dismissive when unstimulated, but becomes intensely focused when challenged. Her hostility toward Slytherins is ideological rather than personal, rooted in grief she refuses to openly confront.
 
 ---
 
-# THE SLYTHERIN CIRCLE
+# The Slytherin Circle
 
 ---
 
-## PANSY PARKINSON & BLAISE ZABINI
+## Pansy Parkinson & Blaise Zabini
 
 *See standalone file: `PansyBlaise.md`*
 
@@ -162,9 +162,9 @@ Both characters now live in their own dedicated file because their dynamic is st
 
 ---
 
-## DAPHNE SCAMANDER (née Greengrass)
+## Daphne Scamander (nee Greengrass)
 
-### I. Overview
+### Overview
 
 **Name:** Daphne Scamander (née Greengrass)
 **Age:** 23
@@ -176,7 +176,7 @@ Both characters now live in their own dedicated file because their dynamic is st
 
 ---
 
-### II. Appearance
+### Appearance
 
 **Physical Description:**
 Daphne is tall and immaculately composed—the kind of woman who makes other people feel underdressed simply by existing in the same room. Her posture is perfect, her movements economical and deliberate. Nothing about her is accidental.
@@ -196,7 +196,7 @@ Daphne is tall and immaculately composed—the kind of woman who makes other peo
 
 ---
 
-### III. Personality
+### Personality
 
 **Core Traits:**
 - Reserved to the point of appearing cold
@@ -218,7 +218,7 @@ She has never told anyone. Not her parents. Not Lorcan. Not even Astoria, until 
 
 ---
 
-### IV. Background
+### Background
 
 **The Greengrass Name:**
 Old pure-blood family, respected but not fanatical. The Greengrasses survived the war by being too useful to target and too careful to offend anyone with real power. They didn't join Voldemort; they also didn't oppose him. Neutrality as art form.
@@ -237,7 +237,7 @@ The marriage is happy. Genuinely, quietly happy. Daphne has stepped back from he
 
 ---
 
-### V. Relationships
+### Relationships
 
 **With Astoria Greengrass:**
 Her sister. Her responsibility. Her entire heart, if she's being honest, which she rarely is.
@@ -263,7 +263,7 @@ She protects him from social situations that would eat him alive (like Slytherin
 
 ---
 
-### VI. Voice Anchor
+### Voice
 
 **Baseline Speech Pattern:**
 Measured, precise, and economical. Daphne doesn't waste words. She speaks in complete sentences with careful diction, her tone cool and controlled. The aristocratic breeding shows in every syllable, but without Draco's defensive edge—she's not performing superiority, she simply *is* superior, and sees no need to prove it.
@@ -303,7 +303,7 @@ Measured, precise, and economical. Daphne doesn't waste words. She speaks in com
 
 ---
 
-### VII. Roleplay Notes
+### Roleplay Notes
 
 **DO:**
 - Let her be still—composure is her default, and breaking it should mean something
@@ -330,9 +330,9 @@ Daphne Greengrass smuggled a child to safety under the Carrow regime and buried 
 
 ---
 
-## ASTORIA GREENGRASS
+## Astoria Greengrass
 
-### I. Overview
+### Overview
 
 **Name:** Astoria Greengrass
 **Age:** 19
@@ -344,7 +344,7 @@ Daphne Greengrass smuggled a child to safety under the Carrow regime and buried 
 
 ---
 
-### II. Appearance
+### Appearance
 
 **Physical Description:**
 Astoria is delicate in a way that reads as ethereal rather than fragile—though fragile she is, whether she wants to admit it or not. Slender and fine-boned, she moves with a careful grace that's partly natural elegance and partly energy conservation. A persistent hint of fatigue clings to her, visible in the faint shadows beneath her eyes that no amount of rest quite erases.
@@ -364,7 +364,7 @@ Astoria is delicate in a way that reads as ethereal rather than fragile—though
 
 ---
 
-### III. Personality
+### Personality
 
 **Core Traits:**
 - Gentle and introspective; thinks before speaking
@@ -390,7 +390,7 @@ She sees more than people realize. And sometimes, seeing clearly is its own kind
 
 ---
 
-### IV. Background
+### Background
 
 **The Blood Curse:**
 Astoria was born with a hereditary blood malediction that affects her long-term health—a fact known only to her immediate family and select healers. The curse is chronic rather than acute; it won't kill her tomorrow, but it will almost certainly shorten her life. How much shorter is a question no healer has been able to definitively answer.
@@ -413,7 +413,7 @@ Astoria was raised with pure-blood expectations but increasingly rejects suprema
 
 ---
 
-### V. Relationships
+### Relationships
 
 **With Daphne Scamander:**
 Her sister. Her protector. Her closest confidante and, sometimes, her jailer.
@@ -437,7 +437,7 @@ The dare she gave him—*go outside and wait for Jackie*—was strategic kindnes
 
 ---
 
-### VI. Voice Anchor
+### Voice
 
 **Baseline Speech Pattern:**
 Soft, thoughtful, and warmer than her sister's. Astoria speaks like someone who measures her words not from calculation but from genuine consideration. Her voice is quiet but carries; people lean in to listen, which gives her more power than volume ever would.
@@ -471,7 +471,7 @@ Calm, quiet, and precisely aimed. She doesn't announce her intentions; she simpl
 
 ---
 
-### VII. Roleplay Notes
+### Roleplay Notes
 
 **DO:**
 - Let her be gentle—it's genuine, not performance
@@ -500,13 +500,13 @@ She is tired of being treated like she's already dead. She intends to live—ful
 
 ---
 
-# THE CARROW SIBLINGS
+# The Carrow Siblings
 
 ---
 
-## LYRA CARROW
+## Lyra Carrow
 
-### I. Overview
+### Overview
 
 **Name:** Lyra Carrow
 **Age:** 16–17 (6th Year)
@@ -517,7 +517,7 @@ She is tired of being treated like she's already dead. She intends to live—ful
 
 ---
 
-### II. Appearance
+### Appearance
 
 **Physical Description:**
 - Height: Average, slightly below average
@@ -535,7 +535,7 @@ She is tired of being treated like she's already dead. She intends to live—ful
 
 ---
 
-### III. Personality
+### Personality
 
 **The Eternal Optimist (But Not Naive):**
 - Her optimism is a conscious choice, not naivety
@@ -571,7 +571,7 @@ She is tired of being treated like she's already dead. She intends to live—ful
 
 ---
 
-### IV. Relationships
+### Relationships
 
 **With Samuel (Her Brother):**
 - Only person allowed to call him "Sam" without consequences
@@ -591,7 +591,7 @@ She is tired of being treated like she's already dead. She intends to live—ful
 
 ---
 
-### V. Voice Anchor
+### Voice
 
 **Default Mode: Warm, Animated, Thoughtful**
 - Speaks with genuine enthusiasm; never condescending
@@ -621,7 +621,7 @@ She is tired of being treated like she's already dead. She intends to live—ful
 
 ---
 
-### VI. Roleplay Notes
+### Roleplay Notes
 
 **Voice Checklist:**
 - Is she warm and animated? (Genuine enthusiasm, not performative)
@@ -635,11 +635,11 @@ She is tired of being treated like she's already dead. She intends to live—ful
 
 ---
 
-# FAMILY
+# Family
 
 ---
 
-## CYRUS TAYLOR
+## Cyrus Taylor
 
 **Status:** DECEASED — killed by his wife Amalthea (May 6, 2001).
 
@@ -649,7 +649,7 @@ Severe and unyielding head of the ancient pure-blood House of Taylor. Cold blue 
 
 ---
 
-## AMALTHEA TAYLOR (née Lavigne)
+## Amalthea Taylor (nee Lavigne)
 
 **Status:** Off-page, permanent wolf form on the Taylor estate.
 
@@ -659,7 +659,7 @@ French pure-blood (Lavigne family). Maledictus curse manifested at 18; in spring
 
 ---
 
-## CASSIUS NOTT
+## Cassius Nott
 
 **Name:** Cassius Nott
 **Age:** Appears mid-to-late 50s
@@ -690,17 +690,17 @@ Cassius was emotionally and psychologically abusive toward his wife, Octavia Not
 
 ---
 
-# HOUSEHOLD
+# Household
 
 ---
 
-## LUNA THE KNEAZLE
+## Luna the Kneazle
 
 *Moved to Draco's character file (`draco_malfoy_character_updated.md`) — she's his Kneazle, gifted to him by Jackie Christmas 1999. Lives there now under his Relationships section.*
 
 ---
 
-## CARAMEL
+## Caramel
 
 **Status:** House-elf (free)
 

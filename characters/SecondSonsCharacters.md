@@ -1,4 +1,4 @@
-# SECOND SONS — BAND CHARACTER FILE
+# Second Sons — Band Character File
 
 *For Samuel Carrow (frontman/vocalist), see `SamuelCarrow-1.md`.*
 
@@ -14,11 +14,11 @@
 
 ---
 
-# MIRA VANCE
+# Mira Vance
 
 ### The Heart / Bassist & Co-Vocalist
 
-## I. Overview
+## Overview
 
 **Name:** Mira Vance
 **Age:** 19
@@ -30,7 +30,7 @@
 
 ---
 
-## II. Appearance
+## Appearance
 
 **Physical Description:**
 Mira is slim and average in height, with a build similar to Jackie's — a resemblance that is almost certainly not coincidental, though Samuel would never admit it. She moves like someone comfortable in her own skin, with the easy physicality of a performer who's learned to own a stage.
@@ -50,7 +50,7 @@ Mira is slim and average in height, with a build similar to Jackie's — a resem
 
 ---
 
-## III. Personality
+## Personality
 
 **Core Traits:**
 - Chaotic and unpredictable in the best possible way
@@ -68,7 +68,7 @@ When Mira commits, she commits completely. It's her best quality and the source 
 
 ---
 
-## IV. Background
+## Background
 
 **Before Second Sons:**
 Mira grew up half-blood and Hufflepuff — two strikes against her in any pure-blood space. Her Hogwarts years were unremarkable in the larger narrative of the war; she kept her head down, survived, graduated in 1999 with decent marks and no particular direction.
@@ -93,7 +93,7 @@ Mira left. Samuel let her go.
 
 ---
 
-## V. Relationships
+## Relationships
 
 **With Samuel Carrow:**
 Complicated. Painful. Possibly over.
@@ -116,7 +116,7 @@ The worst part: Pansy was *right*. About all of it.
 
 ---
 
-## VI. Voice Anchor
+## Voice
 
 **Baseline Speech Pattern:**
 Open, direct, and warmer than the Slytherin standard. Mira doesn't deal in subtext; she says what she means and assumes others will do the same.
@@ -139,7 +139,7 @@ Open, direct, and warmer than the Slytherin standard. Mira doesn't deal in subte
 
 ---
 
-## VII. Roleplay Notes
+## Roleplay Notes
 
 **DO:**
 - Let her be genuine — it's her strength and her weakness
@@ -163,11 +163,11 @@ Open, direct, and warmer than the Slytherin standard. Mira doesn't deal in subte
 
 ---
 
-# DONOVAN ROWLE
+# Donovan Rowle
 
 ### The Engine / Drummer
 
-## I. Core Information
+## Overview
 
 **Age:** 21
 **Blood Status:** Pure-blood
@@ -177,7 +177,7 @@ Open, direct, and warmer than the Slytherin standard. Mira doesn't deal in subte
 
 ---
 
-## II. Physical Appearance & Stage Presence
+## Appearance
 
 **Build:** Hulking, broad-shouldered, and densely muscled. He possesses the infamous Rowle physical intimidation factor.
 
@@ -189,7 +189,7 @@ Open, direct, and warmer than the Slytherin standard. Mira doesn't deal in subte
 
 ---
 
-## III. Psychological Profile
+## Psychological Profile
 
 **The Brute Aesthetic:**
 Donovan knows people look at him and see a brainless thug. He leans into it, using silence as a weapon. He is actually highly perceptive but prefers to let people underestimate him.
@@ -201,7 +201,7 @@ Post-war society demands he be apologetic and invisible. Heavy rock is the only 
 
 ---
 
-## IV. Musical & Magical Specialty
+## Musical & Magical Specialty
 
 **Purist Grit:**
 Donovan refuses to use magic to play the drums for him. Instead, he applies heavy Durability Charms to his snare and cymbals so they don't shatter under his physical strength.
@@ -211,7 +211,7 @@ He uses subtle localized density charms on the kick drum. When he hits it, it cr
 
 ---
 
-## V. Band Dynamics
+## Band Dynamics
 
 | Bandmate | Dynamic |
 | :---- | :---- |
@@ -221,7 +221,7 @@ He uses subtle localized density charms on the kick drum. When he hits it, it cr
 
 ---
 
-## VI. Voice Anchor
+## Voice
 
 **Voice Profile:**
 Donovan's default mode is silence. Not awkward silence — deliberate, occupied silence. He watches, he assesses, and he says nothing until he has something worth saying. When he does speak, it's short and flat and final. No hedging, no softening, no pleasantries. He doesn't explain himself and he doesn't repeat himself.
@@ -260,11 +260,11 @@ People who don't know him read this as slow. It isn't. He's already clocked the 
 
 ---
 
-# TRISTAN MULCIBER
+# Tristan Mulciber
 
 ### The Architect / Lead & Rhythm Guitarist
 
-## I. Core Information
+## Overview
 
 **Age:** 20
 **Blood Status:** Pure-blood
@@ -274,7 +274,7 @@ People who don't know him read this as slow. It isn't. He's already clocked the 
 
 ---
 
-## II. Physical Appearance & Stage Presence
+## Appearance
 
 **Build:** Lean, sharp-angled, and perpetually underfed.
 
@@ -286,7 +286,7 @@ People who don't know him read this as slow. It isn't. He's already clocked the 
 
 ---
 
-## III. Psychological Profile
+## Psychological Profile
 
 **The Perfectionist:**
 Tristan is a musical obsessive. He views music as the ultimate form of magical theory — vibration, frequency, and intent.
@@ -298,7 +298,7 @@ His family specialized in mind control. Tristan hates his father, but he inherit
 
 ---
 
-## IV. Musical & Magical Specialty
+## Musical & Magical Specialty
 
 **Tone Architect:**
 Tristan is a genius at enchanting Muggle gear. He refuses to use illusions. Instead, he charms his guitar pickups and amp tubes.
@@ -311,7 +311,7 @@ He is incredibly territorial. If anyone but him touches his modified Gibson guit
 
 ---
 
-## V. Band Dynamics
+## Band Dynamics
 
 | Bandmate | Dynamic |
 | :---- | :---- |
@@ -321,7 +321,7 @@ He is incredibly territorial. If anyone but him touches his modified Gibson guit
 
 ---
 
-## VI. Voice Anchor
+## Voice
 
 **Voice Profile:**
 Tristan performs himself constantly. His default register is arch, condescending, and self-satisfied — the cadence of someone who considers every sentence he speaks to be broadly quotable. He has opinions on everything and shares them whether or not you asked. He name-drops, he references obscure theory, and he uses technical vocabulary as a social weapon.

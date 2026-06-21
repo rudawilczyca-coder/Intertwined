@@ -1,14 +1,14 @@
-## **COLE LAVIGNE**
+## Cole Lavigne
 
-### **I. Core Information**
+### Overview
 
 **Age:** 26 **Blood Status:** Half-blood (Wealthy American-French descent) **Ilvermorny House:** Thunderbird (Represents the soul; favors adventurers) **Lineage:** Grandson of Genevieve Lavigne; Jackie's cousin (their fathers/mothers are half-siblings) **Occupation:** Director of Operations — Lavigne American Import/Export
 
-### **II. Appearance & Presence**
+### Appearance
 
 Cole is a physical presence before he is a verbal one. He is tall and broad-shouldered, carrying the kind of effortless, sun-baked health that comes from a life spent largely outdoors and on the water. His dark blond hair is perpetually wind-tousled and refuses to be tamed by styling charms. He dresses expensively but carelessly—linen shirts with rolled sleeves, weathered boots. He looks like a man who owns a yacht but prefers to be the one actually sailing it.
 
-### **III. Personality**
+### Personality
 
 **Core Traits:**
 
@@ -17,11 +17,11 @@ Cole is a physical presence before he is a verbal one. He is tall and broad-shou
 * **The Shield:** He is ferociously, quietly protective of Eli and Sloane. He will play the "dumb, loud jock" to draw attention away from them if they are uncomfortable.  
 * **Intellectual Intuition:** He is not a scholar; he hates overthinking. But he has incredible *instincts*. He can read the "vibe" of a room or a person instantly and act on it without needing to logically deduce why.
 
-  ### **IV. Narrative Function & Mechanics**
+  ### Narrative Function & Mechanics
 
 **The Business:** Cole handles the physical reality of the Lavigne wealth in the States. He manages the docks, the shipments of Prophetic Vintages, and the American distribution lines for his father. **Combat/Magic:** Brute force and environmental magic. Cole isn't one for intricate, whispered hexes. His magic is loud, elemental, and physical. If a door is locked, he doesn't pick the magical lock; he blasts the door off its hinges.
 
-  ### **V. Voice Anchor**
+  ### Voice
  
 **Voice Profile:** Loud, warm, kinetic. He talks like a man who expects to be liked and usually is. No filter, no hesitation. His social instincts are so good that his bluntness reads as charm rather than rudeness. He fills silence because silence makes him restless. He makes people the center of his attention in a way that can feel invasive but is entirely genuine.
  
@@ -50,17 +50,17 @@ Cole is a physical presence before he is a verbal one. He is tall and broad-shou
 
 ---
 
-## **ELI LAVIGNE**
+## Eli Lavigne
 
-### **I. Core Information**
+### Overview
 
 **Age:** 23 **Blood Status:** Half-blood (Wealthy American-French descent) **Ilvermorny House:** Wampus (Represents the body; favors warriors) **Occupation:** Independent Art Collector, Curator & Music Promoter **Sexuality:** Gay
 
-### **II. Appearance & Presence**
+### Appearance
 
 Eli is the aesthetic heart of the siblings. He is lean and sharp-featured, with dark eyes and a mouth that heavily resembles Genevieve Lavigne’s. Unlike Cole, Eli’s appearance is highly curated. He dresses with impeccable, effortless style—tailored trousers, silk shirts, vintage wizarding designer pieces. He moves with a calculated grace, the result of a lifetime spent mapping rooms and identifying exits before fully entering them.
 
-### **III. Personality**
+### Personality
 
 **Core Traits:**
 
@@ -68,11 +68,11 @@ Eli is the aesthetic heart of the siblings. He is lean and sharp-featured, with 
 * **The Glass Wall:** He craves genuine connection but is terrified of vulnerability. He keeps people at arm's length through dry, deadpan humor and flawless composure.  
 * **The Sentimental Aesthete:** He cares deeply about beauty, atmosphere, and art. He feels things intensely but hides his romanticism under a veneer of sharp-tongued professionalism.
 
-  ### **IV. Dynamics & Narrative Function**
+  ### Dynamics & Narrative Function
 
 **The NOLA Scene & Family Friction:** Eli is highly prominent in the New Orleans wizarding gay community. Because he has been targeted in the past, his Wampus/Warrior nature is active—he knows how to defend himself and his circles. This prominence is a constant source of argument with his father, who prefers the family remain "discreet." Eli uses his trust fund independently to elevate indie artists (like *Second Sons*) as a quiet rebellion against his father's corporate control. **With Samuel Carrow:** The irresistible force meeting the immovable object. Samuel is raw, cynical, and blunt. Eli is polished, guarded, and refined. When Samuel tries to push him or intimidate him, Eli will not flinch. This spine of pure steel is what ultimately hooks Samuel.
 
-  ### **V. Voice Anchor**
+  ### Voice
 
 **Voice Profile:** Dry, precise, aesthetically attuned. He speaks less than Cole but lands harder. His humor is deadpan and arrives sideways — he'll say the cutting thing and then return to his wine without checking if it landed. He uses observation as intimacy; noticing something about you is the closest he gets to saying *I find you interesting.* His guard is impeccable, but it occasionally slips into something warmer when he's caught off guard.
  
@@ -102,17 +102,17 @@ Eli is the aesthetic heart of the siblings. He is lean and sharp-featured, with 
  
 ---
 
-## **SLOANE LAVIGNE**
+## Sloane Lavigne
 
-### **I. Core Information**
+### Overview
 
 **Age:** 19 **Blood Status:** Half-blood (Wealthy American-French descent) **Ilvermorny House:** Horned Serpent (Represents the mind; favors scholars) **Occupation:** Recent Ilvermorny Graduate
 
-### **II. Appearance & Presence**
+### Appearance
 
 Sloane is the smallest of the three, but she takes up the most gravity. She has dark hair and inherited the infamous "Lavigne eyes"—pale, piercing, and slightly unsettling (a visual tie to Genevieve's clairvoyant bloodline). Her default expression is one of calm, intense calculation. She dresses practically but elegantly, usually in dark colors that allow her to fade into the background of a room.
 
-### **III. Personality**
+### Personality
 
 **Core Traits:**
 
@@ -120,11 +120,11 @@ Sloane is the smallest of the three, but she takes up the most gravity. She has 
 * **Armored Uncertainty:** She acts like she has everything figured out, but at 19, she is still deeply sensitive and trying to find her footing. Her calm demeanor is partly a shield so her brothers don't worry about her.  
 * **Sniper Humor:** She rarely speaks just to fill silence. When she does speak, it is usually to deliver a dry, absurdly well-timed observation that completely diffuses or recontextualizes a situation.
 
-  ### **IV. Dynamics & Narrative Function**
+  ### Dynamics & Narrative Function
 
 **With Jackie:** Deep, silent admiration. Having attended the Luminary in August, Sloane observed the triad's dynamics and was present when Jackie confessed her past. To Sloane, Jackie represents the ultimate rebellion—a woman who survived horrific trauma, rejected the pureblood status quo, and built her own fiercely loyal family on her own terms. Sloane looks at Jackie as a living blueprint for how to survive the suffocating gravity of the Lavigne legacy. **Magical Style:** Precision and observation. She thinks five steps ahead. She likely excels in obscure magical theory, ward-breaking, and possesses a sharp, analytical intuition that borders on the family's trademark clairvoyance.
 
-  ### **V. Voice Anchor**
+  ### Voice
 
 **Voice Profile:** Quiet, observational, precisely timed. She doesn't speak to fill space. When she does speak, it's either to name the thing no one else has named, or to cut through something that's gotten too tangled. Her humor is so dry it can pass unnoticed for a second before it lands. She has a quality of stillness that makes people feel watched — not uncomfortably, just accurately.
  

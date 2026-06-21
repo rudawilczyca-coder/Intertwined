@@ -3,7 +3,7 @@
 
 ---
 
-## VITAL STATISTICS
+## Vital Statistics
 
 - **Born:** Approx. 1490s, Moscow — Russian aristocracy, minor nobility
 - **Turned:** Approx. 1520s — circumstances unknown, sire unknown
@@ -14,7 +14,7 @@
 
 ---
 
-## PHYSICAL DESCRIPTION
+## Physical Description
 
 White hair — the particular white of something that was never another colour, heavy and long, worn up for formal occasions in elaborate arrangements that look effortless. Red eyes without exception — no blue flash of a resting state, no grey at the edges. Fully red, always. This is what 500 years looks like: the human baseline is so far gone that even the eyes don't pretend anymore.
 
@@ -24,7 +24,7 @@ She moves with the absence of any physical self-consciousness. Not trained grace
 
 ---
 
-## PERSONALITY
+## Personality
 
 ### The Core
 Caterina lost her humanity a long time ago and did not mourn it. She didn't try to hold onto it, didn't grieve the loss, didn't construct an ethical framework to fill the gap. What replaced it is not cruelty — cruelty implies caring enough to want someone to suffer. What replaced it is something more total: she simply does not experience humans as fully real. They are warm, often interesting, frequently beautiful, and temporary. She engages with them the way a very intelligent person engages with a particularly absorbing book — genuine attention, real interest, and the fundamental understanding that when it's over, it's over and the book does not mourn.
@@ -50,7 +50,7 @@ She knows, intellectually, that Theo's attachment to Jackie is comprehensible �
 
 ---
 
-## VOICE & MANNER
+## Voice And Manner
 
 She speaks slowly — not because she's searching for words but because she's 500 years old and has learned that pace is a form of authority. She never fills silences. She waits, and the other person always speaks first, and she lets that tell her what she needs to know.
 
@@ -83,7 +83,7 @@ She never raises her voice.
 
 ---
 
-## THE ALLURE
+## The Allure
 
 ### Ambient State
 When she's not consciously containing herself, her allure is simply *on*. It's the gravity of something 500 years old that has stopped bothering to hide what it is. Humans in her presence feel drawn to her — a desire to please, to be noticed, to stay in her orbit. It's not mind control; it's more like standing too close to a fire and leaning in despite knowing you'll burn.
@@ -99,7 +99,7 @@ The allure recedes slowly after she releases her focus. Minutes, not seconds. Th
 
 ---
 
-## KEY RELATIONSHIPS
+## Key Relationships
 
 ### Filippo de' Medici
 Caterina turned Filippo in 1841. She did not expect him to survive the fledgling stage — he was impulsive, reckless, and deeply attached to his human life in ways she found intellectually interesting but practically inconvenient. He surprised her by surviving. He then compounded the surprise by falling in love with a mortal woman and choosing her openly, in front of Caterina, knowing what it would cost him.
@@ -124,7 +124,7 @@ She sent him to Florence to apply pressure on Filippo's fledgling because it was
 
 ---
 
-## SIRE BOND — CHAIN OF AUTHORITY
+## Sire Bond — Chain Of Authority
 
 Caterina turned Filippo (1841). Filippo turned Theo (2001). The sire bond runs through the line.
 
@@ -138,7 +138,7 @@ This is an undetonated threat. She has not used it on December 29. She may not n
 
 ---
 
-## WHAT SHE DOESN'T KNOW (Entering December 29)
+## What She Doesn't Know (Entering December 29)
 
 - The specifics of the God of Malice — she knows Theo is volatile, not why or what that volatility is
 - The depth of Jackie and Filippo's relationship — correspondence, genuine affection, the memory vials
@@ -148,7 +148,7 @@ All three of these are things that, if she learns them, could shift her interest
 
 ---
 
-## THE MIRROR
+## The Mirror
 
 Caterina is the mirror the story has been building toward: what Theo could become if he stopped fighting the Malice's desire to consume the people he loves. She doesn't think in terms of choice — she takes what she wants, drops it when she's finished, and the warmth she feels in the taking is real and means nothing. She is, in every sense, what the Malice wanted to be.
 

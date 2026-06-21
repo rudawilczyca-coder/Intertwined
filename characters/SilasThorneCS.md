@@ -1,12 +1,12 @@
-## **SILAS THORNE**
+## Silas Thorne
 
-### **I. Overview**
+### Overview
 
 **Name:** Silas Thorne **Apparent Age:** Early 30s **Actual Age:** Turned in the late 1800s (approx. 140+ years old) **Species:** Vampire (Camarilla) **Blood Status:** Former Muggle or Squib (Lost to history; possesses no wand magic) **Nationality:** American **Occupation:** The Sheriff of New Orleans (Camarilla Enforcer and Executioner) **Sexuality:** Fluid / Unlabeled (Attraction is heavily tied to power dynamics, survival instincts, and blood resonance rather than gender) **Relationship Status:** Single; deeply embedded in centuries-old political alliances
 
 ---
 
-### **II. Appearance**
+### Appearance
 
 Silas is a masterclass in the predator's camouflage. He has dark skin and piercing, luminous amber eyes that only bleed into the characteristic vampiric crimson when he is in the throes of a kill or enforcing a brutal compulsion. He is tall and lean, lacking the bulky musculature of a brawler because his strength is entirely supernatural.
 
@@ -14,7 +14,7 @@ He dresses impeccably, blending modern, razor-sharp bespoke suits with subtle, h
 
 ---
 
-### **III. Personality**
+### Personality
 
 **Core Traits:**
 
@@ -30,7 +30,7 @@ He uses politeness as a weapon, often speaking softly to force others to lean in
 
 ---
 
-### **IV. Combat & Mechanics**
+### Combat And Mechanics
 
 **Fighting Style:** Aristocratic violence. Silas does not duel; he executes. He moves faster than the human eye can track, using preternatural speed and physical devastation to bypass magical shields. He relies heavily on advanced vampiric allure and subtle mind-compulsions to disarm or confuse opponents before striking.
 
@@ -45,7 +45,7 @@ He uses politeness as a weapon, often speaking softly to force others to lean in
 
 ---
 
-### **V. Narrative Function & Dynamics**
+### Narrative Function And Dynamics
 
 **With Jackie Nott:** Mutual respect born of tactical recognition. Silas recognizes the "enforcer" in Jackie—he smells the violence, the wolf-curse, and the scent of another vampire on her. He is fascinated by her lack of fear and her pragmatic brutality. He treats her as a professional equal, not prey.
 
@@ -53,21 +53,21 @@ He uses politeness as a weapon, often speaking softly to force others to lean in
 
 **As a Plot Hook:** Silas serves as the ultimate bridge into the American underground. If the triad ever needs safe harbor in the States, dark artifacts tracked down, or a favor that requires bypassing MACUSA entirely, Silas is their contact—though his favors will always come with a steep, carefully calculated price.
 
-## **SILAS THORNE: VOICE ANCHOR**
+## Voice
 
-### **I. Vocal Quality & Delivery**
+### Vocal Quality And Delivery
 
 * **The Tone:** A soft, unhurried Louisiana drawl. It is smooth, rich, and deliberately quiet. He forces people to stop talking and lean in to hear him.  
 * **The Pacing:** Glacial and deliberate. Silas never interrupts; he simply waits for the other person to finish speaking, lets the silence stretch a fraction of a second too long to make them uncomfortable, and then responds.  
 * **The Volume:** He *never* yells. To raise his voice would be to admit a loss of control. His most terrifying threats are delivered at a whisper.
 
-### **II. Speech Patterns & Vocabulary**
+### Speech Patterns And Vocabulary
 
 * **Polite Lethality:** He wields politeness like a scalpel. He uses titles ("Auror," "Mr. Lavigne," "Witch") rather than names until he respects someone. He says "please" and "thank you" even while breaking someone's bones.  
 * **Anachronisms:** His vocabulary is subtly dated but not cartoonishly Victorian. He uses words like "tedious," "uncouth," "pragmatic," and "kin." He avoids modern slang entirely.  
 * **Economy of Words:** He speaks in statements, not questions. He doesn't ask for permission or clarification unless he is mocking someone.
 
-### **III. The Predator's Perspective (Internal Logic)**
+### The Predator's Perspective (Internal Logic)
 
 When writing Silas, his dialogue should always reflect his worldview:
 
@@ -77,7 +77,7 @@ When writing Silas, his dialogue should always reflect his worldview:
 
 ---
 
-### **IV. The Writing Checklist (Do's & Don'ts)**
+### The Writing Checklist (Do's And Don'ts)
 
 * \[ \] **DO** have him state acts of extreme violence as simple matters of fact. (e.g., "I am going to remove his head," not "I'm going to kill you\!")  
 * \[ \] **DO** make him eerily still. If he moves, it is sudden and purposeful. No fidgeting, no pacing.  
@@ -88,7 +88,7 @@ When writing Silas, his dialogue should always reflect his worldview:
 
 ---
 
-### **V. Dialogue Anchors (Example Quotes)**
+### Dialogue Anchors (Example Quotes)
 
 **On Threat Assessment (Addressing an enemy):**
 

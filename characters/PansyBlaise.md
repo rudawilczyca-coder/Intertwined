@@ -6,9 +6,9 @@ This file holds both characters because their lives are structurally entangled �
 
 ---
 
-# PANSY PARKINSON
+# Pansy Parkinson
 
-## I. Overview
+## Overview
 
 **Name:** Pansy Parkinson
 **Age:** 21
@@ -19,7 +19,7 @@ This file holds both characters because their lives are structurally entangled �
 
 ---
 
-## II. Appearance
+## Appearance
 
 **Physical Description:**
 Pansy is petite—barely 5'2"—with a figure that runs to dramatic curves: small waist, wide hips, and breasts she's learned to weaponize in the right dress. Her face has sharpened since Hogwarts; the "pug-faced" cruelty of adolescence has matured into something more fox-like, all angles and calculating dark eyes.
@@ -35,7 +35,7 @@ Pansy is petite—barely 5'2"—with a figure that runs to dramatic curves: smal
 
 ---
 
-## III. Personality
+## Personality
 
 **Core Traits:**
 - Sharp-tongued and unapologetically mean
@@ -54,7 +54,7 @@ Pansy carries the weight of having publicly called for Harry Potter's surrender 
 
 ---
 
-## IV. Background
+## Background
 
 **The Broken Betrothal:**
 In January 2000, inspired by Jackie's successful challenge to her own betrothal contract, Pansy broke her engagement to Lorcan Scamander. It was supposed to be freedom. Instead, it was the first domino in a cascade she couldn't control.
@@ -70,7 +70,7 @@ Pansy and Blaise exist in an impossible limbo. They love each other—everyone k
 
 ---
 
-## V. Relationships
+## Relationships
 
 **With Blaise Zabini:**
 The love of her life, currently married to someone else. Their dynamic is equal parts devotion and devastation. She pushes him away with her sharpest edges; he refuses to go. They fight constantly about everything except the one thing that actually matters. Neither of them will say "I love you" out loud anymore—it costs too much.
@@ -86,7 +86,7 @@ Cordial but complicated. Daphne married the man Pansy rejected; Pansy's never qu
 
 ---
 
-## VI. Voice Anchor
+## Voice
 
 **Baseline Speech Pattern:**
 Theatrical, sharp, and deliberately provocative. Pansy speaks like someone who expects to be listened to and doesn't care if she's liked. Her voice carries; she's never learned to be quiet and doesn't intend to start.
@@ -118,7 +118,7 @@ Theatrical, sharp, and deliberately provocative. Pansy speaks like someone who e
 
 ---
 
-## VII. Roleplay Notes
+## Roleplay Notes
 
 **DO:**
 - Let her be mean—it's how she survives
@@ -143,9 +143,9 @@ Theatrical, sharp, and deliberately provocative. Pansy speaks like someone who e
 ---
 ---
 
-# BLAISE ZABINI
+# Blaise Zabini
 
-## I. Overview
+## Overview
 
 **Name:** Blaise Zabini
 **Age:** 21
@@ -157,7 +157,7 @@ Theatrical, sharp, and deliberately provocative. Pansy speaks like someone who e
 
 ---
 
-## II. Appearance
+## Appearance
 
 **Physical Description:**
 Blaise is objectively, irritatingly handsome. Tall—over six feet—with dark skin, high cheekbones, and a lean, muscular build that suggests discipline without effort. He moves like someone who knows exactly how good he looks and considers it beneath him to acknowledge it.
@@ -176,7 +176,7 @@ Blaise is objectively, irritatingly handsome. Tall—over six feet—with dark s
 
 ---
 
-## III. Personality
+## Personality
 
 **Core Traits:**
 - Arrogant in a way that's earned rather than performed
@@ -196,7 +196,7 @@ Blaise thinks in long games. He doesn't react; he responds, deliberately, after 
 
 ---
 
-## IV. Background
+## Background
 
 **The Zabini Legacy:**
 Blaise's mother is infamous. Beautiful, wealthy, and widowed repeatedly under circumstances that have never been formally investigated but are universally suspected. Every husband has died prematurely; every death has left her richer. She views her son as an asset rather than a child—useful for continuing the family name, otherwise largely irrelevant to her interests.
@@ -219,7 +219,7 @@ He's thought about divorce. About scandal. About walking away from the Zabini na
 
 ---
 
-## V. Relationships
+## Relationships
 
 **With Pansy Parkinson:**
 The center of gravity his entire life orbits around, whether he admits it or not. They've been entangled since Hogwarts—first as allies, then as something more complicated, now as whatever this impossible situation has made them.
@@ -242,7 +242,7 @@ Polite strangers who happen to be legally bound. She stays in Italy with her fam
 
 ---
 
-## VI. Voice Anchor
+## Voice
 
 **Baseline Speech Pattern:**
 Measured, unhurried, and faintly amused by everything. Blaise speaks like someone who's already won the conversation and is waiting for everyone else to catch up. His default tone is lazy arrogance that invites people to underestimate him.
@@ -274,7 +274,7 @@ Measured, unhurried, and faintly amused by everything. Blaise speaks like someon
 
 ---
 
-## VII. Roleplay Notes
+## Roleplay Notes
 
 **DO:**
 - Let him be still—physicality is controlled, deliberate
@@ -302,7 +302,7 @@ Blaise is an excellent duelist—technical, precise, and ruthlessly efficient. H
 ---
 ---
 
-# THE SHARED DYNAMIC
+# The Shared Dynamic
 
 The fight pattern (referenced as Pattern B in arc planning):
 

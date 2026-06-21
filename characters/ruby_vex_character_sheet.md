@@ -1,10 +1,10 @@
-# RUBY WILLIAMS & VEX — CHARACTER SHEET
+# Ruby Williams & Vex -- Character Sheet
 
 *Exteriority reference only. NO personality/voice/interiority — those belong to Alice, always.* *Canon-verified from project files \+ Wales weekend session.* 
 
 ---
 
-## RUBY WILLIAMS
+## Ruby Williams
 
 ### Vital Facts
 
@@ -25,7 +25,7 @@
 - **Scars (stomach):** Cigarette burns, knife cuts, three larger jagged scars. From Robbie. She showed Draco at the Trocadero date ("You would've seen them at night"). The skin itches under stress (clocked during the Crissy encounter).  
 - **Smoking:** Quit when she got Vex (he hates the smell). Relapsed under acute stress — West ICE \+ lighter, post-panic-attack, June 29\. Smokes with practiced ease.
 
-### Wardrobe & style
+### Wardrobe & Style
 
 - **The register:** rocker-casual with a soft grunge edge — band tees, black denim, Converse, the occasional skater dress. It's an aesthetic built in the early 2000s out of Smash Hits, Kerrang\!, and a working-class budget: charity shops, market stalls, one good pair of boots that has to last. Nothing precious, everything worn-in. She looks put-together without ever looking like she *tried* — the opposite of polish, the opposite of Draco.  
 - **Palette:** black, black, more black — broken by grey marl, washed denim blue, and the rare rebellion of one loud piece (a yellow top under black dungarees, burgundy Converse). In autumn she allows warmth in: rust, mustard, oxblood, deep plum. Never pastels. Never beige.  
@@ -36,7 +36,7 @@
 - **Sleepwear:** enormous band tees (some inherited/nicked from her brothers, washed to translucency) over shorts. The tee always long enough to swallow the shorts entirely.  
 - 
 
-### Body Language & Physical Habits (observable from outside ONLY)
+### Body Language & Physical Habits (Observable From Outside Only)
 
 - Pushes glasses up with her wrist.  
 - Breathes in fours when triggered.  
@@ -46,7 +46,7 @@
 - Restless sleeper normally — moves, fights the blanket, jolts toward waking. (Slept STILL the whole night spooned with Draco in Wales — first observed exception.)  
 - Deploys "Good boy" with surgical timing; it is her literal dog-training reward marker.
 
-### Skills & Trivia (established)
+### Skills & Trivia (Established)
 
 - Trained Vex herself: 3 courses, 5 seminars, 10+ books. Obsessive, thorough.  
 - Can sing (Iris at the campfire — first time since 17). Can swim well (Swansea Bay).  
@@ -59,7 +59,7 @@
 - Drink: Dr Pepper (theirs, hers and Draco's).  
 - Childhood bedroom: now Alex's — bunk-bed dents, tape-ghosts, the wax stain (+ one newer secret stain).
 
-### History (important facts)
+### History (Important Facts)
 
 - **Robbie (Robert):** abusive ex. She moved in with him in Swansea at 18; he gave her the scars; the A\&E incident ended it; she fled to London \~spring 2001\. He told everyone the A\&E was an accident. She forbade legal action. Gemma confronted him at his house (Gareth drove, waited with engine running). Met him through **Crissy Kowalski** (his younger sister, her school friend, 22, now pregnant — due August).  
 - **Family:** Gemma (mam), Gareth (dad, factory manager), Mike (23, adopted, depression, factory), Callum (20), Alex (15), \+ **Clary** (estranged sister, left \~Dec 2001 with Mike's then-girlfriend Hannah; the family doesn't speak of her; called Gemma Tuesday from Germany).  
@@ -69,7 +69,7 @@
 
 ---
 
-## VEX
+## Vex
 
 ### Vital Facts
 
@@ -78,7 +78,7 @@
 - **Appearance:** coat is black-and-tan, cropped ears, docked tail, 80 lbs / 71 cm   
   **Named:** Vex.
 
-### Training & Behaviour (established)
+### Training & Behaviour (Established)
 
 - Trained entirely by Ruby (3 courses, 5 seminars, 10+ books). Rock-solid recall — demonstrated off-lead on Swansea beach; Draco was impressed.  
 - Trained in protection, knows attack / release / heel / knows to bark on command  
