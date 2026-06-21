@@ -64,7 +64,7 @@ Lowercase, sparse punctuation, no emoji, engineered-casual. Opens reasonable eno
 - How hard should the **pre-dinner** Robbie text bite vs. the locked **mid-dinner** one?
 
 ## DEEPER FILES (open only for a missing fact — section-read or subagent, never whole-file dumps)
-- Full canon: `lore/past_events_bible_updated3.md` · Load-bearing: `archives/load_bearing_events_FINAL.md`
+- **Canon — two-tier, start light:** `lore/canon_index.md` (~5KB: timeline tables, statuses, open threads — enough for most checks) → only for exact dialogue/dates/sequences, load the relevant `events/book{1–8}_*.md`. Load-bearing: `archives/load_bearing_events_FINAL.md`
 - Robbie Week: `sessions/the_robbie_week_handoff.md` + `..._texts_handoff.md`
 - Wales: `sessions/wales_weekend_handoff.md` · Ruby chronology: `arcs/ruby_arc_detailed_chronology_v4.md`
 - Voices in full: `characters/theodore_nott_character_updated3.md` · `characters/draco_malfoy_character_updated4.md`
