@@ -1,0 +1,94 @@
+# Veeraswamy — Friday, 5 July 2002 (DRAFT — building in chunks)
+
+**In-story:** Friday evening, 5 July 2002. ~6:50 p.m. (Haven House) → ~7:31 p.m. (Regent Street).
+**Locations:** Haven House, 145 Berkeley St, Notting Hill → Veeraswamy, Victory House, 99 Regent Street.
+**Present:** Jackie, Theo, Draco (the triad); Ruby Williams (waiting outside). Robbie — via text only.
+**The night:** Ruby meets Jackie + Theo for the first time. Draco leads the introductions ("shifts; I go first"). Theo's medical cover prepped ("ill since a teenager… basically a vampire"). A Robbie text lands pre-dinner — the *locked* mid-dinner one is still to come.
+
+**Walls (holding):** Sable writes Theo, Draco, Robbie's texts, NPCs. Jackie = Alice's (kept peripheral & unvoiced in this chunk). Ruby = Alice's (exterior-only here; her text reply is a flagged placeholder). Vex assumed off-page (with Meg/Bonnie) — flag if wrong.
+
+---
+
+## I. Haven House — ~6:50 p.m.
+
+Draco had knotted the tie twice and taken it off both times. The third attempt sat wrong against his throat — too formal by half — so he pulled it loose and left the collar open, because *open* was the register Ruby lived in. Band tees, worn denim, nothing that announced itself. He had spent twenty-two years learning to dress like a verdict. Tonight he wanted to look like a man, and only that.
+
+The signet ring turned once around his finger before he caught it doing it.
+
+"You've changed your shirt three times." Theo filled the doorway, shoulder to the frame, the unlit lighter walking across his knuckles. "She decided she liked you weeks ago. You married into the hard sells, Draco. Ruby was never going to be one of them."
+
+"She hasn't met Jackie." Draco said it to the mirror. "Or you."
+
+"She's texted me about a book where the love interest has wings and a personality disorder." The lighter flipped, caught. "We're well past introductions. I'm only here to collect a face to go with the crimes against punctuation."
+
+Luna had poured herself into the warm hollow of the unmade bed, gold eyes tracking the lighter like a thing she intended to kill later. Draco found his cufflinks by touch.
+
+"Say it back to me," he said. "The condition."
+
+Theo sighed, performance-weary. "Ill since I was a boy. A thing the doctors could never put one name to. I don't eat in front of people because it embarrasses me, and you're all very kind not to make it a thing." A beat, dry as bone. "Basically a vampire."
+
+"Don't say that last part at the table."
+
+"I say that last part *because* it disarms. A man who jokes about a thing can't possibly be hiding it." The lighter went still in his fist. "It's the truest lie I own. Let me keep it."
+
+Down the landing: a door, the click of heels, then quiet — Jackie, somewhere between the bedroom and the stairs, putting herself together. Theo turned his head toward the sound out of old habit, a body that no longer needed to breathe still listening for the one heartbeat in the house that had ever mattered to the thing inside him.
+
+He knew what tonight cost her. She'd told him weeks ago, in the dark after a Malice session, in the flat voice she used when she'd decided to be honest before she could talk herself out of it. He hadn't argued her down then and he wouldn't now. He only held it where he held everything — *she's coming anyway* — and let that be answer enough. The Heliophobus already sat on his skin, her work, the reason the low gold light through the window was only light and not a sentence passed on him.
+
+Draco fixed the second cufflink. In the glass his own face looked back at him — composed, unreadable, the face he'd worn through a war and a trial and his father's sentencing. He hated that it was the same one. He wanted Ruby to get a different face than the world had been handed.
+
+"She's going to see all of it at once tonight," he said, quieter. "Every part of me, in one room. I've kept it in pieces on purpose — her over here, this over there. After tonight it's a single thing."
+
+Theo crossed to him, met his eyes in the mirror, and set a cool hand briefly at the back of his neck — there, then gone. "Then let her see the whole of it. You've been good in every piece I've watched you carry. You'll be good in the sum."
+
+The ring went still under Draco's thumb.
+
+"Shifts," Theo said, lighter for it. "You first — you promised the girl. Go and lead."
+
+---
+
+## II. Regent Street, outside Veeraswamy — 7:24 p.m.
+
+The doorway didn't look like much from the street — a slim entrance between the shopfronts, a brass plate, a lift somewhere above it waiting to carry diners up into the colour and the noise. Ruby stood a few feet clear of it, nearer the kerb, where the after-work crowd thinned out. Black dress, the bodice laced close, a sheer high-low skirt that lifted when the buses shoved warm air down the pavement. Boots, not heels. Her hair was up in the claw clip, strands already working loose of it. Eyeliner — the kind she only bothered with when a night mattered.
+
+She checked the door. Checked her phone. Pushed her glasses up the bridge of her nose with the side of her wrist.
+
+The screen lit in her hand.
+
+`19:22  youve gone quiet on me again princess. you used to be better than that`
+`19:22  crissy said she ran into you. said you looked well. happy even. im glad ruby, im not being funny. wouldve been nice to hear it off you and not secondhand`
+
+She went still. Her thumb hovered, didn't land. Then the phone turned face-down against her thigh, screen to skin, the way you cover a thing you've decided to stop looking at. Her shoulders climbed. Her breath came even and counted — in, in, in, in.
+
+It buzzed again under her grip on the bag strap.
+
+`19:29  i did the work, whatever your mam tells people. you never even gave me the chance to show you. dont let her write the ending for both of us — four years isnt nothing. five minutes, thats all im asking. you owe me that much at least`
+
+`[Ruby reads — her reply is YOURS, Alice. Placeholder only, overwrite freely:]`
+`19:30  stop texting me. im not doing this tonight.`
+
+She put the phone away. She looked up the length of Regent Street toward the low sun, and arranged her face into the bright smile — the careful one, not the other one.
+
+---
+
+## III. The approach — 7:31 p.m.
+
+They came up on foot from the Piccadilly end, the three of them — Apparition and a Michelin doorway didn't mix, and the walk gave Draco somewhere to put his hands. Theo wore dark glasses against the low sun, which did double duty as cover for a man who winced at bright light. Draco saw her before she saw them.
+
+She was doing the bright smile. He knew the bright smile — he'd catalogued it across a beach and a farmhouse and her mother's kitchen — and he knew the other one too, the real one, that arrived without her permission and pulled higher on the left. This was not that one. She had just put her phone away. Her shoulders sat a half-inch too high, and when he came close enough to read it, her breath was running in the counted rhythm she used when the floor had shifted under her and she'd decided to keep standing on it alone.
+
+He didn't know what had moved it. He filed the fact away the way she'd taught him without ever meaning to teach him — *for later, for care, never for use* — and kept his face easy.
+
+"You're early," he said, stopping in front of her, close enough that the skirt's hem brushed his trouser leg. "You're always early when you're nervous. You did it in Swansea, too."
+
+Behind him Theo hung back the promised half-step, hands in his pockets, the lighter quiet for once. Jackie was at his shoulder.
+
+Draco reached out and tucked the loose strand back toward the clip — the small, unshowy touch he was allowed in public, the only one on offer out here. "They came to meet you, not to weigh you," he said, low, only for her. "Hold on to that when Theo starts quoting your own book taste back at you across the table."
+
+Then he stepped half-aside. He'd promised to lead, and leading meant the introductions in the right order — and the right order started with the man who'd been awake at four in the morning trading arguments with her about chapter endings.
+
+"Ruby." Theo's voice came warm, unhurried, already amused. "So you're the one with opinions about the winged one. I've heard about chapter thirty for a solid month. I've got grievances of my own and nowhere civilised to put them."
+
+And then there was Jackie —
+
+`[— and here's where I hand you the pen, Alice. Jackie and Ruby, first eyes-on each other, are both yours. Show me how Ruby takes the moment and what Jackie chooses to give her, and I'll bring Theo and Draco back in around whatever you set down. 🖤]`
