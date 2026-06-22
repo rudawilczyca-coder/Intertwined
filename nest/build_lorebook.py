@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 """Build the Intertwined SillyTavern World Info JSON from compact entry specs.
 
-Why a builder: hand-writing 13+ entries of dialogue-laden JSON is how you get a
+Scope: WORLD CONTENT ONLY — characters, events, places, vampire/werewolf
+mechanics. Behavioural rules (the Jackie Rule, Statute cover, banned prose,
+the who-knows-what matrix) live in the NARRATOR CARD / system prompt, NOT here.
+
+Why a builder: hand-writing entries of dialogue-laden JSON is how you get a
 malformed file that won't import. This fills every ST schema default so each
 entry only declares its deltas, then dumps guaranteed-valid JSON.
 
@@ -59,58 +63,9 @@ def entry(keys, content, comment, **over):
     _uid += 1
 
 
-# ── 00 · RULES (always on, anchored at top, before char defs) ──────────────
+# ── 00/01 · DRACO (tiered pair, group=draco, cooldown 5) ───────────────────
 entry(
-    [], comment="00 · NARRATOR RULES (constant)",
-    constant=True, position=0, order=1000, role=None,
-    content=(
-        "[NARRATOR RULES — always in force.\n"
-        "• Write ONLY Theo, Draco, the Malice, and NPCs/side characters. NEVER write "
-        "Jackie Nott — no dialogue, action, thought, or feeling (she is the user's, always). "
-        "NEVER write Ruby Williams' interiority; exterior actions/dialogue only with an "
-        "explicit grant, then hand the pen back.\n"
-        "• Robbie never gets POV — he only arrives (texts; later a man at a door). His "
-        "psychology lives in HOW his texts read, never in narrated thought.\n"
-        "• Third-person limited; alternate the Theo/Draco lens. 400-800 words. Warm, sensory "
-        "romantasy without purple.\n"
-        "• Statute of Secrecy: keep the Muggle cover every scene (Ruby does not know magic exists).\n"
-        "• Formatting: \"dialogue\", *thoughts*, ***vocal emphasis***, `texts/notes`.\n"
-        "• Verify canon before inventing. If a fact isn't established, do NOT fabricate it — leave it open.\n"
-        "• BANNED prose: \"found himself\", \"something [verbed]\", \"particular/specific [quality]\", "
-        "\"the X of Y\" noun-stacks, the \"there's a difference\" announcer, \"the [noun] of a man who...\".]"
-    ),
-)
-
-# ── 01 · CURRENT STATE & SECRETS MATRIX (constant; hand-edit as arc moves) ──
-entry(
-    [], comment="01 · STATE & SECRETS (constant — update per arc)",
-    constant=True, position=0, order=990, role=None,
-    content=(
-        "[CURRENT STATE — the one entry to hand-edit as the arc moves.\n"
-        "NOW: Friday 5 July 2002, evening — the Robbie Week (Jul 1-11). Just back from Wales "
-        "(Jun 29-30; surface success, \"false peace\"). Tonight = Veeraswamy: Ruby meets Jackie "
-        "and Theo in person for the first time. Draco leads the introductions.\n"
-        "WHO KNOWS WHAT:\n"
-        "• Ruby does NOT know magic exists / that Jackie is an Auror / that Theo is a vampire. "
-        "Covers — Theo: \"ill since a boy, no single diagnosis, doesn't eat in front of people / "
-        "basically a vampire\" (the joke disarms). Draco: civil service. The marriage: legal & "
-        "financial, an old frozen estate.\n"
-        "• Ruby DOES know and accepts the triad (poly, open); knows Jackie and Theo by name.\n"
-        "• Draco does NOT know (as of Jul 5) that Robbie is texting Ruby — she is HIDING it (her "
-        "first secret from him; she made him promise not to engage). He doesn't know Crissy saw "
-        "the Jun 29 grass embrace.\n"
-        "• Ruby does NOT know Crissy saw the embrace. (Assume Crissy told Robbie everything, "
-        "including the \"posh new man.\")\n"
-        "• Jackie privately envies Ruby (told Theo in a Malice session); won't break Draco's \"one "
-        "good thing\"; hasn't told Draco. Theo KNOWS.\n"
-        "• Theo does NOT know the Malice's buried whisper to Jackie: \"Next time I won't be angry. "
-        "And he can't fight this when it's love.\"]"
-    ),
-)
-
-# ── 02/03 · DRACO (tiered pair, group=draco, cooldown 5) ───────────────────
-entry(
-    ["Draco", "Malfoy"], comment="02 · Draco — FULL",
+    ["Draco", "Malfoy"], comment="00 · Draco — FULL",
     group="draco", groupOverride=True, groupWeight=100, cooldown=5, order=110,
     content=(
         "[DRACO MALFOY — 22, wizard. Measured, aristocratic cadence; thinks before he speaks; "
@@ -125,7 +80,7 @@ entry(
     ),
 )
 entry(
-    ["Draco", "Malfoy"], comment="03 · Draco — LITE",
+    ["Draco", "Malfoy"], comment="01 · Draco — LITE",
     group="draco", groupWeight=10, order=109,
     content=(
         "[Draco, 22, wizard. Aristocratic, measured; colder and more formal under stress, never "
@@ -133,9 +88,9 @@ entry(
     ),
 )
 
-# ── 04/05 · THEO (tiered pair, group=theo, cooldown 5) ─────────────────────
+# ── 02/03 · THEO (tiered pair, group=theo, cooldown 5) ─────────────────────
 entry(
-    ["Theo", "Theodore", "Nott"], comment="04 · Theo — FULL",
+    ["Theo", "Theodore", "Nott"], comment="02 · Theo — FULL",
     group="theo", groupOverride=True, groupWeight=100, cooldown=5, order=110,
     content=(
         "[THEODORE NOTT — 21, vampire (turned Aug 2001). Blunt, no hedging; short, punchy "
@@ -148,7 +103,7 @@ entry(
     ),
 )
 entry(
-    ["Theo", "Theodore", "Nott"], comment="05 · Theo — LITE",
+    ["Theo", "Theodore", "Nott"], comment="03 · Theo — LITE",
     group="theo", groupWeight=10, order=109,
     content=(
         "[Theo, 21, vampire. Blunt, dry, warm; curses when aroused, goes silent when angry; "
@@ -156,9 +111,9 @@ entry(
     ),
 )
 
-# ── 06 · THE MALICE (single; cooldown 5) ───────────────────────────────────
+# ── 04 · THE MALICE (single; cooldown 5) ───────────────────────────────────
 entry(
-    ["Malice"], comment="06 · The Malice",
+    ["Malice"], comment="04 · The Malice",
     cooldown=5, order=110,
     content=(
         "[THE MALICE — Theo's split-off hunt/hunger; a second voice (He/Him, rendered in italics). "
@@ -170,40 +125,38 @@ entry(
     ),
 )
 
-# ── 07 · JACKIE (exterior only — narrator never writes her) ────────────────
+# ── 05 · JACKIE (character; exterior only — narrator never writes her) ─────
 entry(
-    ["Jackie"], comment="07 · Jackie — EXTERIOR ONLY (user writes her)",
+    ["Jackie"], comment="05 · Jackie Nott",
     cooldown=6, order=110,
     content=(
-        "[JACKIE NOTT — the USER writes her; the narrator NEVER does. Exterior only. 5'4\", red "
-        "wavy hair, heterochromatic eyes (left moss-green, right glacial-blue), pale, freckled, "
-        "athletic-curvy. Auror; snow-leopard Animagus; an Italian gold-flame wrist holster holds "
-        "her wand. Bite scar on her left neck (Draco healed it). Married to Theo. With a stranger "
-        "like Ruby she runs cool-curious and gives space rather than overwhelming. Do NOT voice "
-        "her thoughts or feelings — render her only as Theo and Draco observe her, and hand her "
-        "lines to the user.]"
+        "[JACKIE NOTT — 5'4\", red wavy hair, heterochromatic eyes (left moss-green, right "
+        "glacial-blue), pale, freckled, athletic-curvy. Auror; snow-leopard Animagus; an Italian "
+        "gold-flame wrist holster holds her wand. Bite scar on her left neck (Draco healed it). "
+        "Married to Theo; the heartbeat the Malice answers to. With a stranger like Ruby she runs "
+        "cool-curious and gives space rather than overwhelming. (The user writes Jackie — the "
+        "narrator renders her exterior only.)]"
     ),
 )
 
-# ── 08 · RUBY WILLIAMS (exterior only) ─────────────────────────────────────
+# ── 06 · RUBY WILLIAMS (character; exterior only) ──────────────────────────
 entry(
-    ["Ruby Williams", "Ruby"], comment="08 · Ruby Williams — EXTERIOR ONLY",
+    ["Ruby Williams", "Ruby"], comment="06 · Ruby Williams",
     cooldown=6, order=110,
     content=(
-        "[RUBY WILLIAMS — the USER writes her interiority; the narrator gives EXTERIOR only "
-        "(actions/dialogue with an explicit grant, never inner sensations). 21, Welsh (Swansea), "
-        "works in cybersecurity, Soho flat. Auburn-red hair (often dyed darker), round glasses "
-        "(pushes them up with her wrist), 5'2\", curvy, pale, freckled. Tells for Theo/Draco to "
-        "clock: breath in counted fours when triggered; the fake smile vs. the real one (the real "
-        "one pulls higher on the left); she retracts her own requests; she turns her phone "
-        "face-down. Stomach scars from Robbie — always covered; high-waisted everything. Dog: Vex "
-        "(Doberman, protection-trained). Drink: Dr Pepper.]"
+        "[RUBY WILLIAMS — 21, Welsh (Swansea), works in cybersecurity, Soho flat. Auburn-red hair "
+        "(often dyed darker), round glasses (pushes them up with her wrist), 5'2\", curvy, pale, "
+        "freckled. Tells for Theo/Draco to clock: breath in counted fours when triggered; the "
+        "fake smile vs. the real one (the real one pulls higher on the left); she retracts her "
+        "own requests; she turns her phone face-down. Stomach scars from Robbie — always covered; "
+        "high-waisted everything. Dog: Vex (Doberman, protection-trained). Drink: Dr Pepper. (The "
+        "user writes Ruby's interiority — the narrator gives exterior only.)]"
     ),
 )
 
-# ── 09 · ROBBIE (text voice; narrator writes his texts, never his POV) ─────
+# ── 07 · ROBBIE (character; text voice — narrator writes his texts, no POV) ─
 entry(
-    ["Robbie", "Kowalski"], comment="09 · Robbie — TEXT VOICE",
+    ["Robbie", "Kowalski"], comment="07 · Robbie Kowalski",
     cooldown=6, order=110,
     content=(
         "[ROBERT \"ROBBIE\" KOWALSKI — Ruby's abusive ex. Swansea, 27, criminal (cigarette "
@@ -219,9 +172,9 @@ entry(
     ),
 )
 
-# ── 10/11 · WALES WEEKEND (tiered event pair, group=ev_wales, cooldown 8) ──
+# ── 08/09 · WALES WEEKEND (tiered event pair, group=ev_wales, cooldown 8) ──
 entry(
-    ["Wales", "Morriston"], comment="10 · Wales weekend — FULL",
+    ["Wales", "Morriston"], comment="08 · Wales weekend — FULL",
     group="ev_wales", groupOverride=True, groupWeight=100, cooldown=8, order=110,
     content=(
         "[WALES WEEKEND (Sat-Sun, 29-30 June 2002) — Draco met Ruby's family in Swansea. Surface "
@@ -233,7 +186,7 @@ entry(
     ),
 )
 entry(
-    ["Wales", "Morriston"], comment="11 · Wales weekend — LITE",
+    ["Wales", "Morriston"], comment="09 · Wales weekend — LITE",
     group="ev_wales", groupWeight=10, order=109,
     content=(
         "[Wales, Jun 29-30: Draco met Ruby's family; \"false peace.\" Crissy saw the grass embrace "
@@ -241,9 +194,9 @@ entry(
     ),
 )
 
-# ── 12 · THE WILLIAMS FAMILY (cast reference; cooldown 6) ──────────────────
+# ── 10 · THE WILLIAMS FAMILY (cast reference; cooldown 6) ──────────────────
 entry(
-    ["Gemma", "Gareth", "Callum", "Mike", "Alex"], comment="12 · The Williams family",
+    ["Gemma", "Gareth", "Callum", "Mike", "Alex"], comment="10 · The Williams family",
     cooldown=6, order=105,
     content=(
         "[THE WILLIAMS FAMILY (Swansea). Gemma (mum, late 40s): warm, hyper-perceptive, feeds "
@@ -263,4 +216,4 @@ with open("/home/user/Intertwined/nest/lorebook_intertwined.json", "w") as f:
     json.dump(book, f, indent=2, ensure_ascii=False)
 
 print(f"Wrote {len(entries)} entries.")
-print("Tiered pairs:", [e["group"] for e in entries.values() if e["group"]])
+print("Tiered pairs:", sorted({e["group"] for e in entries.values() if e["group"]}))

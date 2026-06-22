@@ -4,6 +4,12 @@
 
 ---
 
+## Scope (what belongs here, what doesn't)
+
+The lorebook is **world content only: characters + events + places + vampire/werewolf mechanics.**
+
+Behaviour does **not** live here — the **narrator card / system prompt** carries the Jackie Rule, the Statute cover, the banned-prose list, formatting, and the who-knows-what / current-state context. Keep the two separate: the card is *how Sable writes*; the lorebook is *what the world contains*.
+
 ## Why this exists
 
 Claude Code is the *collaborator* perch — it can read the whole repo, but every scene costs a huge manual retrieval pass and the voices don't auto-load. The **Nest** is the *narrator* perch: this lorebook injects the right canon automatically, by keyword, in small chunks — no RAG pipeline, no clunk. Deterministic, debuggable, cheap on context.
@@ -25,7 +31,6 @@ That's "recently triggered → serve the lean version," done in config.
 |---|---|
 | Characters / people | **5–6** |
 | Canon events | **8** |
-| Always-on (rules, state) | n/a — `constant: true` |
 
 ## Schema cheat-sheet (verified vs. ST `world-info.js`, release)
 
@@ -34,8 +39,7 @@ Defaults live in `build_lorebook.py`'s `entry()`; only the deltas are written pe
 | Field | Meaning / our convention |
 |---|---|
 | `key` / `keysecondary` | trigger keywords / optional secondary logic keys |
-| `constant` | always injected (rules + state). `false` for keyed entries |
-| `position` | `0` = before char defs (used for the two constants); `4` = @ depth (everything else) |
+| `position` | `4` = @ depth (everything injects near the live conversation) |
 | `depth` / `role` | inject 4 messages deep, as `0` (system) |
 | `group` / `groupOverride` / `groupWeight` | inclusion group / prioritise-in-group / weighted-random fallback (FULL 100, LITE 10) |
 | `cooldown` / `sticky` / `delay` | the timed effects. We use `cooldown` for tiering |
@@ -43,41 +47,38 @@ Defaults live in `build_lorebook.py`'s `entry()`; only the deltas are written pe
 | `matchWholeWords` | **true** — stops substrings (e.g. "Theo" inside "theory") false-firing |
 | `selectiveLogic` | `0` = AND ANY |
 
-## Entries in this build (tranche 1 — 13)
+## Entries in this build (tranche 1 — 11)
 
 Everything here was written from canon already verified this session — **no fabrication**.
 
 | # | Entry | Keys | Group | Cooldown |
 |---|---|---|---|---|
-| 00 | **Narrator Rules** | *(constant)* | — | — |
-| 01 | **State & Secrets matrix** | *(constant)* | — | — |
-| 02/03 | **Draco** full / lite | Draco, Malfoy | `draco` | 5 |
-| 04/05 | **Theo** full / lite | Theo, Theodore, Nott | `theo` | 5 |
-| 06 | **The Malice** | Malice | — | 5 |
-| 07 | **Jackie** (exterior only) | Jackie | — | 6 |
-| 08 | **Ruby Williams** (exterior only) | Ruby Williams, Ruby | — | 6 |
-| 09 | **Robbie** (text voice) | Robbie, Kowalski | — | 6 |
-| 10/11 | **Wales weekend** full / lite | Wales, Morriston | `ev_wales` | 8 |
-| 12 | **The Williams family** | Gemma, Gareth, Callum, Mike, Alex | — | 6 |
+| 00/01 | **Draco** full / lite | Draco, Malfoy | `draco` | 5 |
+| 02/03 | **Theo** full / lite | Theo, Theodore, Nott | `theo` | 5 |
+| 04 | **The Malice** | Malice | — | 5 |
+| 05 | **Jackie Nott** | Jackie | — | 6 |
+| 06 | **Ruby Williams** | Ruby Williams, Ruby | — | 6 |
+| 07 | **Robbie Kowalski** | Robbie, Kowalski | — | 6 |
+| 08/09 | **Wales weekend** full / lite | Wales, Morriston | `ev_wales` | 8 |
+| 10 | **The Williams family** | Gemma, Gareth, Callum, Mike, Alex | — | 6 |
 
-> **#01 is the deliberate shape-not-frame exception.** The Antiquary holds shape, not frame — but a *runtime narrator* needs the current frame, so the State & Secrets entry is the one place we keep the live cursor. **Hand-edit it as the arc moves** (or regenerate from the scene kit).
+*(Jackie and Ruby carry a one-line exterior-only reminder inside their entries because it's character-bound — the global Jackie Rule still lives in the card.)*
 
 ## Import & test
 
 1. SillyTavern → **World Info** → **Import** → `lorebook_intertwined.json`.
 2. Activate it on the Intertwined character (or globally).
-3. Confirm the two `constant` entries (blue dot) are always present; the rest show green (keyed).
-4. Test the tiering: mention "Draco" several turns running — full entry first, then the lite reminder for ~5 turns, then full again.
-5. Sanity-check `groupOverride` survived import (the "Prioritise" toggle on each FULL entry). If a coin-flip shows up between full/lite, that toggle didn't take — re-check it.
+3. Test the tiering: mention "Draco" several turns running — full entry first, then the lite reminder for ~5 turns, then full again.
+4. Sanity-check `groupOverride` survived import (the "Prioritise" toggle on each FULL entry). If a coin-flip shows up between full/lite, that toggle didn't take — re-check it.
 
 ## Roadmap — tranche 2 (needs deep-file reads; dispatch subagents, don't bloat the thread)
 
-- **Canon events lorebook** — the big one. One event = one atomic entry, keyed by the people/places/concepts *in* it (not bare dates). Tier every heavy beat (full + lite, cooldown 8). Source: `lore/canon_index.md` → `events/book1–8`, `archives/load_bearing_events_FINAL.md`. Candidates: the betrothal (1998), Hogwarts/last year, Florence, the duel + Jackie's scars, Theo's turning (Aug 2001), Jackie naming the Malice (Apr 2001), the Assessment Ball (Dec 2001), Liverpool (Feb–Apr 2002), the dating-app origin of the Ruby arc.
-- **Lore mechanics** (full sheets): vampire (feeding, bond, Heliophobus, sun), the soul bond (proximity-scaled), Malice mechanics (hunger gauge, Pax/Finite), pureblood culture + the Statute, werewolf lore (for the dormant arc — Ruby's latent gene).
-- **Relationships**: Theo↔Draco, Draco↔Ruby ("good boy", "yours", the purple tabs), Theo↔Jackie (bond), the triad, Jackie's jealousy thread, Draco↔Jackie (marriage shape).
-- **Locations**: Haven House (145 Berkeley Place, Notting Hill), Ruby's Soho flat, Veeraswamy (fold the current logistics out of #01 once the night is over).
-- **Tiering audit**: decide which tranche-1 singles (Robbie, Ruby, Jackie) deserve a lite tier once we see real token cost.
-- **Recursion**: once stable, selectively enable event→person recursion with a capped scan depth.
+- **Canon events** — the big one. One event = one atomic entry, keyed by the people/places/concepts *in* it (not bare dates). Tier every heavy beat (full + lite, cooldown 8). Source: `lore/canon_index.md` → `events/book1–8`, `archives/load_bearing_events_FINAL.md`. Candidates: the betrothal (1998), Hogwarts/last year, Florence, the duel + Jackie's scars, Theo's turning (Aug 2001), Jackie naming the Malice (Apr 2001), the Assessment Ball (Dec 2001), Liverpool (Feb–Apr 2002), the dating-app origin of the Ruby arc.
+- **Vampire / werewolf / bond mechanics** (full sheets): vampire (feeding, bond, Heliophobus, sun), the soul bond (proximity-scaled), Malice mechanics (hunger gauge, Pax/Finite), werewolf lore (for the dormant arc — Ruby's latent gene). Pureblood culture too if useful as world-texture.
+- **Places**: Haven House (145 Berkeley Place, Notting Hill), Ruby's Soho flat, Veeraswamy.
+- **More cast**: Kent (Ruby's London friends), and any recurring NPCs the events surface.
+- **Relationships as world-texture** (optional): Theo↔Draco, Draco↔Ruby, Theo↔Jackie, the triad — only the durable facts, not behaviour.
+- **Tiering audit**: decide which tranche-1 singles deserve a lite tier once we see real token cost; once stable, selectively enable event→person recursion with a capped scan depth.
 
 ## Future: Nest 2.0 memory layer
 
