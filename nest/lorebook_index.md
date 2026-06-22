@@ -57,9 +57,20 @@ Defaults live in `build_lorebook.py`'s `entry()`; only the deltas are written pe
 | `matchWholeWords` | **true** — stops substrings (e.g. "Theo" inside "theory") false-firing |
 | `selectiveLogic` | `0` = AND ANY |
 
-## Entries in this build (tranche 1 — 14)
+## Books in this Nest (multiple active at once)
 
-Character voices enriched from the full sheets (`characters/`) via subagent extraction; events/people from canon verified this session — **no fabrication**.
+SillyTavern merges all active World Info books into one pass, so we split by **lifespan**, not by function:
+
+| Book | File | Builder | Lifespan |
+|---|---|---|---|
+| **Main / world** | `lorebook_intertwined.json` | `build_lorebook.py` | durable — the standing world |
+| **Ruby arc** | `lorebook_ruby_arc.json` | `build_ruby_arc.py` | **episodic — retire when the arc ends** |
+
+**The Ruby-arc book is deliberately separable:** the blow-by-blow chronology only matters while the arc is live. When it resolves, **disable that book** and drop a one-paragraph summary into the main one — no surgery on the main book. (Wales-weekend events live in the arc book for this reason, not the main book.)
+
+## Main book (12 entries)
+
+Character voices enriched from the full sheets (`characters/`) via subagent extraction — **no fabrication**.
 
 | # | Entry | Keys | Group / trigger | Cooldown / sticky |
 |---|---|---|---|---|
@@ -69,10 +80,17 @@ Character voices enriched from the full sheets (`characters/`) via subagent extr
 | 08 | **Jackie Nott** | Jackie | — | 6 |
 | 09 | **Ruby Williams** | Ruby Williams, Ruby | — | 6 |
 | 10 | **Robbie Kowalski** | Robbie, Kowalski | — | 6 |
-| 11/12 | **Wales weekend** full / lite | Wales, Morriston | `ev_wales` | 8 |
-| 13 | **The Williams family** | Gemma, Gareth, Callum, Mike, Alex | — | 6 |
+| 11 | **The Williams family** | Gemma, Gareth, Callum, Mike, Michael, Alex | — | 6 |
 
 *(Jackie and Ruby carry a one-line exterior-only reminder inside their entries because it's character-bound — the global Jackie Rule still lives in the card.)*
+
+## Ruby-arc book (19 event beats)
+
+Built from `arcs/ruby_arc_detailed_chronology_v4.md` via subagent extraction. **One beat = one atomic entry**, cooldown 8, keyed to distinctive proper nouns (not common words). Single entries rather than full/lite pairs — events are referenced sporadically, not held continuously, so the cooldown alone prevents re-fire spam.
+
+Beats: the texting arc · first date · the week between · second date · Sunday morning + Robbie story · marriage crisis · the park stalker · Kent arrival/tattoo/"I love you" · Marylebone piano · Kent BBQ & campfire · Kent Sunday (Connor & the storm) · the triad conversation · the vampire slip & cover · Wales Day One · Wales Day Two (Gareth's verdict) · Wales debrief · the shower & walk-out · Primrose Hill (current edge) · the Robbie Week locked plan.
+
+⚠️ **One canon contradiction to resolve:** the source file dates the park-stalker incident as both **19 June** and **20 June** (and June 19 2002 was a Wednesday, June 20 a Thursday). I left the entry's date *unsettled* rather than guess — worth pinning in canon when you get a moment.
 
 ## Import & test
 

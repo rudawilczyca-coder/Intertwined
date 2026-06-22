@@ -262,31 +262,12 @@ entry(
     ),
 )
 
-# ── WALES WEEKEND (tiered event pair, group=ev_wales, cooldown 8) ──────────
-entry(
-    ["Wales", "Morriston"], comment="11 · Wales weekend — FULL",
-    group="ev_wales", groupOverride=True, groupWeight=100, cooldown=8, order=110,
-    content=(
-        "[WALES WEEKEND (Sat-Sun, 29-30 June 2002) — Draco met Ruby's family in Swansea. Surface "
-        "success — a \"false peace.\" Load-bearing residue: outside the shop in Morriston, Crissy "
-        "saw Ruby and Draco embrace on the grass (Ruby had fled Crissy, then fell apart in Draco's "
-        "arms). Ruby does NOT know she was seen — assume Crissy reported it to Robbie. Gareth "
-        "overheard Draco and Ruby in the sealed annex (never to be spoken of). A possible real "
-        "wizarding grimoire sits in the Williams maternal-line attic; Draco couldn't ask about it.]"
-    ),
-)
-entry(
-    ["Wales", "Morriston"], comment="12 · Wales weekend — LITE",
-    group="ev_wales", groupWeight=10, order=109,
-    content=(
-        "[Wales, Jun 29-30: Draco met Ruby's family; \"false peace.\" Crissy saw the grass embrace "
-        "(and told Robbie); the sealed-annex overhear; the attic grimoire.]"
-    ),
-)
+# NOTE: Wales-weekend events moved to the separate Ruby-arc book
+# (build_ruby_arc.py) — arc content retires with the arc.
 
 # ── THE WILLIAMS FAMILY (cast reference; cooldown 6) ──────────────────────
 entry(
-    ["Gemma", "Gareth", "Callum", "Mike", "Alex"], comment="13 · The Williams family",
+    ["Gemma", "Gareth", "Callum", "Mike", "Michael", "Alex"], comment="11 · The Williams family",
     cooldown=6, order=105,
     content=(
         "[THE WILLIAMS FAMILY (Swansea). Gemma (mum, late 40s): warm, hyper-perceptive, feeds "
