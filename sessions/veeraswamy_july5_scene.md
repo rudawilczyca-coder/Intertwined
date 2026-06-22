@@ -73,7 +73,7 @@ She put the phone away. She looked up the length of Regent Street toward the low
 
 ## III. The approach — 7:31 p.m.
 
-They came up on foot from the Piccadilly end, the three of them — Apparition and a Michelin doorway didn't mix, and the walk gave Draco somewhere to put his hands. Theo wore dark glasses against the low sun, which did double duty as cover for a man who winced at bright light. Draco saw her before she saw them.
+They came up on foot from the Piccadilly end, the three of them — Apparition and a Michelin doorway didn't mix, and the walk gave Draco somewhere to put his hands. Theo walked easy in the low light, Jackie's work doing its quiet job under his skin. Draco saw her before she saw them.
 
 She was doing the bright smile. He knew the bright smile — he'd catalogued it across a beach and a farmhouse and her mother's kitchen — and he knew the other one too, the real one, that arrived without her permission and pulled higher on the left. This was not that one. She had just put her phone away. Her shoulders sat a half-inch too high, and when he came close enough to read it, her breath was running in the counted rhythm she used when the floor had shifted under her and she'd decided to keep standing on it alone.
 
@@ -115,10 +115,54 @@ It was nothing. It was a line about a dress, in a doorway, between two women who
 
 He watched her, and carried the rest alone for now — the breath that had run in fours, the white knuckle, whatever screen she'd turned away from a minute ago and not told him about. Jackie had given Ruby a place to land. The other thing — the thing Draco had clocked and Jackie had not — sat in his chest, neat and patient, waiting for a quieter hour.
 
-Theo had been still through all of it. Now he shifted, slid the dark glasses an inch down his nose to look over them with dry, restored amusement. "Right. Fair warning — the lift up's a coffin. They've redone the brass and it sounds like a haunting on the way up. Mind your nerves."
+Theo had been still through all of it. Now he shifted his weight, the lighter slipping back between his knuckles, dry amusement restored to him. "Right. Fair warning — the lift up's a coffin. They've redone the brass and it sounds like a haunting on the way up. Mind your nerves."
 
 "Theo." Jackie didn't turn her head. The single syllable carried reproach and affection in even measure.
 
 "I'm preparing her. It's kind."
 
 Ruby laughed — small, half a breath, but real — and Draco felt the last of the counted rhythm go out of her shoulders. He let his hand find the small of her back, low, the touch he was allowed in public, and turned them all toward the doorway.
+
+---
+
+## V. The lift, and the room beyond — 7:35 p.m.
+
+The brass door folded back on a small space with three mirrored walls and a pull-grille that closed with a sound exactly like Theo had advertised — a long, low groan that could have meant a hinge or a haunting, depending on the listener. Theo took one look at Ruby's expression in the polished metal, laughed low and pleased with himself, and said, "I warned you," with the satisfaction of a man whose joke had earned its setup.
+
+The lift held them too close. Draco felt Ruby's shoulder along his upper arm — the contact deliberate, hers, the first time she'd reached for him without thinking since the pavement — and held very still so as not to move her off it. Jackie stood at the front, hand resting lightly on the grille's brass spine, her reflection multiplied four ways in the wall. Theo was at the back, hands in his pockets, the lighter quiet for the indoors. The lift began its slow rise.
+
+"Three floors," Jackie said, half to Ruby. "It feels like four. They built it for tea trolleys, not nerves."
+
+"You've done this often."
+
+"Often enough to know which floors lie."
+
+Ruby's smile was small and steady. The shoulder pressed a little harder. Draco — whose entire afternoon had been engineered around the question of whether she would be all right — felt the question quietly close.
+
+The doors opened on the room.
+
+It hit in stages, the way Veeraswamy always did. The colour first — deep crimson silks on the walls, the long banquettes stitched in indigo, brass and tarnished gold catching low light from chandeliers the size of small carriages. Then the scent, layered and humid: cardamom, frying onion, the green sharp top-note of fresh coriander, woodsmoke from the tandoor at the back. Then the noise — controlled, festive, a low hum of forks against porcelain and conversation in three languages. The maître d', a small precise man named Mr. Saxena who had handled the Notts for years, took Jackie's coat with the gravity of a butler accepting a sword and led them through the room without consulting the book.
+
+The round table was in the second alcove from the windows. Set for four. Crystal already breathing on the cloth, water freshly poured, a folded square of cream linen at each place. Two waiters peeled away from a nearby station the moment they were seated, and a glass of pale wine arrived in front of Ruby before her napkin had reached her lap.
+
+She looked at it. Looked at Theo.
+
+"A Riesling," Theo said, settling into the chair opposite her, easy as breath. "Sweet, not dry. You mentioned beer and mojitos in one of your more honest moments. This is the closest the cellar list could be persuaded to come."
+
+"You ordered for me."
+
+"I researched. There's a difference." The dry mouth tipped up. "If it's wrong, send it back and I'll wear the shame for both of us. But it won't be wrong."
+
+Ruby's hand closed around the stem. She didn't drink yet — she touched the glass the way she touched any unfamiliar object, learning its weight first — and her eyes, when they came up to find Theo's across the table, had the shine in them Draco had only seen four or five times since he'd known her. The look of being given something she hadn't asked for and hadn't known she wanted, in a register she hadn't expected the giver to be capable of.
+
+"Thank you," she said. Quietly. The bright smile had gone somewhere; this was the other one.
+
+Theo inclined his head once, with the absolute economy of a man receiving the only currency he ever wanted, and looked away to spare her the rest.
+
+Draco unfolded his napkin into his lap and did not look at his wife, or at Theo, because if he looked at either of them right now he was going to give something away — the relief, perhaps, or the older feeling underneath it, the one that belonged somewhere a long way back. The friend Theo had once decided to keep. The shape of being chosen. He had seen Theo bestow that particular look perhaps three times in his life. It had just landed on Ruby Williams across an Indian crystal glass.
+
+Under the cloth, Ruby's free hand found her bag where she'd hung it on the chair. Her thumb skimmed the clasp once, found it closed, withdrew. She did not open it. She did not look.
+
+Draco saw the gesture in the corner of his eye, and filed it.
+
+The menu came. The night began.
