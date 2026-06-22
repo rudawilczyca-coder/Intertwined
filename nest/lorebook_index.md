@@ -32,6 +32,16 @@ That's "recently triggered → serve the lean version," done in config.
 | Characters / people | **5–6** |
 | Canon events | **8** |
 
+## The three tiers (major characters)
+
+Draco, Theo, and the Malice each run more than a full/lite pair:
+
+- **LITE** — a one-line reminder; fires during FULL's cooldown window.
+- **FULL** — rich voice / personality / physicality / history. Tiered against LITE via inclusion group + `groupOverride` + cooldown.
+- **INTIMATE** — the explicit register. **Selective**: it fires only when the character's **name** (primary key) *and* at least one **NSFW keyword** (`keysecondary`, ~21 terms, `selectiveLogic: 0` = AND ANY) are both present. So it stays silent in a dinner scene and loads only when a scene turns sexual. Uses **`sticky: 3`** (not cooldown) so once it fires it holds for the scene instead of flickering. Theo's and the Malice's intimate modes are kept as **separate entries** — they're genuinely different (Theo avoids feeding/claiming during sex; the Malice is the chase, the "Mine," the bloodplay).
+
+Edit the NSFW keyword set once in `build_lorebook.py` (`NSFW_KEYS`) and it applies to all intimate entries.
+
 ## Schema cheat-sheet (verified vs. ST `world-info.js`, release)
 
 Defaults live in `build_lorebook.py`'s `entry()`; only the deltas are written per entry.
@@ -47,20 +57,20 @@ Defaults live in `build_lorebook.py`'s `entry()`; only the deltas are written pe
 | `matchWholeWords` | **true** — stops substrings (e.g. "Theo" inside "theory") false-firing |
 | `selectiveLogic` | `0` = AND ANY |
 
-## Entries in this build (tranche 1 — 11)
+## Entries in this build (tranche 1 — 14)
 
-Everything here was written from canon already verified this session — **no fabrication**.
+Character voices enriched from the full sheets (`characters/`) via subagent extraction; events/people from canon verified this session — **no fabrication**.
 
-| # | Entry | Keys | Group | Cooldown |
+| # | Entry | Keys | Group / trigger | Cooldown / sticky |
 |---|---|---|---|---|
-| 00/01 | **Draco** full / lite | Draco, Malfoy | `draco` | 5 |
-| 02/03 | **Theo** full / lite | Theo, Theodore, Nott | `theo` | 5 |
-| 04 | **The Malice** | Malice | — | 5 |
-| 05 | **Jackie Nott** | Jackie | — | 6 |
-| 06 | **Ruby Williams** | Ruby Williams, Ruby | — | 6 |
-| 07 | **Robbie Kowalski** | Robbie, Kowalski | — | 6 |
-| 08/09 | **Wales weekend** full / lite | Wales, Morriston | `ev_wales` | 8 |
-| 10 | **The Williams family** | Gemma, Gareth, Callum, Mike, Alex | — | 6 |
+| 00/01/02 | **Draco** full / lite / **intimate** | Draco, Malfoy | `draco` · intimate = name+NSFW | 5 · sticky 3 |
+| 03/04/05 | **Theo** full / lite / **intimate** | Theo, Theodore, Nott | `theo` · intimate = name+NSFW | 5 · sticky 3 |
+| 06/07 | **The Malice** full / **intimate** | Malice | — · intimate = name+NSFW | 5 · sticky 3 |
+| 08 | **Jackie Nott** | Jackie | — | 6 |
+| 09 | **Ruby Williams** | Ruby Williams, Ruby | — | 6 |
+| 10 | **Robbie Kowalski** | Robbie, Kowalski | — | 6 |
+| 11/12 | **Wales weekend** full / lite | Wales, Morriston | `ev_wales` | 8 |
+| 13 | **The Williams family** | Gemma, Gareth, Callum, Mike, Alex | — | 6 |
 
 *(Jackie and Ruby carry a one-line exterior-only reminder inside their entries because it's character-bound — the global Jackie Rule still lives in the card.)*
 
