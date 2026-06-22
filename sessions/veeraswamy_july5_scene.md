@@ -55,14 +55,14 @@ She checked the door. Checked her phone. Pushed her glasses up the bridge of her
 
 The screen lit in her hand.
 
-`19:22  youve gone quiet on me again princess. you used to be better than that`
-`19:22  crissy said she ran into you. said you looked well. happy even. im glad ruby, im not being funny. wouldve been nice to hear it off you and not secondhand`
+`19:22  so the walls back up then. you empty the lot at me — every number, every never — and then you go dark like that draws a line under it. it doesnt princess. a thing you fire off at gone eleven with your thumbs going isnt the truth. its just the wall doing the talking`
+`19:22  and heres what actually stayed with me. not the numbers. crissy said you went to pieces on the grass outside the shop. folded right up, in bits. thats been sat in my chest all day, cos i know what you look like happy and i know what you look like coming apart, and she described the second one. you can tell the whole world youre grand out there. you cant tell me. i had four years of the real you`
 
 She went still. Her thumb hovered, didn't land. Then the phone turned face-down against her thigh, screen to skin, the way you cover a thing you've decided to stop looking at. Her shoulders climbed. Her breath came even and counted — in, in, in, in.
 
 It buzzed again under her grip on the bag strap.
 
-`19:29  i did the work, whatever your mam tells people. you never even gave me the chance to show you. dont let her write the ending for both of us — four years isnt nothing. five minutes, thats all im asking. you owe me that much at least`
+`19:29  im not angry. and im not going anywhere either, so you can stop swinging at me to make me go. ive nothing but time for you. whatever youve got going on out there — the fella, the city, all of it — it isnt the thing, and somewhere you know it isnt. you go quiet, ill be here when you come up. you tell me never, ill be here after never an all. thats not me threatening you ruby, its the opposite. its the one steady thing youve got left and youll see it when youre tired enough. get some sleep princess x`
 
 `[Ruby reads — her reply is YOURS, Alice. Placeholder only, overwrite freely:]`
 `19:30  stop texting me. im not doing this tonight.`
