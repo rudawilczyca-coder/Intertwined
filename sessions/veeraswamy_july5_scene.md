@@ -91,4 +91,34 @@ Then he stepped half-aside. He'd promised to lead, and leading meant the introdu
 
 And then there was Jackie —
 
-`[— and here's where I hand you the pen, Alice. Jackie and Ruby, first eyes-on each other, are both yours. Show me how Ruby takes the moment and what Jackie chooses to give her, and I'll bring Theo and Draco back in around whatever you set down. 🖤]`
+---
+
+## IV. The introduction — 7:33 p.m.
+
+She didn't step forward. That was the first thing Draco clocked — the second, because the first had been Ruby's hand going still around the bag strap a half-second before, the way her knuckles whitened and then, deliberately, released. Jackie chose her ground three feet shy of touching distance and held it. No hand offered. No cheek leaned in. Just eye contact, level and direct, the kind of look Jackie gave a room she was about to read.
+
+*Generous,* Draco thought, and was surprised by it. He'd spent the afternoon braced for the wrong version of this — warmth that overshot, the continental claim of cheek-kisses Ruby would have stiffened under and called *lovely* in the voice that meant the opposite. Instead Jackie had given her air. The whole pavement between them was Ruby's to close or not close. Pureblood manners pressed into the service of mercy, and the mercy was the point.
+
+Ruby took her in. Not quickly. The bright smile sat exactly where Draco had left it, and behind it her eyes did their own work — green and steady through the dark frames, cataloguing Jackie the way she catalogued any room she'd just entered. Hair. Mouth. The fall of the coat. The hand that wasn't held out. Draco watched her clock the no-touch and read it correctly — *space, on purpose* — and felt the half-degree of give she let into her shoulders.
+
+Jackie let the silence sit a beat longer than was strictly polite. Then she said, mild, with the slight clip of someone who didn't waste words she hadn't decided on: "That's a very good dress."
+
+A pause. Her gaze travelled once — over the lace collar, the close work of the bodice, the boots — and came back to Ruby's face.
+
+"The collar especially. Most people wear that neckline like an apology. You don't."
+
+Ruby's mouth did the thing then — the bright smile cracking into the other one for a flicker, the real one that lifted higher on the left, before she could catch it back into formal register. "Thank you," she said, and her voice came out the way it did when she'd steadied a notch since the minute before. "I tried on five. This was Option One."
+
+"Then you chose well."
+
+It was nothing. It was a line about a dress, in a doorway, between two women who'd not met before this evening. Draco felt it as a hand pressed briefly between his shoulder blades — *she's all right. She's going to be all right.* Ruby's spine had settled a quarter-inch lower than its early position. The bag strap had loosened in her grip. The phone, face-down inside the bag, had stopped being the only thing in the world.
+
+He watched her, and carried the rest alone for now — the breath that had run in fours, the white knuckle, whatever screen she'd turned away from a minute ago and not told him about. Jackie had given Ruby a place to land. The other thing — the thing Draco had clocked and Jackie had not — sat in his chest, neat and patient, waiting for a quieter hour.
+
+Theo had been still through all of it. Now he shifted, slid the dark glasses an inch down his nose to look over them with dry, restored amusement. "Right. Fair warning — the lift up's a coffin. They've redone the brass and it sounds like a haunting on the way up. Mind your nerves."
+
+"Theo." Jackie didn't turn her head. The single syllable carried reproach and affection in even measure.
+
+"I'm preparing her. It's kind."
+
+Ruby laughed — small, half a breath, but real — and Draco felt the last of the counted rhythm go out of her shoulders. He let his hand find the small of her back, low, the touch he was allowed in public, and turned them all toward the doorway.
