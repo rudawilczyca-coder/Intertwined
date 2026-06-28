@@ -185,11 +185,36 @@ She turned to answer him, half a smile breaking loose — and mid-turn drew the 
 
 ---
 
-## Where it pauses
 
-Ruby has just spent *I do love him* as testimony and glanced at Draco without reaching for him — the hand-distance still uncrossed (resolves later tonight, not this beat, per the locked plan). Theo has handed the floor back to Jackie and quietly logged the **second** scent-flinch: Ruby's dormant werewolf gene reacting to his vampire-proximity, rendered exterior-only, her interior untouched. **Loaded gun — his alone, unspoken.**
-
-**NEXT (Alice's serve):** does Jackie take the floor Theo passed her, or make Draco pay for *God knows why* first? And the *locked* mid-dinner **Robbie text** is still to land — Ruby hiding a flinch in front of an Auror and a vampire.
+Jackie gave Draco one look over the menu, like she wanted to say something but decided against it.   
+*You managed to make three people fall in love with you, one might think, you'd stop doubting the fact that you're worth being loved.* — She thought it in his direction, with a mixture of irritation and affection.   
+Then Theo said that Draco was paying and Jackie grinned at the pale man.  
+"In this case, I'm not going to hold myself off." She said to him, half-confidentially. "I'll eat for both of us, love."  
+Before anyone could say anything else, the waiter — a man with facial features that made him look ageless — came in and asked for their order.   
+Jackie ordered two different side dishes, a soup and a vindaloo with raita — which used to be Theo's favorite indian dish, and she intended to eat it, even if it burned her taste buds clean off.   
+Ruby ordered roasted veg, paneer halloumi and tandoor chicken, and Jackie couldn't help but notice that the girl opted for the *relatively* cheaper positions from the menu, as if she didn't want to splash out on Draco's expense. She quietly gave her a point in her mind. Not that she kept score. Definitely not.   
+"So, Ruby, did you read ACOTAR?"   
+Ruby looked at her, a flash of surprise in her eyes.  
+"Yeah…" It sounded careful, like she was worried about where this was leading to.  
+"In this case I have only one question. Are you team Gwynriel or Elriel?"  
+Ruby smiled, the first smile of the evening that looked genuine.  
+"Gwynriel, of course, because that's the only way we get Elucien."  
+Jackie's smile joined Ruby's.  
+"My girl." And it was like an invisible veil was lifted as both girls started debating details of ACOTAR and how Tamlin should be turned into a worm, and how ridiculous Nesta's trauma recovery arc was.
 
 ---
 
+
+Draco saw Ruby’s hand move down the menu before she chose. Not the hesitation of someone overwhelmed by options, not quite. The arithmetic of someone trying not to be expensive.
+
+He didn’t look at it too long. Looking too long would turn it into a thing, and Ruby had already brought enough fragile things to the table tonight.
+
+Instead he let his gaze pass once over the page and said to the waiter, with the mild authority of a man who had been trained from birth to make service invisible, “And rice for the table. Naan as well. Enough that no one has to be sensible.”
+
+Theo’s mouth twitched behind the rim of his untouched water glass.
+
+“There it is,” he said. “The aristocracy, used for bread.”
+
+“A rare public good,” Draco returned.
+
+The exchange was quiet enough not to interrupt the two women as the first real ease of the evening opened between them. It changed the air almost physically. One moment the table had been arranged around assessment — Jackie’s cool directness, Ruby’s careful bravery, Draco sitting beside the person he loved and across from the person whose fear he knew by heart. The next, both women had found a door in a wall and gone straight through it, leaving him and Theo outside with the menus and the emotional debris.
