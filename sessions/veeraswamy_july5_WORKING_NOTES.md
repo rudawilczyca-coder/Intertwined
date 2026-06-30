@@ -27,8 +27,10 @@ Sable scaffolds + voices Theo & Draco. Alice voices Jackie & Ruby, one at a time
 
 ## Where we pause / next serve
 
-Per scene file §"Where it pauses": Ruby has spent *I do love him* as testimony, hand-distance still uncrossed (resolves later tonight, locked). Theo has handed the floor back to Jackie and logged the **second** scent-flinch (his alone, unspoken).
+**UPDATE (2026-06-30):** §V completed since the last note — Alice's full "ask me anything" / two-side-dishes / ACOTAR-bonding block landed, plus Draco's "rice for the table" beat. Sable then added **§VI** — the **locked mid-dinner Robbie text** has now been written and landed (19:47/19:48, contrast beat against the girls' ACOTAR warmth). Theo logged it as the scent-flinch's **third** instance overall (lift, kerb-adjacent, now this), still unspoken, still unexplained to him. Draco read it as ordinary assessment-nerves — he does NOT know about Robbie. Theo handed the floor to Ruby with a deflection ("tell Jackie about Vincent and the cages") to cover the beat without naming it.
 
-**NEXT — Alice's serve (Jackie):** does Jackie take the floor Theo passed her, or make Draco pay for "God knows why" first? One line. Then Sable volleys back as Theo/Draco. Build beat by beat — never all four heads at once.
+Ruby has spent *I do love him* as testimony (§V), hand-distance still uncrossed (resolves later tonight, per Robbie Week — locked). Vex's dinner location still unconfirmed (open question, below).
 
-_Last updated: 2026-06-25, chatter-channel session._
+**NEXT — Alice's serve (Ruby/Jackie):** Ruby's exterior reaction to Theo's deflection — does she take the out and tell the Vincent story, or does something slip first? Jackie's free to react to whatever lands. One beat, then Sable volleys back as Theo/Draco. Keep alternating — never both girls and both boys in the same breath.
+
+_Last updated: 2026-06-30, continued by Sable._

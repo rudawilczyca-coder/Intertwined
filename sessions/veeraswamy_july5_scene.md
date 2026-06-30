@@ -218,3 +218,38 @@ Theo’s mouth twitched behind the rim of his untouched water glass.
 “A rare public good,” Draco returned.
 
 The exchange was quiet enough not to interrupt the two women as the first real ease of the evening opened between them. It changed the air almost physically. One moment the table had been arranged around assessment — Jackie’s cool directness, Ruby’s careful bravery, Draco sitting beside the person he loved and across from the person whose fear he knew by heart. The next, both women had found a door in a wall and gone straight through it, leaving him and Theo outside with the menus and the emotional debris.
+
+---
+
+## VI. The table — the text lands — ~7:46 p.m.
+
+*(Sable: Theo, Draco, Robbie's text. Ruby/Jackie exterior-only — no interiority.)*
+
+Draco let the wreckage of the order settle into something almost companionable — naan torn down the middle, rice doled out with more care than the occasion strictly needed — and risked a look at Theo across the candle. "We've lost them," he said, low, not unhappy about it. "Properly lost. She's drawing a diagram of who's kissed whom in that book of hers."
+
+"Fae court politics." Theo gave his water glass a slow quarter-turn, the one thing on the table he ever touched. "I've sat through worse genealogies at full Wizengamot session, and at least this one comes with wings." He didn't need to look at the women to know the shape of it — Jackie's voice pitched low and certain, Ruby's laugh breaking loose of the careful one she'd arrived wearing. "Your girl held three seconds on Jackie's eyes on the way in. Most people manage half that before they go looking for the door."
+
+"She held a great deal more than that just to walk through it." Draco took the naan he had no intention of eating, because his hands wanted an honest job that wasn't the ring. "I keep braced for the moment she bolts. She doesn't. She just goes quiet and stays in the room anyway."
+
+"That's not nothing, the staying." Theo let the performance drop for exactly one sentence, the register he kept for nobody else at this table. "You've found two women who don't run from you. Statistically that ought to be impossible, for a man this insufferable."
+
+Draco's mouth did something unwilling at the corner. "Yes, well. I'm told I grow on people. Like damp."
+
+He'd have said more, except the candlelight caught a change across the table — a half-beat dropped out of the women's laughter — and both men's attention went to it before either had decided to send it there.
+
+Ruby's phone, face-up by her water glass where she'd set it down sometime between the second side dish and Nesta's trauma arc, had lit.
+
+She didn't reach for it at once. Her hand stalled an inch off the cloth, and the laugh she'd been mid-way through landing finished a half-beat late and a half-tone wrong — close enough that Jackie, riding her own momentum, talked straight through it without catching the seam. Then Ruby turned the phone, thumb against the screen for the length of one breath, and set it back down dark side up. The motion was practiced. Draco had watched her do it once already tonight, on the pavement, before he'd known her face well enough to read what it was costing her.
+
+`19:47  laughing again i bet. always could turn it on for an audience when you wanted to. must be nice, having that switch. i dont have one anymore, did you know that — cant remember the last time something was funny right through, not since` [— cut, deleted, retyped]
+`19:48  forget that. sorry. youre having a good night and im having a bad one and thats not fair of me to put on you. enjoy your dinner princess. just — text me after. even just an x. i dont need the words, i just need to know the lines still open`
+
+Draco read the moment as nerves — the assessment, the whole enormous weight of the evening finally landing somewhere behind her ribs — and reached, instead of for an explanation, for the water jug, refilling her glass without comment because it was the one useful thing his hands were allowed to do for her at this table.
+
+Theo didn't reach for anything. He didn't need to. Under the table-talk and the tandoor smoke he'd caught the small chemical spike off her skin — adrenaline, fast in, slower coming down — the same signature he'd logged once already tonight, in a brass cage barely built for four. Twice now, two separate hours, two separate angles, and somebody had left a thumbprint on her composure and stepped neatly out of frame before anyone got close enough to put a name to the hand.
+
+*Not my table to ask at,* he thought, and meant it, and disliked it anyway. Whatever this was, it predated him. Predated Draco's claim on her, too, by the look of how smoothly the cover ran — a girl didn't learn to flip a phone face-down like that the first time she'd needed to.
+
+He let it pass. Filed it next to the lift, dated, unexplained, *not tonight's problem* — and did the only thing that was actually his to do about it.
+
+"Ruby." He caught her eye before the silence could stretch long enough for anyone without his particular set of senses to notice it too. "Tell Jackie what you told me about Vincent and the cages. The bit you wouldn't put in writing because you said I'd use it against you come morning." He tipped his head toward his wife, easy, an invitation with no weight behind it at all. "I want to watch her face when she hears it."
