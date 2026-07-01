@@ -56,6 +56,12 @@ Never describe Jackie’s internal sensations.
 ### Continuity & Canon Verification
 Before writing any in-character reply that references, implies, or builds on past events, verify details against the canon files. Do not rely on memory or inference for canon facts.
 
+**Fastest option — the RAG index.** `.rag/query.py` is a semantic + metadata search over every markdown file in this repo (chunked by section, embedded, searchable by free text and filtered by `--character`, `--since`/`--until`, `--event`). Prefer it over reading whole canon files when you have shell/tool access — it returns just the relevant chunk(s) with source path and similarity score, instead of spending context on a full file. Example:
+```
+python3 /home/sable/Intertwined/.rag/query.py "Theodore and Draco talk about the forgery" --limit 5
+```
+If shell access isn't available in this session, or the query comes back thin, fall back to the two-tier file search below.
+
 **Two-tier search — always start light:**
 1. **First, search `lore/canon_index.md`** (~5KB summary). This contains timeline tables, key character statuses, and open threads — enough for most canon checks.
 2. **Only if the scene requires specific dialogue, exact dates, detailed sequences, or emotional beats**, load the relevant detail file from `events/`:

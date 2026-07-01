@@ -7,3 +7,6 @@
 # OS / misc
 .trash/
 .DS_Store
+
+# Derived RAG index (semantic/metadata search) — not source
+.rag/
