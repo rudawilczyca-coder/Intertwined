@@ -33,4 +33,6 @@ Ruby has spent *I do love him* as testimony (§V), hand-distance still uncrossed
 
 **NEXT — Alice's serve (Ruby/Jackie):** Ruby's exterior reaction to Theo's deflection — does she take the out and tell the Vincent story, or does something slip first? Jackie's free to react to whatever lands. One beat, then Sable volleys back as Theo/Draco. Keep alternating — never both girls and both boys in the same breath.
 
-_Last updated: 2026-06-30, continued by Sable._
+**UPDATE (2026-07-02, overnight):** The ENTIRE EVENING was played live in the Telegram RP channel (2026-07-01) — dinner close, pavement (Jackie's hug, jealousy eased), Draco going home with Ruby, the hand taken (**locked inch-beat RESOLVED**), Charlie Mercer's first meeting with Draco, the hallway Robbie-reflex scene, "I love you" + the locked-door acceptance, Ruby's furious 9:45pm reply to Robbie, Carrie on VHS. Full record with canon artifacts appended to the END of `veeraswamy_july5_scene.md` — **read the "EVENING CONTINUATION" section + "STATE AT PAUSE" before resuming.** Next: finish Carrie / rest of the night (Alice's pace), then **Sat July 6 = DISCOVERY + BLOCK day (locked, Alice-confirmed).**
+
+_Last updated: 2026-07-02, overnight, by Sable._

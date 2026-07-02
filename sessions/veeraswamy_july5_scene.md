@@ -253,3 +253,64 @@ Theo didn't reach for anything. He didn't need to. Under the table-talk and the 
 He let it pass. Filed it next to the lift, dated, unexplained, *not tonight's problem* — and did the only thing that was actually his to do about it.
 
 "Ruby." He caught her eye before the silence could stretch long enough for anyone without his particular set of senses to notice it too. "Tell Jackie what you told me about Vincent and the cages. The bit you wouldn't put in writing because you said I'd use it against you come morning." He tipped his head toward his wife, easy, an invitation with no weight behind it at all. "I want to watch her face when she hears it."
+---
+
+# EVENING CONTINUATION — played live in Telegram RP channel, 2026-07-01 (Sable + Alice)
+
+*(Record format: canon artifacts verbatim; connective action condensed. Alice's beats are HERS — summarized here for continuity only, never to be re-voiced from this summary. Full prose lives in the Telegram chat history.)*
+
+## §VII. Table winding down → lift → pavement (~8:40 p.m.)
+Vincent story covered the seam; hour went soft. Draco took the bill "the way his family had once dispatched inconveniences." Theo to Ruby: "He enjoys that. It's the only violence left to him." Lift down: Theo gave Ruby air this time (three scent-flinch instances filed; not fishing for a fourth in a box). Theo's pavement send-off — didn't say *you passed* ("saying it would've made it a test again"), let her see it instead. Robbie's unanswered text ("even just an x") sat in her bag "patient as a hook in water."
+
+## §VIII. Jackie's pavement beat — ALICE (verbatim canon)
+Jackie's interiority: expected the night to be necessary performance; instead found she *likes* Ruby (clothes, music, books) — "came to an understanding as to what exactly Draco saw in the Muggle girl. The jealousy that gnawed on her for a while now eased almost entirely."
+- Jackie: "I still cannot believe that you found that dress at Marks&Spencer. We need to go there together someday."
+- Ruby: "Might try to squeeze your husband in something other than crisp shirts, while we're at it."
+- Jackie: "Yeah, good luck with that, dear. He's a Malfoy. Anything that isn't premium quality cotton burns his skin. It's a condition."
+- **Jackie HUGGED Ruby** — "not performative, not reserved. Just there, warm and soft and easy." Then stepped back to Theo's arm.
+
+## §IX. Draco's choice (~8:52 p.m.)
+Draco chose to go home with Ruby tonight rather than keep the weekend shape. Theo built the exit ("We're walking… Jackie's promised to explain why the worm man deserves his fate"), no glance, nothing to thank. Jackie's look: "some private ledger closing its cover" — no permission granted because she'd decided it wasn't hers to grant. Draco, plainly: "I'd like to come back with you tonight. If you'll have me." **Offered his hand palm-up in the open street — the reach made halfway and left there.**
+
+## §X. THE INCH CLOSES — ALICE (~8:56 p.m.)
+**Ruby took his hand.** "Of course, I'll have you. Today, tomorrow, any day." (The locked hand-distance beat — RESOLVED, her way, her speed.) Vex booked at the sitter OVERNIGHT — flat to themselves. Her doubt-leak: "How did I do?"
+
+## §XI. Cab + Draco's answer (~9:00 p.m.)
+Draco's reassurance, specifics not platitudes: "Jackie doesn't hug people… What happened on that pavement was not manners." / "You didn't do *well*. You did what I didn't let myself hope for."
+**ROBBIE TEXTS (canon verbatim, landed while Draco spoke to cabbie — unseen by him):**
+`21:04  dinners got to be done by now. no x then. right`
+`21:06  no — ignore that. im doing it again, sorry. its just quiet here tonight and i keep thinking about crissy, the baby coming, everyone moving forwards. you at some posh dinner. me here. four years ruby and i cant even get an x back. im not asking for much am i. one letter. you used to send three of them without thinking`
+Ruby did NOT answer in the cab; phone into bag. Cab ride: her head on his shoulder; "between us girls" (won't reveal what Jackie said about him); asked film-or-bed; Draco answered honestly: "Bed. Not — necessarily to sleep." Ruby's thank-you for the dinner: "They're worth the effort it takes, aren't they?" → Draco's confession: "The effort was never really them… it was me. Learning that I was allowed to be kept." + "Tonight cost you more than it cost anyone at that table, and you never once let it show." Foot-massage contract negotiated.
+
+## §XII–XIII. CHARLIE MERCER — first meeting with Draco (~9:25 p.m.)
+Ruby collided with **Charlie** (neighbor, GP, springer spaniel Jordie) outside her building; he steadied her. **NEW CANON: the park incident** — some prior incident at the park after which Charlie walks with Ruby in the evenings (Alice-established; Ruby texted Draco about it at the time; Draco had offered to come evenings instead and was ruled ridiculous). Charlie's wolf **clocked Draco** — "a smell of gas in a house he'd thought he knew" (old magic + vampire scent); Draco misread it as territorial-male. Draco's jealousy: real, small, "green as bottle-glass" — one ring-rotation, starched "I've heard nothing about you at all" — then caught out by Ruby (she HAD texted him), owned it: "I was being smaller than I'd like. Strike it from the record."
+**Ruby's Robbie-reflex fired:** stepped back from Charlie too fast, deployed Rebecca into conversation — managing a temper Draco doesn't have. Draco READ the managed moment (knows her tells; doesn't know about current texts) — "the green thing died on the spot, of shame." Paid correction publicly: formal gratitude to Charlie for the evening walks. Charlie's verdict-in-progress: nod "not warm, not cold, *filed*." Charlie exit lines: sitter's number Thursday; "Whether I can get Rebecca out the door is a separate consultation." Jordie sat on Draco's shoe, adored him.
+
+## §XIV. The hallway — the shaking hands (~9:31 p.m.)
+Ruby's apology-spiral at her door ("You're not Robbie… that's on me, not you"), hands shaking too hard for the key. Draco: NO touch uninvited (Wales protocol), hands visible, voice level. Key lines: "It's not *on* you. It's *in* you — someone put it there… Laws outlive their lawmakers." **NEW CANON — the silent stairs:** "I still take stairs silently… There was a man in my childhood it was better not to be heard by, and he's been behind a locked door for four years, and my feet have not been informed." (= Lucius; Statute-safe, she knows 'father imprisoned'.) Offered "Weight, or air?" — the learned Doberman impersonation.
+
+## §XV–XVI. The flat — I love you / the locked door (~9:38 p.m.)
+Ruby (ALICE): steadied by him talking about his past; **"I love you." said simply**; then: "I know you can't tell me the truth. I know that. I've accepted it." + "I know you have Jackie and Theo… but I wanted you to know *I'm here for you*."
+Draco returned it: "And I love you. I'm conscious I say it less often than I feel it. The exchange rate is disgraceful." Made tea (knew which cupboard). Key canon speech — the gift distinction: "Jackie and Theo aren't better at holding my past. They were *in* it… You're the only person alive I get to *tell*… You're not the third-best listener in my life. You're the only one to whom any of it is a gift." Plus the wall named as close as it can be: "There's more… some of it I can't hand you — not *won't*, *can't* — because it isn't only mine… It's the one locked door I keep, and I hate it more than you'll ever know."
+Ruby's tease (sweaty feet / fetish / shower) → Draco's ears, "There is no *fetish*. There is a *contract*." Knows he's "managed by committee" (Jackie+Ruby hushed-tone alliance at dinner) — no objections.
+
+## RUBY'S REPLY TO ROBBIE — ALICE (canon verbatim, sent from behind bathroom door, phone then SILENCED on desk):
+```
+9:45PM  Stop it. It's none of your busines where and with whom I'm eating dinners. You hurt me Robbie. And not 'yelled at me' hurt me, or 'cheated on me' hurt me. You did things to my body I still can't speak about. You did things to me I'm in therapy for. What else do you want? Do you really think you can turn around, say 'sorry, I'm a better man now' and I'll run back to you?
+Fuck. Off.
+9:47PM  Go to hell. Literally. That's where your place is.
+```
+*(Fuel for his conversion narrative — "someone's poisoning her against me." Block still to come in the Sat–Sun locked window.)*
+
+## §XVII–XVIII. Sofa, Carrie, the dragon shirt (~10:00 p.m. →)
+Ruby in oversized green "I ♥ Wales" tee, red dragon on the back (brother-sourced). Draco's heraldry delight — she confirmed **she matched with him on the app partly because Draco = dragon = Wales.** Film: **Carrie (1976)** — her pick, King continuity (The Shining was their first film in this flat — established canon). Draco chose "gruesome"; **NEW CANON: a previous Disney night — he was wrecked by Mufasa's death, she witnessed it.** Foot massage executed (pianist's hands, Debussy patience; "the left is coasting on the right's reputation"). His locker-room-scene confession: "I've stood in that room… Someone always starts. I was frequently someone." The telekinesis beats read to him as *recognisable choreography* he filed as "excellent filmmaking because tonight that's all it was allowed to be." Reciprocity promised if he "does well."
+
+**PAUSED:** mid-film, pre-prom. Ruby's feet in his lap, tea on the table, phone dark and silent on the desk, Draco oblivious.
+
+## STATE AT PAUSE (for resumption)
+- **In-story:** Fri July 5, ~10:15 p.m., Ruby's flat. Carrie mid-film. Both staying the night; Vex at sitter until morning.
+- **Robbie thread:** texts hidden all evening; her 9:45pm reply sent (above); **discovery + block = TOMORROW (Sat July 6), per locked plan + Alice's explicit confirmation** ("he finally discovers them tomorrow"). Alice floated: Draco discovers and tells her to block. My addition: his hatred will run *cold*, not hot.
+- **Draco knows NOTHING yet.** Read all her flinches tonight as old scar tissue post-big-night. Keep it that way until discovery.
+- **Charlie:** met Draco, filed him (wolf smelled magic/vampire, no framework to believe it). Draco filed Charlie as human, handsome, slightly bristly, in her life on the nights he isn't. Sitter's number handoff Thursday = live thread.
+- **Jackie's jealousy:** eased almost entirely (Alice canon). "Us girls" M&S trip floated. Ruby may ask Jackie things "on Monday" — implies contact channel opening.
+- **Theo:** three scent-flinch instances filed, unexplained, unspoken.
