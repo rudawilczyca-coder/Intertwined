@@ -38,7 +38,7 @@
 - **Jul 5 Fri — VEERASWAMY** (round table). Meets Jackie + Theo. **A Robbie text lands MID-DINNER and sours the vibe — LOCKED, still to write** (she hides a flinch in front of an Auror + a vampire).
 - **Jul 6–7** — weekend w/ Draco; **THE BLOCK** (converts him → persecution narrative: "someone's poisoning her against me").
 - **Jul 8–9** — her silence = his license; gets her street from a mutual; comes to London; watches from the Tube.
-- **Jul 10 or 11 — THE FLAT.** Door forced, "just want to talk." Ruby → bathroom, texts Draco. **The two promises collide:** Ruby's "don't engage him" vs Draco's "if he comes to your door, I won't stand against the wall." Vex factor UNDECIDED.
+- **Jul 11 Thu — THE FLAT (LOCKED + SCAFFOLDED → `sessions/the_flat_scene_scaffold.md`).** Vex ABSENT (her period day off; Charlie two floors up takes him for the Jordie playdate — Robbie watched the dog leave = premeditation). Door forced, "just want to talk." Robbie armed (butterfly knife on-page; gun optional socket), drunk-sharp, LOUD vulgar brute register (opposite of Draco's cold). **The two promises collide:** Ruby's "don't engage him" vs Draco's "I won't stand against the wall." Ruby → bathroom, texts Draco. Draco Apparates to the back alley **wandless — wand deliberately left behind so Ruby never has to be Obliviated**; calling Jackie out for the same reason. Scaffold ends: all three in the flat, resolution UNWRITTEN by design. ⚠️ Ministry/werewolf-carve-out branch (Charlie is a werewolf; Ruby dormant carrier) UNDECIDED — circle back before Thursday.
 - Hard constraint: **clear before the werewolf plot activates.**
 
 ## ROBBIE — TEXT VOICE (Sable writes them all)
