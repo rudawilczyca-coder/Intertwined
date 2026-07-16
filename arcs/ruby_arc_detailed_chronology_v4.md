@@ -1,5 +1,5 @@
 # Ruby Williams Arc — Chronological Summary (v4)
-*Updated through Monday night, July 1, 2002 — includes full Wales weekend + Haven House triad scene + post-sofa shower + full Primrose Hill walk*
+*Updated through midnight Saturday, July 6, 2002 — includes full Wales weekend, Primrose Hill, Veeraswamy, the Robbie-text discovery and Block, karaoke, and the walk-home proposal conversation*
 
 ---
 
@@ -342,19 +342,19 @@
 - **Transport: they WALK** the ~3 miles. Theo: *"You don't Apparate into a thing you love."* (Tube allowed for the way back.) He wanted them in *his* city — the part of the day the world only hands back to him after dark.
 - **Theo's reveal (new emotional beat):** asked how often he leaves the house while they sleep — *"Most nights. All of them, lately."* He walks nocturnal London **alone** every night (the river at 3am, the markets at 4, foxes, empty bridges) — a whole second city learned because his body never tires and his mind never switches off. Always home before they wake; never mentioned it ("ungracious — complaining about the one thing I'm freely given"). *"Often. Always. Alone."* Tonight is the first time he's sharing it; that's the whole reason he wanted them out.
 
-**Where it pauses NOW:** The three have just set out on foot into the warm, dark, lamplit city, heading for Primrose Hill, in no hurry. Theo has just opened up about his solitary nights. **NEXT:** the walk through nocturnal London → arrival at Primrose Hill.
+**Interim pause at time of play:** The three had just set out on foot into the warm, dark, lamplit city, heading for Primrose Hill. The continuation is recorded below.
 
 ---
 
-## THE ROBBIE ARC — LOCKED PLAN (July 1–11)
+## THE ROBBIE ARC — ORIGINAL LOCKED PLAN (July 1–11; status updated through July 6)
 
 **Robbie's self-narrative:** He's CHANGED. It was anger issues. Ruby was part of the problem. She's probably miserable without him. He is the romantic lead of his own story. **He NEVER gets POV — he only ever *arrives*.**
 
 **LOCKED TIMELINE (dates verified):**
-- **Mon July 1** — First text, unknown number. The "I've changed" performance — almost reasonable, hurt-tinged. NO menace. **Ruby hides it from Draco (LOCKED).** First secret.
-- **Tue 2 – Thu 4** — Escalation by degrees: reasonable → hurt → entitled → pressing. She keeps hiding.
-- **Fri July 5** — **VEERASWAMY** (99 Regent St, round table). Ruby meets Jackie + Theo. **A Robbie text lands MID-DINNER (LOCKED).** She is hiding a flinch in front of an Auror and a vampire.
-- **Sat 6 – Sun 7** — Weekend with Draco. Hiding gets heavier. **THE BLOCK happens in this window.** Block confirms his persecution narrative.
+- **Mon July 1** — **RESOLVED.** First text, unknown number, landed at 16:47. The "I've changed" performance was almost reasonable and hurt-tinged. Ruby hid it from Draco — first secret.
+- **Tue 2 – Thu 4** — **RESOLVED.** Escalation by degrees: reasonable → hurt → entitled → pressing. Ruby kept hiding the thread and suffered five nights of nightmares.
+- **Fri July 5** — **RESOLVED.** Veeraswamy; Ruby met Jackie + Theo. Robbie texted before and during dinner; Ruby hid every flinch.
+- **Sat July 6** — **RESOLVED.** Draco discovered and read the full thread; Ruby blocked Robbie at ~9:30 a.m.; evidence preserved; Gemma informed.
 - **Mon 8 – Tue 9** — Silence = his licence. Gets her street from a mutual (Crissy asked around). Comes to London. Watches from the Tube.
 - **Wed 10 OR Thu 11** — **THE FLAT.** Door forced. Ruby retreats to bathroom, texts Draco. The two promises collide. Vex factor: UNDECIDED.
 - **Hard constraint:** Arc must clear before the werewolf plot activates.
@@ -406,7 +406,86 @@
 
 ---
 
-## CURRENT STATE: Monday night, July 1 — Primrose Hill scene complete. Next session picks up Tuesday July 2 or jumps to Veeraswamy prep.
+## TUESDAY, JULY 2 – THURSDAY, JULY 4 — The Hidden Text Thread
+
+- Robbie's messages escalated by design: remorseful and almost reasonable at first, then hurt, entitled, and increasingly pressing. He framed persistence as proof of love and Ruby's silence as evidence that London or "the fella" had changed her.
+- Ruby kept the entire thread from Draco. The ordinary Draco texts and the Robbie messages ran side by side in her phone; Draco remained happy and oblivious at Haven House.
+- Ruby's body carried what she would not disclose: five consecutive nights of nightmares, hypervigilance, and increasingly practiced phone-concealment. She considered agreeing to one public meeting with Vex in order to contain Robbie and keep him away from her family.
+- Robbie learned about Draco and the Swansea grass collapse through Crissy. He used those details to demonstrate reach without stating a direct threat.
+- No full day-by-day prose was played for July 2–4; the escalation and Ruby's concealment are established retrospectively by the complete thread Draco reads on July 6.
+
+---
+
+## FRIDAY, JULY 5 — Veeraswamy & Ruby's Flat
+
+### Veeraswamy (~7:24–8:56 p.m.)
+
+- Ruby arrived in a black Marks & Spencer dress, already managing Robbie's pre-dinner texts behind a bright, careful smile. Draco recognized the smile but misread its cause as nerves about meeting his household.
+- Draco led the introductions as promised. Theo used his established chronic-illness cover and joked that he was "basically a vampire." Ruby's body recoiled from Theo's supernatural wrongness three times (lift, table, text-flinch aftermath) before her conscious mind had any framework for it; Theo noticed, filed it, and did not press.
+- Jackie opened directly: *"This is strange for both of us… ask me whatever you want."* Ruby asked why Jackie had agreed to meet her, then put the central truth on the table: *"I do love him, you know?"*
+- Jackie and Ruby found genuine common ground through ACOTAR (Gwynriel because it permits Elucien; Tamlin-to-worm policy). Jackie moved from assessment into real liking. Ruby chose comparatively inexpensive dishes; Draco quietly added rice and naan "so no one has to be sensible."
+- Robbie texted mid-dinner asking for "even just an x." Ruby's laugh landed late; Draco poured water and diagnosed nerves. Theo smelled the adrenaline spike, covered the seam by redirecting conversation, and kept the unexplained pattern to himself.
+- On the pavement, Jackie hugged Ruby without reserve and proposed a future Marks & Spencer expedition. Her jealousy eased almost entirely. Draco chose to go home with Ruby rather than preserve the usual weekend shape; Ruby took his offered hand and answered: *"Today, tomorrow, any day."* The careful inch between them closed on her terms.
+
+### Cab, Charlie & the hallway (~9:00–9:38 p.m.)
+
+- Robbie continued texting during the cab ride; Ruby kept the phone hidden. Draco told her the dinner's difficulty had never really been Jackie or Theo but his own fear that he was not allowed to be kept.
+- Outside Ruby's building, Draco met **Charlie Mercer** and Jordie. Charlie's wolf senses registered Draco as supernatural without a usable explanation; Draco misread Charlie as a territorial human rival, showed a brief jealousy, then owned and corrected it publicly.
+- Ruby reflexively managed Draco as though he might react like Robbie. Draco recognized the old law in her body and refused to make her apologise for it. At her door, with her hands shaking, he kept his own visible and offered: *"Weight, or air?"*
+- Draco disclosed the silent-stairs habit from childhood: there had been a man it was better not to be heard by; the man has been imprisoned for four years, but Draco's feet have not been informed.
+
+### The flat, the locked door & *Carrie* (~9:38 p.m. onward)
+
+- Ruby told Draco plainly that she loved him and accepted that there were truths he could not tell her. Draco returned it and distinguished her place in his life: Jackie and Theo were *in* his past, but Ruby is the only person to whom telling it can be a gift. He named the Statute-shaped boundary as one locked door he keeps and hates.
+- While Draco made tea, Ruby answered Robbie from behind the bathroom door: named the bodily abuse and therapy, told him to fuck off and go to hell, then silenced the phone without telling Draco.
+- In her oversized green **I ♥ Wales** shirt with a red dragon on the back, Ruby revealed she had partly matched with Draco because *Draco = dragon = Wales*. They began *Carrie* with her feet in his lap under the negotiated foot-massage contract.
+- Draco recognized the school cruelty as choreography he had once helped build. The Room-of-Requirement fire memory hit hard; Ruby chose not to pause. The jump-scare hand earned a full-body levitation and a truncated *"Merlin's—"*.
+
+---
+
+## SATURDAY, JULY 6 — Discovery, Block, Karaoke
+
+### *Carrie*, the Statute slips & the apology obligation (after midnight)
+
+- Draco accidentally said **Muggle**, **wand**, and **Merlin's—** aloud. Ruby questioned him directly. He built a technically true school-slang cover in seconds (Muggle = outsider/civilian; wand = conductor's baton), but Ruby consciously registered his withholding through scent and micro-movements for the first time. She extended credit rather than belief: *"Sure, posh boy. Whatever you say."*
+- Draco promised: *"One day I'll tell you about that school properly. All of it… it's owed."* Ruby admitted that at twelve she sometimes wished she could set a room on fire even if she burned with it. Draco answered that she is not twelve now and the door has people at it.
+- Asked whether he had ever apologised to his own "Carrie," Draco admitted he had not: there was no single victim but a career of cruelty, including a girl he called an unforgivable word, a round-faced boy he made into theatre, and a darkness with his family name on the letterhead.
+- Ruby rejected his theory that apologising would merely bill the injured person. **Canon obligation:** Draco will post an apology letter to the girl he called the word before the end of July and accept her verdict without appeal.
+- Ruby stated her forgiveness ethic: she forgives when guilt is admitted; Clary remains estranged because she will not acknowledge the hurt she caused. Ruby then slept badly, fighting the fifth night of Robbie nightmares while Draco blamed *Carrie*.
+
+### Discovery & confrontation (~7:30–9:30 a.m.)
+
+- Gemma phoned at 7:30. Draco answered from the hall rather than wake Ruby. When the call ended, the live screen exposed new messages from **ROBBIE**. Draco opened the thread accidentally, then deliberately read the entire week — inbox and sent — and later confessed the privacy breach without disguising it as concern.
+- Robbie's overnight/morning sequence reframed Ruby's anger as "the London mouth," undermined therapy, offered one final public hour under her rules, and mentioned seeing Gemma with the Corsa as proof he was "learning boundaries." Draco reconstructed every concealed flinch from the week. His hatred ran cold.
+- Draco staged the confrontation below Ruby's sightline, hands visible, phone dark. He led with *"I am not angry with you"* and invoked the symmetry: she had accepted a locked door the size of a house from him; he could extend her a drawer for one week.
+- Ruby disclosed the five nights of fear and her contemplated meeting. Her central wound: if she could not deal with Robbie alone, then perhaps she was as weak as he claimed. Draco asked who had written that exam and used his own failed seventeen-year-old attempt to fix catastrophe alone as evidence against the premise.
+- Draco identified the offered hour as a doorway, not closure: public space and Vex could protect the hour, not the year. He advised no meeting, an immediate block, deletion of nothing, family notification, and silence.
+- **The clause:** Ruby promised to tell Draco everything moving forward; he promised she would never again be the only person in the room when it hurt. If Robbie escalated, he would escalate against a household.
+- At ~9:30 a.m. Ruby blocked Robbie. The complete text record was preserved. Ruby informed Gemma and established the family garrison: observe, do not engage, assume danger; Gemma remained in Morriston rather than coming to London.
+
+### Reclamation of the day
+
+- Ruby proposed karaoke and Draco agreed before learning what it was. Their morning intimacy became the first explicit use of the reciprocity clause: Ruby led, Draco obeyed, and the emotional center was her trust in his word and consent. Afterward she lay with her scars openly visible for the first time since receiving them and did not care that he could see. Draco's answer: *"I see you. All of you. Still here."*
+- Draco reframed the Block: *"I don't think I told you to block him. I think you asked me to stand in the room while you remembered you were allowed to."* Vex returned at noon; Ruby's phone remained silent for the first full day.
+- Mrs Bao's matchmaking target is **Adrian Pucey**, not Blaise (retcon locked). Pucey is genuinely unattached and does not yet know he has an interview slot.
+
+### Children, karaoke & the walk home
+
+- On the walk to the pub, Draco said aloud for the first time that he wants children. He wants the Malfoy name given as a gift with no invoice attached. Ruby clarified that she meant Draco and Jackie; she cast herself as a future aunt, approved for sweets, inappropriate films, and alibis. Draco disclosed the three-year family pressure for an heir and that the household's children conversation stopped after Theo's health collapsed.
+- At karaoke, Draco sang **Iris** to Ruby as the answer to her Kent performance. The lyric *"I just want you to know who I am"* became the truest sentence legal in both his worlds. Ruby retaliated/gifted **Love Will Find a Way** as a duet; he took the second microphone. *Iris* is now their couple's song, forged in two halves. Danny's photographs of both performances exist.
+- Jess's "married by August" joke exposed Ruby's hidden wish for a proposal. On the walk home Ruby asked whether it was wrong to want one, knowing Draco could not offer it, and whether he could watch her accept one from someone else.
+- Draco said the want was good and the sight would hurt, but the hurt would be his to carry: *"The most expensive lesson of my life is the difference between loving something and holding it hostage."*
+- Ruby's declaration: *"I'd rather have weekends with you for the rest of my life than the proposal and the whole week with someone else."* She trusted him completely, with her life. Draco accepted the trust but refused to become a fortress; weekends remain hers without expiry, while the door stays available if something extraordinary ever knocks.
+- The nickname war ended in settlement: **dragon** is Ruby's name for him. The night closed with his arm offered, Vex occupying forty percent of the bed, and the blocked phone dark. **Saturday July 6 ended undefeated.**
+
+---
+
+## CURRENT STATE: Midnight Saturday, July 6 → Sunday, July 7
+
+- Sunday July 7 is unplayed and may be skipped.
+- Robbie is blocked; the full thread is preserved. Gemma and the family are alert. The silence is expected to convert his text campaign into a physical approach during the following week.
+- Ruby and Draco's disclosure clause is active: she tells him everything moving forward; she is never alone in the room when it hurts.
+- Next planned major beat: Robbie at Ruby's flat on Wednesday July 10 or Thursday July 11. At this chronology point, the outcome is not yet recorded here.
 
 ---
 
@@ -426,6 +505,10 @@
 - Can't spell "pigeons" (finally mastered it)
 - Called him first the night of the Thursday stalking — *"You were the first person I wanted"*
 - Sleeps still beside him (vs. usual restlessness — learned over multiple weekends, confirmed Wales)
+- Robbie resumed contact July 1 and spent the week escalating by text. Draco has read the complete incoming and sent thread, including the abuse Ruby named in her Friday reply.
+- Ruby hid the thread for five days and considered one public meeting because she feared Robbie would otherwise target her family. She blocked him July 6, preserved the evidence, and informed Gemma.
+- Ruby trusts Draco completely, "with my life," and would currently choose weekends with him over a proposal/full week with someone else. Draco sees the avoidance inside that choice and will not exploit it.
+- Ruby can take the lead sexually with Draco and values his exact obedience to consent and promises. Her scars were openly visible with him without shame for the first time since the abuse.
 
 ### What Ruby Knows About Draco
 - Full name, age (22 — birthday June 5; Ruby gave him the phone for it), from money/old family, went to boarding school in Scotland
@@ -447,21 +530,31 @@
 - "Good boy" is nuclear. Every time.
 - Theo is "basically a vampire" — read as a running joke / a clumsy way of describing his (fabricated) chronic illness. Cover story holds: PAD, Vitamin D deficiency, solar urticaria, Crohn's, drug-resistant insomnia. She felt sorry for him; pity, not suspicion.
 - **NEW (Wales):** Childhood was "formal, counted"; played a team sport (unnamed) where his father "equipped the whole side"; has a shared-dormitory past (five boys); first love kissed him at a gala; never heard of Titanic; inflated a balloon for the first time at Gareth's party; knows a roofer's word (zax) for reasons he can't explain
+- **NEW (July 5):** A man in Draco's childhood made silent stairs safer; that man has been imprisoned for four years, but the habit remains. Ruby knows there is one locked door of truth Draco says he *cannot* open because it is not only his.
+- **NEW (July 6):** Draco used *Muggle*, *wand*, and *Merlin's—* during *Carrie*, then supplied a boarding-school slang cover Ruby did not fully believe. He has promised to tell her about the school properly "one day"; the debt is explicit.
+- Draco wants children. Narcissa/family pressure requires an heir within three years of his April 2002 wedding; Ruby currently imagines herself as aunt, not mother.
+- Draco has committed to post an apology letter before the end of July to the girl he once called an unforgivable word.
 
 ### Unresolved Threads
 - **The Stalker:** Identity unknown (vampire, per wizarding side). No incidents since Thu June 20. Haven House monitoring.
 - **The "Yours" Parallel:** Draco said the same word to Jackie and Ruby. Only he knows. Dormant loaded gun. (Reinforced July 1: in the shower he *deliberately* did NOT use "Yours" with Jackie — chose "you have the original" instead, aware of the gun.)
 - **Jackie's Private Exit (Ruby-authored, dormant):** Jackie has privately decided she won't make Theo watch her age and die the way Filippo watched Elisabetta. Plan: she and Draco give Theo their best years, then "go on a trip one day and simply never come back" when the time is right. She has NOT told Draco (senses he'd agree). Theo and Draco catch only a flicker of hidden "arithmetic" behind her eyes — never the content. Surfaced July 1. Major dormant thread.
 - **Purple tab ×2:** Both unspoken. He holds them.
-- **The Dinner:** Friday, July 5, Veeraswamy. Jackie's resolve set but root fear (Draco leaving) not fully healed. Theo's medical cover prepped.
+- **Veeraswamy aftermath:** Dinner succeeded; Jackie genuinely likes Ruby and her immediate jealousy eased almost entirely. A Marks & Spencer trip was floated. Jackie's deeper fear of Draco leaving remains incompletely healed.
 - **The Grimoire:** Williams maternal-line attic, origin unknown, possibly real wizarding text. Draco couldn't ask. Dormant.
 - **Clary:** Called Tuesday (Germany). Gemma told only Ruby. "The door rusts shut."
-- **Charlie:** Night-walk neighbour. Probably benign; unvetted.
+- **Charlie:** Night-walk neighbour and GP; Draco has now met him. Charlie's wolf recognized supernatural wrongness in Draco without context. Draco misread him as human/territorial, corrected his jealousy, and remains unaware of the wolf.
 - **The Ceiling / Letting Her Go:** Jackie raised it may one day be kinder to release Ruby. Filed, not decided.
 - **The Sealed Annex:** Gareth heard. Draco will die first.
 - **Connor aftermath:** Removed from the group. Meg chose Ruby. Future dynamic uncertain.
 - **Ruby's werewolf/shapeshifter potential:** Future arc — dormant gene activated by vampire proximity (custom mechanics, not yet triggered).
-- **The Robbie Week:** IN PROGRESS. First text landed Mon July 1 at 16:47. Ruby hiding it from Draco. Four days of escalation ahead before Veeraswamy.
-- **The TV:** Purchase planned for Tuesday July 2 after work (Jackie + Draco). Haven House has no television.
+- **The Robbie Week:** Text phase resolved. Robbie blocked July 6; evidence preserved; Gemma informed. Expected next conversion: physical approach at Ruby's flat after silence removes his access.
+- **Disclosure clause:** Ruby tells Draco everything moving forward; she is never the only person in the room when it hurts. This will be tested by Robbie's physical approach.
+- **Draco's apology letter:** owed to Hermione-shaped unnamed victim; must be posted before end of July, verdict accepted without appeal.
+- **Draco's school truth:** full account promised to Ruby "one day"; Statute wall still intact but consciously perceived.
+- **Children:** Draco's desire spoken; triad conversation dormant since Theo's turning/illness; Narcissa's three-year clock active.
+- **Proposal / fortress tension:** Ruby would choose safe weekends over risking a stranger; Draco refuses to let safety become confinement. Door remains open in principle.
+- **Iris / Love Will Find a Way:** couple-song pair established; Danny's photographs exist.
+- **The TV:** Purchase was planned for Tuesday July 2 after work; no played resolution is recorded through July 6.
 - **Soul bond bidirectionality:** Unconfirmed (Intertwined-side).
 - **Theo's Prince of London presentation:** Active thread. Filippo/Ferrara door conflict identified (can't ask Filippo for guidance without revealing Ferrara deal). Pinned for next week. Theo has been unpresented in the Prince's Domain for ~1 year.
