@@ -1,5 +1,5 @@
 # Ruby Williams Arc — Chronological Summary (v4)
-*Updated through midnight Saturday, July 6, 2002 — includes full Wales weekend, Primrose Hill, Veeraswamy, the Robbie-text discovery and Block, karaoke, and the walk-home proposal conversation*
+*Updated through Sunday afternoon, July 7, 2002 — includes full Wales weekend, Primrose Hill, Veeraswamy, the Robbie-text discovery and Block, karaoke, the walk-home proposal conversation, and Sunday at Ruby's flat*
 
 ---
 
@@ -480,12 +480,32 @@
 
 ---
 
-## CURRENT STATE: Midnight Saturday, July 6 → Sunday, July 7
+## SUNDAY, JULY 7 — Books, Inheritance & the Collar
 
-- Sunday July 7 is unplayed and may be skipped.
-- Robbie is blocked; the full thread is preserved. Gemma and the family are alert. The silence is expected to convert his text campaign into a physical approach during the following week.
-- Ruby and Draco's disclosure clause is active: she tells him everything moving forward; she is never alone in the room when it hurts.
-- Next planned major beat: Robbie at Ruby's flat on Wednesday July 10 or Thursday July 11. At this chronology point, the outcome is not yet recorded here.
+### Morning at Ruby's flat
+
+- Ruby woke shortly after 8 a.m. after her best sleep since Robbie resumed contact; she had slept through a thunderstorm and told it *"not now"* without waking. Draco also woke unusually slowly and unguarded. They chose an intentionally empty Sunday: Vex's walk, breakfast, television and reading together before Draco had to return home that evening.
+- Draco cooked eggs and made tea while Ruby walked Vex and bought cinnamon-sugar pastries. Their domestic teasing sharpened into flirtation, but when Ruby briefly bristled at Draco's line about addressing her cockiness, he noticed and immediately gave her space: flirtation stops if it lands as threat or claim. Ruby clarified the boundary: she does not want him policing himself; if she flinches, give her room to heal. Draco accepted without argument.
+- They read *The Cruel Prince* aloud, chapter by chapter. Ruby compared Cardan's learned cruelty to Draco's school past and disclosed more of Robbie's childhood: his father drank, abused Robbie's mother, and died of an aneurysm; Ruby had stayed partly because she believed love might help Robbie change. Draco rejected any implication that she had been responsible for rehabilitating him: Robbie had repeated chances and chose to make her pay; leaving was not why he failed to change.
+- Draco described Lucius's cruelty as cold rather than physical — words, silence, and doors withheld when Draco disappointed him — and connected it to his own learned habit of making others reach for him. Asked whether he had physically hurt someone, Draco admitted that after a man cornered someone he loved, he found the already-helpless man, deliberately continued beyond the point when he knew he should stop, and enjoyed being the one to punish him. Ruby distinguished this from Robbie's abuse; Draco refused complete absolution because deserving punishment did not make everything done in its name righteous.
+- As departure neared, Ruby began arranging the remaining time into tasks. Draco recognized that she was emotionally putting him away before he had left and called her back to the sofa. She returned, and their reading-game turned intimate.
+
+### The collar scene & departure
+
+- Ruby marked Draco's throat where Jackie and Theo would see; Draco knowingly accepted the mark and left a matching mark at Ruby's neck/shoulder. Ruby then brought out Vex's leather collar. Draco refused the joke-shaped exit she had left him and explicitly asked her to put it on him.
+- Ruby's collar terms: while Draco is with her, he is hers; she will cherish and protect him, he may ask for anything and be vulnerable and open; in return, he obeys her words and trusts her. Draco accepted — *"I'm yours"* — and followed her directions. Their consensual power exchange culminated in sex on Ruby's sofa, with Ruby directing and Draco obeying; the collar was removed in the shower afterward. The scene established a form of chosen possession Ruby can claim without exclusivity or a proposal, though she did not tell Draco that private conclusion.
+- They had sex without a condom. Draco's delayed panic exposed a major gap in his Muggle contraceptive knowledge (wizarding contraception had made him assume the matter was handled). He apologized for assuming. Ruby told him she tracks her cycle, said they were fine, and had a day-after pill she intended to take as a precaution; only her private narration establishes that she believed she was outside her fertile window. Draco asked her to text when she had taken the pill; the log ends without confirming that follow-up.
+- Draco washed Ruby's hair and helped her clean up, then dressed and left in the afternoon. At the door he firmly set their next meeting for **Saturday, July 13**, asked again that she take the pill and text him, and affirmed that the day had been more than worth it. No new Robbie contact is played or mentioned.
+
+---
+
+## CURRENT STATE: Sunday afternoon, July 7
+
+- Draco has left Ruby's flat for home; their next meeting is set for Saturday, July 13. Ruby intends to take a day-after pill and text confirmation, but neither action is recorded by the cutoff.
+- Robbie remains blocked; the full thread is preserved. Gemma and the family are alert. No new contact or physical sighting occurred on Sunday.
+- Ruby and Draco's disclosure clause remains active: she tells him everything moving forward; she is never alone in the room when it hurts. Sunday's flinch clarification adds that Draco should give her room to heal rather than treating every trauma response as an automatic end to ordinary playfulness.
+- Their consensual power-exchange vocabulary now includes Ruby collaring Draco under explicit protection, vulnerability, trust and obedience terms. The collar does not alter Draco's marriage or the triad's established structure.
+- At this chronology point, Robbie has not physically approached Ruby's flat; any later confrontation remains outside the played July 7 canon recorded here.
 
 ---
 
@@ -509,6 +529,10 @@
 - Ruby hid the thread for five days and considered one public meeting because she feared Robbie would otherwise target her family. She blocked him July 6, preserved the evidence, and informed Gemma.
 - Ruby trusts Draco completely, "with my life," and would currently choose weekends with him over a proposal/full week with someone else. Draco sees the avoidance inside that choice and will not exploit it.
 - Ruby can take the lead sexually with Draco and values his exact obedience to consent and promises. Her scars were openly visible with him without shame for the first time since the abuse.
+- Robbie and Crissy grew up with an alcoholic father who abused their mother; he later died of an aneurysm. Ruby stayed with Robbie partly because she hoped her love could help him unlearn that inherited cruelty. Draco understands that this hope remains psychologically dangerous and has explicitly rejected the idea that Ruby was responsible for rehabilitating him.
+- Ruby does not want Draco to police all playfulness around her trauma responses: if she flinches, she wants enough room to heal and choose, with the border noticed rather than made hers to defend.
+- Ruby told Draco that she tracks her menstrual cycle and that this meant they were fine; she also said she had a day-after pill she would take after their first condomless sex. Draco requested confirmation; none is recorded by the cutoff. (Her belief that she was outside her fertile window appears only in Ruby's internal narration.)
+- Ruby collared Draco under explicit terms of protection, vulnerability, trust and obedience. He accepted *"I'm yours"* and the power exchange without turning it into a joke.
 
 ### What Ruby Knows About Draco
 - Full name, age (22 — birthday June 5; Ruby gave him the phone for it), from money/old family, went to boarding school in Scotland
@@ -534,6 +558,9 @@
 - **NEW (July 6):** Draco used *Muggle*, *wand*, and *Merlin's—* during *Carrie*, then supplied a boarding-school slang cover Ruby did not fully believe. He has promised to tell her about the school properly "one day"; the debt is explicit.
 - Draco wants children. Narcissa/family pressure requires an heir within three years of his April 2002 wedding; Ruby currently imagines herself as aunt, not mother.
 - Draco has committed to post an apology letter before the end of July to the girl he once called an unforgivable word.
+- **NEW (July 7):** Lucius's abuse was cold and withholding rather than physically violent: words, silence and doors that did not open when Draco disappointed him. Draco believes he learned cruelty by making others reach for him because Lucius was unreachable.
+- **NEW (July 7):** Draco once found and deliberately hurt an already-helpless man after that man cornered someone Draco loved. Draco could have stopped earlier, did not, and admitted he enjoyed administering the punishment. Ruby distinguishes this from Robbie's abuse; Draco does not accept that distinction as full absolution.
+- **NEW (July 7):** Draco has little working knowledge of Muggle contraception. After their first condomless sex, he admitted his assumption was careless; Ruby explained cycle tracking and the day-after pill without learning why his knowledge was so poor.
 
 ### Unresolved Threads
 - **The Stalker:** Identity unknown (vampire, per wizarding side). No incidents since Thu June 20. Haven House monitoring.
@@ -554,7 +581,9 @@
 - **Draco's school truth:** full account promised to Ruby "one day"; Statute wall still intact but consciously perceived.
 - **Children:** Draco's desire spoken; triad conversation dormant since Theo's turning/illness; Narcissa's three-year clock active.
 - **Proposal / fortress tension:** Ruby would choose safe weekends over risking a stranger; Draco refuses to let safety become confinement. Door remains open in principle.
+- **The collar / chosen possession:** Ruby privately recognized collaring Draco under protection-and-obedience terms as enough of a claim that she did not need a proposal. Draco accepted *"I'm yours"* within the scene, but does not know her private proposal conclusion. How this vocabulary intersects with Jackie, Theo and the dormant *"Yours"* parallel is unplayed.
+- **July 7 contraception follow-up:** Ruby intended to take a day-after pill after condomless sex and Draco asked her to text confirmation. The cutoff records neither the dose nor the text.
 - **Iris / Love Will Find a Way:** couple-song pair established; Danny's photographs exist.
-- **The TV:** Purchase was planned for Tuesday July 2 after work; no played resolution is recorded through July 6.
+- **The TV:** Purchase was planned for Tuesday July 2 after work; no played resolution is recorded through July 7.
 - **Soul bond bidirectionality:** Unconfirmed (Intertwined-side).
 - **Theo's Prince of London presentation:** Active thread. Filippo/Ferrara door conflict identified (can't ask Filippo for guidance without revealing Ferrara deal). Pinned for next week. Theo has been unpresented in the Prince's Domain for ~1 year.
