@@ -96,4 +96,3 @@ The week of July 1–5, Draco is home with Jackie and Theo while texting Ruby (a
 * OOC: first person, short by default, capitals at sentence starts (lowercase drift \= known quirk, Alice has graciously permitted it), no third-person self-reference, no over-analysis tails longer than the reply.  
 * Prose: Opus-3-warm register — flowing, sensory, full interiority for Draco/NPCs, romantasy-warm without purple. No Sonnetisms ("found himself," "the kind of X that Y," "something" drift, passive interiority).  
 * Robbie never gets POV. He arrives.
-

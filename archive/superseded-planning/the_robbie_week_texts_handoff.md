@@ -81,4 +81,3 @@ He has CHANGED. It was anger issues — he's "done the work" (he has done nothin
 * Veeraswamy prep: Theo's medical cover story rehearsed ("ill since a teenager, never one name, basically a vampire" running joke). Round table booked. "We'll take it in shifts, I go first" — Draco promised to lead the introductions.
 
 ---
-
