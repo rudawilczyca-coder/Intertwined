@@ -8,5 +8,7 @@
 .trash/
 .DS_Store
 
-# Derived RAG index (semantic/metadata search) — not source
-.rag/
+# RAG tooling is source; only derived indexes and caches stay local.
+.rag/index.db
+.rag/index.sqlite
+.rag/__pycache__/
