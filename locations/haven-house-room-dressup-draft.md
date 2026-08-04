@@ -139,4 +139,44 @@ The deck is therefore both a destination and a route. Drinks can come directly f
 
 ---
 
+## Third floor
+
+### Topology and circulation
+
+The third floor is divided into two principal rooms at opposite ends of the house, with the staircase, landing, and bathroom between them. Jackie’s bedroom occupies the broad garden-facing rear. The library and music room fills the street-facing front, including the bay window. Both open independently from the landing; neither is used as a passage to the other.
+
+The bathroom sits beside Jackie’s bedroom and has two entrances. One door opens directly from the bedroom, allowing it to function as her ensuite; the other opens from the landing, so it remains accessible without crossing her private room. The landing door and bedroom door are separate and should not be collapsed into a single entrance in narration.
+
+The main staircase continues through the right-hand side of the floor, rising from the parlour floor below and turning upward toward the fourth floor. From the landing, the library lies toward the street-facing front and Jackie’s bedroom toward the garden-facing rear. Closed doors give both rooms meaningful privacy, but piano music and louder voices can still carry into the stairwell and between floors.
+
+### Jackie’s bedroom
+
+Jackie’s bedroom is the largest private room on the floor, long and garden-facing, with two rear windows. A large king-sized bed stands in the right half of the room, its headboard against the right wall. A nightstand sits on either side. The placement leaves open floor around the foot and left side of the bed rather than forcing movement through a narrow channel.
+
+A large wardrobe runs along most of the left wall. It is substantial built-in storage rather than a small freestanding cupboard, positioned opposite the bed and extending toward the bedroom door. At the far rear, between the two windows and slightly toward the right, a vanity and stool create a separate dressing space with natural light. The vanity does not replace the wardrobe; it holds the smaller, daily rituals that do not belong behind the wardrobe doors.
+
+The room’s principal route runs from the landing door around the foot of the bed. From there, one direction leads to the wardrobe and windows; the other reaches the nightstands and vanity. A second door near the inner end of the room opens directly into the bathroom. Neither the bed nor wardrobe obstructs that route.
+
+The bedroom is private without being austere. Its scale allows the king-sized bed to dominate without consuming the room, while the wardrobe, paired nightstands, and vanity make it unmistakably inhabited rather than an elegant spare room. The two nightstands also make the bed’s shared use architecturally explicit, even though the room remains Jackie’s territory within the house.
+
+### Ensuite bathroom
+
+The bathroom occupies the central-left portion of the floor between Jackie’s bedroom and the library. It is a full bathroom with a large bath, separate enclosed shower, toilet, and basin. The bath occupies the broad central section; the shower is tucked into the lower-left recess, with the remaining fixtures arranged around the clear floor between the two doors.
+
+Its defining feature is dual access. The bedroom door makes it Jackie’s ensuite in daily use, while the landing door allows Theo, Draco, or a guest to enter without walking through her bedroom. Someone using it from the landing can therefore preserve Jackie’s privacy, and someone moving between bedroom and bath can remain entirely within her private suite. Locks and household convention prevent the two-door arrangement from becoming accidental theatre.
+
+### Library and music room
+
+The library and music room occupies the full street-facing front of the floor. Floor-to-ceiling bookshelves cover nearly every usable stretch of wall: along the left side, around the upper recess near the landing, down the right wall, and across the shorter interior sections that can take shelving without blocking doors or windows. Two long freestanding bookcases stand through the centre of the room, parallel to its length, creating loose aisles without walling the room into narrow stacks.
+
+An upright piano and its bench stand against the left wall near the room’s inner end, close to the landing door but clear of its swing. The placement leaves the larger front half of the room for reading and keeps the bay from becoming a performance stage. Piano music travels readily through the open room and into the stairwell when the door is open; with the door shut, it remains audible but softened through the house.
+
+The street-facing bay holds three individual armchairs rather than a sofa. Jackie’s chair sits to the left, Draco’s in the centre, and Theo’s to the right. All three face back into the library at a slight angle while remaining close to the windows and one another, creating a conversational group that can also support three people reading in companionable silence. Their arrangement gives each person a habitual place without ranking one as the head of the room.
+
+The library’s centre shelves hold much of the collection while preserving sightlines around and between them. From the armchairs, a person can see into the central aisles and toward the piano; from the doorway, the shelves partly reveal and partly screen whoever is sitting in the bay. The room can therefore feel occupied before the occupant is fully visible—a page turning beyond a bookcase, the end of a piano phrase, or a familiar voice coming from the windows.
+
+This is both a serious working library and the house’s shared quiet room. The bookshelves give it density and age; the piano gives it another language; the three armchairs make clear that solitude here does not necessarily mean being alone. Unlike the formal dining room below, the library’s order exists to make lingering possible. Books may be consulted, played beside, argued over, or left open on an arm while the conversation becomes more important than the page.
+
+---
+
 *Next floor to be added after its annotated dress-up plan is approved.*
