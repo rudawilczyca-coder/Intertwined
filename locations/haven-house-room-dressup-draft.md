@@ -95,4 +95,48 @@ The transition is deliberately porous. Pots can migrate outside in suitable weat
 
 ---
 
+## Parlour floor
+
+### Topology and circulation
+
+The parlour floor is the principal domestic and social level of Haven House. The front door opens into a small foyer at the street-facing end. The dining room occupies the broad front room beside it, while a long side corridor runs past the dining-room wall toward the central staircase and the rooms at the rear. A coat rack stands near the foyer partition; opposite it, a narrow side table and mirror make a practical place for keys, gloves, and the last check before leaving the house.
+
+The kitchen occupies the narrow middle section beyond the stairs and opens from the corridor. It is not a passage between the dining room and living room: each room has its own entrance from the circulation route. The living room fills the garden-facing rear of the floor and opens through glazed double doors onto the deck. From the deck, an exterior spiral staircase descends to the lower patio and garden-floor herbary entrance.
+
+This arrangement keeps formal arrivals at the front and the household's most relaxed territory at the rear. A visitor can be taken directly into the dining room without crossing the kitchen or living room; someone moving through the house can pass the dining room, stairs, and kitchen before entering the living room or stepping outside. The long corridor and central stairwell carry voices between rooms more readily than the closed walls do, while the rear doors bring garden sounds into the living room when open.
+
+### Dining room
+
+The dining room occupies the street-facing front of the floor, with a broad bay window holding the room's large oval table. The table is sized for the household and guests rather than intimate meals alone. Its position gives everyone seated around it the best of the front light and leaves space to circulate between the bay, the cabinet, and the doorway from the foyer.
+
+A display cabinet holds fine china brought from Nott Manor. The pieces are expensive, old, and almost never used. Their presence is less about practical dining than continuity: an inheritance removed from the Manor and made part of Haven House without requiring the new household to reproduce the old one's rituals. Behind glass, the china remains immaculate and visible—claimed, preserved, and largely spared the indignity of actual dinner.
+
+The room is the most formal on the floor, but not a museum. The table can carry ordinary meals, paperwork displaced from downstairs, or enough food and wine for friends who have stayed past the point of ceremony. The cabinet gives the room inherited grandeur; the coat rack and foyer just beyond its door keep it attached to daily life.
+
+### Kitchen
+
+The kitchen is a compact galley in the middle of the floor, entered from the side corridor. Cupboards and work surfaces run along both walls, keeping the centre clear as a narrow working aisle. Along the principal appliance run, the refrigerator stands toward the front; farther along are the sink and the stove immediately beside it. Storage above and below keeps cookware, ingredients, and the less glamorous machinery of feeding three people within reach.
+
+A small table fits at the rear end of the room. It is better suited to coffee, a hurried breakfast, or one person keeping another company while they cook than to a formal meal; the dining room is only a short walk away when the household needs space. Because the kitchen does not connect directly through to either neighbouring room, cooking smells and conversation escape chiefly into the corridor when the door is open rather than turning the kitchen into a route everyone must cross.
+
+The room is practical rather than showy. It can support Draco's precision, Jackie's improvisation, and Theo's presence without pretending they approach food or domestic work in the same way. Its scale makes avoidance difficult when two people are working at once: they must negotiate the same aisle, the same counters, and the stove beside the sink.
+
+### Living room
+
+The living room occupies the full garden-facing rear of the floor. A decorative fireplace stands along the left wall; unlike the office fireplace below, it is not connected to the Floo Network. Bookshelves continue along the lower-left section, keeping frequently read and casually abandoned books in the room where people actually settle with them.
+
+A velvet sofa runs along the right side, facing inward toward a central coffee table and the fireplace side of the room. Two separate armchairs complete the seating group. Theo's stands nearer the kitchen-side entrance; Jackie's sits closer to the deck doors. Their placement creates distinct habitual territories without turning the room into three isolated stations: anyone in either chair can speak easily to the sofa, see the centre of the room, and remain part of whatever is happening there.
+
+Built-in storage occupies part of the right wall. Near the glazed doors to the deck, a low cabinet serves both as a side table and as the household's liquor cabinet. Bottles and glasses are kept inside rather than displayed across the room, close enough to the seating and deck to make pouring a drink easy without making alcohol the room's visual centre.
+
+The room is Haven House at its least formal. The dining room faces visitors and inheritance; the living room faces the garden and the people who already belong. From the sofa and chairs, the rear glass brings in the deck, weather, and movement outside. With the doors open, conversation can spill onto the deck; with them closed, the room becomes a contained refuge at the farthest point from the street entrance.
+
+### Deck
+
+Glazed double doors open from the living room onto the raised rear deck. A table and chairs make it an outdoor extension of the living space rather than merely a landing. It looks over the narrow rear garden and the lower patio outside the herbary, with the iron spiral staircase descending along one side to connect the parlour and garden floors without requiring anyone to cross the interior stairs.
+
+The deck is therefore both a destination and a route. Drinks can come directly from the liquor cabinet beside the doors; meals can be carried from the kitchen along the corridor and through the living room; someone working in the garden or herbary can come up by the spiral stair. Voices on the deck carry down toward the patio and garden more easily than into the street-facing rooms, while the living room remains immediately visible through the glass.
+
+---
+
 *Next floor to be added after its annotated dress-up plan is approved.*
