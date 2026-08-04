@@ -64,6 +64,7 @@ SillyTavern merges all active World Info books into one pass, so we split by **l
 | Book | File | Builder | Lifespan |
 |---|---|---|---|
 | **Main / world** | `lorebook_intertwined.json` | `build_lorebook.py` | durable — the standing world |
+| **Haven House** | `lorebook_haven_house.json` | `build_haven_house_lorebook.py` | durable — spatial topology and interiors |
 | **Ruby arc** | `lorebook_ruby_arc.json` | `build_ruby_arc.py` | **episodic — retire when the arc ends** |
 
 **The Ruby-arc book is deliberately separable:** the blow-by-blow chronology only matters while the arc is live. When it resolves, **disable that book** and drop a one-paragraph summary into the main one — no surgery on the main book. (Wales-weekend events live in the arc book for this reason, not the main book.)
