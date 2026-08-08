@@ -120,6 +120,11 @@ _MONTH_DAY_YEAR = re.compile(
     r"\b(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{1,2})(?:st|nd|rd|th)?,?\s+(\d{4})\b",
     re.I,
 )
+_MONTH_RANGE_YEAR = re.compile(
+    r"\b(january|february|march|april|may|june|july|august|september|october|november|december)\s+"
+    r"\d{1,2}(?:st|nd|rd|th)?\s*[–—-]\s*\d{1,2}(?:st|nd|rd|th)?,?\s+(\d{4})\b",
+    re.I,
+)
 _ISO = re.compile(r"\b(\d{4})-(\d{2})-(\d{2})\b")
 _MONTH_DAY = re.compile(
     r"\b(january|february|march|april|may|june|july|august|september|october|november|december)\s+(\d{1,2})(?:st|nd|rd|th)?\b",
@@ -171,6 +176,25 @@ def file_year_hint(path, text):
     if m:
         return m.group(1)
     return None
+
+
+def chunk_year_hint(text, fallback_year=None):
+    """Prefer a year stated inside the chunk over a file-wide fallback.
+
+    Omnibus timeline files span multiple years, so their first dated event is
+    unsafe as the fallback for later bare ``Month Day`` headings.  Section
+    headings such as ``March 10–30, 2002`` provide the correct local year.
+    """
+    m = _MONTH_DAY_YEAR.search(text)
+    if m:
+        return m.group(3)
+    m = _MONTH_RANGE_YEAR.search(text)
+    if m:
+        return m.group(2)
+    m = _ISO.search(text)
+    if m:
+        return m.group(1)
+    return fallback_year
 
 
 # ---------------------------------------------------------------------------
@@ -280,7 +304,10 @@ def chunk_file(path, text):
             else:
                 embed_text = piece.strip()
             chars = extract_characters(embed_text)
-            dates = extract_dates(embed_text, fallback_year=year_hint)
+            dates = extract_dates(
+                embed_text,
+                fallback_year=chunk_year_hint(embed_text, year_hint),
+            )
             chunks.append({
                 "path": path,
                 "title": title,
