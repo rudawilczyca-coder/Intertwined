@@ -22,6 +22,49 @@ arc together; Jackie remains Ruby's exclusively.*
   Theo's death, and his turning. The return therefore carries history before
   anyone says a word.
 
+## Paris hotel — 2002 guardrails
+
+The live conversation has narrowed Paris to a real delayed honeymoon for
+Jackie and Draco, August 6–10, with Theo joining at the Fontainebleau grounds
+after sunset. The exact hotel still belongs to their planning conversation,
+but the historical comparison now has a firm floor:
+
+- **Le Meurice is the cleanest period-faithful Draco choice.** It reopened in
+  July 2000 after an extensive two-year renovation, so August 2002 catches it
+  freshly restored in its classical/Louis XVI register. Philippe Starck's
+  Salvador Dali-inflected public-room redesign came in 2007; don't import that
+  look backward. Tuileries-facing rooms and the Rue de Rivoli position are
+  safe; a named 2026 suite category is not yet safe.
+- **Hotel du Louvre was a different hotel from today's Hyatt interior.** The
+  pre-renovation Concorde inventory was 177 rooms in eight styles: 51 Deluxe,
+  38 Junior Suites, six Suites, and the Pissarro Suite, with views toward the
+  Louvre, Comedie-Francaise, Palais-Royal, and Opera. This makes it the strongest
+  cultured/city-embedded alternative, but modern post-2019 photographs must
+  not be used as 2002 room evidence.
+- **Hotel Regina was grand but not yet five-star.** In 2002 it was the
+  family-run Belle Epoque hotel opposite the Tuileries/Louvre and had just
+  appeared in *The Bourne Identity*. Its ambitious renovation and fifth star
+  arrived in 2015, so today's room count, category names, pale refurbished
+  interiors, and Eiffel Tower Suite imagery are unsafe period evidence.
+
+Working verdict: if Draco chose the hotel as a deliberate honeymoon gesture,
+Le Meurice has both the strongest character fit and the least historical
+guesswork. Hotel du Louvre remains the better choice only if the concealed
+Louvre/city texture should outrank Malfoy-scale courtship.
+
+Research trail (checked 2026-08-09):
+
+- <https://grandhotelsoftheworld.com/meurice/> — July 2000 reopening; 2007
+  Starck redecoration chronology
+- <https://www.dorchestercollection.com/paris/le-meurice/about> — official
+  confirmation that the Starck collaboration began in 2007
+- <https://www.concordehotels.online/louvre-en/id-hotel-16302170.html> and
+  <https://www.concordehotels.online/louvre-en/id-hotel-16200000.html> —
+  pre-renovation Hotel du Louvre inventory, category counts, views, and eight
+  room styles
+- <https://www.regina-hotel.com/en/page/125-years-old-5-star-hotel-paris-1.5632.html>
+  — official Regina chronology for the 2015 renovation and fifth star
+
 ## The heir talk — canon already on the table
 
 - Narcissa imposed an heir demand on February 27, 2002: heirs within three
