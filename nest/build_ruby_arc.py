@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """Build the RUBY ARC SillyTavern World Info JSON (a SEPARATE lorebook).
 
-Why separate: the Ruby Williams arc is episodic. This book holds the
-blow-by-blow chronology so it fires only while the arc is live; when the arc
-resolves, disable/retire this whole book and drop a one-paragraph summary into
-the main lorebook instead. No surgery on the main book required.
+RETIRED: the Ruby Williams arc concluded July 26, 2002. This builder is kept
+only as provenance for the disabled historical lorebook. Durable arc canon now
+lives in Book Nine of lore/past_events_bible_updated3.md and one compact entry
+in the main Intertwined lorebook.
 
 Design: each chronology beat = ONE atomic, keyword-fired entry (cooldown 8).
 Events are referenced sporadically rather than held continuously (the way a
@@ -27,7 +27,7 @@ def entry(keys, content, comment, **over):
         "uid": _uid, "key": keys, "keysecondary": [], "comment": comment,
         "content": content, "constant": False, "vectorized": False,
         "selective": False, "selectiveLogic": 0, "addMemo": True, "order": 100,
-        "position": 4, "disable": False, "excludeRecursion": False,
+        "position": 4, "disable": True, "excludeRecursion": False,
         "preventRecursion": True, "delayUntilRecursion": False, "probability": 100,
         "useProbability": True, "depth": 4, "group": "", "groupOverride": False,
         "groupWeight": 100, "scanDepth": None, "caseSensitive": False,
@@ -263,9 +263,9 @@ entry(
 )
 entry(
     ["Primrose Hill", "Prince of London", "Filippo", "Ferrara", "the C minor melody"],
-    comment="17 · The Primrose Hill walk (current edge)",
+    comment="17 · The Primrose Hill walk (historical)",
     content=(
-        "[THE PRIMROSE HILL WALK (Mon 1 July, ~9:30PM — the current edge of canon) — the Prince of "
+        "[THE PRIMROSE HILL WALK (Mon 1 July, ~9:30PM — historical Ruby Arc beat) — the Prince of "
         "London thread opened: Theo must be presented to the Camarilla Prince (a fledgling is a "
         "liability; he's been unpresented ~a year), tangled in the Filippo/Ferrara conflict (he "
         "can't ask Filippo for guidance without exposing the secret Ferrara deal that was paid in "
@@ -277,9 +277,9 @@ entry(
 )
 entry(
     ["the Robbie arc", "the Robbie Week", "the Block", "the flat", "the first text"],
-    comment="18 · The Robbie Week — locked plan",
+    comment="18 · The Robbie Week — superseded plan",
     content=(
-        "[THE ROBBIE WEEK — LOCKED PLAN (1-11 July, in progress) — Robbie's self-narrative: he's "
+        "[THE ROBBIE WEEK — SUPERSEDED PLAN (1-11 July; retained as provenance) — Robbie's self-narrative: he's "
         "'changed,' it was 'just anger,' Ruby was 'part of the problem'; he never gets POV — he "
         "only arrives. Locked beats: Mon 1 July 16:47, the first text from an unknown number, "
         "which Ruby HIDES from Draco (her first secret); Tue-Thu escalation; Fri 5 July a text "
@@ -291,7 +291,7 @@ entry(
 )
 
 book = {"entries": entries}
-with open("/home/user/Intertwined/nest/lorebook_ruby_arc.json", "w") as f:
+with open("/home/sable/Intertwined/nest/lorebook_ruby_arc.json", "w") as f:
     json.dump(book, f, indent=2, ensure_ascii=False)
 
 print(f"Wrote {len(entries)} Ruby-arc event entries (cooldown 8 each).")

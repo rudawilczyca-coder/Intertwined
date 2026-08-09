@@ -238,7 +238,7 @@ Three things happened on February 20th.
 - **Narcissa's heirs demand** — three-year clock active from February 27, 2002
 - **Soul bond status** — restored Feb 2, but bidirectional function unconfirmed
 - **Theo's new continuity** during Malice control — significance unknown
-- **The Ruby Arc** — **ACTIVE / UNFINISHED.** Draco's relationship with Ruby Williams (Muggle, met via dating app post-Liverpool). Deepened May–June 2002: "I love you" exchanged (Kent, June 22), the Williams family weekend (Wales, June 29). Triad now read in: Jackie's jealousy surfaced & was partially addressed (June 24), ground rules set, meeting dinner locked for **July 5 (Veeraswamy)**. Live sub-threads: the **"Yours" parallel** (Draco said it to both Jackie & Ruby — only he knows); Jackie's unhealed fear of Draco leaving (rooted Jan 2000); the question of whether the relationship has a sustainable ceiling; the unidentified vampire stalker; Ruby's dormant shapeshifter potential. **Ongoing — not resolved.**
+- **The Ruby Arc** — subsequently completed through July 26, 2002; canonical consolidation is Book Nine in `lore/past_events_bible_updated3.md`. The “Yours” parallel remains dormant.
 - **Drake Lightwood** leverage via Albion Maritime filing — not yet activated
 
 ---

@@ -1,5 +1,5 @@
 # Jackie's Story: Canon Index
-**Full Timeline: 1994 – mid-April 2002**
+**Full Timeline: 1994 – July 26, 2002**
 
 Use this index to find specific events without loading the full bible. Each book section links to its detail file — only load those when specific dates, dialogue, or sequences are load-bearing for the scene.
 
@@ -120,6 +120,19 @@ Use this index to find specific events without loading the full bible. Each book
 | Early April | The Wedding — nightfall ceremony; midnight blue dress; Draco in white; Polyjuice-Theo as Eli; Blaise as Best Man; Pansy as Maid of Honour; Genevieve, Vivienne, Margaux attend |
 | Mid-April | The Liverpool Raid — full team; Malice invoked by full name; deployed with consent; Voss dismantled (13 minutes, alive and conscious); Finite — voluntary retreat, no spell; Theo resurfaced with bullet in ribs; Draco extracted on corridor floor; 4 fledglings extracted; warehouse destroyed via Fiendfyre; Dante's name on 3 shipping manifests |
 
+### BOOK NINE: THE RUBY ARC (May – July 26, 2002)
+→ `lore/past_events_bible_updated3.md` → Book Nine
+
+| Period | Key Events |
+|--------|------------|
+| May–June | Draco meets Ruby Williams through Jackie's dating profile; ordinary Muggle courtship deepens beneath the Statute secrecy; love exchanged; Kent and Wales family weekends |
+| July 1–7 | Robbie's escalating messages; Veeraswamy dinner; Block; karaoke and proposal conversation; books and collar scene |
+| July 11 | Robbie forces Ruby's door; Draco saves her wandless but magic is exposed; Ruby learns she never consented to the relationship's memory-erasure rules and sends him away |
+| July 12 | Charlie reveals himself as werewolf pack alpha; Obliviators discover Ruby's dormant hereditary lycanthropy; Being classification preserves all her memories |
+| July 12–21 | Ruby refuses contact; Jackie invokes Ruby's scars and is expelled; Haven House rupture; Jackie apologises to Draco July 18 |
+| July 22–25 | Four-night questions-game text thread; Ruby survives first moon July 24; no-contact goodbye “I love U”; Draco's “I love you” bounces unread |
+| July 25–26 | “To Home” blood-and-wine toast; Genevieve sends three World Cup final tickets and counts Theo in writing; Jackie and Draco plan Paris before Fontainebleau |
+
 ---
 
 ### KEY CHARACTER REFERENCE
@@ -129,7 +142,7 @@ Use this index to find specific events without loading the full bible. Each book
 - **The Malice:** Stable, fed, has a moral code (hunts predators only); obeys *Finite* voluntarily as of Liverpool Raid; acknowledged Draco as "interesting"; His buried whisper to Jackie (*"Next time I won't be angry. And he can't fight this when it's love"*) — Theo does not know
 - **Soul bond:** Bidirectional (activated April 2001); snapped when Jackie left London airspace (Jan 28); restored on return (Feb 2); status unresolved post-arc
 - **Safewords:** Pax (slow), Finite (stop) — established July 2001; the Malice obeys because Jackie proved she could hurt Him; *Finite* obeyed voluntarily at Liverpool Raid
-- **Haven House:** Notting Hill, London; sun-proofed; three-person household (Jackie, Theo, Draco) + Luna the Kneazle. *(Note: Pansy & Blaise stayed Feb 21–post-Liverpool during the investigation; both have since moved out — see below.)*
+- **Haven House:** Notting Hill, London; sun-proofed; three-person household (Jackie, Theo, Draco) + Luna the Kneazle. The herbary door retains the July 2002 knife scar. *(Pansy & Blaise stayed Feb 21–post-Liverpool during the investigation; both have since moved out.)*
 - **Pansy Parkinson:** Currently in **France** (took up Genevieve Lavigne's post-wedding position). Stayed at Haven House Feb 21 onward during the Liverpool investigation; no longer resident. Imogen Parkinson (trafficking victim) is her first cousin once removed.
 - **Blaise Zabini:** Lives in **his own flat**; visits Pansy in France occasionally. Stayed at Haven House during the investigation; no longer resident. Operational partner on the Liverpool investigation.
 - **Genevieve Lavigne:** Active in family affairs; paid Malfoy war reparations in full; attended the wedding; 1987 debt to Narcissa (basilisk venom) acknowledged
@@ -137,17 +150,25 @@ Use this index to find specific events without loading the full bible. Each book
 - **Ferrara (Cosimo):** Contracted vessel arrangement active at Haven House; Camarilla political backing secured (three Primogen debts)
 - **Dante:** Three shipping manifests from Liverpool Raid. Fingerprints in the operation's legal architecture. Not yet actionable
 - **Samuel Carrow / Eli Lavigne:** Extended US stay; Samuel released from Jackie's orbit (Jan 31); Samuel/Eli relationship begun
+- **Ruby Williams:** Completed arc. Dormant hereditary werewolf gene activated; first shift survived July 24 with Charlie's pack; all memories preserved; no-contact with Draco from July 25; true location unknown to Haven House. Her “I love U” reached Draco; his reply bounced unread.
+- **Charlie:** Third-generation werewolf, Blackthorn pack alpha, genuine GP; protects Ruby and is disappearing her Ministry file. His July 11 doorway conversation with Draco remains unrevealed.
+- **Robbie Williams:** In Muggle custody for July 11 and Swansea 2001; Obliviated of magic only; off the board.
 
 ---
 
-### OPEN THREADS (Post-Liverpool)
+### OPEN THREADS (Post-Ruby Arc — July 26, 2002)
 - **Harry Potter** learning about Theo — deliberately deferred
 - **Dante Medici's involvement** in the trafficking infrastructure — filed, not reviewed
 - **The Malice's buried whisper** (*"Next time I won't be angry. And he can't fight this when it's love."*) — Jackie has not told Theo
 - **Narcissa's heirs demand** — three-year clock active from February 27, 2002
 - **Soul bond status** — restored Feb 2, but bidirectional function unconfirmed
 - **Theo's new continuity** during Malice control — significance unknown
-- **The Ruby Arc** — **ACTIVE / UNFINISHED.** Draco's relationship with Ruby Williams (Muggle, met via dating app post-Liverpool). Deepened May–June 2002: "I love you" exchanged (Kent, June 22), the Williams family weekend (Wales, June 29). Triad now read in: Jackie's jealousy surfaced & was partially addressed (June 24), ground rules set, meeting dinner locked for **July 5 (Veeraswamy)**. Live sub-threads: the **"Yours" parallel** (Draco said it to both Jackie & Ruby — only he knows); Jackie's unhealed fear of Draco leaving (rooted Jan 2000); the question of whether the relationship has a sustainable ceiling; the unidentified vampire stalker; Ruby's dormant shapeshifter potential. **Ongoing — not resolved.**
+- **Paris and the World Cup** — Jackie and Draco plan four days in Paris before the August 10 France–Wales final below Fontainebleau; Theo will join at the Lavigne box. Cover identity pending.
+- **Genevieve knows Theo lives** — she counted him in writing by sending three tickets. Her purpose remains unknown.
+- **Theo and Jackie's wedding repair** — Theo wants chosen vows, a honeymoon, and a weekend where nobody's father exists.
+- **The Charlie–Draco doorway conversation** — July 11, still unrevealed.
+- **Ruby / Blackthorn pack** — continuing off-page under canon no-contact. No engineered reunion.
+- **The “Yours” parallel** — Draco used the word with Jackie and Ruby; only he knows. Dormant.
 - **Drake Lightwood** leverage via Albion Maritime filing — not yet activated
 
 ---

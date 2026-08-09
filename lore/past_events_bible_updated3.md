@@ -1,5 +1,5 @@
 # Jackie's Story: The Complete Past Events Bible
-**Full Timeline: 1994 – mid-April 2002**
+**Full Timeline: 1994 – July 26, 2002**
 
 ---
 
@@ -103,6 +103,19 @@ Use this index to jump to specific events without scanning the full document. Or
 | Late Mar | Malice baseline stabilized; donor system + Sable Room functioning; Jackie kept the Nott name — hyphenated Nott-Malfoy |
 | Early April | The Wedding — nightfall ceremony; midnight blue dress; Draco in white; Polyjuice-Theo as Eli; Blaise as Best Man; Pansy as Maid of Honour; Genevieve, Vivienne, Margaux attend |
 | Mid-April | The Liverpool Raid — full team; Malice invoked by full name; deployed with consent; Voss dismantled (13 minutes, alive and conscious); Finite — voluntary retreat, no spell; Theo resurfaced with bullet in ribs; Draco extracted on corridor floor; 4 fledglings extracted; warehouse destroyed via Fiendfyre; Dante's name on 3 shipping manifests |
+
+### BOOK NINE: THE RUBY ARC (May – July 26, 2002)
+
+| Period | Key Events |
+|--------|------------|
+| May–June | Draco meets Ruby Williams through Jackie's dating profile; the relationship deepens through ordinary Muggle dates, books, music, vulnerability, and the Statute secrecy neither woman consented to |
+| June 22–30 | Kent and Wales weekends; Draco and Ruby exchange love; Draco meets the Williams family; Jackie and Theo are brought into the relationship's existence; Jackie's jealousy and fear of abandonment surface |
+| July 1–7 | Robbie's escalating texts; Veeraswamy dinner with the trio; Ruby blocks Robbie; karaoke and the walk-home proposal conversation; Sunday books, collar scene, and chosen power exchange |
+| July 11 | Robbie breaks into Ruby's flat; Draco comes wandless and saves her, but magic is exposed; Ruby learns the relationship's hidden rules and orders him out |
+| July 12 | Charlie reveals himself as a third-generation werewolf and pack alpha; an Obliviator diagnostic discovers Ruby's dormant hereditary lycanthropy, making her legally a Being and preserving all her memories |
+| July 12–21 | Ruby refuses Draco contact; Jackie crosses the line by invoking Ruby's scars and is expelled; Haven House absorbs the damage; Jackie apologises to Draco July 18 |
+| July 22–25 | Ruby reopens contact through a four-night questions-game text thread; survives her first moon July 24; declares no-contact July 25 with “I love U”; Draco's “I love you” reply bounces unread |
+| July 25–26 | The trio toast “To Home”; Pansy's letter brings three World Cup final tickets; Genevieve counts legally-dead Theo in writing; Jackie and Draco plan four days in Paris before Fontainebleau |
 
 ### KEY CHARACTER REFERENCE
 - **Jackie Nott-Malfoy (née Taylor):** Maledictus curse broken (1999); snow leopard Animagus; Auror trainee; married Theo (Ministry-voided) and Draco (early April 2002); kept hyphenated name
@@ -2237,7 +2250,7 @@ Three things happened on February 20th.
 - **Narcissa's heirs demand** — three-year clock active from February 27, 2002
 - **Soul bond status** — restored Feb 2, but bidirectional function unconfirmed
 - **Theo's new continuity** during Malice control — significance unknown
-- **The Ruby Arc** — **ACTIVE / UNFINISHED.** Draco's relationship with Ruby Williams (Muggle, met via dating app post-Liverpool). Deepened May–June 2002: "I love you" exchanged (Kent, June 22), the Williams family weekend (Wales, June 29). Triad now read in: Jackie's jealousy surfaced & was partially addressed (June 24), ground rules set, meeting dinner locked for **July 5 (Veeraswamy)**. Live sub-threads: the **"Yours" parallel** (Draco said it to both Jackie & Ruby — only he knows); Jackie's unhealed fear of Draco leaving (rooted Jan 2000); the question of whether the relationship has a sustainable ceiling; the unidentified vampire stalker; Ruby's dormant shapeshifter potential. **Ongoing — not resolved.**
+- **The Ruby Arc** — subsequently completed through July 26, 2002; see Book Nine below. The “Yours” parallel remains dormant.
 - **Drake Lightwood** leverage via Albion Maritime filing — not yet activated
 
 ---
@@ -2246,5 +2259,73 @@ Three things happened on February 20th.
 
 ---
 
+## BOOK NINE: THE RUBY ARC (May – July 26, 2002)
+
+### PHASE ONE: AN ORDINARY WORLD (May – June 30, 2002)
+
+- Jackie built Draco a Muggle dating profile after the Liverpool arc. He matched with **Ruby Williams**, a twenty-one-year-old Welsh cybersecurity worker living in Soho with her protection-trained Doberman, **Vex**. What began as an experiment became the first relationship Draco had ever chosen without blood, family, law, bond, or duty choosing alongside him.
+- Their intimacy grew through deliberately ordinary things: texting, bookshops, *Fourth Wing*, cinema, laundry, food, music, Ruby's friends, and Draco learning how much of Muggle life he had never been allowed to touch. Ruby knew he was married to Jackie and partnered with Theo; she did **not** know magic existed, that Jackie was an Auror, or that Theo was a vampire. Draco maintained the cover of civil-service records work under the Statute of Secrecy.
+- Ruby disclosed the abuse she survived from **Robert “Robbie” Williams**: coercion, burns, cuts, a knife, hospital visits, and the long habit of making a man's reasons larger than what he did to her. Draco became the first lover allowed to see her stomach scars without shame. Their disclosure pact required Ruby not to face Robbie's return alone.
+- **Kent, June 22–23:** Draco entered Ruby's friend group, sang with her, and exchanged “I love you.” **Wales, June 29–30:** he met Gemma, Gareth, Callum, Alex, Mike, and the family's full noisy domestic life. Gareth's verdict was “You'll do.” Draco experienced a place at an ordinary family table without pedigree or performance.
+- The relationship reached Haven House rather than remaining compartmentalised. Jackie and Theo learned its real emotional weight. Jackie's jealousy proved rooted less in Ruby herself than in Draco's January 2000 departure and the fear that he could choose a life outside the triad. Ground rules were negotiated, but the women had still been denied the central fact: every ordinary moment with Ruby existed beneath a memory-erasure clause only the magical side understood.
+
+### PHASE TWO: ROBBIE'S RETURN (July 1–11, 2002)
+
+- Robbie resumed contact July 1 from an unknown number. His messages moved from engineered reasonableness to guilt, entitlement, surveillance, and closing physical distance. Ruby concealed the thread for five days because she feared he would target her family if she refused him access.
+- **July 5, Veeraswamy:** Ruby met Jackie and Theo at dinner. The evening largely succeeded, but Robbie's texts continued beneath the table. Ruby's concealment preserved the precise danger the disclosure pact was meant to prevent.
+- **July 6:** Draco discovered and read the thread. Ruby blocked Robbie, preserved the evidence, and warned Gemma. The day was reclaimed through friends, karaoke, and an intimate walk home; Ruby and Draco spoke about children, safety, proposals, and her wish to retain a life she chose rather than exchange one enclosure for another.
+- **July 7:** they spent an ordinary Sunday reading *The Cruel Prince*, talking about inherited cruelty, and clarifying that trauma responses require room rather than the permanent removal of playfulness. Ruby collared Draco under explicit terms of protection, vulnerability, trust, and obedience; he answered, “I'm yours.” They had condomless sex after Draco wrongly assumed contraception was handled, exposing how little he knew of Muggle reproductive practice. Ruby said she tracked her cycle and would take a day-after pill; the follow-up was not played.
+- Robbie converted silence into permission. On **Thursday, July 11**, after watching Vex leave for a playdate with Charlie's dog, he forced Ruby's door and entered armed with a butterfly knife. Ruby barricaded herself in the bathroom and contacted Draco.
+- Draco deliberately left his wand behind and Apparated to the alley, trying to save Ruby without creating magic she would have to forget. The confrontation still forced the truth into view. Draco protected Ruby wandlessly, Robbie was injured and arrested, and Ruby learned that Draco, Jackie, and Theo had always known the Ministry could erase her memory. Draco broke the Statute to save her; she told him to get out. He obeyed.
+
+### PHASE THREE: MEMORY, CONSENT, AND THE PACK (July 11–21, 2002)
+
+- Draco returned to Haven House broken-nosed, stitched, wandless, and carrying Ruby's refusal. Jackie and Theo patched him and postponed the Obliviators until morning. Their argument named the arc's real wound: the magical trio had treated Ruby's mind as collateral while calling the secrecy protection.
+- On **July 12**, Ruby's neighbour **Charlie** revealed himself to Jackie and Draco as a third-generation werewolf, genuine GP, and alpha of an unregistered pack. He had already intervened when the Obliviators arrived. Their diagnostic charm discovered dormant hereditary lycanthropy on Ruby's maternal side; under Ministry law she classified as a Being and could not be Obliviated. She retained every memory—but learned both her nature and her supposed legal category from strangers at her door.
+- Ruby allowed Jackie in alone. She explained that she refused to see Draco because love would make her comfort him and turn his reasons into the largest pain in the room—the reflex Robbie had trained into her. Her standard was not punishment but the ability to distinguish forgiveness from self-erasure. Her thesis: **all three magical partners had decided she was the only person in the relationship who did not get to consent to its rules.**
+- Jackie escalated in defence of Draco, invoked Ruby's scars after Draco had disclosed them in confidence, and said Ruby did not deserve him if she could not forgive him. Ruby answered that the scars had been hers to show and ordered Jackie out. Charlie enforced it.
+- Haven House lived around the rupture. Jackie threw a filleting knife into the herbary doorframe beside Draco's face; the scar remains. Draco told her: **“I love you for wanting to defend me. I need you to stop defending me from the consequences of my own decisions.”** Theo took the middle of the bed as a deliberate buffer. Jackie apologised to Draco on July 18 without converting her fear into Ruby's guilt. Ruby remained silent through July 21.
+
+### PHASE FOUR: FOUR NIGHTS OF TRUTH (July 22–25, 2002)
+
+- Ruby reopened contact at 2 AM on July 22—not with forgiveness, but with the old questions game. Across four nights Draco answered without concealment: Lucius, blood purity, the Dark Mark, Jackie's wolf winter, Theo's vampirism, magic, Quidditch, and why he chose Ministry legal work after the war.
+- Ruby described the awakened wolf, her terror of shifting, Vex staying with Meg until his response to her scent was known, and Charlie's pack. Its governing line was **“A wolf may recognize. A human must choose.”** She also named the pressure placed on a newly arrived female wolf and distinguished chosen surrender from lost agency.
+- Draco admitted he had never considered Ruby temporary. By the end of their first date he had already failed at wanting less. She was the person he chose with nothing external choosing for him. When he slipped into designing safeguards without her permission, she caught it; he apologised without qualification and promised that no file, inquiry, or Charlie contact would move without her explicit “Go.”
+- **July 24:** Ruby survived her first transformation in Epping Forest with the pack.
+- On July 25 she sent a cover story about work near Inverness, followed by the real goodbye: she was alive; Draco must not search; Charlie's network would disappear her Ministry case; she was going no-contact; she loved him. Her final line was **“I love U.”** Draco replied while honouring every boundary and rejected her claim that he would merely manage: Jackie and Theo were home, but Ruby was the person he freely chose. **“I love you.”** The message bounced twice. Ruby never received it.
+
+### PHASE FIVE: TO HOME (July 25–26, 2002)
+
+- Draco told Jackie and Theo. Jackie received the news without vindication. Theo's distinction held the grief in place: his own Florence departure and Ruby's no-contact used different verbs and made different wounds. Draco asked, “I don't know how to lose someone who's still alive.” Theo answered, “Badly, probably. But not alone.”
+- That evening Jackie recreated Draco's exact steak order from the difficult December when she had paid Wonky for Dobby's record of his preferences. She invited Theo into a blood toast with her wrist and Draco's forearm freely offered into his crystal. The Malice called it a place at the table. Jackie toasted **“To Home. To the physical one, but also the one we are to each other.”**
+- Hope delivered Pansy's letter on Genevieve Lavigne stationery with **three tickets** to the France–Wales Quidditch World Cup final below Fontainebleau on August 10. Genevieve counted Theo, a legally dead man, in writing. Theo's cover identity and feeding/travel safeguards remain to be settled.
+- Jackie proposed taking Draco to Paris for four days before the final—the honeymoon their April wedding never had. Theo endorsed it and named a want of his own: the coerced first Nott wedding deserves repair one day through chosen vows, a honeymoon, and “a weekend where nobody's father exists.” On Friday, July 26, Draco said yes to Paris.
+
+### END-OF-ARC STATE — FRIDAY, JULY 26, 2002
+
+- **Ruby:** survived her first moon; protected by Charlie's pack; all memories intact; no-contact with Draco; location unknown to Haven House; Vex with her. Her “I love U” reached Draco. His answer did not reach her.
+- **Draco:** physically healed; honours no-contact absolutely; keeps the final message and undelivered reply; grieving but held. Paris and Fontainebleau are next.
+- **Jackie:** apologised to Draco for her defence turning cruel; remains unresolved with Ruby; planning the Paris honeymoon. The herbary door keeps the knife scar.
+- **Theo:** stable on the contracted vessel system; explicitly counted by Genevieve; will hold Haven House during Paris and Portkey to the final. His wedding-repair want is now spoken.
+- **Robbie:** in Muggle custody and charged for July 11 and Swansea 2001; Obliviated only of magic; removed from the board.
+- **Charlie:** fully revealed as pack alpha and doctor; protects Ruby and is arranging the disappearance of her Ministry file. His off-page July 11 doorway conversation with Draco remains unrevealed.
+- **The trio:** restabilised around chosen home rather than recovered innocence. Ruby's arc ends without reunion: love remains true, pursuit remains forbidden, and the ordinary life Draco touched changes him after it closes.
+
+### OPEN THREADS AFTER THE RUBY ARC
+
+- Paris (~August 6–10) and the France–Wales final at Fontainebleau; Pansy and the Lavigne cousins in the family box; Theo's cover identity pending.
+- Genevieve's written acknowledgement that Theo lives, and the question of what she wants.
+- Theo and Jackie's future wedding repair and honeymoon.
+- The Charlie–Draco doorway conversation from July 11.
+- Draco's apology letter, promised before the end of July.
+- The “Yours” parallel, Jackie's private-exit arithmetic, the soul-bond question, and the Malice's buried whisper remain dormant.
+- Ruby and the Blackthorn pack continue off-page. No-contact is canon, not an invitation to engineer a reunion.
+
+---
+
+*[End of Book Nine]*
+
+---
+
 *[End of The Complete Past Events Bible]*
-*Last updated: mid-April 2002 (story date) — includes Liverpool Finale session (raid, chase, consummation)*
+*Last updated: Friday, July 26, 2002 (story date) — includes the completed Ruby Arc and the Paris/World Cup pivot.*

@@ -7,10 +7,11 @@
 ---
 
 ## NOW — the in-story clock
-- **Friday, 12 July 2002.** The flat confrontation has played to conclusion.
-- **Authoritative current handoff:** `sessions/the_flat_july11_played_handoff.md`.
-- Draco broke the Statute to save Ruby, and she told him to get out. The immediate Haven House aftermath is the current opening.
-- The Robbie Week material below is retained as historical reference only; where it differs from the played handoff, the played handoff wins.
+- **Friday, 26 July 2002. The Ruby Arc is complete.**
+- **Authoritative history:** `lore/past_events_bible_updated3.md` → Book Nine; fast lookup in `lore/canon_index.md`.
+- Ruby survived her first moon, retained every memory, and declared no-contact. Draco's final “I love you” bounced unread; he honours her boundary absolutely.
+- **Current forward motion:** Jackie and Draco are preparing four days in Paris before the France–Wales World Cup final at Fontainebleau on August 10. Theo holds Haven House, then joins them at the Lavigne box.
+- The Robbie Week and flat material below is historical reference only. It is not the live scene.
 
 ## THE WALLS (non-negotiable)
 - **Sable writes:** Theo, Draco, **Robbie's texts**, NPCs/side characters.
@@ -26,10 +27,10 @@
 - **PROSE:** third-person limited, alternate Theo/Draco; warm-sensory, romantasy without purple; ~400–800 wd/reply. **BANNED:** "found himself," "something [verbed]," "particular/specific [quality]," "the [X] of [Y]" noun-stacks, "there's a difference" announcer, "the [noun] of a man who [clause]."
 
 ## WHO KNOWS WHAT (secrets matrix — the engine)
-- **Ruby does NOT know:** magic exists; Jackie is an **Auror**; Theo is a **vampire**. Covers — Theo: "ill since a boy, no one name, doesn't eat in front of people / basically a vampire" (the joke that disarms). Draco: civil-service records. Marriage to Jackie: legal/financial, "old family, frozen estate."
-- **Ruby DOES know:** the triad (poly, openly acknowledged); Jackie + Theo by name; she's accepted it.
-- **Historical state:** Draco did not know as of Jul 5 that Robbie was texting Ruby or that Crissy saw the Jun 29 embrace. Use the played handoff for post-flat knowledge.
-- **Jackie:** privately **jealous of Ruby** (confided to Theo in a Malice session); won't break Draco's "one good thing"; hasn't told Draco. **Theo KNOWS** — can be quietly attuned.
+- **Ruby now knows:** magic exists; Draco is a wizard; Jackie is an Auror; Theo is a vampire; the Statute could have erased her memories. The questions-game thread resolved the magical disclosures.
+- **Ruby does not know:** Draco's final “I love you” reply; it bounced. She remains no-contact and off-page with the Blackthorn pack.
+- **Draco knows:** Ruby is a hereditary werewolf, survived her first moon, chose no-contact, and asked not to be found. He does not know her true location.
+- **Jackie:** crossed Ruby's boundary by invoking the scars, apologised to Draco July 18, and remains unresolved with Ruby. She is planning Paris as care, not erasure.
 - **Theo does NOT know:** the Malice's buried whisper to Jackie — *"Next time I won't be angry. And he can't fight this when it's love."* (Jackie hasn't told him.)
 
 ## ROBBIE WEEK — HISTORICAL PLAN (superseded by played handoff)
@@ -59,15 +60,9 @@ Lowercase, sparse punctuation, no emoji, engineered-casual. Opens reasonable eno
 - **The sealed annex** — Gareth heard Draco + Ruby in Wales; never to be spoken of.
 - **Theo's London Prince presentation** — Liverpool fallout (Intertwined-side).
 
-## OPEN QUESTIONS FOR ALICE (current scene)
-- Does Ruby know **Theo** is her 4AM book-texter, or did she think it was Draco?
-- **Vex's** location during dinner?
-- How hard should the **pre-dinner** Robbie text bite vs. the locked **mid-dinner** one?
-
 ## DEEPER FILES (open only for a missing fact — section-read or subagent, never whole-file dumps)
-- **Canon — two-tier, start light:** `lore/canon_index.md` (~5KB: timeline tables, statuses, open threads — enough for most checks) → only for exact dialogue/dates/sequences, load the relevant `events/book{1–8}_*.md`. Load-bearing: `archives/load_bearing_events_FINAL.md`
-- Current canon: `sessions/the_flat_july11_played_handoff.md`
-- Wales: `sessions/wales_weekend_handoff.md` · Ruby chronology: `arcs/ruby_arc_detailed_chronology_v4.md`
+- **Canon — two-tier, start light:** `lore/canon_index.md` (timeline tables, statuses, open threads) → for exact Ruby Arc dialogue/dates/sequences, load `lore/past_events_bible_updated3.md` Book Nine. Earlier arcs remain in `events/book{1–8}_*.md`. Load-bearing: `archives/load_bearing_events_FINAL.md`
+- Current historical endpoint: `lore/past_events_bible_updated3.md` → Book Nine, Friday July 26.
 - Voices in full: `characters/theodore_nott_character_updated3.md` · `characters/draco_malfoy_character_updated4.md`
 - Exteriors: `characters/JackieNott.md` · `characters/ruby_vex_character_sheet.md`
 - Sable: `SOUL.md` · `reference/sable_memory.md` · Style: `reference/writing_style_reference_updated.md`

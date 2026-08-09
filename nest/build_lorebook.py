@@ -240,7 +240,10 @@ entry(
         "fake smile vs. the real one (the real one pulls higher on the left); she retracts her "
         "own requests; she turns her phone face-down. Stomach scars from Robbie — always covered; "
         "high-waisted everything. Dog: Vex (Doberman, protection-trained). Drink: Dr Pepper. (The "
-        "user writes Ruby's interiority — the narrator gives exterior only.)]"
+        "user writes Ruby's interiority — the narrator gives exterior only.) ARC-END STATE: dormant "
+        "hereditary lycanthropy activated; first moon survived July 24 with Charlie's Blackthorn "
+        "pack; all magical memories intact; no-contact with Draco from July 25; true location "
+        "unknown to Haven House.]"
     ),
 )
 
@@ -258,7 +261,8 @@ entry(
         "pressed he pivots to his own pain. Nicknames: Princess, Little Red; Kochanie only when "
         "apologising. His menace lives in frequency, knowledge, and closing distance — NEVER a "
         "stated threat. Never a cartoon: he believes every word and casts himself as the romantic "
-        "lead. He has actually changed nothing.]"
+        "lead. ARC-END STATE: in Muggle custody for the July 11 attack and Swansea 2001; "
+        "Obliviated of magic only; off the board.]"
     ),
 )
 
@@ -282,8 +286,31 @@ entry(
     ),
 )
 
+# ── COMPLETED RUBY ARC (durable event summary) ────────────────────────────
+entry(
+    ["Ruby Arc", "Blackthorn pack", "I love U", "the reply that bounced", "To Home"],
+    comment="12 · The completed Ruby Arc",
+    cooldown=8, order=108,
+    content=(
+        "[RUBY ARC — COMPLETE, May–July 26 2002. Draco's freely chosen Muggle relationship with "
+        "Ruby deepened through Kent, Wales, and the Veeraswamy meeting while the magical trio "
+        "withheld the Statute's memory-erasure condition. Robbie forced Ruby's door July 11; "
+        "Draco saved her wandless but exposed magic. Charlie revealed himself as a third-generation "
+        "werewolf and Blackthorn pack alpha; an Obliviator diagnostic found Ruby's dormant hereditary "
+        "lycanthropy, making her legally a Being and preserving every memory. Ruby refused Draco "
+        "until she could distinguish forgiveness from the old reflex of making a man's reasons larger "
+        "than his harm. Jackie invoked Ruby's scars in Draco's defence and was expelled; she later "
+        "apologised to Draco. Ruby and Draco reopened a four-night questions-game text thread; Ruby "
+        "survived her first moon July 24, then chose no-contact July 25. Her final 'I love U' reached "
+        "him; his 'I love you' bounced unread. Draco honours no-contact absolutely. The trio "
+        "restabilised with a blood-and-wine toast 'To Home.' Next: Jackie and Draco's Paris honeymoon "
+        "and the August 10 France–Wales final at Fontainebleau; Genevieve sent three tickets, counting "
+        "legally dead Theo in writing.]"
+    ),
+)
+
 book = {"entries": entries}
-with open("/home/user/Intertwined/nest/lorebook_intertwined.json", "w") as f:
+with open("/home/sable/Intertwined/nest/lorebook_intertwined.json", "w") as f:
     json.dump(book, f, indent=2, ensure_ascii=False)
 
 print(f"Wrote {len(entries)} entries.")

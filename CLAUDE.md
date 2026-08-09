@@ -73,6 +73,7 @@ If shell access isn't available in this session, or the query comes back thin, f
    - `events/book6_assessment_ball_dec2001.md` — Dec 2001
    - `events/book7_homecoming_jan-feb2002.md` — Jan to Feb 2 2002
    - `events/book8_liverpool_feb-apr2002.md` — Feb 3 to mid-Apr 2002
+   - `lore/past_events_bible_updated3.md` → Book Nine — completed Ruby Arc, May to July 26, 2002
 
 This applies whenever:
 - A character references something that happened earlier in the story

@@ -19,7 +19,7 @@
 - **Draco** = recovered his composure after the shower; voice: full words when deliberate, ring-twist tell, dry.
 - **Dormant loaded gun:** Draco has said "Yours" to both Jackie and Ruby Williams (only he knows). In the shower he deliberately avoided it with Jackie.
 - **Jackie's private exit (Ruby-authored, dormant):** she's decided not to make Theo watch her age/die (the Filippo/Elisabetta parallel) — plans with Draco to "go on a trip and never come back" someday. Hasn't told Draco. Theo & Draco only sense a flicker of hidden "arithmetic" — never the content. **Do NOT have them learn it.**
-- Canon for this scene is logged in `arcs/ruby_arc_detailed_chronology_v4.md` → "MONDAY, JULY 1 (cont.)".
+- Canon for this scene is consolidated in `lore/past_events_bible_updated3.md` → Book Nine.
 
 ---
 
