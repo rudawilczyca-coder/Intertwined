@@ -139,19 +139,88 @@ Viola's Seneschal is not yet named. The chosen visual concept is a genuinely mat
 
 She appears safe, comprehensible, and accustomed to explaining procedure. This is useful. She is neither maternal nor lesser than the court around her; she is the person who makes Viola's decisions operational.
 
-Her age, history, clan, and precise loyalties remain **unresolved**.
+She and Viola were once lovers. They eventually concluded—without betrayal, bitterness, or lingering romantic ambiguity—that desire made their alliance less precise and that they were far better partners in government than they had ever been in bed. The resulting intimacy is settled, adult, and difficult for outsiders to classify. She may straighten Viola's cuff, enter her private rooms without announcement, or finish a thought Viola has not spoken; none of this constitutes an invitation back into the old relationship.
+
+Her age, name, history, clan, and the precise era of that former relationship remain **unresolved**.
 
 ---
 
-## The False Eli — Requirements, Not Yet a Character
+## Leandro Velluti — Court Chameleon
 
-The operative sent to Fontainebleau should be another vampire using Polyjuice Potion to wear Eli Lavigne's face. A vampire substitute reproduces the cold skin, absent pulse, refusal of food, physical stillness, and predatory presence Jackie and Draco expect beneath Theo's disguise.
+![Leandro Velluti reference portrait](Leandro_Velluti_reference.jpg)
 
-The operative must know enough of Eli's established public persona to behave as an openly homosexual Lavigne within his own family. In the World Cup box, the false Eli should flirt with a man who knows Eli well enough to expect it. The performance is socially correct and therefore emotionally devastating to Jackie and Draco, who believe Theo is underneath it and cannot safely challenge him in public.
+### Core Profile
+
+- **Name:** Leandro Velluti
+- **Pronouns:** he/him
+- **Species:** Vampire
+- **Born:** Venice, early seventeenth century
+- **Turned:** circa 1650; apparent age approximately thirty
+- **Position:** Viola's court chameleon and specialist social infiltrator
+- **Sexuality:** Pansexual
+- **Public register:** Shamelessly flirtatious, tactile, beautifully mannered, and entirely free of neediness
+- **Private truth:** He uses desire as a language and an intelligence channel, never as proof of his worth
+
+### Appearance
+
+Leandro has light-brown skin with warm undertones, short dense black curls, amber-brown eyes, high cheekbones, a broad expressive mouth, graceful hands, and a compact, deceptively powerful fighter's build. His beauty is alive rather than ornamental: masculine without hardness, elegant without delicacy, and difficult to reduce to a familiar vampire archetype.
+
+His smile is his most dangerous feature. It is attentive, amused, and already intimate—as though the person before him has entered a private conversation without noticing when it began. He does not look as though he is asking to be watched. He looks serenely certain that attention will arrive if he wants it.
+
+Leandro favours immaculate modern tailoring in midnight blue, black silk, warm cream, and antique gold. A small pearl earring and an old gold watch survive changes of fashion. He can appear entirely at home with princes, servants, soldiers, courtesans, or criminals because he never mistakes rank for superiority.
+
+### Mortal Life — The Courtesan's Son
+
+Leandro was raised in seventeenth-century Venice in the household of a successful courtesan. His childhood unfolded among masks, patrons, musicians, diplomats, servants, discarded lovers, and women whose official lack of power concealed their practical command of rooms full of powerful men. He learned that beds were private council chambers with worse record-keeping, that intimacy produced intelligence, and that performance was not necessarily falsehood. A mask could reveal which version of the truth another person was prepared to hear.
+
+His mother taught him taste, languages, discretion, and the difference between being desired and being owned. Others taught him dancing, fencing, and the social art of letting a person underestimate him without ever appearing diminished by it.
+
+### Turning and the Court That Used Him
+
+Leandro's first vampire court valued him as a beautiful instrument. He was useful in beds, salons, negotiations, and killings, but his superiors treated each success as evidence of their own cleverness. They encouraged the story that he slept his way to influence because it prevented anyone from examining the intelligence, memory, and political judgment that allowed him to remain influential after desire had opened the first door.
+
+He did use sex politically. He has never apologised for it. But he never mistook sexual access for the whole of his power, and he could fight as capably as he could flirt. Anyone who read availability as submission generally made the error only once.
+
+### Viola's Rescue
+
+Viola extracted Leandro from that court under terms that were publicly presented as a transfer of obligations and privately understood as a rescue. She did not give him power. She named what was already his, trained it, and permitted him to exercise it openly.
+
+Under Viola he became a court chameleon: an operative trusted to enter social systems, adopt the identity a room expected, and return with the truths people revealed while hoping to be chosen. His pansexuality is appetite rather than tactic, though he is entirely willing to let appetite and work occupy the same evening. Rejection does not injure him. He accepts a no cleanly, without sulking or retaliation, because his self-worth was settled long before the invitation.
+
+### The Failed Coup
+
+Success briefly convinced Leandro that recognition ought to become sovereignty. Someone in Viola's court whispered that she kept him close because she feared what he might become—that he had merely exchanged one owner for a subtler one. The whisperer supplied temptation; Leandro chose treason.
+
+He attempted to outplay Viola and discovered, swiftly and comprehensively, that he had mistaken her recognition of his power for ignorance of it. She dismantled the coup before it became a credible threat.
+
+Viola did not excuse him as manipulated. She respected him too much to strip him of responsibility. Instead, she required Leandro to expose his own conspiracy: every participant, confession, hidden channel, promise, and piece of evidence. Then she kept him publicly at her right hand while London waited for an execution that never came.
+
+Her judgment was simple:
+
+> "You mistook my recognition of your power for ignorance of it. Don't make the same mistake twice."
+
+The mercy bound him more completely than terror could have done. Viola could have destroyed him and chose not to waste him; more importantly, even after betrayal she treated him as a person capable of choice rather than an ornamental animal led astray. His loyalty since then has been absolute without becoming servile. He mocks ritual, takes liberties few others would survive, and retains all his ambition. Nobody gets to whisper against Viola twice.
+
+Viola quietly trusts him more after the failed coup than she did before it. Untested loyalty is a pleasant hypothesis. Leandro's has already survived ambition, humiliation, responsibility, and mercy.
+
+### Capability and Behaviour
+
+- Leandro is less peacock than fox. He can dominate a room but usually prefers to become the person the room most wants to admit.
+- He seduces because desire is pleasurable and informative, not because he needs reassurance that he matters.
+- He is an expert duellist and close-quarters fighter. Charm is the more entertaining weapon, not compensation for weakness.
+- He notices attraction, jealousy, insecurity, and social hierarchy almost immediately, then decides whether acknowledging them serves the work.
+- He can flirt sincerely while remaining mission-focused. Genuine desire does not make him careless.
+- He understands masks as social contracts: the best impersonation gives people exactly enough of what they expect that they police inconsistencies for him.
+
+### The False-Eli Operation
+
+Viola intends to send Leandro to Fontainebleau using Polyjuice Potion to wear Eli Lavigne's face. As a vampire substitute he reproduces the cold skin, absent pulse, refusal of food, physical stillness, and predatory presence Jackie and Draco expect beneath Theo's disguise.
+
+Leandro will be briefed thoroughly enough to behave as Eli—an openly homosexual Lavigne—within his own family. In the World Cup box, the false Eli should flirt with a man who knows Eli well enough to expect it. Leandro may find the man genuinely attractive and enjoy the exchange while using it to test Jackie and Draco's composure. The performance is socially correct and therefore emotionally devastating to them: they believe Theo is underneath it and cannot safely challenge him in public.
 
 The flirtation is not the proof of substitution. It is painful but explicable. The eventual proof should be something impossible: a failed private tell, a bodily habit Theo would never permit, or the restored soul bond answering from London while the person in Eli's face stands beside them.
 
-The operative's name, position (Sheriff, Hound, or court specialist), motive, and the exact reveal mechanism remain **unresolved**.
+The identity of the man Leandro flirts with, the limits of Leandro's briefing, and the exact reveal mechanism remain **unresolved**.
 
 ---
 
@@ -163,4 +232,3 @@ The operative's name, position (Sheriff, Hound, or court specialist), motive, an
 - Ferrara's contracted vessel arrangement and three Primogen debts are active and secret from the Medici line.
 - Geneviève knowingly counted Theo by sending three World Cup tickets.
 - Jackie writes Jackie. Any later scene must not prescribe her reaction, bond use, or discovery.
-
