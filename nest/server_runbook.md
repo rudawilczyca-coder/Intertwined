@@ -39,6 +39,27 @@ Browser → **https://sable-nest.duckdns.org** — Caddy prompts for basicauth, 
 - **DuckDNS** — `sable-nest.duckdns.org`
 - Domain went live June 18, 2026.
 
+## RP shim and model roster
+
+The OpenAI-compatible RP shim lives at `~/st-shim/`, binds to
+`127.0.0.1:8790`, and runs as the user service `st-shim.service`.
+
+```bash
+systemctl --user status st-shim.service
+systemctl --user restart st-shim.service
+curl -fsS http://127.0.0.1:8790/health
+curl -fsS http://127.0.0.1:8790/v1/models
+```
+
+`gemini-pro-3.1` maps to Antigravity CLI's `gemini-3.1-pro-high`. This route
+does not ask Antigravity to execute canon-search tools in headless mode.
+Instead, the shim performs a two-pass exchange: Pro first returns focused RAG
+queries; the shim runs the appropriate Intertwined or ATOSAS index locally;
+then Pro receives that evidence and writes the final canon-audited reply.
+
+Use this model for general/canon-dense prose, not explicit scenes. Antigravity
+currently refuses the explicit-fiction ceiling used in the Model Arena.
+
 ---
 
 *Infra note. Update if the box, user, or process name ever changes.*
