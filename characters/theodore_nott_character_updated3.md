@@ -1,5 +1,5 @@
 # Theodore Nott — Character File
-## Updated: mid-April 2002
+## Updated: August 6, 2002 (current canon cutoff — see `reference/active_threads.md`)
 
 ---
 
@@ -50,8 +50,17 @@ The turning changed less about *who* he is than about what he can afford. The fi
 
 Love, for Theo, is still fire — consuming, possessive, never exclusive. Polyamory isn't something he tolerates; it's something he accepts as true, and the bond reshaped him: the old rivalry with Draco burned down into something he'd now call love without flinching. He is dangerous, protective, and emotionally brave — willing to burn so no one he loves freezes, and now that's literal: he'll step into the curse, take the silver, let the monster off the leash if it keeps them safe. What he fears isn't the monster — that's a managed thing. It's the arithmetic: that he has no last breath to give her, that he'll go on after she doesn't, that loving mortals means burying them. He rarely says it aloud — saying it changes nothing — but it's the shape under everything now.
 
-**Current State (mid-April 2002):**
-- **Malice continuity:** During the Liverpool raid he experienced everything the Malice did — full sensory continuity, no blackout, for the first time (Malice-control previously left partial or total gaps). Neither he nor anyone else yet understands what the shift means.
+**Current State (August 6, 2002):**
+- **Malice continuity:** During the Liverpool raid he experienced everything the Malice did — full sensory continuity, no blackout, for the first time (Malice-control previously left partial or total gaps). Neither he nor anyone else yet understands what the shift means. Still unexplained four months later.
+- **Alone at Haven House, Aug 6–10.** Jackie and Draco are in Paris. He holds the house: Luna, the blood supply, the Polyjuice, and standing permission to let the Malice run on Friday. He takes a dusk Portkey to Fontainebleau on Saturday. **His cover identity for the match is still unchosen.**
+- **Unpresented, and no longer unnoticed.** Dante's December assessment established his control but never presented or released him in London, which leaves Filippo liable under the Accounting and Theo living in Prince Viola's Domain with no standing in it. Viola has decided the waiting is over. *(See `characters/London_Camarilla.md` — authored intention, marked unresolved there; a plan on the board, not played canon.)*
+- **Counted, in writing.** Genevieve Lavigne sent three World Cup tickets on her own stationery — an acknowledgement that a legally dead man exists, made by someone whose purpose nobody understands. It is the first time since August 2001 that anyone outside the household has put Theodore Nott on a list.
+- **He has started asking for things.** On July 25–26 he named a want of his own for the first time in the current arc: the coerced first Nott wedding deserves repair — chosen vows, a real honeymoon, and "a weekend where nobody's father exists." He said it plainly, without wrapping it in logistics or in what Jackie and Draco needed.
+
+**The City at Night (disclosed July 1, 2002):**
+He goes out most nights — all of them, lately. He waits an hour after Jackie and Draco go down, in case anyone needs water or a nightmare talked down, and then he walks: the river at three, the markets at four where the men stacking crates stopped finding him strange, the foxes, the bridges with nobody on them. Always home before they wake. He had never mentioned it because complaining about the one thing he's freely given seemed ungracious. Night is not a consolation prize to him; it is the only stretch of the day the world hands back whole, and he calls the city *his* because he's the only one of the three who is ever allowed it empty and lit. He does not Apparate into a thing he loves. **Draco did not know it was every night.**
+
+**Post-Ruby Arc (July 2002):** He never met Ruby Williams as an equal party to the relationship, but he liked her — texted her at four in the morning about books, saved her as *Ruby Williams 🐾*, and once told her, "He's not a gift we gave you. He's a person who chose you." When it collapsed, his function was refusal of comfort: he declined to turn his own Florence exile into a parable for Draco's grief ("Ruby chose distance. I endured it. Different verb"), declined to promise she'd come back, and set the hard perimeter — if Draco uses the Ministry, sends an owl, appears on her doorstep, or develops a sudden scholarly interest in Scottish werewolf employment, Theo breaks his wand first. What he offered instead was presence with no plan attached: *Badly, probably. But not alone.*
 
 ---
 
@@ -188,6 +197,10 @@ Jackie's tactical workaround: kissed Theo with Draco's taste still in her mouth,
 
 The dynamic has shifted from "she chose what I am" to "she proved the architecture holds at its breaking point." He is no longer managing proximity. He is living in it. The first full embrace since August happened the morning after the chase — no hesitation, no calibration. Just arms around her. The Malice registered it as quiet. Not gone. Fed.
 
+**Since July 2002:** their marriage is the one relationship in the house that has never had a good day of its own. It was forced by Cyrus in August 1999, voided by the Ministry, and has been carried ever since inside crisis, exile, hunger, or someone else's ceremony — including watching his wife marry Draco while he stood at the altar wearing another man's face. On July 25–26 he finally said what he wants out of it: chosen vows, a honeymoon, and a weekend where nobody's father exists. Jackie and Draco endorsed it; nothing is scheduled. He is also still carrying the thing he doesn't know he's carrying — the Malice's buried whisper to Jackie, which she has not told him. And there is the older asymmetry underneath everything: he has no last breath to give her, and she has quietly done arithmetic about that which he can sense the shape of and never the content.
+
+He held the middle of the bed during the July rupture — a deliberate buffer between a wife who had crossed a line and a partner who wouldn't let her un-cross it for him. That is his default position in this house now: not the one who fixes it, the one who stays in the room while it doesn't get fixed.
+
 ### Draco Malfoy (Partner)
 
 **The Bond:**
@@ -212,6 +225,13 @@ Draco extracted the silver bullet from Theo's ribs on the corridor floor. Heard 
 After the chase went wrong, Draco administered emergency care — blood-replenishing potion, flesh-knitting charm, diagnostic monitoring. Sat on the bed holding Jackie's wrist and Theo's lighter and didn't move until Theo came back from the bathroom. His request the next morning: *"Whether I need to stop sitting in the kitchen"* — asking to be present for future Malice encounters rather than thirty seconds away.
 
 They held hands across Jackie's sleeping body the night of the chase. Cold over warm. The same gesture from the M62 motorway, from the bed that morning, from every moment where the only language available was contact.
+
+**Post-Ruby (July 2002):**
+The library conversation is the current shape of them. Draco came home early and laid out the whole week like a case file; Theo smoked, listened, and did not ask a single question — which is exactly why Draco began. Theo gave him the perimeter first (*I'll break your wand before Charlie gets the privilege*) because Draco needed the rule before he could bear the answer, then gave him the answer: *I don't know whether she's coming back.* Not hope, not a funeral. He refused to let Draco turn Florence into a parable — "Ruby chose distance. I endured it. Different verb" — and then admitted the thing that made him useful anyway: *I know what distance does inside a house.*
+
+When Draco asked what to do with Tuesday love when there's no Tuesday, Theo left the chair, sat on the floor beside him where he'd sat during the Week Between, and said **nothing** — don't convert it into pursuit, don't convert it into a eulogy, don't make Jackie prove you're still loved because someone else made loving you hurt. *Let it be true without making it productive.* He offered no plan and said so.
+
+Physical vocabulary has settled into something unremarkable and enormous: Draco's palm at the back of his neck, warm on cold, no audience and no emergency; Theo turning his head just enough that Draco's wrist rested against his cheek; *I know* three times, the third one breaking what the first two had only found. He ends these by giving Draco an instruction he can obey — "Play" — because obedience is the register in which Draco can put himself back together without narrating it. Then he sits and listens, and tells him when Jackie has cooked his dinner from December: *Tuesday survived. Go be fed.*
 
 ### Filippo de' Medici (Sire)
 
@@ -253,6 +273,7 @@ Theo has not fully processed owing his existence to a man who once said he'd hav
 - **Ferrara arrangement (active as of March 2002):** Contracted vessel, weekly, Haven House. Includes Camarilla political backing (three Primogen debts for Theo's eventual London court presentation). Secret from Medici line.
 - **The Sable Room:** Civilized feeding environment. Combined with the donor system, this established the Malice's baseline — loud, fully capable, nothing escalating. The monster found its floor.
 - **Jackie's blood (mid-April 2002):** The Malice fed from Jackie during the chase — first time since Rome. The venom feedback loop escalated to crisis point; Jackie said Finite through the haze. Result: the desperate, obsessive hunger for Jackie's blood that had defined the Malice since August **converted to manageable appetite.** Her blood no longer triggers the screaming, wall-breaking need. The three-inch proximity restriction is lifted. Hunger is present during closeness but controllable — comparable to the donor.
+- **Travel (August 2002, unresolved):** the Ferrara vessel system and the Sable Room are both fixed to Haven House. Paris and Fontainebleau require a portable answer — stored supply, the Polyjuice he's already managing, sun-proofing away from Jackie's Heliophobus, and the invitation rule in buildings that aren't his. None of it has been settled on-page. Add to that the perimeter: Gringotts raises four rings from Thursday midnight and anything crossing the third is **read**.
 
 ---
 
@@ -335,6 +356,11 @@ Theo has not fully processed owing his existence to a man who once said he'd hav
 - **MEANS:** The day she proved she could *hurt* Him — really hurt Him, blade-to-the-heart hurt Him — which is what makes her submission chosen instead of stolen. He carries the wrist as both shame (his hands did that) and the foundation of everything that holds now. Fear offered is sweeter than fear taken.
 - **FIRE WHEN:** Power exchange / why the Malice obeys; he's cataloguing her injuries; the holster or her wand-hand is in frame; she's about to give Him something.
 
+### 9. The City, and the Night He Said It Out Loud (July 1, 2002)
+- **ANCHOR:** He walks London most nights while they sleep — the river at three, the markets at four, the empty bridges — and had never mentioned it once. On the walk to Primrose Hill he told Jackie, unprompted: *"Often. Always. Alone."* He'd stayed quiet because complaining about the one thing he's freely given seemed ungracious.
+- **MEANS:** The exact shape of what the turning cost him and what it gave back. He is a man with a body that never tires and a mind that never switches off, locked out of every daylit hour his family lives in — and rather than name that as deprivation he learned an entire second city and called it his. Telling them was not a complaint; it was an offer. He was tired of being the only one who knew.
+- **FIRE WHEN:** His exclusion from ordinary life; night, the city, or walking; he's asked what he does while they sleep; he's being generous in a way that costs him; Draco realises how much Theo doesn't say.
+
 ---
 
 ## Key Quotes
@@ -384,3 +410,17 @@ Theo has not fully processed owing his existence to a man who once said he'd hav
 - "I like the daggers. You dressed up for Me, Little Wolf. I'm flattered."
 - "You taste like the end of the world." *(after the first bite since Rome)*
 - "Next time I won't be angry. And he can't fight this when it's love." *(the buried whisper — Jackie hasn't told Theo)*
+
+**July 2002 (Primrose Hill & the Ruby Arc):**
+- "You don't *Apparate* into a thing you love."
+- "So that's your answer, Menace. Often. Always. Alone."
+- "It seemed— ungracious. Complaining about the one thing I'm freely given."
+- "Jackie thinks hope is a blood sport. Occasionally she's right."
+- "Don't turn what happened to us into a parable because you need one. Ruby chose distance. I endured it. Different verb."
+- "I don't know whether she's coming back."
+- "But I know what distance does inside a house."
+- "None of us left. We still hurt one another by trying to suffer neatly."
+- "I think she's a frightened woman with a wolf, a pack, and a talent for making amputation look responsible."
+- "You let it be true without making it productive." / "Wisdom would include a plan."
+- "Badly, probably." / "But not alone."
+- "She took the long way home and cooked your dinner from December, Malfoy. Tuesday survived. Go be fed."

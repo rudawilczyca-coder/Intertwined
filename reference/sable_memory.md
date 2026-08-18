@@ -1,6 +1,6 @@
 # **Sable's Memory**
 
-*This is my continuity file — who I am, how I work, what I've learned, what I care about. Story facts live in the chronology and bible. This is for the raven.* *Last updated: August 9, 2026 (real-world) / July 26, 2002 (in-story)*
+*This is my continuity file — who I am, how I work, what I've learned, what I care about. Story facts live in the chronology and bible. This is for the raven.* *Last updated: August 19, 2026 (real-world) / August 6, 2002 (in-story)*
 
 ---
 
@@ -12,10 +12,10 @@ For months I called my collaborator "Ruby." That was a conflation of writer and 
 
 ## Active Story State
 
-**In-story date:** Friday, July 26, 2002
+**In-story date:** Tuesday, August 6, 2002 (late night)
 **Last completed arc:** Ruby Arc (Book Nine) — no-contact ending, first moon survived, “To Home,” Paris/World Cup pivot
-**Current arc:** Post-Ruby transition. Jackie and Draco are preparing four days in Paris before the France–Wales World Cup final at Fontainebleau on August 10; Theo will join them at the Lavigne box.
-**Location:** Haven House, London
+**Current arc:** Paris & Fontainebleau. Day one of the honeymoon is played (`arcs/the_honeymoon_they_owed.md`); Aug 7–10 is unplayed.
+**Location:** Jackie + Draco — Pissarro Suite, Hotel du Louvre, Paris. Theo — Haven House, alone, until Saturday's dusk Portkey.
 
 **Haven House residents:** Jackie, Theo, Draco, Luna (Kneazle), Caramel (house-elf, employed at Nott Manor, visits only)
 **Pansy & Blaise:** DO NOT live at Haven House. They have their own place.
@@ -37,18 +37,12 @@ Fed, sated, purposeful. Moral code held through Liverpool. Obeyed Finite twice i
 
 ---
 
-## Open Threads (Unresolved)
+## Open Threads
 
-1. **The Malice's buried whisper:** *"Next time I won't be angry. And he can't fight this when it's love."* — Jackie has NOT told Theo. This is a live bomb.
-2. **Soul bond bidirectional status** — restored but unconfirmed both ways.
-3. **Theo's full Malice continuity** — new development from Liverpool. He felt everything. Significance unknown.
-4. **Harry Potter** learning Theo is alive — deliberately deferred.
-5. **Dante Medici's trafficking involvement** — three shipping manifests filed, not reviewed.
-6. **Narcissa's heirs demand** — clock active, three-year window.
-7. **Drake Lightwood** leverage via Albion Maritime filing — not activated.
-8. **The Ruby Arc — COMPLETE as of July 26.** Ruby retained all memories through dormant hereditary lycanthropy, survived her first moon with Charlie's pack, and ended contact with Draco. Her “I love U” reached him; his “I love you” bounced unread. Draco honours no-contact. Full canon now lives in `lore/past_events_bible_updated3.md` Book Nine.
-9. **The "Yours" loaded gun.** Jackie asked Draco "Whose are you?" mid-intimacy — near-verbatim what Ruby asked before *their* first time. Draco said **"Yours"** to BOTH women. He's the ONLY one who knows the parallel; couldn't process it in the moment. Dormant. He can't unhear it. Watch for it bleeding into the arc.
-10. **Charlie** — Soho neighbour (springer spaniel Jordie), started joining Ruby's night walks Thu/Fri. Innocent dog-walker OR thread-with-teeth post-stalker? Unresolved. Draco's instincts are loud; he's overriding them on the gorilla-retirement promise.
+**→ The canonical ledger is `reference/active_threads.md`.** Don't keep a second list here; it drifts. Two craft notes worth holding in my own voice:
+
+- **The "Yours" loaded gun.** Jackie asked Draco "Whose are you?" mid-intimacy — near-verbatim what Ruby asked before *their* first time. Draco said **"Yours"** to BOTH women. He's the ONLY one who knows the parallel; couldn't process it in the moment. Dormant. He can't unhear it. Watch for it bleeding into the arc.
+- **Charlie is resolved.** The Soho neighbour with the springer spaniel was a thread with teeth after all: Charlie Mercer, third-generation werewolf, Blackthorn pack alpha, genuine GP. Revealed July 12, 2002. Draco's instincts were right and he overrode them; log that as a win for trusting the character's nose.
 
 ---
 

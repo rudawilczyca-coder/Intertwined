@@ -1,5 +1,8 @@
 # Jackie's Story: Canon Index
-**Full Timeline: 1994 – July 26, 2002**
+**Full Timeline: 1994 – August 6, 2002**
+
+> **Canon cutoff:** Tuesday, August 6, 2002, late night — Paris, Rue Chapon. The past-events bible closes at July 26; the played material after that date lives in `arcs/the_honeymoon_they_owed.md`.
+> **Open threads are no longer listed in full here.** The canonical ledger is `reference/active_threads.md`; this file keeps a snapshot only.
 
 Use this index to find specific events without loading the full bible. Each book section links to its detail file — only load those when specific dates, dialogue, or sequences are load-bearing for the scene.
 
@@ -133,6 +136,14 @@ Use this index to find specific events without loading the full bible. Each book
 | July 22–25 | Four-night questions-game text thread; Ruby survives first moon July 24; no-contact goodbye “I love U”; Draco's “I love you” bounces unread |
 | July 25–26 | “To Home” blood-and-wine toast; Genevieve sends three World Cup final tickets and counts Theo in writing; Jackie and Draco plan Paris before Fontainebleau |
 
+### BOOK TEN: PARIS & FONTAINEBLEAU (August 2002 — in progress)
+→ `arcs/the_honeymoon_they_owed.md`
+
+| Period | Key Events |
+|--------|------------|
+| Aug 6 | 09:23 Eurostar; Pissarro Suite, Hotel du Louvre; Theo holds Haven House (Luna, blood supply, Polyjuice, Malice runs Friday); *Au Coq de Cuivre* and the children conversation opened; the Louvre and the Delacroix gallery; Luc Moreau's graphite portrait; forgiveness given and accepted; the nude-portrait commission agreed on Draco's terms; first private honeymoon intimacy; the three France sentences said as fact; Rue Chapon crêperie — Aurélien Vasseur, Sylvie Roux, Solange and Naïs; the Fontainebleau perimeter described; the Swansea attic book quietly recognised |
+| Aug 7–10 | **Unplayed.** Catacombs; Luc's second sitting; Jackie's proposed Samaya meeting (Thu, Bois de Boulogne); Gringotts rings up from Thursday midnight; Theo's dusk Portkey Saturday; France v Wales final, Lavigne box |
+
 ---
 
 ### KEY CHARACTER REFERENCE
@@ -156,20 +167,19 @@ Use this index to find specific events without loading the full bible. Each book
 
 ---
 
-### OPEN THREADS (Post-Ruby Arc — July 26, 2002)
-- **Harry Potter** learning about Theo — deliberately deferred
-- **Dante Medici's involvement** in the trafficking infrastructure — filed, not reviewed
-- **The Malice's buried whisper** (*"Next time I won't be angry. And he can't fight this when it's love."*) — Jackie has not told Theo
-- **Narcissa's heirs demand** — three-year clock active from February 27, 2002
-- **Soul bond status** — restored Feb 2, but bidirectional function unconfirmed
-- **Theo's new continuity** during Malice control — significance unknown
-- **Paris and the World Cup** — Jackie and Draco plan four days in Paris before the August 10 France–Wales final below Fontainebleau; Theo will join at the Lavigne box. Cover identity pending.
-- **Genevieve knows Theo lives** — she counted him in writing by sending three tickets. Her purpose remains unknown.
-- **Theo and Jackie's wedding repair** — Theo wants chosen vows, a honeymoon, and a weekend where nobody's father exists.
-- **The Charlie–Draco doorway conversation** — July 11, still unrevealed.
-- **Ruby / Blackthorn pack** — continuing off-page under canon no-contact. No engineered reunion.
-- **The “Yours” parallel** — Draco used the word with Jackie and Ruby; only he knows. Dormant.
-- **Drake Lightwood** leverage via Albion Maritime filing — not yet activated
+### OPEN THREADS — SNAPSHOT (as of August 6, 2002)
+
+**→ Full ledger, with sources, status, heat, and who-knows-what: `reference/active_threads.md`. Do not maintain a second list here.**
+
+Hottest six, for orientation only:
+1. **Theo's cover identity for Fontainebleau** — unchosen, against a Gringotts perimeter that reads anything crossing the third ring. Prince Viola intends to use the Paris interval to summon him and substitute Leandro Velluti in Eli's face *(authored, unresolved — `characters/London_Camarilla.md`)*.
+2. **Genevieve counted Theo in writing.** Her purpose is unknown.
+3. **The Malice's buried whisper** — Jackie still hasn't told Theo.
+4. **The children question** — reopened in Paris, unfinished, and Theo hasn't heard any of it. Narcissa's three-year clock runs underneath.
+5. **Dante** — three shipping manifests, filed and not actionable.
+6. **Ruby / Blackthorn pack** — off-page under canon no-contact. **No engineered reunion.**
+
+Also live, dormant, or frozen: the soul bond's unconfirmed bidirectional function · Theo's unexplained Malice continuity · Theo and Jackie's wedding repair · the Charlie–Draco doorway conversation · Draco's unsent apology letter · the “Yours” parallel · the Swansea attic book · Jackie's private exit arithmetic · Drake Lightwood · Theo's London Camarilla presentation · Harry Potter not knowing Theo lives.
 
 ---
 
