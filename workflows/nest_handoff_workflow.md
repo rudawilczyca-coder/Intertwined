@@ -80,8 +80,6 @@ The door is warded. Jackie is armed but hasn't drawn.
 - Draco: absent from scene. Aware but not intervening.
 
 ## Active Threads
-- The Malice's whisper from last time ("Next time I won't be angry")
-  — has He kept that promise?
 - Theo has full Malice continuity now (post-Liverpool). He'll remember
   everything after.
 - Safewords are Pax (pause) and Finite (full stop). If used, they work.
@@ -160,10 +158,7 @@ The Malice got His chase. Jackie used Finite near the end.
 Theo came back with full memory. She has bite marks on her
 neck and shoulder. They're on the cellar floor and she's
 half-asleep. He's running his fingers through her hair and
-hasn't spoken since he came back to himself.
-
-Canon line to keep: The Malice whispered "You make Me want
-to be gentle" and it scared both of them.]]
+hasn't spoken since he came back to himself.]]
 ```
 
 ### Option B — Summary + Export (full context)
@@ -180,8 +175,7 @@ Key beats:
 - Finite used when venom loop got too intense — He obeyed immediately
 - Theo surfaced with full memory
 - Physical: bite marks neck + shoulder, bruising on hips
-- Emotional: tender, raw, exhausted. Violence converted to quiet.
-- Canon line: "You make Me want to be gentle"]]
+- Emotional: tender, raw, exhausted. Violence converted to quiet.]]
 ```
 
 **Tip:** You don't need to copy the whole Nest conversation. Sable here doesn't need every line — she needs to know what **changed**. The bones, not the body.

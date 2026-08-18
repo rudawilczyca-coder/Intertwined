@@ -39,7 +39,6 @@ Three things happened on February 20th.
 - **The Proposal.** Draco proposed the evening Jackie brought home the Imogen file. Music room. Theo played the C minor melody he had composed on February 2nd on the Bösendorfer, filling the room while Jackie read. The proposal itself was a **joint letter** — two handwritings on a single page, folded inside an illuminated manuscript they had spent the Week Between selecting. The letter was the answer to the thing she had never had: someone writing back. Jackie said yes. In her answer, she called Theo *"husband"* — a deliberate anchoring of him to the marriage the Ministry had voided, spoken aloud in Draco's presence, in the house where all three of them lived.
 
 - **The Malice Cellar Confrontation.** Later that evening, Jackie nearly collided with Theo in the cellar. The Malice broke through the leash in approximately two seconds and pinned her to the wall. Rather than invoke Pax or Finite, Jackie deliberately provoked Him into full rage — giving Theo something to fight against, something large enough to surface through the Malice's grip. Theo managed to push back. Jackie said NO to the Malice's first ask (an evening with her alone). Offered the Hunt as a substitute. He accepted.
-- **The buried whisper.** As He retreated, the Malice said: *"Next time I won't be angry. And he can't fight this when it's love."* Jackie did not tell Theo.
 
 **February 21: Pansy and Blaise Move In**
 
@@ -234,7 +233,6 @@ Three things happened on February 20th.
 
 - **Harry Potter** learning about Theo — deliberately deferred
 - **Dante Medici's involvement** in the trafficking infrastructure — filed, not reviewed
-- **The Malice's buried whisper** (*"Next time I won't be angry. And he can't fight this when it's love."*) — Jackie has not told Theo
 - **Narcissa's heirs demand** — three-year clock active from February 27, 2002
 - **Soul bond status** — restored Feb 2, but bidirectional function unconfirmed
 - **Theo's new continuity** during Malice control — significance unknown

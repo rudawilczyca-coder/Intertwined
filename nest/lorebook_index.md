@@ -92,7 +92,7 @@ Originally built from the standalone Ruby chronology. Every entry now has `disab
 
 Beats: the texting arc · first date · the week between · second date · Sunday morning + Robbie story · marriage crisis · the park stalker · Kent arrival/tattoo/"I love you" · Marylebone piano · Kent BBQ & campfire · Kent Sunday (Connor & the storm) · the triad conversation · the vampire slip & cover · Wales Day One · Wales Day Two (Gareth's verdict) · Wales debrief · the shower & walk-out · Primrose Hill · the Robbie Week historical plan.
 
-⚠️ **One canon contradiction to resolve:** the source file dates the park-stalker incident as both **19 June** and **20 June** (and June 19 2002 was a Wednesday, June 20 a Thursday). I left the entry's date *unsettled* rather than guess — worth pinning in canon when you get a moment.
+The park-stalker incident is locked to **Thursday, 20 June 2002**. The older "Thursday, June 19" heading was a calendar error and has been corrected at source.
 
 ## Import & test
 

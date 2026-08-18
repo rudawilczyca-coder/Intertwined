@@ -19,7 +19,7 @@
 **Occupation:** Ministry of Magic employee (Department of International Magical Cooperation)
 
 **Residence:**
-- Primary: Haven House, 145 Berkeley Street, Notting Hill, London
+- Primary: Haven House, 145 Berkeley Place, Notting Hill, London
 - Former: Ministry-issued flat in London
 
 ---

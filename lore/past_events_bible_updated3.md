@@ -88,7 +88,7 @@ Use this index to jump to specific events without scanning the full document. Or
 | Feb 3–13 | Investigation opens; Albion Maritime traced to Victorian Liverpool dockside warehouse; Sanguinem Mortis sample sent for independent alchemical analysis |
 | Feb 13 | Travers charity dinner; Draco spots a figure behind Alistair Travers who didn't eat, drink, or move correctly — "a recent acquisition from the continent" |
 | Feb 20 | Imogen Parkinson identified; alchemical batch trace; Draco proposes in music room — joint letter inside illuminated manuscript, C minor played on Bösendorfer; Jackie says yes; calls Theo "husband" |
-| Feb 20 | Malice cellar confrontation; Jackie provokes rage to give Theo leverage; Jackie says NO to the Malice's first ask; gives the Hunt instead; Malice's buried whisper — Jackie did not tell Theo |
+| Feb 20 | Malice cellar confrontation; Jackie provokes rage to give Theo leverage; Jackie says NO to the Malice's first ask; gives the Hunt instead |
 | Feb 21 | Pansy moves in drunk at 6 PM after learning about Imogen; Blaise arrives 40 minutes later with her pillow; Haven House becomes five-person household |
 | Feb 26 | Hunt 1 (Knockturn); Gino Marchetti / Rotterdam intel extracted; Malice surges post-hunt; bruises Draco's wrist; The Inversion articulated; Pansy/Draco hallway confrontation |
 | Feb 27 | Narcissa visit at Malfoy Manor; conditional engagement truce; heirs demand (three years); Genevieve's 1987 debt acknowledged; Draco to Kensington flat; Theo finds him with a bottle |
@@ -121,7 +121,7 @@ Use this index to jump to specific events without scanning the full document. Or
 - **Jackie Nott-Malfoy (née Taylor):** Maledictus curse broken (1999); snow leopard Animagus; Auror trainee; married Theo (Ministry-voided) and Draco (early April 2002); kept hyphenated name
 - **Theodore Nott:** Vampire (turned Aug 11, 2001, sired by Filippo); black panther Animagus; the Malice (inner darkness, capital-H He/Him); legally dead; donor system + Sable Room feeding established; Malice stabilized and purposeful
 - **Draco Malfoy:** Ministry employee; Luna the Kneazle; married Jackie (early April 2002); war reparations paid in full by Genevieve Lavigne
-- **The Malice:** Stable, fed, has a moral code (hunts predators only); obeys *Finite* voluntarily as of Liverpool Raid; acknowledged Draco as "interesting"; His buried whisper to Jackie (*"Next time I won't be angry. And he can't fight this when it's love"*) — Theo does not know
+- **The Malice:** Stable, fed, has a moral code (hunts predators only); obeys *Finite* voluntarily as of Liverpool Raid; acknowledged Draco as "interesting"; reconciled with Jackie after the Liverpool crisis
 - **Soul bond:** Bidirectional (activated April 2001); snapped when Jackie left London airspace (Jan 28); restored on return (Feb 2); status unresolved post-arc
 - **Safewords:** Pax (slow), Finite (stop) — established July 2001; the Malice obeys because Jackie proved she could hurt Him; *Finite* obeyed voluntarily at Liverpool Raid
 - **Haven House:** Notting Hill, London; sun-proofed; three-person household (Jackie, Theo, Draco) + Luna the Kneazle. *(Note: Pansy & Blaise stayed Feb 21–post-Liverpool during the investigation; both have since moved out — see below.)*
@@ -2051,7 +2051,6 @@ Three things happened on February 20th.
 - **The Proposal.** Draco proposed the evening Jackie brought home the Imogen file. Music room. Theo played the C minor melody he had composed on February 2nd on the Bösendorfer, filling the room while Jackie read. The proposal itself was a **joint letter** — two handwritings on a single page, folded inside an illuminated manuscript they had spent the Week Between selecting. The letter was the answer to the thing she had never had: someone writing back. Jackie said yes. In her answer, she called Theo *"husband"* — a deliberate anchoring of him to the marriage the Ministry had voided, spoken aloud in Draco's presence, in the house where all three of them lived.
 
 - **The Malice Cellar Confrontation.** Later that evening, Jackie nearly collided with Theo in the cellar. The Malice broke through the leash in approximately two seconds and pinned her to the wall. Rather than invoke Pax or Finite, Jackie deliberately provoked Him into full rage — giving Theo something to fight against, something large enough to surface through the Malice's grip. Theo managed to push back. Jackie said NO to the Malice's first ask (an evening with her alone). Offered the Hunt as a substitute. He accepted.
-- **The buried whisper.** As He retreated, the Malice said: *"Next time I won't be angry. And he can't fight this when it's love."* Jackie did not tell Theo.
 
 **February 21: Pansy and Blaise Move In**
 
@@ -2246,7 +2245,6 @@ Three things happened on February 20th.
 
 - **Harry Potter** learning about Theo — deliberately deferred
 - **Dante Medici's involvement** in the trafficking infrastructure — filed, not reviewed
-- **The Malice's buried whisper** (*"Next time I won't be angry. And he can't fight this when it's love."*) — Jackie has not told Theo
 - **Narcissa's heirs demand** — three-year clock active from February 27, 2002
 - **Soul bond status** — restored Feb 2, but bidirectional function unconfirmed
 - **Theo's new continuity** during Malice control — significance unknown
@@ -2267,6 +2265,7 @@ Three things happened on February 20th.
 - Their intimacy grew through deliberately ordinary things: texting, bookshops, *Fourth Wing*, cinema, laundry, food, music, Ruby's friends, and Draco learning how much of Muggle life he had never been allowed to touch. Ruby knew he was married to Jackie and partnered with Theo; she did **not** know magic existed, that Jackie was an Auror, or that Theo was a vampire. Draco maintained the cover of civil-service records work under the Statute of Secrecy.
 - Ruby disclosed the abuse she survived from **Robert “Robbie” Williams**: coercion, burns, cuts, a knife, hospital visits, and the long habit of making a man's reasons larger than what he did to her. Draco became the first lover allowed to see her stomach scars without shame. Their disclosure pact required Ruby not to face Robbie's return alone.
 - **Kent, June 22–23:** Draco entered Ruby's friend group, sang with her, and exchanged “I love you.” **Wales, June 29–30:** he met Gemma, Gareth, Callum, Alex, Mike, and the family's full noisy domestic life. Gareth's verdict was “You'll do.” Draco experienced a place at an ordinary family table without pedigree or performance.
+- **Green Park, Thursday, June 20:** a tall blond man in a black trench coat followed Ruby during Vex's late walk, appeared ahead of her, then vanished without a scent trail. Haven House treated Disapparition or supernatural speed as plausible and opened a seven-day Preliminary Threat Assessment. The stalker's identity remains unknown.
 - The relationship reached Haven House rather than remaining compartmentalised. Jackie and Theo learned its real emotional weight. Jackie's jealousy proved rooted less in Ruby herself than in Draco's January 2000 departure and the fear that he could choose a life outside the triad. Ground rules were negotiated, but the women had still been denied the central fact: every ordinary moment with Ruby existed beneath a memory-erasure clause only the magical side understood.
 
 ### PHASE TWO: ROBBIE'S RETURN (July 1–11, 2002)
@@ -2297,7 +2296,7 @@ Three things happened on February 20th.
 ### PHASE FIVE: TO HOME (July 25–26, 2002)
 
 - Draco told Jackie and Theo. Jackie received the news without vindication. Theo's distinction held the grief in place: his own Florence departure and Ruby's no-contact used different verbs and made different wounds. Draco asked, “I don't know how to lose someone who's still alive.” Theo answered, “Badly, probably. But not alone.”
-- That evening Jackie recreated Draco's exact steak order from the difficult December when she had paid Wonky for Dobby's record of his preferences. She invited Theo into a blood toast with her wrist and Draco's forearm freely offered into his crystal. The Malice called it a place at the table. Jackie toasted **“To Home. To the physical one, but also the one we are to each other.”**
+- That evening Jackie recreated Draco's exact steak order from the difficult December when she had paid Winky for Dobby's record of his preferences. She invited Theo into a blood toast with her wrist and Draco's forearm freely offered into his crystal. The Malice called it a place at the table. Jackie toasted **“To Home. To the physical one, but also the one we are to each other.”**
 - Hope delivered Pansy's letter on Genevieve Lavigne stationery with **three tickets** to the France–Wales Quidditch World Cup final below Fontainebleau on August 10. Genevieve counted Theo, a legally dead man, in writing. Theo's cover identity and feeding/travel safeguards remain to be settled.
 - Jackie proposed taking Draco to Paris for four days before the final—the honeymoon their April wedding never had. Theo endorsed it and named a want of his own: the coerced first Nott wedding deserves repair one day through chosen vows, a honeymoon, and “a weekend where nobody's father exists.” On Friday, July 26, Draco said yes to Paris.
 
@@ -2313,12 +2312,12 @@ Three things happened on February 20th.
 
 ### OPEN THREADS AFTER THE RUBY ARC
 
-- Paris (~August 6–10) and the France–Wales final at Fontainebleau; Pansy and the Lavigne cousins in the family box; Theo's cover identity pending.
+- Paris (~August 6–10) and the France–Wales final at Fontainebleau; Pansy and the Lavigne cousins in the family box; Theo attending under Eli Lavigne's face, with the read perimeter still unresolved.
 - Genevieve's written acknowledgement that Theo lives, and the question of what she wants.
 - Theo and Jackie's future wedding repair and honeymoon.
 - The Charlie–Draco doorway conversation from July 11.
 - Draco's apology letter, promised before the end of July.
-- The “Yours” parallel, Jackie's private-exit arithmetic, the soul-bond question, and the Malice's buried whisper remain dormant.
+- The “Yours” parallel, Jackie's private-exit arithmetic, and the soul-bond question remain dormant.
 - Ruby and the Blackthorn pack continue off-page. No-contact is canon, not an invitation to engineer a reunion.
 
 ---

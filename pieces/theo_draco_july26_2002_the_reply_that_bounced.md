@@ -1,6 +1,6 @@
 # The Reply That Bounced
 
-*Friday, July 12, 2002 — Haven House library. Off-page expansion of the conversation summarized in the active Ruby Arc scene.*
+*Friday, July 26, 2002 — Haven House library. Off-page expansion of the conversation summarized in Book Nine, Phase Five.*
 
 Draco had come home early.
 
@@ -58,7 +58,7 @@ Draco turned his face toward the shelves. "Jackie thinks she'll come back."
 
 "And you?"
 
-Theo's lighter made one slow revolution between his fingers. "I think Ruby meant no contact. I think you gave your word. I think if you use the Ministry, send an owl, appear on her doorstep, or develop a sudden scholarly interest in Scottish werewolf employment, I'll break your wand before Charlie Weasley gets the privilege."
+Theo's lighter made one slow revolution between his fingers. "I think Ruby meant no contact. I think you gave your word. I think if you use the Ministry, send an owl, appear on her doorstep, or develop a sudden scholarly interest in Scottish werewolf employment, I'll break your wand before Charlie Mercer gets the privilege."
 
 "That wasn't the question."
 
@@ -189,4 +189,3 @@ He left the phone on the side table — face-up, in the lamplight, but left.
 Theo waited at the library door until Draco reached him. They went downstairs together into the smell of gravy and seared meat, Theo first, Draco one step behind with his sleeves rolled and the last of the day's armour gone from his face.
 
 They stopped in the kitchen doorway, side by side, and let Jackie see them.
-

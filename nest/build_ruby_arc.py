@@ -117,8 +117,7 @@ entry(
     ["the stalker", "Green Park", "trench coat", "PTA", "purple tab"],
     comment="06 · The park stalker",
     content=(
-        "[THE PARK STALKER (a night in late June — the source file conflicts on the 19th vs the "
-        "20th; treat the date as unsettled) — Ruby rang Draco near midnight, shaking: a tall blond "
+        "[THE PARK STALKER (Thursday night, 20 June 2002) — Ruby rang Draco near midnight, shaking: a tall blond "
         "man in a black trench coat (in a heatwave) appeared IN FRONT of her while she walked Vex "
         "in Green Park, then vanished; Vex growled at empty space with no scent trail. She took "
         "Xanax and called it 'a purrrple ta-ab.' Haven House read it as wizard or vampire "

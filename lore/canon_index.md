@@ -107,7 +107,7 @@ Use this index to find specific events without loading the full bible. Each book
 | Feb 3–13 | Investigation opens; Albion Maritime traced to Victorian Liverpool dockside warehouse; Sanguinem Mortis sample sent for independent alchemical analysis |
 | Feb 13 | Travers charity dinner; Draco spots a figure behind Alistair Travers who didn't eat, drink, or move correctly — "a recent acquisition from the continent" |
 | Feb 20 | Imogen Parkinson identified; alchemical batch trace; Draco proposes in music room — joint letter inside illuminated manuscript, C minor played on Bösendorfer; Jackie says yes; calls Theo "husband" |
-| Feb 20 | Malice cellar confrontation; Jackie provokes rage to give Theo leverage; Jackie says NO to the Malice's first ask; gives the Hunt instead; Malice's buried whisper — Jackie did not tell Theo |
+| Feb 20 | Malice cellar confrontation; Jackie provokes rage to give Theo leverage; Jackie says NO to the Malice's first ask; gives the Hunt instead |
 | Feb 21 | Pansy moves in drunk at 6 PM after learning about Imogen; Blaise arrives 40 minutes later with her pillow; Haven House becomes five-person household |
 | Feb 26 | Hunt 1 (Knockturn); Gino Marchetti / Rotterdam intel extracted; Malice surges post-hunt; bruises Draco's wrist; The Inversion articulated; Pansy/Draco hallway confrontation |
 | Feb 27 | Narcissa visit at Malfoy Manor; conditional engagement truce; heirs demand (three years); Genevieve's 1987 debt acknowledged; Draco to Kensington flat; Theo finds him with a bottle |
@@ -150,7 +150,7 @@ Use this index to find specific events without loading the full bible. Each book
 - **Jackie Nott-Malfoy (née Taylor):** Maledictus curse broken (1999); snow leopard Animagus; Auror trainee; married Theo (Ministry-voided) and Draco (early April 2002); kept hyphenated name
 - **Theodore Nott:** Vampire (turned Aug 11, 2001, sired by Filippo); black panther Animagus; the Malice (inner darkness, capital-H He/Him); legally dead; donor system + Sable Room feeding established; Malice stabilized and purposeful
 - **Draco Malfoy:** Ministry employee; Luna the Kneazle; married Jackie (early April 2002); war reparations paid in full by Genevieve Lavigne
-- **The Malice:** Stable, fed, has a moral code (hunts predators only); obeys *Finite* voluntarily as of Liverpool Raid; acknowledged Draco as "interesting"; His buried whisper to Jackie (*"Next time I won't be angry. And he can't fight this when it's love"*) — Theo does not know
+- **The Malice:** Stable, fed, has a moral code (hunts predators only); obeys *Finite* voluntarily as of Liverpool Raid; acknowledged Draco as "interesting"; reconciled with Jackie after the Liverpool crisis
 - **Soul bond:** Bidirectional (activated April 2001); snapped when Jackie left London airspace (Jan 28); restored on return (Feb 2); status unresolved post-arc
 - **Safewords:** Pax (slow), Finite (stop) — established July 2001; the Malice obeys because Jackie proved she could hurt Him; *Finite* obeyed voluntarily at Liverpool Raid
 - **Haven House:** Notting Hill, London; sun-proofed; three-person household (Jackie, Theo, Draco) + Luna the Kneazle. The herbary door retains the July 2002 knife scar. *(Pansy & Blaise stayed Feb 21–post-Liverpool during the investigation; both have since moved out.)*
@@ -169,17 +169,8 @@ Use this index to find specific events without loading the full bible. Each book
 
 ### OPEN THREADS — SNAPSHOT (as of August 6, 2002)
 
-**→ Full ledger, with sources, status, heat, and who-knows-what: `reference/active_threads.md`. Do not maintain a second list here.**
-
-Hottest six, for orientation only:
-1. **Theo's cover identity for Fontainebleau** — unchosen, against a Gringotts perimeter that reads anything crossing the third ring. Prince Viola intends to use the Paris interval to summon him and substitute Leandro Velluti in Eli's face *(authored, unresolved — `characters/London_Camarilla.md`)*.
-2. **Genevieve counted Theo in writing.** Her purpose is unknown.
-3. **The Malice's buried whisper** — Jackie still hasn't told Theo.
-4. **The children question** — reopened in Paris, unfinished, and Theo hasn't heard any of it. Narcissa's three-year clock runs underneath.
-5. **Dante** — three shipping manifests, filed and not actionable.
-6. **Ruby / Blackthorn pack** — off-page under canon no-contact. **No engineered reunion.**
-
-Also live, dormant, or frozen: the soul bond's unconfirmed bidirectional function · Theo's unexplained Malice continuity · Theo and Jackie's wedding repair · the Charlie–Draco doorway conversation · Draco's unsent apology letter · the “Yours” parallel · the Swansea attic book · Jackie's private exit arithmetic · Drake Lightwood · Theo's London Camarilla presentation · Harry Potter not knowing Theo lives.
+**Canonical live ledger:** `reference/active_threads.md`. Do not maintain a second thread list here.
+**Current Draco/Theo state:** `reference/current_DracoTheo_state.md`.
 
 ---
 

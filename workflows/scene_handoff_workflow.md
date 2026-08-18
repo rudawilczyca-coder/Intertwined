@@ -123,9 +123,7 @@ Scene ran about 2 hours of play. Key beats:
 - Physical state: bite marks neck + shoulder, bruising on her 
   hips from being pinned, both on the cellar floor
 - Emotional state: tender, raw, exhausted. The violence 
-  converted to quiet.
-- Canon line I want to keep: The Malice whispered "You make Me 
-  want to be gentle" and it scared both of them.]]
+  converted to quiet.]]
 ```
 
 ---

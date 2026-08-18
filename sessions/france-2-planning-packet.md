@@ -1,5 +1,7 @@
 # France 2.0 — planning packet
 
+> **SUPERSEDED HOTEL VERDICT:** This planning packet recommended Le Meurice. Played canon chose the Pissarro Suite at the Hotel du Louvre on Aug 6, 2002. Use `arcs/the_honeymoon_they_owed.md`; do not treat the hotel research below as current canon.
+
 *Prepared 2026-08-09 for the next OOC planning conversation. This is a canon
 preflight and decision docket, not a fixed outline. Ruby and Sable choose the
 arc together; Jackie remains Ruby's exclusively.*
@@ -22,12 +24,11 @@ arc together; Jackie remains Ruby's exclusively.*
   Theo's death, and his turning. The return therefore carries history before
   anyone says a word.
 
-## Paris hotel — 2002 guardrails
+## Paris hotel research — verdict superseded by played canon
 
-The live conversation has narrowed Paris to a real delayed honeymoon for
-Jackie and Draco, August 6–10, with Theo joining at the Fontainebleau grounds
-after sunset. The exact hotel still belongs to their planning conversation,
-but the historical comparison now has a firm floor:
+Played canon fixed the stay at the **Pissarro Suite, Hotel du Louvre**. The
+comparison below is retained only as period research; it must not be used to
+reopen the hotel decision.
 
 - **Le Meurice is the cleanest period-faithful Draco choice.** It reopened in
   July 2000 after an extensive two-year renovation, so August 2002 catches it
@@ -47,7 +48,7 @@ but the historical comparison now has a firm floor:
   arrived in 2015, so today's room count, category names, pale refurbished
   interiors, and Eiffel Tower Suite imagery are unsafe period evidence.
 
-Working verdict: if Draco chose the hotel as a deliberate honeymoon gesture,
+**Superseded working verdict:** if Draco chose the hotel as a deliberate honeymoon gesture,
 Le Meurice has both the strongest character fit and the least historical
 guesswork. Hotel du Louvre remains the better choice only if the concealed
 Louvre/city texture should outrank Malfoy-scale courtship.

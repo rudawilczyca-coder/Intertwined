@@ -22,9 +22,18 @@ import urllib.error
 EMBED_MODEL = "qwen/qwen3-embedding-8b"
 EMBED_DIM = 4096  # qwen3-embedding-8b native dimension (verified via live smoke test; NanoGPT's own pricing table lists 1536, which is wrong)
 
-# Directories we never index. "archives" holds superseded versions of files
+# Directories we never index. ``archives`` holds superseded versions of files
 # that exist current elsewhere; indexing them surfaces outdated canon.
 SKIP_DIRS = {".git", ".obsidian", ".claude", ".rag", ".trash", "node_modules", "archives"}
+
+# Repo-relative trees which are useful to humans but are not canon evidence.
+# Keep this narrower than SKIP_DIRS: ``archive`` may still contain unique
+# played material, while its superseded-planning shelf must never compete with
+# current canon. Workflow documents describe process rather than story truth.
+SKIP_REL_DIRS = {
+    "archive/superseded-planning",
+    "workflows",
+}
 EXTS = (".md", ".txt")
 
 # --- roughly token-sized bounds (approx 4 chars/token) -----------------------
@@ -329,9 +338,22 @@ def chunk_file(path, text):
 def walk_repo(repo_root):
     """Yield absolute paths of indexable files under repo_root."""
     for dirpath, dirnames, filenames in os.walk(repo_root):
-        dirnames[:] = [d for d in dirnames if d not in SKIP_DIRS]
+        kept = []
+        for dirname in dirnames:
+            if dirname in SKIP_DIRS:
+                continue
+            candidate = os.path.join(dirpath, dirname)
+            rel = os.path.relpath(candidate, repo_root).replace(os.sep, "/")
+            if rel in SKIP_REL_DIRS:
+                continue
+            kept.append(dirname)
+        dirnames[:] = kept
         for fn in filenames:
-            if fn.endswith(EXTS):
+            # A template is an authoring aid, not canon evidence. Match the
+            # explicit filename convention without excluding ordinary prose
+            # that happens to discuss a template.
+            stem = os.path.splitext(fn)[0].lower()
+            if fn.endswith(EXTS) and not (stem.endswith("_template") or stem == "template"):
                 yield os.path.join(dirpath, fn)
 
 

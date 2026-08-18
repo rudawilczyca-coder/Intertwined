@@ -71,7 +71,7 @@
 
 ---
 
-## PHASE 7: THE PARK STALKER (Thursday night, June 19)
+## PHASE 7: THE PARK STALKER (Thursday night, June 20, 2002)
 
 - Ruby called Draco at 11:45PM, shaking. Walking Vex in Green Park after work — a man followed her. Tall, shorter than Draco, blond (darker than platinum), black/charcoal trench coat in a heatwave. She tried to lose him. He appeared IN FRONT of her. She let Vex off, screamed. The man DISAPPEARED. Vex growled at empty space. No scent trail.
 - Draco counted breaths with her. She took Xanax. Falling asleep: *"You're a purrrple ta-ab..."*

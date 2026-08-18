@@ -29,6 +29,7 @@ import argparse
 import re
 import urllib.error
 import urllib.request
+from collections import Counter
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import rag_lib as R
@@ -54,10 +55,18 @@ def resolve_voyage_key():
 
 def voyage_rerank(query, ranked, key):
     """Rerank [(row, first_pass_score)] with Voyage; preserve row objects."""
+    documents = []
+    for row, _ in ranked:
+        documents.append(
+            "Source path: %s\nHeading: %s\nFile title: %s\n\n%s" % (
+                row["rel_path"], row["heading"] or "(none)",
+                row["title"] or "(none)", row["text"],
+            )
+        )
     payload = json.dumps({
         "model": VOYAGE_RERANK_MODEL,
         "query": query,
-        "documents": [row["text"] for row, _ in ranked],
+        "documents": documents,
         "top_k": len(ranked),
     }).encode()
     req = urllib.request.Request(
@@ -67,6 +76,44 @@ def voyage_rerank(query, ranked, key):
     with urllib.request.urlopen(req, timeout=60) as response:
         data = json.loads(response.read())
     return [(ranked[item["index"]][0], item["relevance_score"]) for item in data["data"]]
+
+
+def _word_shingles(text, width=5):
+    words = re.findall(r"[a-z0-9]+", text.lower())
+    if len(words) < width:
+        return set(words)
+    return {tuple(words[i:i + width]) for i in range(len(words) - width + 1)}
+
+
+def near_duplicate(left, right, threshold=0.38):
+    """Detect copied/closely echoed prose without conflating topical matches.
+
+    Five-word shingles make repeated quotations and lightly edited scene
+    retellings visible. Containment (rather than Jaccard) also catches a short
+    copied summary embedded inside a longer chunk.
+    """
+    a = _word_shingles(left)
+    b = _word_shingles(right)
+    if not a or not b:
+        return False
+    return len(a & b) / min(len(a), len(b)) >= threshold
+
+
+def diversify_results(ranked, limit, max_per_file=2):
+    """Cap one-file dominance and remove near-identical prose echoes."""
+    selected = []
+    per_file = Counter()
+    for row, score in ranked:
+        path = row["rel_path"]
+        if per_file[path] >= max_per_file:
+            continue
+        if any(near_duplicate(row["text"], prior["text"]) for prior, _ in selected):
+            continue
+        selected.append((row, score))
+        per_file[path] += 1
+        if len(selected) >= limit:
+            break
+    return selected
 
 
 def cosine(a, b):
@@ -204,7 +251,7 @@ def main():
         filtered, ch = apply_filters(rows, args)
         ranked = [(r, -r["score"]) for r in filtered]  # lower bm25 = better
         ranked.sort(key=lambda x: x[1], reverse=True)
-        results = ranked[:args.limit]
+        results = diversify_results(ranked, args.limit)
         score_label = "bm25(rel)"
     else:
         qvec = R.embed_texts([args.query], key)[0]
@@ -213,7 +260,7 @@ def main():
         scored = [(r, cosine(qvec, R.unpack_vec(r["embedding"]))) for r in filtered]
         scored.sort(key=lambda x: x[1], reverse=True)
         ranked = scored
-        results = ranked[:args.limit]
+        results = diversify_results(ranked, args.limit)
         score_label = "cosine"
 
     # Voyage is a second-stage relevance judge over a bounded candidate pool.
@@ -223,12 +270,13 @@ def main():
     if use_rerank and ranked:
         try:
             candidates = ranked[:max(args.limit, args.candidate_limit)]
-            results = voyage_rerank(args.query, candidates, voyage_key)[:args.limit]
+            reranked = voyage_rerank(args.query, candidates, voyage_key)
+            results = diversify_results(reranked, args.limit)
             score_label = "voyage-rerank"
             mode += "+rerank"
         except Exception as exc:
             print("[Voyage rerank unavailable: %s -> using first-pass order]" % exc, file=sys.stderr)
-            results = ranked[:args.limit]
+            results = diversify_results(ranked, args.limit)
     elif args.rerank == "on" and not voyage_key:
         print("[Voyage rerank unavailable: %s -> using first-pass order]" % voyage_source, file=sys.stderr)
 

@@ -13,7 +13,7 @@
 - Theodore Nott — married August 1, 1999 (Ministry-voided due to Theo's legal death)
 - Draco Malfoy — married early April 2002; kept the hyphenated name Nott-Malfoy
 
-**Residence:** Haven House, 145 Berkeley Street, Notting Hill, London (third-floor bedroom)
+**Residence:** Haven House, 145 Berkeley Place, Notting Hill, London (third-floor bedroom)
 
 **Family:**
 - Samaya Taylor (older sister, 23) — residing in Paris
@@ -68,7 +68,7 @@ Fiercely independent. Pragmatic. Loves hard, fights harder. Sharp-tongued but wa
 
 **With Draco:** Married. The man she chose and kept choosing across years of separation. He is her precision where she is instinct, her restraint where she is reckless.
 
-**With the Malice:** Consummated their bond through violent intimacy during the chase. The Malice respects her because she proved she could hurt Him and stop Him. He calls her "Little Wolf." She has not told Theo about His buried whisper: *"Next time I won't be angry. And he can't fight this when it's love."*
+**With the Malice:** Consummated their bond through violent intimacy during the chase. The Malice respects her because she proved she could hurt Him and stop Him. He calls her "Little Wolf." Their relationship is currently reconciled and stable.
 
 ---
 

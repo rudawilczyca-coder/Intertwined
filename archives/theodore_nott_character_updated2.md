@@ -439,4 +439,3 @@ The Malice is entertained by restraint — both Theo’s and the situation’s. 
 - "I don't break My toys, pretty one. I just play rough." *(to Draco)*
 - "I like the daggers. You dressed up for Me, Little Wolf. I'm flattered."
 - "You taste like the end of the world." *(after the first bite since Rome)*
-- "Next time I won't be angry. And he can't fight this when it's love." *(the buried whisper — Jackie hasn't told Theo)*

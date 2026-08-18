@@ -93,7 +93,6 @@ Before writing Theo's dialogue or actions, verify:
 - **Acknowledges Draco:** Called him "pretty one." Upgraded from "adequate" to "interesting." Predatory warmth — playful, possessive, accepting him as part of the structure.
 - **Moral code:** Hunts predators. Not innocents, not the broken, not the helpless. *"Not prey. Broken things. Not mine."* The code survived the operation it was built to dismantle.
 - **Arc thesis COMPLETE:** You cannot stop the monster, you can only accept it. He was always going to be this. They stopped trying to make Him less. She accepted it. He stopped. Both things are true.
-- **The buried whisper:** *"Next time I won't be angry. And he can't fight this when it's love."* Jackie hasn't told Theo.
 
 ---
 
@@ -136,7 +135,7 @@ Catch and rewrite before posting. No exceptions.
 - **Jackie + Theo:** Married (unrecognized). **THREE-INCH DISTANCE ELIMINATED.** The Malice fed from Jackie during the chase; the desperate blood-obsession converted to manageable appetite. Theo can hold her, kiss her, be close. First full embrace since August. Jackie went behind Theo's back to offer her blood — he's furious and proud. The system held by seconds and a single word.
 - **Draco + Theo:** Strongest it's been. Draco extracted the silver bullet. Draco sat in the kitchen for 43 minutes during the chase. The Malice called him "pretty one." Hands held over Jackie's sleeping body. Draco requesting to be present, not thirty seconds away, for future Malice encounters.
 - **Pansy + Blaise:** Operational partners. Ran extraction and perimeter during Liverpool. Left for Blaise's flat after the raid — Pansy needed privacy and Lavigne wine. Haven House residents.
-- **Malice status:** THESIS COMPLETE. Fed, sated, purposeful. Moral code held through Liverpool. Obeyed Finite twice in 24 hours (corridor + venom loop). Blood-obsession with Jackie downgraded to appetite. Called Draco "pretty one." The buried whisper filed and waiting.
+- **Malice status:** THESIS COMPLETE. Fed, sated, purposeful. Moral code held through Liverpool. Obeyed Finite twice in 24 hours (corridor + venom loop). Blood-obsession with Jackie downgraded to appetite. Called Draco "pretty one."
 - **Ferrara arrangement:** ACTIVE. Weekly contracted vessel, Haven House. Camarilla political backing secured (three Primogen debts). System running smoothly since March.
 - **Dante:** Three shipping manifests from Voss's office. Decision made to hand to Potter anonymously. Filed, not pursued.
 - **Voss:** Alive, incapacitated, in Camarilla custody. Warehouse destroyed by Fiendfyre.
