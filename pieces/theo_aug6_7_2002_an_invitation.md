@@ -4,11 +4,13 @@
 
 By half past ten, Haven House had become too orderly.
 
-Theo had checked the blood delivery against Ferrara's seal, fed Luna, and confirmed that the Portkey remained in the locked cabinet. He'd opened the second drawer of the office desk despite knowing precisely what it contained. A labelled vial of Polyjuice Potion. A twist of pale hair supplied by Eli Lavigne. Jackie's handwriting on a folded card beneath them, because apparently even fraud required filing instructions when she left the country.
+Theo had carried the week's delivery down to the cellar himself, checked each seal against Ferrara's mark before racking it, and stood a moment in the quiet room's stable cold while the little refrigerator finished its cycle and resettled. He had fed Luna. He had opened the locked cabinet, confirmed the Portkey lay where Draco had left it, and locked the cabinet again. Then he had opened the second drawer of the office desk, despite knowing precisely what it contained.
+
+A labelled vial of Polyjuice Potion, the contents shifting late and thickly when the drawer stopped. A twist of pale hair folded in waxed paper, supplied by Eli Lavigne. Jackie's handwriting on a card beneath them, because apparently even fraud required filing instructions when she left the country.
 
 He closed the drawer.
 
-Luna watched from the desk with the severe expression of a creature whose household had been reduced below minimum staffing.
+Luna watched from the desk, arranged along the Ministry field protocols guide with the severe expression of a creature whose household had been reduced below minimum staffing.
 
 "They'll be back on Sunday," Theo told her.
 
@@ -22,19 +24,23 @@ Theo preferred the house when it was quiet. He preferred solitude that belonged 
 
 But Haven House without Jackie and Draco had a different silence. Not empty. Held.
 
+He had catalogued it across four nights without intending to. Kitchen pipes ticking as they cooled. The herbary breathing rosemary and wet peat up through the stairwell, warm and green and entirely hers. Two armchairs in the library that nobody had moved since Sunday, and a third that had been moved and put back a foot wrong. The house made the same sounds it always made. There was simply nothing laid on top of them.
+
 Their absence occupied it with extraordinary efficiency.
 
-He put on his coat, told Luna she was in command, and went out for his walk.
+He put on his coat, told Luna she was in command, and went out for his walk. The tiles in the entry gave back one set of footsteps where they usually gave back three.
 
-London after dark had become his in small, unofficial pieces. The narrow route past shuttered shops. The bakery that began before dawn and leaked tomorrow's bread into the street. Three benches from which the Thames smelled different. A fox that had stopped fleeing him in March and now regarded him as an inconvenient rival.
+London after dark had become his in small, unofficial pieces. August had left its heat in the pavements, and it rose through his soles as information rather than comfort. The narrow route past shuttered shops. The bakery two streets over that began before dawn and leaked tomorrow's bread into the road. Three benches from which the Thames smelled different. A fox that had stopped fleeing him in March and now regarded him as an inconvenient rival. Behind the terraces, a street's worth of sleeping heartbeats laid themselves out in a map he had never asked for and could no longer decline to read.
 
 No one had granted him any of it.
 
 That should have warned him.
 
-The woman waiting beneath a dead streetlamp looked like someone a frightened institution would send to explain why the institution wasn't frightened.
+Three streets from his own door, the lamp on the corner had been dead since June. He heard the car a hundred yards before he saw it — an old engine, a patient idle, exhaust curling grey against grey.
 
-Grey-blonde hair. Dove-grey tailoring. Mature, composed features which offered safety without promising it. She stood with empty hands and an old car idling at the kerb behind her.
+He did not hear the woman standing beneath the dead lamp at all.
+
+She looked like someone a frightened institution would send to explain why the institution wasn't frightened. Grey-blonde hair. Dove-grey tailoring, pressed that evening. Mature, composed features which offered safety without promising it. She stood with empty hands and the car waiting at the kerb behind her.
 
 "Mr Nott."
 
@@ -44,7 +50,7 @@ Theo stopped beyond arm's reach. "That depends who is asking."
 
 No name. None required.
 
-The Malice rose—not forward, not yet. Attention rather than threat. Theo felt Him turn toward the woman with the cold, entire focus He reserved for locked doors and people who believed themselves safe behind them.
+The Malice rose — not forward, not yet. Attention rather than threat: a change of pressure behind the sternum, the sensation a held breath would have made if either of them still bothered with breathing. Theo felt Him turn toward the woman with the cold, entire focus He reserved for locked doors and people who believed themselves safe behind them.
 
 The Seneschal reached inside her coat slowly and produced an ivory card.
 
@@ -52,7 +58,7 @@ THEODORE NOTT was written across it in black ink. No address. No crest. Beneath 
 
 *Prince Viola requests the pleasure of your company.*
 
-Theo read it twice because contempt was not a substitute for care.
+The card was heavier than paper had any need to be. Theo read it twice, because contempt was not a substitute for care.
 
 "Requests."
 
@@ -62,17 +68,17 @@ Theo read it twice because contempt was not a substitute for care.
 
 The Seneschal's expression moved by less than a smile. "You may decline. She would value the clarity."
 
-Behind Theo stood three streets, Haven House, Luna, and wards built by living wizards who would be in France for four more nights. Before him stood a woman who had approached openly, with one car and no visible force, because the Prince of London had no need to decorate an order.
+Behind Theo stood three streets, Haven House, Luna, and wards built by two living wizards who would be in France for four more nights. Before him stood a woman who had approached openly, with one car and no visible force, because the Prince of London had no need to decorate an order.
 
 If he refused, the next approach would occur at the house.
 
-Perhaps not tonight. Perhaps not visibly. But Haven House would become the place where London's patience ended, and every servant, visitor, contracted donor, and sleeping Kneazle inside it would become part of the argument.
+Perhaps not tonight. Perhaps not visibly. But Haven House would become the place where London's patience ended, and every ward Draco had laid, every contracted delivery, every locked drawer and sleeping Kneazle inside it would become part of the argument.
 
 Theo placed the card in his coat pocket.
 
 "Then clarity would be wasted."
 
-The Seneschal opened the rear door of the car.
+The Seneschal opened the rear door of the car. Inside it smelled of leather kept a long time out of sunlight, and beneath that, of nothing whatsoever. The driver did not turn round. Nothing in the car breathed.
 
 He got in voluntarily.
 
@@ -84,15 +90,19 @@ There was no throne.
 
 Theo had expected one only because the absence of it would be the kind of point Viola enjoyed making.
 
-The court occupied a room of dark wood, old paper, excellent lamps, and a long table large enough to convert any conversation into proceedings. Viola sat at its head in a black suit, one hand resting beside a closed ledger. Freckles crossed skin too luminous to belong beneath ordinary light. Her short auburn curls made youth of her until she looked directly at him.
+The car crossed the river and came back over it, which was either tradecraft or manners and told him nothing either way. It cost twenty minutes. It ended in a mews behind a terrace whose front door he never saw: a service passage, a stair, a corridor that smelled of beeswax and cold iron radiators, and then a room.
+
+The court occupied a room of dark wood, old paper, excellent lamps, and a long table large enough to convert any conversation into proceedings. The windows were shuttered behind curtains that had hung closed long enough to keep the shape. Along the wall behind Viola ran a bank of shallow drawers floor to ceiling, each with a small brass frame for its label, each label written in a hand that had not altered in a century. The air held paper, lamp oil, and no dust at all. Somebody cleaned this room nightly for a government that produced almost nothing a mortal would ever see.
+
+Viola sat at the head of the table in a black suit and ivory silk, one hand resting beside a closed ledger, rings on it that predated several institutions currently applying to her for permission. Freckles crossed skin too luminous to belong beneath ordinary light. Her short auburn curls made youth of her until she looked directly at him.
 
 Then nothing about her was young.
 
-The Seneschal took her place at Viola's right hand. Two other vampires remained near the doors. Neither introduced themselves.
+The Seneschal took her place at Viola's right hand. Two other vampires remained near the doors. Neither introduced themselves. Nothing in the room produced the sound a body makes — no shifting, no breath, no swallow. Four of them held that stillness the way furniture holds it, without any effort worth noticing.
 
 A living woman sat halfway down the table.
 
-She wore a plain navy dress and no visible restraint. Her breathing was slow. Her pulse was not. A glass of water stood before her, untouched.
+She wore a plain navy dress and no visible restraint. Her breathing was slow — practised slow, somebody's advice being carefully followed. Her pulse was not. A glass of water stood before her, untouched. In the crook of her left elbow, a small square of surgical tape, three days old at most.
 
 Theo understood the arrangement before Viola spoke.
 
@@ -106,7 +116,7 @@ He sat.
 
 The ledger remained closed. That was worse than if she'd opened it.
 
-"I had believed," Viola continued, "that your return in January was temporary. A legal death leaves untidy business. Property. Correspondence. Dependants who cannot be packed into Italian luggage. Lord de' Medici assured several people—though curiously not me—that you would decide where your permanent existence belonged once your control was established."
+"I had believed," Viola continued, "that your return in January was temporary. A legal death leaves untidy business. Property. Correspondence. Dependants who cannot be packed into Italian luggage. Lord de' Medici assured several people — though curiously not me — that you would decide where your permanent existence belonged once your control was established."
 
 "My control was assessed in Rome."
 
@@ -124,7 +134,7 @@ Not taking. Listening.
 
 "He said that too."
 
-Viola let silence settle. The mortal woman's heartbeat occupied it.
+Viola let silence settle. The mortal woman's heartbeat occupied it. It was the only clock in the room.
 
 "Rome established that you could stand in a crowded hall without killing anyone," she said. "It did not present you to London. Dante had no authority to recognise you in my Domain, and Lord de' Medici has made no attempt to ask me to do so."
 
@@ -161,6 +171,8 @@ Viola turned one hand, indicating the living woman.
 "She has volunteered for court service. She's informed, compensated, medically screened, and free to leave after the agreed quantity. You may feed if you wish."
 
 The woman's pulse changed. Fear sharpened her scent beneath soap and the faint medicinal trace of iron tablets.
+
+His jaw answered before he did — the ache arriving at the hinge, the venom rising, the whole architecture of his mouth remembering the single purpose it had been rebuilt for. The gauge had been climbing since Sunday and did not care where it was.
 
 The Malice looked.
 
@@ -212,17 +224,19 @@ Theo did not.
 
 "Not to you."
 
-Viola dismissed the donor a minute later. The woman rose, accepted the Seneschal's quiet thanks, and left by a side door. No one stopped her. No one followed.
+Viola dismissed the donor a minute later. The woman rose, accepted the Seneschal's quiet thanks, and left by a side door. Her shoes made the only sound in the room, and went on making it down the corridor for a long way. No one stopped her. No one followed.
 
 The room became colder for the loss of one heartbeat.
 
-Viola asked about Florence. Filippo. Ferrara's vessel. Liverpool. The four fledglings removed from the trafficking house and the thing Theo had done to Voss before allowing him to be taken alive. She asked about his legal death, the wards at Haven House, the number of servants who knew not to enter certain rooms during daylight.
+Viola asked about Florence. Filippo. Ferrara's vessel. Liverpool. The four fledglings removed from the trafficking house and the thing Theo had done to Voss before allowing him to be taken alive. She asked about his legal death, the wards at Haven House, and how a house that kept no servants managed the daylight hours — who held keys, who signed for deliveries, who could cross the threshold uninvited, and who had merely been permitted to.
 
 Sometimes she asked for facts she already possessed. Sometimes she supplied a false detail so small that correcting it revealed more than agreement would have. Sometimes Theo lied, and she let him know she knew by moving to the next question without contest.
 
 An hour passed.
 
 Then another.
+
+The lamps did not gutter. There was no clock, and the shutters admitted nothing, so the only instrument left was his own body: the slow tightening beneath the tongue, the second voice arriving a shade nearer each time the subject came back to blood.
 
 Theo answered enough to establish that he was not frightened into stupidity and refused enough to establish that he understood the cost. The Malice remained close but quiet. Dante's rabid creature did not emerge. Viola seemed less reassured with every civil minute.
 
@@ -250,7 +264,7 @@ The vampires at the doors still did not move.
 
 He crossed half the room before the air hardened.
 
-No visible barrier. No flash of magic. One step existed; the next refused to. Pressure seized his bones from every direction, not crushing but absolute, a geometry written into the room long before he entered it.
+No visible barrier. No flash of magic. One step existed; the next refused to. Pressure seized his bones from every direction, not crushing but absolute, a geometry written into the room long before he entered it. Sound arrived a half-beat late, as though the chamber had been set slightly further off and had taken the lamps with it. Under his shoe, the floor carried a low even hum — the note of something very large performing arithmetic.
 
 The Malice hit it.
 
@@ -266,13 +280,13 @@ Not to Theo.
 
 He understood that. So did He.
 
-The Malice surged hard enough that cold fire travelled through Theo's joined ribs and shoulder, seeking weakness in a ward built to distribute violence rather than oppose it. The room took His force, carried it through silver worked beneath the floor, and returned it as restraint.
+The Malice surged hard enough that cold fire travelled through Theo's joined ribs and shoulder, seeking weakness in a ward built to distribute violence rather than oppose it. The room took His force, carried it through silver worked beneath the floor, and returned it as restraint — evenly apportioned, arriving back in his own knees and his own jaw, the way a well-made thing spends exactly what it is given.
 
 Not pain. Insult.
 
 Worse.
 
-Theo held the body because it was still theirs and because fury without direction was precisely the proof Viola had arranged the room to collect.
+Theo held the body because it was still theirs and because fury without direction was precisely the proof Viola had arranged the room to collect. Being trapped had never been a condition either of them tolerated. The ward knew it, or whoever commissioned the ward had.
 
 *Not the doors,* he told Him.
 
@@ -283,6 +297,8 @@ Four nights.
 The Malice reached for home.
 
 Theo felt Him find something that had remained untouched since death changed the shape of the bond. A direction once natural to Theodore Nott, now buried behind silence because He had never needed it, never tested it, perhaps never known it remained.
+
+It opened like a door in a wall Theo had long since stopped looking at — no sensation in the body at all, and then, at once, the only sensation the body had.
 
 Warmth existed impossibly far away.
 
@@ -300,9 +316,11 @@ Theo's fingernails split against the table. Blood rose and vanished back into he
 
 **FIND.**
 
-No language followed. No assurance that the message had arrived as sent. Only the terrible certainty of contact—and then distance folding shut again before either of them could understand what had answered.
+No language followed. No assurance that the message had arrived as sent. Only the terrible certainty of contact — and then distance folding shut again before either of them could understand what had answered.
 
 Theo returned to the room with Viola watching him.
+
+The lamps were steady. The table stood where it had stood. Nothing in the chamber acknowledged that anything had occurred, except four splits in the wood beneath his hand.
 
 Something in her face had sharpened.
 
@@ -314,29 +332,29 @@ The Seneschal rose. "Your Grace, dawn."
 
 Not imminent. Approaching. A logistical fact, which in Viola's court carried more authority than outrage.
 
+Theo's body had been reporting the same thing for some minutes, in the language it used now: a weight settling behind the eyes, a pull toward stillness that had never once required a window in order to find him.
+
 Viola stood and buttoned her jacket.
 
-"Mr Nott, you are formally unpresented, unreleased, and resident in London without permission. Lord de' Medici remains liable for you under the Accounting. Until he remembers that responsibility—or I decide how to price his failure—you are my guest."
+"Mr Nott, you are formally unpresented, unreleased, and resident in London without permission. Lord de' Medici remains liable for you under the Accounting. Until he remembers that responsibility — or I decide how to price his failure — you are my guest."
 
-The ward released enough for the guards to approach.
+The ward released in stages, the way water leaves a lock, until there was room enough for the guards to approach.
 
 Theo straightened. Damage had already begun to close beneath his skin. His coat hung correctly. His cigarette case remained in his pocket. Civilisation reassembled itself around the fact of captivity.
 
 "Guests are allowed to leave."
 
-"Yes."
+"You are confusing hospitality with liberty." Viola's gaze moved once to the marks his fingers had cut into her table. "You will be sheltered from dawn, guarded, and fed. Nothing in that obligation opens a door."
 
-Viola's gaze moved once to the marks his fingers had cut into her table.
+The Seneschal led him through a door beyond the court chamber, down one flight of stone stairs, and into air that changed twice on the way: beeswax, then lime and old brick, then the particular cold of a place dug by people who intended it to outlast them.
 
-"That is how you'll know the word does not apply."
+The room had been prepared for daylight. No windows. No clock. A narrow bed made with institutional precision, a chair, a washbasin with a folded towel squared beside it, and wards layered so densely across the threshold that the Malice recoiled before Theo reached them. He felt the recoil in his own step — the foot coming down half an inch short of where he had sent it. Crossing was permitted. Everything past permission was not.
 
-The Seneschal led him through a door beyond the court chamber, down one flight of stone stairs, and into a room prepared for daylight. No windows. No clock. A narrow bed, a chair, a washbasin, and wards layered so densely across the threshold that the Malice recoiled before Theo reached them.
-
-The Seneschal waited outside while he examined each wall.
+The Seneschal waited outside while he examined each wall. Nine paces by eleven. The whitewash had been renewed often enough to round the corners, and beneath it, where the plaster seamed, the wardwork ran in one continuous line without a single join he could find.
 
 "Did she expect me to refuse the donor?" he asked.
 
-"Her Grace expected the refusal to be informative whichever choice you made."
+"Her Grace expected your choice to be informative. She had no preference which way it went."
 
 "And the room?"
 
@@ -348,9 +366,9 @@ For the first time, the Seneschal looked tired rather than safe.
 
 "No," she said. "Only the first who believed that made the interval private."
 
-The door began to close.
+The door began to close. It was oak faced with something that was not oak, and it moved on its hinges with the slowness of considerable mass.
 
-Theo put one hand against it—not to stop it. To make her meet his eyes.
+Theo put one hand against it — not to stop it. To make her meet his eyes.
 
 "Tell Viola Saturday is not negotiable."
 
@@ -364,9 +382,12 @@ The door shut.
 
 Locks engaged with no sound at all.
 
+The dark was total in the way only a prepared room achieves. His eyes adjusted and found nothing to adjust to.
+
 In the dark, the Malice pressed against the sealed direction of the bond and found only the afterimage of warmth.
 
-Theo sat on the edge of the bed before daylight could take the choice from him.
+Somewhere above the stone, past a great deal of London, the sun came up. Nothing in the room reported it. His body did — the old weight arriving in the marrow, the pull toward stillness that had never needed a window to reach him.
+
+Theo sat down on the edge of the bed while sitting was still his own idea.
 
 Neither of them slept.
-
