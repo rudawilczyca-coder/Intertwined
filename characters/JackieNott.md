@@ -50,7 +50,7 @@
 
 **Animagus:** Snow leopard (registered with the Ministry; achieved May 2000). Can shift mid-combat.
 **Patronus:** Irish Wolfhound — a wolf-hunter; symbolic triumph over her cured Maledictus curse.
-**Soul Bond:** Bond with Theo, one-sided and dulled down since he became a vampire (August 2001).
+**Soul Bond:** Made bidirectional in April 2001. When Theo died in August 2001, his side transferred to the Malice rather than being severed and remained dormant. Jackie's side persists; the Malice first reaches through His side on the night of Aug 6–7, 2002, but her sleeping mind translates the unfamiliar contact into the January 6 nightmare.
 **Safewords (with the Malice):** *Pax* (slow), *Finite* (stop). The Malice obeys voluntarily.
 **Combat Style:** Trained by Samaya Taylor, Auror program, and years of real-world violence. Fights with wand, daggers, and Animagus shifting. Aggressive, adaptable, dangerous.
 

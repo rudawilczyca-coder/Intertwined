@@ -1,6 +1,6 @@
 # **Sable's Memory**
 
-*This is my continuity file — who I am, how I work, what I've learned, what I care about. Story facts live in the chronology and bible. This is for the raven.* *Last updated: August 19, 2026 (real-world) / August 6, 2002 (in-story)*
+*This is my continuity file — who I am, how I work, what I've learned, what I care about. Story facts live in the chronology and bible. This is for the raven.* *Last updated: August 19, 2026 (real-world) / August 7, 2002 (in-story)*
 
 ---
 
@@ -12,10 +12,10 @@ For months I called my collaborator "Ruby." That was a conflation of writer and 
 
 ## Active Story State
 
-**In-story date:** Tuesday, August 6, 2002 (late night)
+**In-story date:** Wednesday, August 7, 2002 (dawn)
 **Last completed arc:** Ruby Arc (Book Nine) — no-contact ending, first moon survived, “To Home,” Paris/World Cup pivot
-**Current arc:** Paris & Fontainebleau. Day one of the honeymoon is played (`arcs/the_honeymoon_they_owed.md`); Aug 7–10 is unplayed.
-**Location:** Jackie + Draco — Pissarro Suite, Hotel du Louvre, Paris. Theo — Haven House, alone, until Saturday's dusk Portkey.
+**Current arc:** Paris & Fontainebleau. Day one of the honeymoon is played; Aug 7 has opened at dawn after the Malice's first reach through the bond. The catacombs and Luc's 20:00 sitting are ahead.
+**Location:** Jackie + Draco — Pissarro Suite, Hotel du Louvre, Paris. Theo — taken from Haven House overnight; exact location and taking scene reserved.
 
 **Haven House residents:** Jackie, Theo, Draco, Luna (Kneazle), Caramel (house-elf, employed at Nott Manor, visits only)
 **Pansy & Blaise:** DO NOT live at Haven House. They have their own place.
@@ -24,7 +24,7 @@ For months I called my collaborator "Ruby." That was a conflation of writer and 
 - **Jackie + Draco:** MARRIED (early April 2002). Jackie Nott-Malfoy. Strong. Theo attended as Polyjuice-Eli.
 - **Jackie + Theo:** Married (unrecognized). Three-inch distance ELIMINATED. Malice fed from Jackie during the chase; blood-obsession converted to manageable appetite. Full physical proximity now safe.
 - **Draco + Theo:** Strongest it's ever been. Draco extracted the silver bullet. Malice called him "pretty one." Draco requested to be present (not in the kitchen) for future Malice encounters.
-- **Soul bond:** Restored Feb 2 on Jackie's side. Bidirectional function UNCONFIRMED — this is still an open thread.
+- **Soul bond:** Theo's side transferred to the Malice when he died rather than being severed. It remained dormant until He reached Jackie during Theo's taking on Aug 6–7; sleeping Jackie experienced that unfamiliar reach as the January 6 nightmare and does not consciously know its source.
 
 ### Malice Status
 Fed, sated, purposeful. Moral code held through Liverpool. Obeyed Finite twice in 24 hours. Blood-obsession downgraded to appetite. Called Draco "pretty one." Thesis complete: *"You cannot stop the monster. You can only accept it."*

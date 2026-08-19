@@ -7,9 +7,9 @@
 ---
 
 ## NOW — the in-story clock
-- **Tuesday, 6 August 2002, late night. Paris.** Jackie and Draco are at Solange's unmarked third-floor crêperie on Rue Chapon, at the table, Jackie's crêpe in front of her, Draco about to take her down the unrailed stairs.
-- **Where everyone is:** Jackie + Draco in the **Pissarro Suite, Hotel du Louvre** (Aug 6–10). **Theo holds Haven House alone** — Luna, the blood supply, the Polyjuice, and instructions to let the Malice run on Friday. He takes a **dusk Portkey to Fontainebleau on Saturday**.
-- **The clock ahead:** Wed 7th — catacombs, then Luc Moreau's second sitting. Thu 8th — Jackie's proposed meeting with **Samaya** in the Bois de Boulogne; **Gringotts raises the outer rings at midnight.** Sat 10th — **France v Wales, World Cup final below Fontainebleau**, Lavigne box.
+- **Wednesday, 7 August 2002, dawn. Paris.** Draco has woken in the **Pissarro Suite, Hotel du Louvre**, to an empty bed. In the main room, Jackie has pushed the table and sofa aside and is doing push-ups after the near-extinct January 6 nightmare returned.
+- **Where everyone is:** Jackie + Draco in Paris. **Theo was taken from Haven House during the night;** the exact taking is reserved for later play and Jackie and Draco do not yet know he is gone.
+- **The clock ahead:** Near midday — ordinary Muggle catacombs group, followed by a specialist guide into the cursed/magical area. **20:00 — Luc Moreau's second sitting.** Thu 8th — Jackie's proposed meeting with **Samaya** in the Bois de Boulogne; **Gringotts raises the outer rings at midnight.** Sat 10th — **France v Wales, World Cup final below Fontainebleau**, Lavigne box.
 - **Authoritative history:** `arcs/the_honeymoon_they_owed.md` (Aug 6) → `lore/past_events_bible_updated3.md` Book Nine (through July 26) → `lore/canon_index.md` for fast lookup.
 - **Present character state:** `reference/current_DracoTheo_state.md`. **Live-thread ledger:** `reference/active_threads.md`.
 
@@ -31,13 +31,14 @@
 - **Only Jackie knows:** her private exit arithmetic. **Alice's to reveal — do not have them learn it.**
 - **Draco + Jackie, as of Aug 6:** he wants children with her for himself, not for Narcissa's deadline; she said one day she wants to carry his child. Unfinished, and Theo isn't in it yet.
 - **Genevieve knows Theo lives** — she counted him in writing with the third ticket. Nobody knows what she wants.
+- **The Malice knows He reached Jackie through the soul bond during the taking.** Jackie experienced only the January 6 nightmare and does not consciously know its source. Draco knows neither the reach nor the taking.
 
 ## LIVE PRESSURES AT THIS MOMENT (full ledger → `reference/active_threads.md`)
 - **Theo's cover for Saturday is Eli Lavigne** — Jackie left the prepared Polyjuice and Eli's supplied hair in the office desk's second drawer. Vasseur has just told them Gringotts raises four rings from Thursday midnight, with anything crossing the third ring **read**.
-- **⚠️ Theo is alone in London, and Prince Viola knows it.** She intends to use exactly this interval to summon an unpresented fledgling to his overdue audience, and to send **Leandro Velluti** to Fontainebleau on Polyjuice wearing Eli's face in his place. *(Authored intention, marked unresolved in `characters/London_Camarilla.md` — a plan on the board, not played canon. Alice's to fire.)*
+- **⚠️ Theo has been taken from Haven House.** The full scene and mechanism are reserved for later play. Prince Viola's audience / False-Eli operation is now in motion, but Jackie and Draco do not know this.
 - **The 2001 Luminary crowd will be watching.** Last time that crowd saw them, Draco was nearly assassinated and Theo died.
 - **The children conversation is open and unfinished**, with Narcissa's three-year clock running underneath it.
-- **Luc's sitting is tomorrow evening**, on Draco's terms, and he admitted the exposure arouses him.
+- **Luc's sitting is today at 20:00**, on Draco's terms, and he admitted the exposure arouses him.
 - **Jackie's three books go to Sylvie by Lavigne raven** — and Vasseur warned the network itself gets noticed.
 
 ## PARIS — QUICK NPCs (all established Aug 6)

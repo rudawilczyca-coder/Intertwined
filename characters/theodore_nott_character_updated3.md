@@ -232,7 +232,7 @@ Theo has not fully processed owing his existence to a man who once said he'd hav
 - Body heat
 - The ability to eat or drink anything other than blood
 - Sunlight (lethal without Jackie's Heliophobus spell)
-- The bond direction that let him feel Jackie's emotions
+- Direct access to the bond direction that once let him feel Jackie's emotions. It transferred to the Malice when Theo died and remained dormant until the Malice first reached through it on the night of Aug 6–7, 2002
 - His legal identity (Theodore Nott is officially dead)
 
 ### What Theo Has Gained

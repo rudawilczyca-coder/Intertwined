@@ -1,7 +1,7 @@
 # ACTIVE THREADS / LOADED GUNS
 
-**As of:** Tuesday, 6 August 2002, late night — Paris / Haven House.
-**Last played beat:** Rue Chapon crêperie; Jackie's crêpe is on the table and Draco is preparing to take her down the unrailed stairs.
+**As of:** Wednesday, 7 August 2002, dawn — Paris / Theo's location unknown.
+**Last fixed beat:** Draco wakes to an empty bed and finds Jackie doing push-ups in the cleared main room after the January 6 nightmare returned.
 **Current arc source:** `arcs/the_honeymoon_they_owed.md`.
 
 This is the single live-thread ledger. Each item records only current status, the unresolved edge, and its source. Event recap belongs in the cited source; present emotional state belongs in `reference/current_DracoTheo_state.md`.
@@ -13,13 +13,13 @@ This is the single live-thread ledger. Each item records only current status, th
 ## CURRENT ARC
 
 ### 🔴 Paris → Fontainebleau, Aug 6–10
-Tuesday is played through Rue Chapon. Still ahead: catacombs and Luc's second sitting Wednesday; Jackie's proposed Samaya meeting Thursday; Fontainebleau and the World Cup Final Saturday. Theo joins after sunset.
-**Unresolved:** everything after Tuesday night.
+Tuesday is played through Rue Chapon. Wednesday opens at dawn in the Pissarro Suite; near midday begins with an ordinary Muggle catacombs group before a specialist guide takes the wizards into the cursed/magical area; Luc's second sitting is fixed for 20:00. Still ahead: Jackie's proposed Samaya meeting Thursday; Fontainebleau and the World Cup Final Saturday.
+**Unresolved:** everything after Wednesday's opening beat.
 **Source:** `arcs/the_honeymoon_they_owed.md`.
 
 ### 🔴 Viola's audience / False Eli
-Prince Viola intends to use Theo's four nights alone at Haven House to summon the formally unpresented vampire, then send Leandro Velluti to Fontainebleau wearing Eli Lavigne's face. This is antagonist-side authored intention, **not played canon**.
-**Unresolved:** Theo's terms at court, Leandro's briefing and behaviour, and the reveal mechanism. Alice decides whether and how it fires.
+Theo was taken from Haven House during the night of Aug 6–7. The exact taking remains reserved for later play. Viola's intended audience / False-Eli operation is now in motion; Leandro Velluti is still intended to reach Fontainebleau wearing Eli Lavigne's face.
+**Unresolved:** the taking scene, Theo's terms at court, Leandro's briefing and behaviour, and the reveal mechanism.
 **Source:** `characters/London_Camarilla.md` → "Viola's Interest in the France–Wales Final" and "The False-Eli Operation".
 
 ### 🔴 Eli cover against the Fontainebleau perimeter
@@ -66,7 +66,7 @@ Jackie intends to send three old books to Sylvie through the Lavigne raven netwo
 | **Dante** | Three Liverpool manifests connect him to the legal architecture; not yet actionable. | `events/book8_liverpool_feb-apr2002.md`; `characters/Dante_Character.md` |
 | **Voss / Aldous Greaves** | Alive in Camarilla custody; identity remains a working assumption, not confirmed fact. | `events/book8_liverpool_feb-apr2002.md` |
 | **Drake Lightwood** | Albion Maritime leverage exists and has never been activated. | `events/book8_liverpool_feb-apr2002.md`; `characters/auror_trainees.md` |
-| **Soul bond** | Restored Feb 2; bidirectional function never reconfirmed. Jackie is outside London airspace again, and Viola's file names the bond as a possible substitute test. | `events/book7_homecoming_jan-feb2002.md`; `characters/London_Camarilla.md` |
+| **Soul bond** | Theo's direction transferred to the Malice when he died and lay dormant. During the Aug 6–7 taking, the Malice reached Jackie through it for the first time; sleeping Jackie translated the unfamiliar contact into the January 6 nightmare and does not consciously know its source. | `arcs/the_honeymoon_they_owed.md`; `lore/canon_index.md`; `characters/London_Camarilla.md` |
 | **Theo's Malice continuity** | He experienced the Liverpool Malice run without blackout; meaning still unknown. | `events/book8_liverpool_feb-apr2002.md` |
 
 ---
