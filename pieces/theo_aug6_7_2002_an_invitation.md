@@ -24,7 +24,7 @@ Theo preferred the house when it was quiet. He preferred solitude that belonged 
 
 But Haven House without Jackie and Draco had a different silence. Not empty. Held.
 
-He had catalogued it across four nights without intending to. Kitchen pipes ticking as they cooled. The herbary breathing rosemary and wet peat up through the stairwell, warm and green and entirely hers. Two armchairs in the library that nobody had moved since Sunday, and a third that had been moved and put back a foot wrong. The house made the same sounds it always made. There was simply nothing laid on top of them.
+He had begun cataloguing it without intending to. Kitchen pipes ticking as they cooled. The herbary breathing rosemary and wet peat up through the stairwell, warm and green and entirely hers. Two armchairs in the library exactly as Jackie and Draco had left them, and a third that had been moved and put back a foot wrong. The house made the same sounds it always made. There was simply nothing laid on top of them.
 
 Their absence occupied it with extraordinary efficiency.
 
@@ -172,7 +172,7 @@ Viola turned one hand, indicating the living woman.
 
 The woman's pulse changed. Fear sharpened her scent beneath soap and the faint medicinal trace of iron tablets.
 
-His jaw answered before he did — the ache arriving at the hinge, the venom rising, the whole architecture of his mouth remembering the single purpose it had been rebuilt for. The gauge had been climbing since Sunday and did not care where it was.
+His jaw answered before he did — the ache arriving at the hinge, the venom rising, the whole architecture of his mouth remembering the single purpose it had been rebuilt for. The gauge had been climbing all evening and did not care where it was.
 
 The Malice looked.
 
@@ -210,7 +210,7 @@ Viola's clever mouth altered. Not warmth. Recognition, perhaps.
 
 The room changed.
 
-The vampires at the doors did not move, which told Theo they had been instructed very carefully not to. The Seneschal's hands remained folded beside the ledger. The donor looked between Viola and Theo without understanding why a pronoun had acquired weight.
+The vampires at the doors did not move, which told Theo they had been instructed very carefully not to. Viola's hands remained folded beside the ledger. The donor looked between Viola and Theo without understanding why a pronoun had acquired weight.
 
 Theo let his cigarette case turn once between his fingers.
 
@@ -252,7 +252,7 @@ Viola regarded him across the table. "Your objection is recorded."
 
 "My departure is on Saturday."
 
-"From where?"
+"To where?"
 
 "That is not your concern."
 
@@ -292,9 +292,9 @@ Theo held the body because it was still theirs and because fury without directio
 
 He received no words. Only Haven House. Jackie laughing with blood on her mouth. Draco's hand at the back of his neck. The empty library. The distance across water.
 
-Four nights.
+Home.
 
-The Malice reached for home.
+The Malice reached.
 
 Theo felt Him find something that had remained untouched since death changed the shape of the bond. A direction once natural to Theodore Nott, now buried behind silence because He had never needed it, never tested it, perhaps never known it remained.
 
