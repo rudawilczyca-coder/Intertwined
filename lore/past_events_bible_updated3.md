@@ -150,6 +150,8 @@ Use this index to jump to specific events without scanning the full document. Or
 **1995 (Hogwarts Year 5)**
 - **June:** Jackie kisses Draco for the first time at Parkinson's Gala (gazebo, gardens). She's been in love with him for over a year.
 - **Summer:** Jackie writes Draco dozens of letters; none arrive. They were intercepted — likely by Lucius Malfoy's household or Pansy's interference. Draco receives nothing and assumes Jackie forgot him or changed her mind. Jackie assumes he doesn't care.
+- **The rupture that follows:** From Draco's perspective, he bared himself in the garden, received Jackie's promise to write, and was then abandoned without explanation through one of the worst summers of his life, with Voldemort already using Malfoy Manor. When she returns angry with him, he experiences it as audacity rather than evidence of interception. Until the repeat seventh year in 1998, he keeps his distance and is genuinely cruel to Jackie in public, especially before other Slytherins. His feelings never disappear, but they do not translate into public protection or hidden softness during these years.
+- **Theo's position:** Theo is not interested in Jackie at this stage. She is Samaya's irritating younger sister, notable mainly for repeatedly crossing Draco's path and drawing Draco's gaze across rooms without seeming aware of it. His stance toward her is indifferent-to-adversarial; the attention he pays is attention to Draco's reaction, not to Jackie herself.
 - **Winter:** Jackie transforms for one week.
 
 **1996 (Hogwarts Year 6)**
