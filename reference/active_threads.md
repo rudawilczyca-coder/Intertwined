@@ -18,9 +18,9 @@ Tuesday is played through Rue Chapon. Wednesday opens at dawn in the Pissarro Su
 **Source:** `arcs/the_honeymoon_they_owed.md`.
 
 ### 🔴 Viola's audience / False Eli
-Theo was taken from Haven House during the night of Aug 6–7. The exact taking remains reserved for later play. Viola's intended audience / False-Eli operation is now in motion; Leandro Velluti is still intended to reach Fontainebleau wearing Eli Lavigne's face.
-**Unresolved:** the taking scene, Theo's terms at court, Leandro's briefing and behaviour, and the reveal mechanism.
-**Source:** `characters/London_Camarilla.md` → "Viola's Interest in the France–Wales Final" and "The False-Eli Operation".
+During his nightly walk Theo accepted Viola's formal invitation rather than expose Haven House to her next approach. After an audience concerning his unpresented status and a refused donor test, she detained him under prepared wards. Viola's intended False-Eli operation is now in motion; Leandro Velluti is still intended to reach Fontainebleau wearing Eli Lavigne's face.
+**Unresolved:** Theo's treatment through Sunday and eventual presentation terms; how Viola deduces the Eli cover; Leandro's briefing and behaviour; the reveal mechanism.
+**Source:** `pieces/theo_aug6_7_2002_an_invitation.md`; `characters/London_Camarilla.md` → "Viola's Interest in the France–Wales Final" and "The False-Eli Operation".
 
 ### 🔴 Eli cover against the Fontainebleau perimeter
 Theo's cover is fixed: prepared Polyjuice and Eli's supplied hair are together in the office desk's second drawer. Gringotts raises four rings Thursday midnight; anything crossing the third ring is read.

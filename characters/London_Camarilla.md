@@ -118,18 +118,18 @@ She has now reached the point at which waiting yields less information than an a
 
 Geneviève Lavigne sent three tickets and thereby counted a legally dead, unpresented fledgling as a member of her family in writing. The act may be affectionate, strategic, or both. To Viola, it is also a declaration that a powerful wizarding matriarch knows precisely what lives in London and is willing to acknowledge it beyond British borders.
 
-Jackie and Draco's four nights in Paris create a clean interval in which Theo is alone at Haven House. Viola intends to invite him to his overdue audience during that interval.
+Jackie and Draco's four nights in Paris create a clean interval in which Theo is alone at Haven House. During his nightly walk on Aug 6–7, Viola's Seneschal delivers the overdue formal invitation. Theo accepts rather than make Haven House the site of the court's next approach. Viola questions him, uses an offered donor as a control test, and detains him under prepared wards when he refuses to remain voluntarily. The played scene is `pieces/theo_aug6_7_2002_an_invitation.md`.
 
 Theo is expected to join the Lavigne party at Fontainebleau under **Eli Lavigne's face and social identity**. This creates the possibility of placing a substitute inside Geneviève's World Cup box without asking the substitute to imitate Theodore Nott in public.
 
-The operation is not yet fully fixed in canon, but Viola's objectives are:
+The later substitution operation is not yet fully fixed in canon, but Viola's objectives are:
 
 1. determine what Geneviève knows and why she counted Theo;
 2. test whether Theo's household and cover arrangements are a Masquerade liability;
 3. observe Jackie and Draco when they believe they are privately interacting with their husband;
 4. make clear that foreign protection and wizarding family status do not erase London's Domain.
 
-Viola does not need to abduct Theo. A formal invitation from the Prince of the Domain is sufficient. Whether he remains at court voluntarily, under legal detention, or through negotiated terms is **unresolved**.
+Viola does not abduct Theo from Haven House. Her formal invitation is sufficient to bring him to court; when he refuses her subsequent order to remain, prepared wards establish the legal detention. His treatment after the first dawn and the final negotiated terms remain **unresolved**.
 
 ---
 

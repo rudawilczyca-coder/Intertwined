@@ -23,7 +23,11 @@
 
 ## Wednesday, August 7, 2002
 
-- During the night, Theo is taken from Haven House. The exact taking and its mechanics are reserved for later play.
+- During his nightly London walk, Theo is met by Viola's unnamed Seneschal and given a formal invitation to court. He goes voluntarily because refusal would turn Haven House and everyone inside it into the site of Viola's next approach.
+- Viola confronts him over seven months in London without presentation: Dante's Rome assessment established control but carried no authority in her Domain; Filippo expected Theo's return to be temporary and then delayed; Ferrara quietly banked three Primogen debts around the eventual presentation. Viola offers a consenting court donor partly to observe whether Theo or the Malice reacts. Theo refuses because he will not feed from a person placed before him as a test.
+- After a civil interrogation, Viola orders Theo held while she determines the conditions of presentation. Theo refuses and attempts to leave; prepared court wards stop him and draw the Malice forward. Viola calls Theo an unreleased, unpresented “guest” while making clear that he cannot leave.
 - The bond direction that transferred to the Malice when Theo died had remained dormant: He had neither needed nor knowingly tried to reach Jackie through it. During the taking, He reaches for her for the first time. Sleeping Jackie does not recognise the contact as Theo; her mind translates it into the near-extinct January 6 nightmare.
 - At dawn Draco wakes to an empty bed. In the Pissarro Suite's main room, the table and sofa have been pushed aside and Jackie is doing push-ups in the cleared space, eyes puffed and her face holding grief, anger, and focus. Draco does not know about the reach or the taking. He sets water within reach, sits outside the cleared space, and offers presence without demanding an explanation.
 - **Itinerary ahead:** near midday, an ordinary Muggle catacombs tour followed by a specialist guide into the cursed/magical area; Luc Moreau's second sitting at **20:00**.
+
+**Theo scene:** `pieces/theo_aug6_7_2002_an_invitation.md`.
