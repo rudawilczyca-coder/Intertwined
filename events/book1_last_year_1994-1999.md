@@ -5,7 +5,7 @@
 ### 1994–1997: Early History
 
 **1994 (Hogwarts Year 4)**
-- Jackie transforms into wolf for the first time during winter; Maledictus curse inheritance confirmed (inherited from Amalthea). Transformation lasts one week; will lengthen each year, eventually becoming permanent.
+- Jackie transforms into a wolf for the first time during winter; Maledictus curse inheritance confirmed (inherited from Amalthea). The first transformation lasts only hours, but will lengthen each year and eventually become permanent.
 - Samaya dates Draco Malfoy for a year after reading Jackie's diary and discovering her crush on him. (Samaya later confesses she broke it off because Draco spent half their dates asking about Jackie — her interests, her habits, what made her laugh.)
 - Theo realizes he's attracted to men while watching Samaya date Draco; recognizes his crush on Draco himself. Converts it into rivalry; begins dating various people.
 
@@ -14,9 +14,11 @@
 - **Summer:** Jackie writes Draco dozens of letters; none arrive. They were intercepted — likely by Lucius Malfoy's household or Pansy's interference. Draco receives nothing and assumes Jackie forgot him or changed her mind. Jackie assumes he doesn't care.
 - **The rupture that follows:** From Draco's perspective, he bared himself in the garden, received Jackie's promise to write, and was then abandoned without explanation through one of the worst summers of his life, with Voldemort already using Malfoy Manor. When she returns angry with him, he experiences it as audacity rather than evidence of interception. Until the repeat seventh year in 1998, he keeps his distance and is genuinely cruel to Jackie in public, especially before other Slytherins. His feelings never disappear, but they do not translate into public protection or hidden softness during these years.
 - **Theo's position:** Theo is not interested in Jackie at this stage. She is Samaya's irritating younger sister, notable mainly for repeatedly crossing Draco's path and drawing Draco's gaze across rooms without seeming aware of it. His stance toward her is indifferent-to-adversarial; the attention he pays is attention to Draco's reaction, not to Jackie herself.
-- **Winter:** Jackie transforms for one week.
+- **November — Truth or Dare:** After Gryffindor defeats Slytherin and Potter leaves Draco bruised, Pansy covertly tends Draco's injuries while Samuel Carrow turns the common room's misery into a game. Asked which Taylor sister kisses better, Draco answers, *“Samaya. Obviously,”* using a technically true comparison to conceal Jackie's importance. When Theo claims he might ask Jackie to Hogsmeade, Draco replies, *“By all means. Take her. One afternoon and the novelty wears off.”* Samaya recognises the cruelty, Theo abruptly ends the game, and Draco persuades everyone except himself that Jackie is forgettable.
+- **Winter:** Jackie's second transformation lasts a full week, confirming that the curse is progressing. She returns quieter, more avoidant and furious with a world that has given her both her unusual eyes and her mother's fate.
 
 **1996 (Hogwarts Year 6)**
+- **June — The Journey Home:** After the Department of Mysteries, Jackie witnesses the D.A. hex Draco, Crabbe and Goyle aboard the Hogwarts Express; Theo arrives afterward and restores Draco first. Jackie's laughter at Draco's humiliation ignites a vicious exchange over her appearance, changed behaviour and their imprisoned fathers. Theo attacks Jackie more brutally to protect Draco, while Draco neither stops him nor softens, instead reinforcing the cruelty. Anne, Caroline and Luna close around Jackie; at King's Cross, Draco silently checks whether Theo hurt her while Jackie turns toward what she does not yet know will be her last summer with Amalthea as a woman.
 - Jackie sees Draco struggling but chooses not to approach him.
 - Draco becomes a Death Eater; Theo becomes harsh but ensures Draco survives it. Theo fears he's next.
 - **Winter:** Jackie transforms for two weeks.
