@@ -340,8 +340,9 @@
 - **Christmas:** Jackie gives Theo charmed book (connected journals). Gives Draco Kneazle kitten named Luna.
 - **December 26:** Draco moves out.
 
-**Mid-January 2000**
-- Theo's parents visit; threaten disownment if Jackie proceeds. After visit, Jackie duels Theo until he releases all darkness. She defeats him; re-enacts his rape from her perspective, reclaiming agency. Asks him to let control go; Theo fucks her, stops at safeword, proving control intact.
+**January 6, 2000**
+- Theo's parents visit; threaten disownment if Jackie proceeds. On the first anniversary of his assault, Jackie duels Theo until he releases all darkness. She defeats him; re-enacts his rape from her perspective, reclaiming agency. Asks him to let control go; Theo fucks her, stops immediately at `Finite`, proving control intact.
+- Original source transcript: `archives/original-transcripts/2000-01-06-jackie-theo-duel-original.txt` (preserved verbatim; source evidence rather than automatic line-by-line canon).
 
 **Next Day**
 - Jackie and Theo confront Cyrus. Cyrus slaps Jackie; Theo hits him until he signs statement supporting Jackie's case. Cyrus reveals Narcissa orchestrated earlier kidnapping. Jackie pins Cyrus's hand to desk with daggers; threatens castration if he ever raises hand to Jackie again.
