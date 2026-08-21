@@ -42,7 +42,7 @@
 
 **Casual:** Practical, tight-fitting clothes for range of movement — leggings, T-shirts, tunics, hoodies at home. Leather jacket or coat when going out. High-heeled boots or platforms, also trainers.
 **Combat/Danger:** A corset with dagger sheaths and wand holster.
-**Signature Accessory:** Italian leather wrist holster (gift from Theo and Draco, February 2002) — gold flame detail, silver thread stitching. Designed for the wrist Theo broke. Holds her wand.
+**Signature Accessory:** Dove-grey Italian leather left-wrist holster (gift from Theo and Draco, February 2002) — a combined wand holster and supportive brace, built for the joint the Malice broke. Fine silver-thread latticework reinforces the outer edge during a draw. Hidden in the softer interior lining beside her pulse are Theo's small gold flame and Draco's silver heraldic crest. Pale, cool-toned and slim rather than bulky; holds her wand.
 
 ---
 
