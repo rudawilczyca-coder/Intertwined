@@ -9,7 +9,7 @@ This is the replaceable present-tense state layer for Draco and Theo. It records
 ## Draco
 
 - He is grieving Ruby inside an otherwise good life. He honours no-contact absolutely and does not turn the loss into pursuit, punishment, comparison, or a project. Her final message reached him; his answer bounced unread.
-- July left him more willing to name a want and less willing to disguise one as logistics. In Paris he has said that he wants children with Jackie for himself, wants rare privacy with her, and wants to be seen without making exposure into a service he performs.
+- July left him more willing to name a want inside established relationships and choices he understands, and less willing to disguise one as logistics. In Paris he has said that he wants children with Jackie for himself, wants rare privacy with her, and wants to be seen without making exposure into a service he performs. This does not make unfamiliar male attention easy to classify: he has acknowledged wanting Theo, but still experiences that as an exception before he experiences bisexuality as a settled identity.
 - With Jackie, he no longer behaves as though he is auditioning for the marriage. He can receive her forgiveness without denying the harm behind it, and accepts her defence as love without accepting it as absolution.
 - With Theo, he can bring an unmanageable thing and accept clarity without consolation. Quiet contact and trust no longer require an emergency or an audience.
 - He still fears being insufficient, but the fear no longer determines the verdict. His current direction is presence, consent, stated desire, and restraint without disappearance.

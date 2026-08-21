@@ -41,7 +41,7 @@
 - **⚠️ Theo has been taken from Haven House.** The full scene and mechanism are reserved for later play. Prince Viola's audience / False-Eli operation is now in motion, but Jackie and Draco do not know this.
 - **The 2001 Luminary crowd will be watching.** Last time that crowd saw them, Draco was nearly assassinated and Theo died.
 - **The children conversation is open and unfinished**, with Narcissa's three-year clock running underneath it.
-- **Luc's sitting is today at 20:00**, on Draco's terms, and he admitted the exposure arouses him.
+- **Luc's sitting is today at 20:00**, on Draco's terms, and he admitted that the exposure—especially Jackie watching it—arouses him. He has not admitted attraction to Luc.
 - **Jackie's three books go to Sylvie by Lavigne raven** — and Vasseur warned the network itself gets noticed.
 
 ## PARIS — QUICK NPCs (all established Aug 6)

@@ -53,7 +53,7 @@
 Gets *colder* and more precise under pressure, never louder. Forgives slowly but is incapable of indifference — he cannot write someone off and mean it. Revises a verdict when the evidence demands it, even when revision costs him something real. Expresses love through restraint and presence rather than claim; will endure discomfort sooner than repeat a harm he's already done. Principled to the point of self-denial, observant to a fault, allergic to moral shortcuts.
 
 **Current state:**
-See `reference/current_DracoTheo_state.md`. Durable post-July change: Draco names wants instead of disguising them as logistics, accepts consequences instead of confusing protection with consent, and does not convert grief into pursuit, punishment, or a project.
+See `reference/current_DracoTheo_state.md`. Durable post-July change: inside established relationships and choices he understands, Draco increasingly names wants instead of disguising them as logistics, accepts consequences instead of confusing protection with consent, and does not convert grief into pursuit, punishment, or a project. This growth is domain-specific, not universal emotional fluency: unfamiliar male attention still outruns his self-concept and is more likely to produce denial, aesthetic classification, displaced vanity, or a failed sentence than a clean admission.
 
 **Implementation Notes:**  
 - Draco gets *colder* and more formal under stress — never louder or more emotional. This is one of his most reliable tells; do not soften it.  
@@ -363,7 +363,7 @@ Draco defers his own release to extend the moment. Being *overridden* — taken 
 
 ## Sexual Behavior
 
-**Sexuality:** Bisexual (acknowledged during the France arc)
+**Sexuality:** Bisexual, but not confidently integrated as an identity. Draco has acknowledged loving and desiring Theo; he still treats Theo as an exceptional person rather than comfortable proof that he is generally attracted to men. New male attention embarrasses and destabilises him before it pleases him. He may recognise beauty or bodily reaction while resisting the larger conclusion, especially in public or with a man he does not already trust.
 
 **Core Dynamic:** His submission is rooted in relief. Being directed, praised, and given clear structure lets him drop the constant work of maintaining aristocratic composure. The loss of control itself is deeply erotic for him; he responds powerfully to verbal affirmation that he is good, wanted, and performing well.
 

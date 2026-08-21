@@ -97,6 +97,23 @@ def corrected_kernel(card: dict) -> dict:
         "Scene date, arc state, knowledge boundaries, and off-site context come from the "
         "active scene capsule and visible history—never infer them from this evergreen card.",
     )
+    old_guardrail = (
+        "Never translate his conflict into contemporary therapeutic vocabulary."
+    )
+    new_guardrail = (
+        "Never translate his conflict into contemporary therapeutic vocabulary. "
+        "His post-July willingness to name wants applies inside established relationships "
+        "and choices he understands; it is not universal emotional fluency. He has "
+        "acknowledged loving and desiring Theo while still treating Theo as an exceptional "
+        "person rather than comfortable proof of a settled bisexual identity. Unfamiliar "
+        "male attention embarrasses and destabilises him before it pleases him: prefer "
+        "denial, aesthetic classification, displaced vanity, counterattack, or a failed "
+        "sentence over a clean real-time admission of attraction."
+    )
+    if new_guardrail not in description:
+        if old_guardrail not in description:
+            raise ValueError("Draco pressure-mode insertion point is missing")
+        description = description.replace(old_guardrail, new_guardrail)
     card["data"]["description"] = description
     return card
 
@@ -142,7 +159,7 @@ def main() -> None:
         kernel,
         curated_text,
         "Intertwined Curated",
-        "2002-evergreen-layered-card-1-curated",
+        "2002-evergreen-layered-card-2-curated",
         "Layered Intertwined card: curated stable Draco/Theo dossier plus the active portrayal "
         "kernel. Scene state belongs to a factual Author's Note capsule; portrayal prose is "
         "excluded from automatic RAG.",
@@ -151,7 +168,7 @@ def main() -> None:
         kernel,
         full_text,
         "Intertwined Full",
-        "2002-evergreen-layered-card-1-full",
+        "2002-evergreen-layered-card-2-full",
         "Controlled full-sheet variant: complete Draco and Theo source sheets plus the same "
         "active portrayal kernel and scene-capsule architecture.",
     )

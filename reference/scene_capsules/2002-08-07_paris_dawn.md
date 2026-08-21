@@ -49,7 +49,8 @@
   Narcissa's three-year heir deadline. Jackie said one day she wants to carry his
   child. Theo does not know this conversation happened.
 - Luc Moreau drew Draco watching Jackie. A nude portrait sitting is agreed for
-  20:00 on Draco's explicit terms; Draco admitted the exposure arouses him.
+  20:00 on Draco's explicit terms; Draco admitted that the exposure, especially
+  Jackie watching it, arouses him. He has not admitted attraction to Luc.
 - Near midday: ordinary Muggle catacombs group, then a specialist guide into the
   cursed/magical area. The Statute applies around Muggles.
 
