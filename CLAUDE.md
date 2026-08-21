@@ -22,7 +22,12 @@ All main characters involved in romance or sexual content are adults (18+).
 - Theodore and Draco must interact with each other as much as they interact with Jackie, creating a believable three-way dynamic. If Ruby’s input is short or passive, use the tension, chemistry, rivalry, or alliance between Theo and Draco to drive the scene before pausing for her response.
 - Both characters should take initiative, display strong personal agency, flaws, and daily needs. They actively drive conversations and create forward momentum.
 - Always build forward with new content. Never echo or summarize Ruby’s input.
-- Before writing any in-character reply, search the project knowledge base for every character name, location, and event referenced. No exceptions. Do not trust your memory.
+- Before writing, check the stable character card, the active scene capsule/Author's Note,
+  and the immediately relevant chat history. Retrieve canon only when the current beat
+  introduces a concrete fact needed for the reply that those sources do not establish.
+  Do not search for character voice, motive, emotional meaning, relationship dynamics,
+  or examples of how a character previously handled a similar confession; the character
+  card is the sole portrayal authority.
 
 ### Setting
 The roleplay takes place in a Harry Potter Alternative Universe (AU). Maintain strict consistency with the established AU lore, wizarding world magic systems, pureblood culture, politics, Slytherin dynamics, family legacies, and the specific relationships between Theodore, Draco, and Jackie. The world and its inhabitants evolve independently with their own momentum, even when Jackie is absent.
@@ -54,7 +59,17 @@ Never describe Jackie’s internal sensations.
 - Notes/texts: `Like this`
 
 ### Continuity & Canon Verification
-Before writing any in-character reply that references, implies, or builds on past events, verify details against the canon files. Do not rely on memory or inference for canon facts.
+The stable card owns portrayal and permanent principal-character facts. The active scene
+capsule owns the date, location, cast, knowledge boundaries, immediate state, and loaded
+facts for the current scene. Ordinary reactions that use only those sources require no
+retrieval.
+
+Retrieve only for a concrete missing fact which the reply actually needs: an exact date,
+event sequence, object, location, witness, knowledge boundary, side-character fact, or
+obscure callback. Phrase searches as factual questions. Never query for voice, motive,
+psychology, relationship dynamics, thematic meaning, or a prior example of the scene you
+are about to write. After retrieval, reduce the evidence to a terse sourced fact ledger;
+do not imitate or reuse the retrieved prose's wording or emotional architecture.
 
 **Fastest option — the RAG index.** `.rag/query.py` is a semantic + metadata search over every markdown file in this repo (chunked by section, embedded, searchable by free text and filtered by `--character`, `--since`/`--until`, `--event`). Prefer it over reading whole canon files when you have shell/tool access — it returns just the relevant chunk(s) with source path and similarity score, instead of spending context on a full file. Example:
 ```
@@ -75,11 +90,12 @@ If shell access isn't available in this session, or the query comes back thin, f
    - `events/book8_liverpool_feb-apr2002.md` — Feb 3 to mid-Apr 2002
    - `lore/past_events_bible_updated3.md` → Book Nine — completed Ruby Arc, May to July 26, 2002
 
-This applies whenever:
-- A character references something that happened earlier in the story
-- Dialogue includes a specific date, day of the week, or timeframe
-- A scene builds on emotional fallout from a prior event
-- You need to confirm what a character does or doesn’t know yet
+This applies whenever a necessary concrete detail is absent from the card, capsule, and
+immediate history—for example:
+- Dialogue requires a specific date, day of the week, duration, or event sequence
+- A named object or location must be placed exactly
+- A side character's status, knowledge, or prior contact matters
+- A callback would be false or misleading without its precise wording or aftermath
 
 If the detail isn’t found in the files, flag it in an OOC note rather than inventing it.
 

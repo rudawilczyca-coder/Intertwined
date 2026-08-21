@@ -13,7 +13,7 @@ CASES = [
     ("Eli cover", "Who is Theo's chosen World Cup cover?",
      ("reference/active_threads.md", "reference/scene_kit_current.md")),
     ("Theo's walks", "What is Theo's night-walking habit?",
-     ("sessions/primrose_hill_walk_handoff.md", "characters/theodore_nott_character_updated3.md")),
+     ("sessions/primrose_hill_walk_handoff.md", "reference/current_DracoTheo_state.md")),
     ("Paris hotel", "Which Paris hotel did Jackie and Draco choose?",
      ("arcs/the_honeymoon_they_owed.md", "reference/scene_kit_current.md")),
     ("Green Park", "What happened with the Green Park stalker and when?",
@@ -26,6 +26,11 @@ CASES = [
      ("characters/London_Camarilla.md", "reference/active_threads.md")),
 ]
 FORBIDDEN_PREFIXES = ("archive/superseded-planning/", "workflows/")
+FORBIDDEN_FILES = {
+    "characters/draco_malfoy_character_updated4.md",
+    "characters/theodore_nott_character_updated3.md",
+    "nest/intertwined_portrayal_curated.md",
+}
 RESULT = re.compile(r"^\[[^]]+\]\s+(.+)$", re.M)
 
 
@@ -50,6 +55,7 @@ def main():
         source_ok = any(path in expected for path in paths[:5])
         cap_ok = all(paths.count(path) <= 2 for path in set(paths))
         excluded_ok = not any(path.startswith(FORBIDDEN_PREFIXES) for path in paths)
+        excluded_ok = excluded_ok and not any(path in FORBIDDEN_FILES for path in paths)
         passed += int(source_ok and cap_ok and excluded_ok)
         print("| %s | %s | %s | %s |" % (
             label, "yes" if source_ok else "**no**",

@@ -60,6 +60,13 @@ then Pro receives that evidence and writes the final canon-audited reply.
 Use this model for general/canon-dense prose, not explicit scenes. Antigravity
 currently refuses the explicit-fiction ceiling used in the Model Arena.
 
+All RP routes use the same layered canon policy: stable principal portrayal and
+identity facts come from the card; the active Author's Note carries one scene
+capsule; routine turns do not retrieve. RAG is reserved for concrete missing
+facts and must not be queried for voice, motive, psychology, relationship
+dynamics, or examples of how to write the current beat. The primary Draco/Theo
+portrayal sheets are deliberately excluded from automatic RAG results.
+
 ---
 
 *Infra note. Update if the box, user, or process name ever changes.*

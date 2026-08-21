@@ -57,19 +57,31 @@ def main():
         all_chunks.extend(R.chunk_file(path, text))
 
     conn = R.connect(db_path)
+    # Preserve vectors for byte-identical chunks. The index is rebuilt from
+    # current files each run, but unchanged evidence should not incur another
+    # embedding call merely because exclusions or unrelated files changed.
+    existing = {
+        row[0]: (row[1], row[2], row[3])
+        for row in conn.execute(
+            "SELECT chunk_key,embed_text,embedding,embed_model FROM chunks"
+        ).fetchall()
+    }
     conn.execute("DELETE FROM chunks")
     conn.execute("INSERT INTO chunks_fts(chunks_fts) VALUES('delete-all')")
     for c in all_chunks:
         key = R.chunk_key(c, repo)
         rel = os.path.relpath(c["path"], repo)
+        prior_text, prior_embedding, prior_model = existing.get(key, (None, None, None))
+        reuse = prior_text == c["embed_text"] and prior_model == R.EMBED_MODEL
         cur = conn.execute(
             """INSERT INTO chunks
                (chunk_key,path,rel_path,title,heading,part,text,embed_text,
                 characters,dates,date_min,date_max,tokens_approx,embedding,embed_model)
-               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,NULL,NULL)""",
+               VALUES (?,?,?,?,?,?,?,?,?,?,?,?,?,?,?)""",
             (key, c["path"], rel, c["title"], c["heading"], c["part"], c["text"],
              c["embed_text"], json.dumps(c["characters"]), json.dumps(c["dates"]),
-             c["date_min"], c["date_max"], c["tokens_approx"]),
+             c["date_min"], c["date_max"], c["tokens_approx"],
+             prior_embedding if reuse else None, prior_model if reuse else None),
         )
         conn.execute(
             "INSERT INTO chunks_fts(rowid,text,heading,title,characters) VALUES (?,?,?,?,?)",
@@ -104,7 +116,13 @@ def main():
             print("  to ~/.openclaw/openclaw.json) and re-run to enable semantic search.")
         else:
             print("\nStage 2: embedding via %s (key source: %s)" % (R.EMBED_MODEL, source))
-            rows = conn.execute("SELECT id, embed_text FROM chunks ORDER BY id").fetchall()
+            rows = conn.execute(
+                "SELECT id, embed_text FROM chunks WHERE embedding IS NULL ORDER BY id"
+            ).fetchall()
+            reused = conn.execute(
+                "SELECT COUNT(*) FROM chunks WHERE embedding IS NOT NULL"
+            ).fetchone()[0]
+            print("  reused %d unchanged embeddings" % reused)
             try:
                 for i in range(0, len(rows), args.batch):
                     batch = rows[i:i + args.batch]
@@ -117,7 +135,8 @@ def main():
                     embedded += len(batch)
                     conn.commit()
                     print("  embedded %d/%d" % (embedded, len(rows)))
-                embed_status = "ok (%d chunks, %s)" % (embedded, R.EMBED_MODEL)
+                embed_status = "ok (%d reused, %d embedded, %s)" % (
+                    reused, embedded, R.EMBED_MODEL)
             except Exception as e:
                 embed_status = "ERROR after %d chunks: %s" % (embedded, e)
                 print("\nStage 2 ERROR: %s" % e)

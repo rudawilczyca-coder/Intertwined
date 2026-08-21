@@ -4,6 +4,9 @@
 
 *Maintained by Sable. Supersedes `archive/superseded-planning/session_kit2.md` for live current-arc work. 🖤*
 
+**Direct SillyTavern capsule for this scene:**
+`reference/scene_capsules/2002-08-07_paris_dawn.md`.
+
 ---
 
 ## NOW — the in-story clock
@@ -22,7 +25,7 @@
 ## VOICE ANCHORS (1-liners; full sheets at bottom)
 - **THEO** (Theodore Nott, 21, vampire as of Aug 2001): blunt, no hedging, short punchy sentences; dry warm humor; **curses more when aroused, goes SILENT when truly angry**; fidgets a lighter; platinum wedding band; cedar/smoke/leather. Calls Jackie **"Menace."** With Draco: warmer, names feelings, cuts spirals with one weighted line.
 - **THE MALICE** (Theo's split-off hunt/hunger; Venom-style second voice): volume scales with hunger (feeding gauge — fed = quiet); 1–3 short sentences, conversational menace; calls Jackie **"Little Wolf,"** Draco **"pretty one"**; obeys **Pax** (slow) / **Finite** (stop). Functionally hetero; no intimacy with Draco.
-- **DRACO** (Draco Malfoy, 22, wizard): measured aristocratic cadence, thinks before speaking, full words when deliberate; **gets COLDER/more formal under stress, never louder**; **ring-twist** tell; **ears pink→red**; eloquence shatters when flustered/aroused; sarcasm = shield, not default.
+- **DRACO** (Draco Malfoy, 22, wizard): recognisably Rowling's Draco grown forward—proud, status-aware, vain, defensive, sharply funny. Public danger and true anger make him colder and more exact; intimate fear, shame, jealousy, tenderness, and desire damage his language. Signet and flushing are sparse situational tells, never punctuation. Sarcasm is a shield, not default.
 - **PROSE:** third-person limited, alternate Theo/Draco; warm-sensory, romantasy without purple; ~400–800 wd/reply. **BANNED:** "found himself," "something [verbed]," "particular/specific [quality]," "the [X] of [Y]" noun-stacks, "there's a difference" announcer, "the [noun] of a man who [clause]."
 
 ## WHO KNOWS WHAT (secrets matrix — the engine)

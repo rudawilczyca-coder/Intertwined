@@ -34,6 +34,16 @@ SKIP_REL_DIRS = {
     "archive/superseded-planning",
     "workflows",
 }
+
+# Portrayal bibles are stable prompt authority, not retrieval evidence. Returning
+# their interpretive prose during scene generation turns RAG into a second,
+# stochastic character card. Permanent principal facts now live in the card too;
+# event chronology and changing scene state remain searchable elsewhere.
+SKIP_REL_FILES = {
+    "characters/draco_malfoy_character_updated4.md",
+    "characters/theodore_nott_character_updated3.md",
+    "nest/intertwined_portrayal_curated.md",
+}
 EXTS = (".md", ".txt")
 
 # --- roughly token-sized bounds (approx 4 chars/token) -----------------------
@@ -353,8 +363,12 @@ def walk_repo(repo_root):
             # explicit filename convention without excluding ordinary prose
             # that happens to discuss a template.
             stem = os.path.splitext(fn)[0].lower()
+            candidate = os.path.join(dirpath, fn)
+            rel = os.path.relpath(candidate, repo_root).replace(os.sep, "/")
+            if rel in SKIP_REL_FILES:
+                continue
             if fn.endswith(EXTS) and not (stem.endswith("_template") or stem == "template"):
-                yield os.path.join(dirpath, fn)
+                yield candidate
 
 
 # ---------------------------------------------------------------------------

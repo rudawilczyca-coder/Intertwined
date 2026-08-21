@@ -140,6 +140,8 @@ def apply_filters(rows, args):
     ch = canon_character(args.character) if args.character else None
     out = []
     for r in rows:
+        if r["rel_path"] in R.SKIP_REL_FILES:
+            continue
         chars = json.loads(r["characters"] or "[]")
         if ch and ch not in chars:
             continue
