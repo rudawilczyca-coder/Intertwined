@@ -46,7 +46,7 @@ Use this index to find specific events without loading the full bible. Each book
 | Early Mar 2001 | Café reunion (all three); St. Mungo's volunteering begins; dinner with Anne & Caroline; Knockturn concert (Samuel performs); dance with Draco; Pansy interrupts |
 | Mid-Mar 2001 | Café date with Draco; three-night arrangement established; first intimacy since wedding night; Theo's terms |
 | Mid-Apr 2001 | Ministry cafeteria meeting (Theo & Draco); Theo selling Manor; trial week proposed; wand fight; Theo disappears for weekend; reconciliation |
-| Italy Trip | Flight to Florence; Villa Aurelia; beach confession (Theo admits feelings for Draco); Venice; first triad intimacy; CNC dynamics exposed to Draco; Finite moment; guided scene (Theo directs); first Theo/Draco intimate contact; Florence underground ring (Filippo de' Medici); Filippo's two gifts |
+| Italy Trip | Neutral-ground trial after the failed Nott Manor cohabitation; Jackie stops mediating; Theo/Draco bilateral reconciliation; first triad intimacy; Draco witnesses Finite honoured; guided surrender and first Theo/Draco intimate contact; commitment to a shared home; Florence underground ring (Filippo de' Medici); Filippo's two gifts |
 
 ### BOOK FOUR: POST-FLORENCE & THE SUMMER (April–August 2001)
 → `events/book4_post_florence_2001.md`

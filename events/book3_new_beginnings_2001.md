@@ -226,6 +226,12 @@
 
 ### The Italy Trip (Late April – Early May 2001)
 
+**Why the Trial Week Matters**
+
+- Their first attempt at living together at Nott Manor (August–December 1999) failed because it never became a life shared by three people. Theo and Draco each maintained a relationship with Jackie while refusing a relationship with each other; Jackie functioned less as a bridge than as the wall that let both Jackie-centred dyads coexist without meeting.
+- Tuscany is a controlled second attempt on neutral ground. No one owns the villa, separate bedrooms and a fixed return date provide an escape route, and Jackie forbids mediation precisely because she cannot remain the relationship's sole translator, buffer, and infrastructure.
+- The week's real test is not whether they can share Jackie sexually. It is whether Theo and Draco can acknowledge each other directly, discover wants that do not pass through her, and remain present when the arrangement becomes frightened, jealous, or messy.
+
 **Monday — The Flight**
 
 - They wake an hour late and scramble through Muggle London to Heathrow. Draco tries to Confund the check-in clerk, the wands pass through security undetected. Barely make the gate.
@@ -241,7 +247,7 @@
 - Ground rules from Jackie: no mediation, no buffering. *"You'll just have to talk. Like adults."*
 - Over dinner, Jackie breaks down about her curse years and the countdown. Draco: *"You learned to live in the countdown. I learned to live in the absence."* A toast: *"Let's make it count."*
 
-**Tuesday — The Beach & Venice**
+**Monday — The Beach & Venice**
 
 - At the beach, Jackie asks for one honest thing from each of them. Theo: *"I'm glad we came."* Draco: *"I'm afraid that when we go back, I'll forget how to do this."*
 - Jackie drops the curtain: *"Theo will wait for you as well."*
@@ -250,13 +256,13 @@
 - Portkey to Venice. Jackie etches J+T on one padlock and J+D on another, interlocks them, and snaps them shut above the Grand Canal.
 - In a gondola, Theo nearly falls in; Draco catches him. The gondolier spends the entire tour convinced Theo and Draco are the couple and Jackie is the third wheel.
 
-**Tuesday Evening — The Chase & The First Night Together (All Three)**
+**Monday Evening — The Chase & The First Night Together (All Three)**
 
 - Jackie teases them with a clerk's phone number. Theo hunts. Draco blocks the escape route. They corner her in an alcove. Draco tears up the number.
 - Their first intimate scene as three. Theo holds Jackie against his chest from behind while Draco kneels between her legs. She comes apart with a cry that borders on a roar.
 - Theo, over Jackie's shoulder to Draco: *"She's perfect."* And between Theo and Draco — a look that holds no challenge, only deep, weary understanding.
 
-**Tuesday Night — Draco and Jackie (continued)**
+**Monday Night — Draco and Jackie (continued)**
 
 - Their first penetrative sex since the wedding night. Slow, deliberate, connective. Jackie bites his shoulder afterward — playful at first, then hard enough to mark. Deliberate: she wants Theo to see it.
 - Jackie sends Draco to help Theo with dinner: *"Go help him. Talk."*
@@ -265,76 +271,83 @@
 - Jackie: *"This… this is the part I want to come home to every day."*
 - Draco: *"I don't want to be right anymore. I want to be here."* Toast: *"To this. Whatever this is."*
 
-**Wednesday — The Villa & The Beach**
+**Tuesday — The Villa & The Beach**
 
 - Jackie runs through the Tuscan hills at dawn, showers, and cooks breakfast while the men sleep.
 - Jackie walks ahead to the beach, creating space for Theo and Draco to talk. Draco confronts Theo about the beach confession: *"You meant it. All of it."* Theo: *"Every word."*
 - Draco admits it changes the "geometry." Admits he didn't hate knowing Theo was in the next room. Theo: *"Don't pretend it's not happening. Not with me."*
 - Animagus play: Jackie shifts into snow leopard, Theo into black panther. They chase along the shoreline. Draco watches, then gets drawn in.
 
-**Wednesday Afternoon — The Beach (Intimate Scene, All Three)**
+**Tuesday Afternoon — The Beach (Intimate Scene, All Three)**
 
 - Escalation on the blanket: Theo claims Jackie, invites Draco to join. The dynamic reshapes when Draco admits he doesn't know how to touch her the way Theo does with an audience. Theo shifts from rival to instructor, guiding Draco's hand with his own. The hand-to-wrist contact between them is as intimate as anything involving her.
-- Feedback round afterward: Jackie liked their communication, disliked the sand. Draco liked being needed, not just tolerated.
+- Feedback afterward matters as much as the sex: Jackie praises their communication and condemns the sand; Draco admits he liked being *needed*, not merely tolerated. Theo's early loss of control leaves him briefly ashamed, and Jackie's calm response lets sexual vulnerability become information rather than failure.
 
-**Wednesday — The Grocery Trip (Theo & Draco Alone)**
+**Tuesday — The Grocery Trip (Theo & Draco Alone)**
 
-- Draco: *"She's trying to fix us."* Theo corrects: she's trying to see if anything exists between them beyond a reaction to her.
+- Draco: *"She's trying to fix us."* Theo corrects him: Jackie wants a home rather than a schedule for deciding which man she is allowed to love, and she is tired of being the only bridge between them. The errand removes her from the room so they must discover whether anything exists between them beyond their reactions to her.
+- Draco admits that the part of him that still wants to be right about Theo has become a shield. If Theo is no longer simply the villain, Draco must face himself as the man who left. Theo, in turn, offers to erase his own wants if Draco will stay for Jackie; Draco refuses that false solution: *"You said it doesn't matter what you want from me. That's not nothing, Nott. That's the whole point."*
 - Theo confesses his recurring nightmare — the one where Jackie safewords and he doesn't stop. He's never told Jackie.
 - Draco: *"If you were still that man, you wouldn't wake up wanting to run. You'd wake up satisfied."*
+- Draco does not promise forgiveness or affection. He promises presence: *"I'm not going to tell you we're fine. But I'm also not leaving. She deserves better than a man who only stays when it's clean."* They also admit the symmetry beneath their sexual rivalry: each envies what looks effortless in the other, while neither experiences his own place with Jackie as easy.
 
-**Wednesday Night — Kitchen & CNC Scene**
+**Tuesday Night — Kitchen & CNC Scene**
 
 - Jackie's brattiness escalates into their familiar combative rhythm. Theo steers her to the bedroom. CNC dynamic at full intensity. Belt, controlled strikes, relentless denial of release.
 - Draco hears from the kitchen, comes to the hallway door. Theo invites him in. Draco enters and witnesses everything. Her shame floods the room: *"I'm sorry. You weren't supposed to see this."*
 - Draco: *"I'm not judging her. I'm trying to understand."* He stays. Watches.
 - Theo escalates — commands Jackie to confess the full scope of her desires, out loud, for Draco to hear.
 
-**Wednesday Night — The Finite Moment**
+**Tuesday Night — The Finite Moment**
 
-- Theo pushes for a declaration of belonging — demands Jackie say it to Draco's face.
-- *"Finite."* The safeword tears out of her. Not from fear — from the impossible arithmetic of loving two people at once.
+- Theo pushes for a declaration of belonging — demands Jackie say it to Draco's face. He turns possession-play into a real claim of relational precedence, changing the meaning of the scene beyond what Jackie agreed to.
+- *"Finite."* The safeword tears out of her while her body still wants him to continue. She stops not from physical fear but because she will not turn desire into a hierarchy or make either man second.
 - Theo freezes immediately, withdraws. *"Talk to me. Are you hurt?"*
-- Draco crosses the room, drops to one knee. *"It's over. He stopped. You're safe."*
+- Draco crosses the room, drops to one knee. *"It's over. He stopped. You're safe."* After hearing Theo's nightmare on the grocery walk, he now witnesses the opposite in practice: Theo reacts before thought, honours Finite without hesitation, and becomes proof that he is not the man from the dream or the past.
 - Jackie breaks down: *"I never could choose."*
 - Theo: *"I don't need you to declare it or deny it. I just need you to come back to me."*
 - Draco: *"You don't have to choose. That's not what this is."*
 - Jackie declares: *"You were never second. Neither of you were. Ever."* She loved Draco before she loved Theo, and has never loved either more than the other.
-- Pizza ordered via Anne's Nokia 3310. Theo's hand finds the back of Draco's neck — brief, deliberate. A test. An offering. He pulls away before Draco can tense.
+- No one questions, belittles, or punishes Jackie for using the safeword. Pizza is ordered via Anne's Nokia 3310, intimacy survives the stopped scene, and Theo's hand finds the back of Draco's neck — brief, deliberate, a test and an offering. He pulls away before Draco can tense.
 
-**Wednesday Night — Power Exchange Conversation**
+**Tuesday Night — Power Exchange Conversation**
 
 - Draco asks the real question: was the bedroom provocation, or something Jackie actually wanted? Theo: *"It's both."*
-- Jackie explains her desires honestly — the roots of her relationship to pain, the value of relinquishing control entirely.
+- Draco rejects the comforting corruption story: Theo has not twisted Jackie into someone unrecognizable; Draco is finally seeing parts of her that were always hers. Understanding and acceptance become separate currencies — he need not share her relationship to pain in order to trust her account of herself.
+- Jackie explains her desires honestly — including how trauma may have shaped them without retroactively consenting to the original harm. Pain is one route; the thing she loves most is relinquishing control entirely.
+- Jackie offers separate bedrooms and separate intimacy as a safer arrangement, but Draco recognizes it as the old wall in gentler form. They agree that fear may stop a scene, but it cannot become disappearance: if something is too much, they talk. Theo ratifies it for all three: *"No more disappearing. From any of us."*
 - Draco admits Theo's instructions on the beach were "effective." Jackie presses. Draco, watching Theo's silhouette: *"He's always been compelling. Even when we were children."*
+- Before agreeing to be guided, Draco asks whether Jackie wants the scene for herself rather than merely for his benefit. Her desire, not his curiosity, is the threshold.
 
-**Wednesday Night — The Guided Scene**
+**Tuesday Night — The Guided Scene**
 
-- Plan: Theo guides Jackie through pleasuring Draco, demonstrating that submission can be gentle and chosen. Theo directs from the doorway, then a chair, then the foot of the bed — never touching either of them.
-- Draco moves from observer to participant — asking Jackie to kiss him again (his first voluntary command within the structure). He brings Jackie to orgasm — unhurried, reverent, entirely his own technique.
+- Plan: Theo guides Jackie through pleasuring Draco, demonstrating that submission can be gentle and chosen. Jackie enters deep subspace: not vacant or erased, but fully present without having to manage the room, make every decision, or keep both men connected.
+- Draco approaches the scene as though awaiting a tribunal. Jackie punctures the pure-blood performance instinct: *"It's not the NEWTs. Nobody's marking you on performance."* Theo gives him exact structure, then asks for one want. Draco's quiet *"Kiss me again… just like that"* is his first voluntary request inside the dynamic.
+- Theo lends Draco structure without making him a puppet. His instructions gradually yield to Draco's agency: *"Take her to bed. You decide how."* Draco brings Jackie to orgasm — unhurried, reverent, and recognizably his own technique.
 
-**Wednesday Night — The Shift (Theo and Draco)**
+**Tuesday Night — The Shift (Theo and Draco)**
 
 - Theo turns to Draco: *"Your turn. Stand up. Take off the rest of your clothes."*
-- Draco strips with characteristic precision. Theo straddles him, takes control — working Draco with his hand, slow and maddening. The first intimate contact between them.
+- Draco strips with characteristic precision, even folding his trousers: surrender does not erase him. Theo straddles him and takes control slowly. This is their first intimate contact and Draco's first sexual experience with a man — a desire he has not given himself public language for within conservative pure-blood expectations.
 - Theo: *"You've thought about this, haven't you."* Draco, eyes shut: *"Yes."*
-- Jackie holds Draco's hand from beside the bed. Theo edges him relentlessly. Jackie: *"Let go, Draco. Let go for him. I promise you — he's worth it."*
-- Draco comes apart completely. Theo rests his forehead against Draco's. *"Good. Just breathe."*
+- Jackie moves out of the physical centre and holds Draco's hand from beside the bed. She is no longer the wall or translator; she witnesses a piece of intimacy that belongs directly to the two men. *"Let go, Draco. Let go for him. I promise you — he's worth it."*
+- Theo proceeds with unusual patience, watching Draco's breathing and waiting for choice rather than taking compliance for granted. He does not kiss Draco or demand an identity confession. Draco's barely audible *"Yes"* and later *"Please"* are enough.
+- Draco comes apart completely. Theo receives him without disgust, triumph, or coy denial, then rests his forehead against Draco's. *"Good. Just breathe."*
 - Draco afterward, dazed: *"Like I just jumped off a cliff and found out I could fly halfway down."*
 
-**Wednesday Night — Aftercare & Draco's Confession**
+**Tuesday Night — Aftercare & Draco's Confession**
 
 - Draco: *"He's different than I remember."* Jackie: *"He's not different. He's exactly the same person he always was. You just couldn't afford to see it."*
-- Draco admits the attraction started when all three lived together during Jackie's curse recovery — watching Theo take relentless care of both of them. He hated the attraction, turned it into rivalry, then weaponized the rape revelation to convert it into justified hatred.
+- Draco admits the attraction started when all three lived together during Jackie's curse recovery — watching Theo take relentless care of both of them. Unable to reconcile it with the standards he had built his identity around, he turned attraction into rivalry, then weaponized the rape revelation to convert it into justified hatred.
 - Jackie: *"You should apologize to him."*
 
-**Wednesday Night — The Shower (Jackie and Theo)**
+**Tuesday Night — The Shower (Jackie and Theo)**
 
 - Jackie finds Theo under the shower. She offers herself freely. Theo's raw honesty: he wants her, but after hours of restraint, he's afraid he can't stop — not even at the safeword.
 - Jackie: *"I'm sure. Show me your worst, Theodore Nott."*
 - CNC scene at its most intense. The scene peaks violently — Jackie blacks out. Theo finishes and only realizes something is wrong when she goes limp.
 
-**Wednesday Night — Shower Aftermath & Aftercare**
+**Tuesday Night — Shower Aftermath & Aftercare**
 
 - Theo catches Jackie as she goes limp. He sinks to the tile with her, finds her pulse. *"Jackie. Come back. I need you to come back."*
 - She surfaces slowly. *"Hey, love. That was… a lot."* Then she sees his face: *"Did I scare you?"*
@@ -344,9 +357,9 @@
 
 ---
 
-### Thursday — Rome & The Beach
+### Wednesday — Rome & The Beach
 
-**Thursday Morning — Draco's Apology**
+**Wednesday Morning — Draco's Apology**
 
 - Draco comes downstairs while Theo cooks breakfast. *"I want to talk about yesterday. I hid it. For years. And then I turned it into hatred because that was easier. You deserved better than that."*
 - Theo's response is measured but bitter: *"You hid it. And when hiding it stopped being enough, you made me a monster instead."* He names the cost — five months of Jackie barely getting out of bed after Draco left. *"Two years, Draco."*
@@ -355,31 +368,31 @@
 - Theo demands they eventually address what's between them properly. *"Not today. But eventually."*
 - Before Jackie wakes, Theo steps into Draco's space and pushes — demands he say out loud that he's attracted, that he liked it. Draco opens his mouth to answer — and Jackie's bedroom door creaks.
 
-**Thursday Morning — Breakfast & The Bite**
+**Wednesday Morning — Breakfast & The Bite**
 
 - Jackie wakes sore, eats standing (can't sit). Draco notices the gauze on her shoulder. Jackie explains honestly — Theo deserved something for himself after the restraint he showed all evening.
 - Jackie's rule: *"What you're not allowed to do is get angry at Theo for any of it. If you have feelings about my choices, take them up with me."*
 - Draco: *"I'm not angry at Theo. I'm adjusting."*
 - Jackie remembers — with horror — that she threw her wedding band at Draco at the Snake Soirée. *"That was a very Pansy move of me."* Draco has both rings in a drawer at his London flat.
 
-**Thursday — Rome**
+**Wednesday — Rome**
 
 - The Colosseum, Circus Maximus (twelve abraxani in aerial loops — Jackie wins fifty Galleons on Vento d'Oro). All three agree, earnestly and without reservation, to move in together once the Manor sells. Jackie cries happy tears over carbonara.
 - Theo kisses Draco's cheek for an Instax photo — capturing Draco's shock in perfect detail.
 - Outside a café: Theo flirts with a barista. Draco confronts him with jealousy that surprises them all — not on Jackie's behalf, but his own.
 
-**Thursday — Theo and Draco at the Villa**
+**Wednesday — Theo and Draco at the Villa**
 
 - Theo: *"She's happy. Really happy. You're good for her. For us."* Draco: *"I didn't come back for the 'us' of it. I came back for her, and somehow… found you."*
 
-**Thursday Evening — Beach Date (Jackie & Draco)**
+**Wednesday Evening — Beach Date (Jackie & Draco)**
 
 - Jackie confesses her fear: *"I'm terrified this is just a 'Tuscan charm.'"*
 - Draco admits he came to Italy expecting it to fail — wanting proof the three of them was impossible. *"But it didn't fail. And I wasn't right."*
 - Jackie on the Dark Mark: *"I hate myself for not being there to hold your hand in the dark."* Draco: *"If you'd been there, you would've been marked too."*
 - Wine on the rocks at the shore. Toast: *"To not being donkeys anymore."*
 
-**Thursday Night**
+**Wednesday Night**
 
 - Draco applies bruise ointment to Jackie's marks with methodical gentleness. Jackie explains the dynamics honestly.
 - Draco stays the night, holding her. *"Sleep. I'll be here when you wake up."*
