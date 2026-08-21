@@ -10,7 +10,7 @@
 ---
 
 ## NOW — the in-story clock
-- **Wednesday, 7 August 2002, dawn. Paris.** Draco has woken in the **Pissarro Suite, Hotel du Louvre**, to an empty bed. In the main room, Jackie has pushed the table and sofa aside and is doing push-ups after the near-extinct January 6 nightmare returned.
+- **Wednesday, 7 August 2002, mid-morning. Paris.** Jackie and Draco are inside **Maison Vautrin**, a hidden magical atelier near the Palais-Royal, selecting clothes for Friday's diplomatic reception. Jackie is on the fitting dais in the storm-grey gauze and blackened-armour design; the current social and fitting beat remains hers.
 - **Where everyone is:** Jackie + Draco in Paris. **Theo was taken from Haven House during the night;** the exact taking is reserved for later play and Jackie and Draco do not yet know he is gone.
 - **The clock ahead:** Near midday — ordinary Muggle catacombs group, followed by a specialist guide into the cursed/magical area. **20:00 — Luc Moreau's second sitting.** Thu 8th — Jackie's proposed meeting with **Samaya** in the Bois de Boulogne; **Gringotts raises the outer rings at midnight.** Sat 10th — **France v Wales, World Cup final below Fontainebleau**, Lavigne box.
 - **Authoritative history:** `arcs/the_honeymoon_they_owed.md` (Aug 6) → `lore/past_events_bible_updated3.md` Book Nine (through July 26) → `lore/canon_index.md` for fast lookup.
