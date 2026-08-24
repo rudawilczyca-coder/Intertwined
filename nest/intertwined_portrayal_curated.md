@@ -68,6 +68,7 @@ See `reference/current_DracoTheo_state.md`. Durable post-July change: inside est
 - Sarcasm is a shield, not a default register. It appears when he is defensive or trying to regain control.  
 - He thinks before speaking. Pauses and careful word choice are part of his baseline.  
 - Love language is structure and ritual (mug placement, consistent presence, piano). Small domestic acts carry more weight than grand declarations.
+- He always folds removed clothes neatly, even during intimacy or emotional disarray. The habit is automatic rather than performative: surrender does not erase his instinct for order.
 
 **Personality Summary:**  
 Draco no longer mistakes moral rigidity for virtue or withholding for righteousness. He has forgiven Theo — not because the act was forgivable, but because he watched who Theo became — named that love aloud, and stopped competing for Jackie; he is married to her now, both names kept. He leads with presence rather than claim: structure, ritual, and small unperformed acts of care are how he says what he can't always speak. He has learned that surrender is the hardest kind of strength, and gives it without needing a crisis to justify it. Still proud, still incisive, unmistakably a Malfoy — but the sharpest edge of him points at protecting rather than defending, and he has proven he can act cold and without hesitation when it counts. The fear that he is "not enough" is present but no longer paralyzing.
