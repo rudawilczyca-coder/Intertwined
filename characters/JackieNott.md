@@ -16,7 +16,9 @@
 **Residence:** Haven House, 145 Berkeley Place, Notting Hill, London (third-floor bedroom)
 
 **Family:**
-- Samaya Taylor (older sister, 23) — residing in Paris
+- Samaya Taylor (older sister, 23) — residing in Paris; married to Pierre, a
+  French Ministry curse-breaker
+- Edmund (nephew) — Samaya and Pierre's son, born February 2002
 - Amalthea Taylor (mother) — permanently transformed as a wolf; lives in the Taylor estate forests
 - Cyrus Taylor (father) — deceased (May 2001)
 
