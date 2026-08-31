@@ -6,14 +6,13 @@ align the soles on one shared baseline.
 
 Using Theodore at 1000 px:
 
-- Theodore — 1000 px (185 cm / 6'1")
-- Draco — 973 px (180 cm / 5'11")
-- Jackie — 892 px (165 cm / 5'5")
-- Nell — 849 px (157 cm / 5'2")
+- Theodore — 1000 px (185.4 cm / 6'1")
+- Draco — 973 px (180.3 cm / 5'11")
+- Jackie — 877 px (162.6 cm / 5'4")
+- Nell — 849 px (157.5 cm / 5'2")
 
-These ratios use the metric values already present in the character files.
-Jackie's sheet currently says `5'4" (165 cm)`, but 165 cm rounds to 5'5";
-that source inconsistency needs a canon decision before adding final ruler labels.
+The imperial heights are canon. Metric values are their exact conversions,
+rounded to one decimal place; pixel ratios are rounded to the nearest pixel.
 
 The images deliberately carry no scale relationship of their own. Their tight
 transparent crops are intended to be resized independently.

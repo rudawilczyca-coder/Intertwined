@@ -25,7 +25,7 @@
 
 ## Appearance
 
-- **Height:** ~5'11" (180 cm)  
+- **Height:** ~5'11" (180.3 cm)
 - **Hair:** Platinum blond, worn looser and less meticulously styled than in his school years  
 - **Eyes:** Storm-gray; still sharp and assessing, but now marked by fatigue, reflection, and restraint  
 - **Build:** Lean, athletic; controlled strength rather than showy power  

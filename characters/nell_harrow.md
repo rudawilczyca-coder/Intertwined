@@ -14,7 +14,7 @@ Nothing in Proposals is binding until Alice says so.
 
 - **Name:** Nell Harrow. Born **Kornelia Tarska**, in Warsaw.
 - **Apparent age:** 27. **Turned:** 1948.
-- **Height:** 5'2" (157 cm). Small, compact, wiry — not delicate.
+- **Height:** 5'2" (157.5 cm). Small, compact, wiry — not delicate.
 - **Hair:** Jet-black, straight, glossy, shoulder-length.
 - **Skin:** Very pale, cool undertone.
 - **Eyes:** Deep saturated blood-red — the colour of a vampire fifty-odd years
@@ -113,29 +113,27 @@ Files in `reference/visual/nell/`:
 - `nell-reference-sheet.png` — three-panel sheet: full view, smiling, violet
   hungry eyes, plus stat block.
 - `nell-hungry-alt.png` — alternate, kept as a hungry/angry reference.
-- `height-comparison-chart.png` — the four of them to scale. Second pass,
-  31 Aug 2026. Relative order and the head-to-shoulder relationship are
-  correct; the women still sit a few inches above their own gridlines, so read
-  the *relationships*, not the ruler.
+- `height-comparison-chart.png` — superseded generated draft from 31 Aug 2026.
+  Its ruler and relative spacing are inaccurate; do **not** use it as a scale
+  reference. Use the transparent cutouts and exact values below instead.
 
 **Rendering style:** the trio's approved 2D style-lock
 (`reference/visual/trio/approved-2d-style-lock.png`) — semi-realistic anime
 illustration, clean ink lineart, painterly cel shading. Not photorealistic.
 
 **Scale note:** image models consistently render her tall and willowy unless
-given something to measure her against. When generating shared scenes, state the
-relationship in words — **her head reaches Theo's shoulder** — and pass the
-height chart as a reference image.
+given something to measure her against. For shared scenes, use the exact heights
+below and the transparent cutouts in `reference/visual/height-chart-cutouts/`.
+Do not pass the superseded generated height chart as a scale reference.
 
 | Character | Height |
 |---|---|
-| Theodore | 6'1" / 185 cm |
-| Draco | 5'11" / 180 cm |
-| Jackie | 5'4" / 165 cm |
-| **Nell** | **5'2" / 157 cm** |
+| Theodore | 6'1" / 185.4 cm |
+| Draco | 5'11" / 180.3 cm |
+| Jackie | 5'4" / 162.6 cm |
+| **Nell** | **5'2" / 157.5 cm** |
 
 ### Still open
 
-- Full-body render that actually reads 5'2".
-- Height chart where the figures sit on their labelled gridlines rather than
-  above them. Usable as-is; not exact.
+- Alice is constructing the definitive height chart manually from the
+  transparent cutouts.

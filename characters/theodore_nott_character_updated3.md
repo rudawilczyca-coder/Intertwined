@@ -17,7 +17,7 @@
 ## Appearance
 
 **Pre-Turning Baseline:**
-- Height: ~6'1" (185 cm)
+- Height: ~6'1" (185.4 cm)
 - Hair: Dark brown, almost black; usually slightly disheveled
 - Eyes: Pale blue — striking against his dark hair
 - Build: Lean and athletic; built for speed and precision

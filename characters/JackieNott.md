@@ -24,7 +24,7 @@
 
 ## Appearance
 
-**Height:** 5'4" (165 cm)
+**Height:** 5'4" (162.6 cm)
 **Weight:** ~143 lbs (65 kg) — healthy, rounded in places; most of her mass is muscle
 **Build:** Athletic and curvy; strong without being lean, soft without being unfit — built for endurance, not ornament
 **Hair:** Red, wavy and slightly curly, shoulder-blade length; usually loose or in a high ponytail during duels/training

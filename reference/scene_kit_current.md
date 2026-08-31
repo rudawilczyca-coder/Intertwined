@@ -51,7 +51,7 @@
 - **Solange** — runs the crêperie out of her crowded apartment; put Jackie to work on the billig. **Naïs** — taught her to turn the rake from the wrist.
 
 ## KEY PEOPLE — QUICK EXTERIOR
-- **Jackie** (Alice's): 5'4", red wavy hair, **heterochromatic eyes (L moss-green, R glacial-blue)**, pale freckled, athletic-curvy. Auror; Animagus snow leopard. Gold-flame Italian wrist holster (holds wand). Bite scar L neck. In Paris: black dress, corset, daggers.
+- **Jackie** (Alice's): 5'4" (162.6 cm), red wavy hair, **heterochromatic eyes (L moss-green, R glacial-blue)**, pale freckled, athletic-curvy. Auror; Animagus snow leopard. Gold-flame Italian wrist holster (holds wand). Bite scar L neck. In Paris: black dress, corset, daggers.
 
 ## DEEPER FILES (open only for a missing fact — section-read or subagent, never whole-file dumps)
 - **Open threads / loaded guns:** `reference/active_threads.md` ← canonical ledger, start here
