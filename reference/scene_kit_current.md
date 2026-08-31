@@ -4,15 +4,15 @@
 
 *Maintained by Sable. Supersedes `archive/superseded-planning/session_kit2.md` for live current-arc work. 🖤*
 
-**Direct SillyTavern capsule for this scene:**
-`reference/scene_capsules/2002-08-07_paris_dawn.md`.
+**Direct scene capsule:**
+`reference/scene_capsules/2002-08-08_paris_samaya.md`.
 
 ---
 
 ## NOW — the in-story clock
-- **Wednesday, 7 August 2002, mid-morning. Paris.** Jackie and Draco are inside **Maison Vautrin**, a hidden magical atelier near the Palais-Royal, selecting clothes for Friday's diplomatic reception. Jackie is on the fitting dais in the storm-grey gauze and blackened-armour design; the current social and fitting beat remains hers.
-- **Where everyone is:** Jackie + Draco in Paris. **Theo was taken from Haven House during the night;** the exact taking is reserved for later play and Jackie and Draco do not yet know he is gone.
-- **The clock ahead:** Near midday — ordinary Muggle catacombs group, followed by a specialist guide into the cursed/magical area. **20:00 — Luc Moreau's second sitting.** Thu 8th — Jackie's proposed meeting with **Samaya** in the Bois de Boulogne; **Gringotts raises the outer rings at midnight.** Sat 10th — **France v Wales, World Cup final below Fontainebleau**, Lavigne box.
+- **Thursday, 8 August 2002, Paris.** Wednesday is complete. Jackie and Draco slept after Luc Moreau's finished portrait sitting; Thursday's first scene has not yet begun.
+- **Where everyone is:** Jackie + Draco in Paris. **Theo is detained at the London Camarilla court;** Jackie and Draco do not yet know he is gone.
+- **The clock ahead:** Thursday — Jackie's proposed meeting with **Samaya, Pierre, and six-month-old Edmund** in the Bois de Boulogne; **Gringotts raises the four Fontainebleau rings at midnight.** Friday — diplomatic reception and Adrien. Saturday — **France v Wales, World Cup final below Fontainebleau**, Lavigne box.
 - **Authoritative history:** `arcs/the_honeymoon_they_owed.md` (Aug 6) → `lore/past_events_bible_updated3.md` Book Nine (through July 26) → `lore/canon_index.md` for fast lookup.
 - **Present character state:** `reference/current_DracoTheo_state.md`. **Live-thread ledger:** `reference/active_threads.md`.
 
@@ -41,14 +41,18 @@
 - **⚠️ Theo has been taken from Haven House.** The full scene and mechanism are reserved for later play. Prince Viola's audience / False-Eli operation is now in motion, but Jackie and Draco do not know this.
 - **The 2001 Luminary crowd will be watching.** Last time that crowd saw them, Draco was nearly assassinated and Theo died.
 - **The children conversation is open and unfinished**, with Narcissa's three-year clock running underneath it.
-- **Luc's sitting is today at 20:00**, on Draco's terms, and he admitted that the exposure—especially Jackie watching it—arouses him. He has not admitted attraction to Luc.
+- **Luc's portrait is complete.** Draco admitted that Luc was attractive and allowed the discovery to stand. Jackie kissed the offered wrist scar and chose sleep rather than sexual release; Draco carries that unresolved charge into Thursday and Friday.
 - **Jackie's three books go to Sylvie by Lavigne raven** — and Vasseur warned the network itself gets noticed.
+- **Samaya's reunion is the only fixed Thursday meeting.** She is angry that Jackie missed her November 2001 wedding, knows Theo is alive and a vampire but will not say so in front of Pierre, and is deeply worried about Jackie's safety and Auror career. Full guardrails: `characters/samaya_taylor.md`.
 
 ## PARIS — QUICK NPCs (all established Aug 6)
 - **Luc Moreau** — École des Beaux-Arts student. Refused a formal pose; drew the way Draco *watches* Jackie. Teasing, sharp-eyed, exposed Draco's jealousy in about four minutes.
 - **Aurélien Vasseur** — Paris Gringotts curse-breaker. Remembers the 2001 Luminary. Knows Theo died. Jackie shut that subject down once already.
 - **Sylvie Roux** — Muggle paper conservator, eleven years openly with Vasseur under French secrecy (a registered wizard as collateral, not memory charms). Knows old wizarding paper by its warmth.
 - **Solange** — runs the crêperie out of her crowded apartment; put Jackie to work on the billig. **Naïs** — taught her to turn the rake from the wrist.
+- **Samaya Taylor** — Jackie's older sister; Paris curse-breaker, newly married and a new mother. Bright, posh chirp in company; voice drops when angry. Protection through pressure, not shelter.
+- **Pierre** — Samaya's brown-haired husband; French Ministry curse-breaker from southern France, politically suitable and personally besotted.
+- **Edmund** — their son, born February 2002; about six months old.
 
 ## KEY PEOPLE — QUICK EXTERIOR
 - **Jackie** (Alice's): 5'4" (162.6 cm), red wavy hair, **heterochromatic eyes (L moss-green, R glacial-blue)**, pale freckled, athletic-curvy. Auror; Animagus snow leopard. Gold-flame Italian wrist holster (holds wand). Bite scar L neck. In Paris: black dress, corset, daggers.

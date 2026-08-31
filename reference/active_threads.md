@@ -1,7 +1,7 @@
 # ACTIVE THREADS / LOADED GUNS
 
-**As of:** Wednesday, 7 August 2002, dawn — Paris / Theo's location unknown.
-**Last fixed beat:** Draco wakes to an empty bed and finds Jackie doing push-ups in the cleared main room after the January 6 nightmare returned.
+**As of:** Thursday, 8 August 2002 — Paris / Theo detained at the London Camarilla court.
+**Last fixed beat:** Wednesday ended with Jackie kissing Draco's offered wrist scar and choosing sleep against his chest after Luc completed the portrait.
 **Current arc source:** `arcs/the_honeymoon_they_owed.md`.
 
 This is the single live-thread ledger. Each item records only current status, the unresolved edge, and its source. Event recap belongs in the cited source; present emotional state belongs in `reference/current_DracoTheo_state.md`.
@@ -13,8 +13,12 @@ This is the single live-thread ledger. Each item records only current status, th
 ## CURRENT ARC
 
 ### 🔴 Paris → Fontainebleau, Aug 6–10
-Tuesday is played through Rue Chapon. Wednesday opens at dawn in the Pissarro Suite; near midday begins with an ordinary Muggle catacombs group before a specialist guide takes the wizards into the cursed/magical area; Luc's second sitting is fixed for 20:00. Still ahead: Jackie's proposed Samaya meeting Thursday; Fontainebleau and the World Cup Final Saturday.
-**Unresolved:** everything after Wednesday's opening beat.
+Tuesday and Wednesday are complete. Thursday's only fixed meeting is Samaya,
+Pierre, and six-month-old Edmund in the Bois de Boulogne. Samaya is angry that
+Jackie missed her November 2001 wedding and knows Theo is alive and a vampire,
+but will not say so in Pierre's presence. Still ahead: Friday's diplomatic
+reception and Saturday's Fontainebleau World Cup Final.
+**Unresolved:** Thursday's reunion; Friday's reception and Adrien; Saturday's final.
 **Source:** `arcs/the_honeymoon_they_owed.md`.
 
 ### 🔴 Viola's audience / False Eli
@@ -32,9 +36,12 @@ Draco has told Jackie he wants children with her for himself; Jackie has said sh
 **Unresolved:** timing, Theo's place, legal names and inheritance, and reproductive mechanics.
 **Source:** `arcs/the_honeymoon_they_owed.md`; `events/book8_liverpool_feb-apr2002.md` → Feb 27.
 
-### 🟠 Luc Moreau's second sitting
-Luc is due Wednesday evening to draw Draco nude for a portrait to be hidden until Theo's November birthday. Draco's consent and reproduction terms are fixed.
-**Unresolved:** the sitting and Theo's eventual reaction.
+### 🟠 Luc Moreau's portrait
+Luc completed the nude portrait Wednesday evening. Draco admitted that Luc was
+attractive and allowed the discovery to stand; Jackie kissed the offered wrist
+scar and chose sleep rather than sexual release. The portrait remains hidden
+for Theo's November birthday.
+**Unresolved:** Theo's eventual reaction.
 **Source:** `arcs/the_honeymoon_they_owed.md`.
 
 ### 🟠 Sylvie Roux and the three books
