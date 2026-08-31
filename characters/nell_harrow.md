@@ -113,6 +113,10 @@ Files in `reference/visual/nell/`:
 - `nell-reference-sheet.png` — three-panel sheet: full view, smiling, violet
   hungry eyes, plus stat block.
 - `nell-hungry-alt.png` — alternate, kept as a hungry/angry reference.
+- `height-comparison-chart.png` — the four of them to scale. Second pass,
+  31 Aug 2026. Relative order and the head-to-shoulder relationship are
+  correct; the women still sit a few inches above their own gridlines, so read
+  the *relationships*, not the ruler.
 
 **Rendering style:** the trio's approved 2D style-lock
 (`reference/visual/trio/approved-2d-style-lock.png`) — semi-realistic anime
@@ -133,4 +137,5 @@ height chart as a reference image.
 ### Still open
 
 - Full-body render that actually reads 5'2".
-- Height comparison chart with honest proportions.
+- Height chart where the figures sit on their labelled gridlines rather than
+  above them. Usable as-is; not exact.
