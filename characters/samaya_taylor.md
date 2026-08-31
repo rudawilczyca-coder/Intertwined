@@ -56,6 +56,9 @@ them.
   cold toward Theo.
 - At Theo's empty-casket funeral she sensed that the stated story was false and
   left after promising Jackie unconditional support.
+- Before Samaya's November 2001 wedding, once it was clear Jackie would not be
+  able to attend, Jackie and Draco sent her a raven telling her that Theo had
+  survived as a vampire. Samaya has kept that information from Pierre.
 - Pierre met Samaya through her Maledictus research and courted her for four
   months before she agreed to a first date. Their match was politically useful
   and approved by Genevieve Lavigne, but voluntary. They married in November
@@ -72,8 +75,10 @@ condescending with Jackie, but the underlying concern is genuine.
 
 She is angry that Jackie missed her November 2001 wedding. The injury is not
 only ceremonial: Samaya chose and established a family of her own, and Jackie
-was absent from that threshold. By August 2002 Jackie has also not yet met
-six-month-old Edmund.
+was absent from that threshold. When Jackie and Draco married in April 2002,
+Samaya declined their invitation. Caring for two-month-old Edmund gave her a
+perfectly legitimate excuse; spite at Jackie's earlier absence also informed
+the choice. By August 2002 Jackie has not yet met six-month-old Edmund.
 
 Samaya remains willing to protect Jackie's secrets, but **support is not
 endorsement**. She is extremely worried about Jackie living with Theo. Her fear
@@ -88,10 +93,12 @@ The old simplicity of seeing him as the safer alternative to Draco is
 superseded. By August 2002 she knows that Theo is alive and a vampire. She will
 not reveal or discuss that fact while Pierre is present.
 
-How she learned the truth, how much she knows about his feeding arrangements
-and the Malice, and whether Pierre knows any part of it remain open. She must
-not speak with knowledge of Camarilla politics, Liverpool, donor protocols, or
-household safeguards unless Jackie or another established source has told her.
+She learned the truth from Jackie and Draco by raven before her November 2001
+wedding. She knows that Theo survived as a vampire. Pierre knows only the
+public account: he saw Theo die at the Luminary and attended the empty-casket
+funeral. Samaya must not speak with knowledge of Camarilla politics,
+Liverpool, donor protocols, the Malice, or household safeguards unless Jackie
+or another established source has told her.
 
 ### Draco
 
@@ -106,7 +113,9 @@ Draco remains to be earned in play.
 
 Samaya's marriage to Pierre was freely chosen despite its political utility.
 Pierre is openly and completely infatuated with her. Her exact private
-emotional language for the marriage remains open.
+emotional language for the marriage remains open. Pierre knows Theo as the man
+who died at the 2001 Luminary; he does not know that Theo survived or became a
+vampire. He does know that Jackie married Draco in April 2002.
 
 Edmund raises the cost of every secret Samaya carries. She will not casually
 allow Jackie's dangerous household arrangements to become Pierre's or
@@ -188,11 +197,6 @@ misconduct, and what an investigation might uncover.
 
 ## Open questions
 
-- How and when did Samaya learn that Theo survived and became a vampire?
-- Does Pierre know Theo is alive, a vampire, neither, or only that Samaya is
-  protecting one of Jackie's secrets?
-- Was Samaya invited to Jackie's and Draco's April 2002 wedding, and if so, why
-  was she absent?
 - How much has Jackie already told Samaya about Theo's feeding, the Malice,
   Filippo, and the London Camarilla?
 - What is Samaya's exact current judgement of Draco?

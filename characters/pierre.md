@@ -36,6 +36,15 @@ the existing 1999 event record.*
 - By late April 1999, Samaya was already living in Paris and told Jackie about
   Pierre, his French Ministry work, and his four-month courtship.
 - Pierre attended Jackie and Draco's wedding with Samaya on 31 October 1999.
+- Pierre attended the 2001 Lavigne Luminary, witnessed Theo's apparent death,
+  and later attended the empty-casket funeral at the chateau.
+- He knows Jackie married Draco in April 2002.
+
+### Knowledge boundary — August 2002
+
+- Pierre believes Theo died at the Luminary. He does not know Theo survived or
+  became a vampire.
+- Samaya will not reveal or discuss Theo's survival while Pierre is present.
 
 ## Portrayal anchors
 

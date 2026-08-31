@@ -147,6 +147,10 @@ Three things happened on February 20th.
 - **The ceremony.** Jackie in a midnight blue dress with celestial embroidery. Draco in white. The contrast was intentional — her darkness, his light, the story they'd been telling since they were fifteen.
 - **Polyjuice-Theo as Eli Lavigne.** Theo attended in Eli's face for the official ceremony — the legal cover that allowed him to sign as a witness without the Ministry's dead-man registry triggering. The household knew. Genevieve, who knew Eli personally, knew. She said nothing.
 - **The party.** Blaise served as Best Man. Pansy as Maid of Honour. Genevieve Lavigne, Vivienne, and Margaux attended. Small in number and enormous in meaning.
+- **Samaya declined.** She had been invited, but remained in Paris with
+  two-month-old Edmund. Infant care was a genuine reason not to travel; her
+  resentment over Jackie missing the November 2001 wedding also shaped the
+  decision.
 - *"They married before the fight because some architecture should be completed before being tested."*
 
 **Mid-April: The Liverpool Raid**

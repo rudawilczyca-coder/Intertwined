@@ -54,6 +54,15 @@ Regular letters exchanged between Jackie and Theo throughout the separation. Jac
 - Jackie named her white raven "Hope"
 - Theo adopted an orange cat named Beatrice who has no survival instincts and brings him dead mice
 
+### Before Samaya's November Wedding — The Raven
+
+- Once it became clear Jackie would not be able to attend Samaya and Pierre's
+  wedding, Jackie and Draco sent Samaya a raven telling her that Theo had
+  survived as a vampire.
+- Samaya kept the truth from Pierre. He had witnessed Theo's apparent death at
+  the Luminary and attended the empty-casket funeral; he continued to believe
+  the public account.
+
 ### Friday, September 7th — The Concert
 
 **The Tarnished Cup, Knockturn Alley:**

@@ -27,7 +27,13 @@ open.
   Jackie living with Theo.
 - Samaya knows Theo is alive and a vampire. She will not mention either fact
   while Pierre is present.
-- The way Samaya learned and Pierre's knowledge state are still open.
+- Jackie and Draco told Samaya by raven before her November 2001 wedding, once
+  it was clear Jackie would not be able to attend.
+- Pierre saw Theo die at the Luminary and attended the funeral. He believes
+  Theo is dead; he knows Jackie married Draco in April 2002.
+- Samaya was invited to the April wedding but declined. Caring for two-month-old
+  Edmund was a genuine and defensible reason; spite at Jackie missing her own
+  wedding also informed the decision.
 
 ## Pressure beneath the social visit
 
@@ -37,7 +43,8 @@ open.
 - Samaya has evidence-based reasons to distrust Theo: January 6, the ignored
   Fenholt warning, the false funeral, and vampirism.
 - Keeping Theo's secret from Pierre makes Samaya complicit in a concealment
-  that could affect her own household.
+  that could affect her own household. She has nevertheless kept it since late
+  2001.
 - Samaya can remain bright, poised, and socially impeccable in company. Her
   anger voice drops only once privacy permits direct confrontation.
 - The old character-sheet belief that Jackie was simply safer with Theo than
@@ -51,8 +58,8 @@ open.
 - Cohabiting with a vampire is not established as an automatic Auror-licence
   revocation. Samaya's credible fear concerns concealment, professional
   misconduct, liability, and the danger of a predator in Jackie's home.
-- Do not decide whether Samaya attended or was invited to the April 2002
-  Jackie/Draco wedding until Alice settles it.
+- Samaya did not attend the April 2002 Jackie/Draco wedding; do not turn her
+  infant-care explanation into a lie, but do not erase the retaliatory edge.
 
 ## Clock beyond Thursday
 
