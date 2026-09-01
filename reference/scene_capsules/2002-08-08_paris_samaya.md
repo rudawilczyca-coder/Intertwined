@@ -2,10 +2,9 @@
 
 **Date:** Thursday, 8 August 2002
 
-**Status:** Pre-scene; the meeting has not yet been played.
+**Status:** Hotel-morning prelude in progress; the meeting has not yet been reached.
 
-**Proposed location:** Bois de Boulogne; exact time and meeting point remain
-open.
+**Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
 ## Cast and authorship
 
@@ -16,6 +15,14 @@ open.
   know he is gone.
 
 ## Settled facts entering the scene
+
+- Samaya's precisely courteous note set the meeting for 13:00 beside the lower
+  lake, with Pierre and Edmund attending.
+- In the hotel prelude, Jackie answered Draco's promise to be charming by
+  climbing over his lap without settling onto it and daring him to explain.
+  Draco admitted Samaya ended their adolescent relationship because he kept
+  asking about Jackie, said his civility today would be merciless, and placed
+  both hands lightly at Jackie's waist without closing the distance she left.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
