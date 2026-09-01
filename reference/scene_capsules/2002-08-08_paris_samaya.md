@@ -28,6 +28,11 @@
   what he wanted. Draco admitted the hot-tea timing was misjudged, repeated the
   movement deliberately, said he had wanted her to stop threatening him from a
   safe distance, and challenged Mrs Nott-Malfoy to proceed.
+- Jackie praised Draco while kissing from his navel to his jaw, removed his
+  hands, and ordered them onto the headboard—the exact instruction Ruby had
+  used during their first sex. The words briefly carried Ruby's voice and
+  grief, but Draco remained present with Jackie, obeyed, held himself still by
+  choice, and asked her to say whether stillness was what she wanted.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
