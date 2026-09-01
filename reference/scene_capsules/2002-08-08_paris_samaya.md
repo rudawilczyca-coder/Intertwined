@@ -2,7 +2,7 @@
 
 **Date:** Thursday, 8 August 2002
 
-**Status:** Hotel-morning prelude in progress; the meeting has not yet been reached.
+**Status:** Meeting in progress at the lower lake. The hotel-morning prelude is complete.
 
 **Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
@@ -45,6 +45,25 @@
   the sponge, and asked whether she meant to wash him or test whether frustration
   could kill a man standing in cold water. He reminded her that breakfast is
   coming and accused her of cheating.
+- Jackie washed Draco while avoiding the touch both of them wanted, then
+  remembered asking him to wash her at Nott Manor after her month in St
+  Mungo's and thanked him for caring for her. Draco said that asking him had
+  itself been the thank-you: she trusted him to touch without taking anything
+  unoffered. He washed her with the same deliberate restraint, told her she
+  had never been difficult to want, and warned that three years of practice
+  plus fourteen remaining minutes made her experiment methodologically flawed.
+- Jackie's attempt to pivot Draco against the shower wall became a fall on the
+  soapy tile. Her elbow struck his left eye while her hip and folded left leg
+  took the landing. They laughed; Draco conceded to the floor, checked whether
+  she could move her toes, and called the arriving room service divine
+  intervention. Jackie fetched her wand and began treating his eye.
+- Breakfast, healing and preparations were compressed. At 12:57 Draco's cut
+  had closed and the swelling was reduced, but a dark violet shadow remained.
+- At the lower lake, Samaya maintained her bright social surface beside Pierre
+  and six-month-old Edmund. She immediately noticed Draco's bruise; he blamed
+  partisan bath fittings. Pierre asked whether he wanted to know, and Draco
+  and Samaya answered no together. Samaya then turned the pram toward Jackie
+  and invited her to meet Edmund for the first time.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
