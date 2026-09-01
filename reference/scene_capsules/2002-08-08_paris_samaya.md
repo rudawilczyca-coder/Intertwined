@@ -33,6 +33,12 @@
   used during their first sex. The words briefly carried Ruby's voice and
   grief, but Draco remained present with Jackie, obeyed, held himself still by
   choice, and asked her to say whether stillness was what she wanted.
+- Jackie answered by kissing Draco gently, unveiling his erection with
+  excruciating slowness, looking without touching, and abruptly choosing
+  scrambled eggs, toast, and a shower. Draco conceded the contest with one
+  disbelieving laugh, ordered breakfast in immaculate French, folded his robe
+  despite remaining openly hard, and stopped naked at the bathroom threshold
+  to announce that delivery in twenty minutes left them nineteen.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
