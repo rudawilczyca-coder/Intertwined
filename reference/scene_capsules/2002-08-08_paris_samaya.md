@@ -39,6 +39,12 @@
   disbelieving laugh, ordered breakfast in immaculate French, folded his robe
   despite remaining openly hard, and stopped naked at the bathroom threshold
   to announce that delivery in twenty minutes left them nineteen.
+- Jackie entered the glass shower, looked Draco over without concealment, and
+  invited him to join while soaping a sponge. Draco stepped under the spray,
+  closed the glass door, came close without touching, offered one open hand for
+  the sponge, and asked whether she meant to wash him or test whether frustration
+  could kill a man standing in cold water. He reminded her that breakfast is
+  coming and accused her of cheating.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
