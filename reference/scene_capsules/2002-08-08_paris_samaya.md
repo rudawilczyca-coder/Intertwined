@@ -23,6 +23,11 @@
   Draco admitted Samaya ended their adolescent relationship because he kept
   asking about Jackie, said his civility today would be merciless, and placed
   both hands lightly at Jackie's waist without closing the distance she left.
+- Jackie forced Draco's ambiguous hip movement into the open, settled fully
+  onto his lap, parted his robe, kissed his navel, and asked whether this was
+  what he wanted. Draco admitted the hot-tea timing was misjudged, repeated the
+  movement deliberately, said he had wanted her to stop threatening him from a
+  safe distance, and challenged Mrs Nott-Malfoy to proceed.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by

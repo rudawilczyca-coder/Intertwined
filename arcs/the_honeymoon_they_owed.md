@@ -35,5 +35,6 @@
 
 - Samaya's precisely courteous note sets the meeting for 13:00 beside the lower lake at the Bois de Boulogne, with Pierre and six-month-old Edmund attending. Draco brings Jackie Earl Grey and half a croissant in bed, names the concealed Theo problem beneath the visit, and leaves her free to remain horizontal.
 - Jackie climbs over Draco without settling onto his lap, scatters croissant flakes across his robe, and dares him to explain how he means to charm Samaya. Draco says his civility will be merciless, admits Samaya ended their adolescent relationship because he kept asking about Jackie, and places both hands lightly at Jackie's waist without closing the distance she left.
+- Jackie forces Draco's ambiguous hip movement into the open, settles fully onto his lap, parts his robe, kisses his navel, and asks whether this is what he wanted. Draco admits the hot-tea timing was misjudged but repeats the movement deliberately, says he wanted her to stop threatening him from a safe distance, invokes Samaya's demand for punctuality against his own murder, and challenges Mrs Nott-Malfoy to proceed.
 
 **Theo scene:** `pieces/theo_aug6_7_2002_an_invitation.md`.
