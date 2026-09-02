@@ -127,6 +127,24 @@ speaking privately near the ice-cream stand.
   every danger, then caught the second question. She told Jackie that she
   would be terrified and then learn, and that those things are not opposites;
   Draco's apparent early competence remains intolerable.
+- Jackie admitted that she can imagine Draco as an excellent father, then
+  apologised for missing Samaya's wedding, pregnancy, and Edmund's birth. She
+  explained that Samaya's good life had felt like another standard Jackie
+  could not match and connected both sisters' adult choices to escaping
+  Cyrus's shadow in different ways. Jackie invited Samaya, Pierre, and Edmund
+  to Haven House without restriction. Samaya admitted that she had trained
+  Jackie to hear competition even inside genuine concern: sometimes she
+  wanted Jackie better and sometimes she simply wanted to win. She apologised
+  for pretending those motives were the same, said the context changed the
+  meaning of Jackie's absence without excusing the hurt, and acknowledged her
+  own retaliation in April. Edmund being eight weeks old made travel genuinely
+  difficult, but also gave Samaya a convenient reason not to try harder; she
+  apologised. Samaya said Cyrus taught both sisters to treat love as ranking,
+  endorsed Jackie's right to wonder about a child without making that wonder
+  a promise, and judged Draco likely to be infuriatingly good as a father. She
+  is not ready to bring Edmund to Haven House but explicitly said this is not
+  the same as never, and invited Jackie and Draco to her home before they leave
+  France if schedules permit.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
