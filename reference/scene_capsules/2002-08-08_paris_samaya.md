@@ -114,6 +114,19 @@ speaking privately near the ice-cream stand.
   Jackie in appreciating Draco, respected the undisclosed names, and asked the
   operational question beneath them: whether Draco understands what Jackie
   means by failsafe and has agreed to stop Theo if she cannot.
+- Jackie answered Samaya's continued questioning with sarcasm, asserted that
+  she and Draco understand the mechanics and danger of vampirism, offered a
+  household visit she expected motherhood would make Samaya decline, and
+  vouched for Theo's self-control. She then asked how motherhood was treating
+  Samaya and commented on her unchanged figure; beneath the subject change was
+  a tentative question about whether motherhood might suit Jackie. Samaya said
+  she did not require a manufactured proof, accepted Jackie's word, and ended
+  the security audit. She acknowledged with one clean edge that Jackie missed
+  the period when her pregnancy weight was visible, described motherhood as
+  exhausting, undignified, frightening, and as attaching Edmund's name to
+  every danger, then caught the second question. She told Jackie that she
+  would be terrified and then learn, and that those things are not opposites;
+  Draco's apparent early competence remains intolerable.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
