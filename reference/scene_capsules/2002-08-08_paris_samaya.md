@@ -2,8 +2,8 @@
 
 **Date:** Thursday, 8 August 2002
 
-**Status:** Meeting in progress at the lower lake. Samaya has accepted Jackie's
-proposal to walk to the ice-cream stand for a private sister conversation.
+**Status:** Meeting in progress at the lower lake. Jackie and Samaya are now
+speaking privately near the ice-cream stand.
 
 **Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
@@ -87,6 +87,11 @@ proposal to walk to the ice-cream stand for a private sister conversation.
   invited Jackie toward the ice-cream stand after noting that the family had
   been polite for almost seven minutes. Her company smile has dropped into
   unguarded seriousness; she is waiting for Jackie to join her.
+- Jackie followed Samaya until their voices would not carry and invited her
+  questions. Samaya said she does not care whether Jackie loves Theo because
+  she already knows that, then opened her practical safety audit with one
+  question: if Theo loses control in Jackie's home, who stops him? Draco
+  remains behind with Pierre and Edmund.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
