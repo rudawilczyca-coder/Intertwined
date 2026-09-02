@@ -106,6 +106,14 @@ speaking privately near the ice-cream stand.
   Jackie's body. She acknowledged her own history of judging Jackie, clarified
   that she had not declared either husband unworthy, noticed Jackie's glance
   toward Draco, and asked whether Draco is one of the failsafes.
+- Jackie apologised for projecting the sisters' old habits onto Samaya's
+  questions, confirmed that Draco is one of several failsafes, and declined to
+  name safeguards whose identities were not hers to disclose. She then became
+  distracted by Draco looking even more handsome with Edmund and drool on his
+  shirt. Samaya accepted the olive branch with dry humour, briefly joined
+  Jackie in appreciating Draco, respected the undisclosed names, and asked the
+  operational question beneath them: whether Draco understands what Jackie
+  means by failsafe and has agreed to stop Theo if she cannot.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
