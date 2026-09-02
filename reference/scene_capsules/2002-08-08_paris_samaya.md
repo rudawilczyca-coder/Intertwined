@@ -2,8 +2,8 @@
 
 **Date:** Thursday, 8 August 2002
 
-**Status:** Meeting in progress at the lower lake. Draco is holding Edmund after
-the child protested in Jackie's arms.
+**Status:** Meeting in progress at the lower lake. Samaya has accepted Jackie's
+proposal to walk to the ice-cream stand for a private sister conversation.
 
 **Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
@@ -79,6 +79,14 @@ the child protested in Jackie's arms.
   competence; Pierre confirmed Edmund rarely takes to strangers so quickly.
   Draco reassured Jackie that Edmund's protest was not a verdict, then dryly
   called the child's attachment a declaration of allegiance.
+- Jackie leaned briefly against Draco while he held Edmund, acknowledged that
+  the baby liked him, and proposed that she and Samaya fetch refreshments so
+  they could speak without Pierre. Draco did not treat the domestic image as
+  an answer to their earlier children conversation. Samaya understood the
+  proposal beneath the refreshments, left Edmund calmly in Draco's arms, and
+  invited Jackie toward the ice-cream stand after noting that the family had
+  been polite for almost seven minutes. Her company smile has dropped into
+  unguarded seriousness; she is waiting for Jackie to join her.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
