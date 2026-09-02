@@ -2,8 +2,9 @@
 
 **Date:** Thursday, 8 August 2002
 
-**Status:** Meeting in progress at the lower lake. Jackie and Samaya have
-returned from their private conversation near the ice-cream stand.
+**Status:** The reunion has ended shortly after 16:00. Samaya, Pierre, and
+Edmund have departed; Jackie and Draco remain outside the restaurant at the
+edge of the Bois de Boulogne.
 
 **Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
@@ -153,6 +154,19 @@ returned from their private conversation near the ice-cream stand.
   place as his aunt as a fact rather than a ceremony, and gave her the napkins
   as the first small step of the relationship they will now rebuild. Draco's
   seven-minute reign holding Edmund ended with his demand for a plaque.
+- The visit continued for roughly four hours through a walk and a late meal.
+  At parting, Jackie hugged Samaya and Pierre, promised to write once home,
+  and waved to Edmund. Samaya returned the embrace more tightly than social
+  form required and asked Jackie to send even one line from the hotel rather
+  than allowing silence to become another wound. Pierre kissed Jackie's
+  cheeks goodbye. Samaya set a thrice-underlined punctuality standard for
+  Christmas, exchanged dry warnings with Draco about chestnut stuffing and
+  Friday's reception, then left with Pierre and the sleeping Edmund. After
+  their car departed, Draco admitted without performance that he liked Edmund,
+  recognised that Samaya meant the reconciliation as well as Christmas, and
+  held out his hand to Jackie with an invitation to leave before Paris billed
+  them for four consecutive happy hours. Whether Jackie takes it remains
+  Alice's turn.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
