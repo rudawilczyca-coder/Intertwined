@@ -2,7 +2,8 @@
 
 **Date:** Thursday, 8 August 2002
 
-**Status:** Meeting in progress at the lower lake. The hotel-morning prelude is complete.
+**Status:** Meeting in progress at the lower lake. Draco is holding Edmund after
+the child protested in Jackie's arms.
 
 **Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
@@ -64,6 +65,20 @@
   partisan bath fittings. Pierre asked whether he wanted to know, and Draco
   and Samaya answered no together. Samaya then turned the pram toward Jackie
   and invited her to meet Edmund for the first time.
+- Jackie introduced herself to Edmund and, overwhelmed by the fact that her
+  sister's baby is a whole future person, asked whether he understood her.
+  Pierre explained that Edmund knows voices and tone rather than words; Samaya
+  said he would know Jackie if she let him and offered to let her hold him.
+- Jackie accepted, but Edmund began wriggling and threatening to cry after a
+  few seconds. Draco immediately took him without turning the rescue into a
+  verdict on Jackie. Despite never having held an infant before, he copied
+  Samaya's demonstrated support, adjusted naturally to Edmund's shifting
+  weight, and settled him against his chest. Edmund became delighted by
+  Draco's bruised eye, grabbed his collar and shirt, laughed, then relaxed
+  against him. Samaya was mildly and unwillingly impressed by Draco's
+  competence; Pierre confirmed Edmund rarely takes to strangers so quickly.
+  Draco reassured Jackie that Edmund's protest was not a verdict, then dryly
+  called the child's attachment a declaration of allegiance.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
