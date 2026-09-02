@@ -2,8 +2,8 @@
 
 **Date:** Thursday, 8 August 2002
 
-**Status:** Meeting in progress at the lower lake. Jackie and Samaya are now
-speaking privately near the ice-cream stand.
+**Status:** Meeting in progress at the lower lake. Jackie and Samaya have
+returned from their private conversation near the ice-cream stand.
 
 **Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
@@ -145,6 +145,14 @@ speaking privately near the ice-cream stand.
   is not ready to bring Edmund to Haven House but explicitly said this is not
   the same as never, and invited Jackie and Draco to her home before they leave
   France if schedules permit.
+- Jackie declined the immediate home visit because of Friday's Ministry
+  reception and Saturday's early Portkey to Fontainebleau, then asked to be
+  present for Edmund's first Christmas and promised to try not to spoil him
+  wicked. Samaya accepted Christmas plainly and included Draco. On returning
+  to the bench she reclaimed Edmund when he reached for her, named Jackie's
+  place as his aunt as a fact rather than a ceremony, and gave her the napkins
+  as the first small step of the relationship they will now rebuild. Draco's
+  seven-minute reign holding Edmund ended with his demand for a plaque.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
