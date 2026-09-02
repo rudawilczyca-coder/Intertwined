@@ -97,6 +97,15 @@ speaking privately near the ice-cream stand.
   wrist he broke. Samaya caught the implication rather than accepting
   capability as a safety plan. She clarified that she meant since Theo's
   turning and asked whether he hurt Jackie when she stopped him.
+- Jackie confirmed that the confrontation happened after Theo turned, touched
+  the wrist he had broken, and answered that he did not hurt her more than she
+  hurt him. Feeling judged, she defended her right to take risks, said she has
+  several failsafes, and argued that choosing to save Theo made her deserving
+  of the consequences. Samaya rejected that self-punishment outright: choosing
+  the risk creates responsibility for containment, not a debt payable with
+  Jackie's body. She acknowledged her own history of judging Jackie, clarified
+  that she had not declared either husband unworthy, noticed Jackie's glance
+  toward Draco, and asked whether Draco is one of the failsafes.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
