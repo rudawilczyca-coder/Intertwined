@@ -43,7 +43,7 @@ Use this index to find specific events without loading the full bible. Each book
 
 | Period | Key Events |
 |--------|------------|
-| Early Mar 2001 | Café reunion (all three); St. Mungo's volunteering begins; dinner with Anne & Caroline; Knockturn concert (Samuel performs); dance with Draco; Pansy interrupts |
+| Early Mar 2001 | Café reunion (all three); pediatric-ward volunteering begins in St. Mungo's children's annex; dinner with Anne & Caroline; Knockturn concert (Samuel performs); dance with Draco; Pansy interrupts |
 | Mid-Mar 2001 | Café date with Draco; three-night arrangement established; first intimacy since wedding night; Theo's terms |
 | Mid-Apr 2001 | Ministry cafeteria meeting (Theo & Draco); Theo selling Manor; trial week proposed; wand fight; Theo disappears for weekend; reconciliation |
 | Italy Trip | Neutral-ground trial after the failed Nott Manor cohabitation; Jackie stops mediating; Theo/Draco bilateral reconciliation; first triad intimacy; Draco witnesses Finite honoured; guided surrender and first Theo/Draco intimate contact; commitment to a shared home; Florence underground ring (Filippo de' Medici); Filippo's two gifts |

@@ -15,7 +15,7 @@
 - Draco mentions keeping the blue tile from Lisbon on his desk at the Ministry. *"Luna hasn't knocked it off yet. A minor miracle."* — his way of saying *I kept it. I read every letter.*
 - Jackie asks if Luna is his only company. Draco answers simply: *"Yes."* No one else. The letters had been enough.
 - Jackie lights up talking about the world trip — Japan, Lisbon, the Pillars of the Unreturned. Theo climbed a cursed pillar and Jackie had to Incarcerous him. They discuss books; Jackie mentions a fae romance series and murmurs *"wingspan matters"* into her glass, flushing. Draco's knee bumps hers under the table. She pulls away on instinct — then deliberately slides back.
-- Draco pays the bill over Theo's attempt. He offers the Janus Thickey Ward — Tuesdays and Thursdays, Healer Pye — then leaves without looking back, giving them space.
+- Draco pays the bill over Theo's attempt. He offers the pediatric ward's children's annex — Tuesdays and Thursdays, Healer Pye — then leaves without looking back, giving them space. His name is omitted from the volunteer logs; he brews restorative draughts and pain-management potions because *"Children don't care who your father was. They just want the pain to stop."*
 - Jackie fights the urge to grab his wrist and ask him to stay.
 - Theo, dry: *"Well. That was… civil."* Then, seriously: *"He's different. Not softer. Just… quieter about the sharp edges."*
 - Jackie admits she needs to keep her heart on a tight leash until she's sure Draco is past the old fracture points. Theo concedes the volunteering — but won't go himself. *"That's yours. And his. I'll be here when you get back."*
@@ -33,14 +33,14 @@
 
 ### Thursday — First Day at St. Mungo's
 
-**Janus Thickey Ward**
+**Pediatric Ward — Children's Annex (Janus Thickey floor)**
 
-- Jackie enters St. Mungo's — the antiseptic smell, the controlled chaos of admissions, the corridor to the third floor she deliberately doesn't look down.
+- Jackie enters St. Mungo's — the antiseptic smell, the controlled chaos of admissions, the corridor to the third floor she deliberately doesn't look down. Reception directs her to the fifth-floor children's annex, through the copper doors on the Janus Thickey floor.
 - Draco is just leaving the ward as she arrives, rolling down his sleeves, fastening a cufflink. He looks tired in a settled way. *"You came."* He introduces her to Healer Pye — strict, fair, clinical — and gives his only advice: *"Don't make promises you can't keep. They remember. And don't flinch at the scars."*
 - Jackie notices how much he's changed physically — taller, leaner, no longer a boy. She fights disappointment that their shifts don't overlap.
-- Healer Pye assigns observation only. Jackie sits in a blue beanbag, lets the patients acclimate. Draco doubles back to watch through the glass — tells himself he's checking she won't interfere. Pye catches him: *"You brought her here for the patients, Malfoy. Not for you."*
-- Elara, a young woman with bark-like skin, approaches Jackie. *"Why are your eyes like that?"* Jackie explains — a genetic defect. Elara: *"Do they work okay?"* Jackie: *"Yes."* Elara: *"Then it's not a defect."*
-- The tension breaks. Jackie tells travel stories, conjures images with her wand — the patients drift closer one by one. Stories become their escape, the way books were always hers.
+- Healer Pye assigns observation only. Jackie sits in a blue beanbag and lets the children acclimate. Draco doubles back to watch through the glass — tells himself he's checking she won't interfere. Pye catches him: *"You brought her here for the children, Malfoy. Not for you."*
+- Elara, a girl with bark-like skin, approaches Jackie. *"Why are your eyes like that?"* Jackie explains — a genetic defect. Elara: *"Do they work okay?"* Jackie: *"Yes."* Elara: *"Then it's not a defect."*
+- The tension breaks. Jackie tells travel stories and conjures images with her wand; the children drift closer one by one. Stories become their escape, the way books were always hers. Draco has earned their trust by never pitying them, flinching at their scars, or making promises he cannot keep.
 - Pye's verdict: *"She'll do."* Tuesdays and Thursdays confirmed, two to five. The Animagus form will be useful — a curse-locked boy in long-term care doesn't respond to human touch.
 - Elara catches Jackie's sleeve as she leaves: *"Will you come back?"* Jackie: *"Yes."*
 
@@ -425,6 +425,17 @@
 - Jackie drinks the vitrified blood from Filippo's vial, making the soul tether two-directional. She can now feel Theo's emotions. The bond has an emerging telepathic dimension.
 - Theo reveals he's known for eight months that Samuel Carrow is in love with Jackie. The song "Between the Lines" was written about her. Jackie was wilfully blind. She'll have to confront Samuel.
 - Theo admitted his possessiveness extends to wanting to eliminate people Jackie turns to outside of him and Draco. He did not apologize.
+
+---
+
+### Tuesday — First Shared Pediatric Shift
+
+- After the Italy week, Jackie and Draco arrange the same Tuesday/Thursday two-to-five rotation. Volunteering at the children's annex becomes part of their weekly domestic rhythm rather than a one-off test of Draco's character.
+- The ward has missed them. Draco is with Thomas, seven, whose bone-growth condition has left both arms in glowing casts. He is soft and patient with the boy in a way that contrasts sharply with his usual manner.
+- Jackie brings Italian sweets and enchanted postcards, winning the room with promises of abraxan-race stories and the tale of Draco nearly losing his head to a palomino. Draco confirms, with dignity, that it was a misunderstanding.
+- Healer Abernathy assigns Jackie a new patient: Mira, eight, silent since Sunday and tracking no one. *(Her surname is unrecorded; she is unrelated to the later Second Sons bassist.)* Jackie sits on the floor beside her bed and reads aloud from a Muggle psychology book without addressing her or demanding engagement. Mira eventually eats the ward snacks, takes both potions, and speaks twice.
+- Draco watches Mira's bed from across the room all afternoon but deliberately gives Jackie the space to reach her. Afterward, he and Jackie sort linens and potions together in the supply room.
+- Jackie reveals that the psychology book is for managing the new bidirectional soul tether. Draco offers to help her map the theory and references *The Architecture of the Mind* without explaining when or why he needed it.
 
 ---
 
