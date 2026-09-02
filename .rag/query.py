@@ -9,7 +9,7 @@ Usage:
 
 Defaults --repo to the parent of this script's directory. Metadata filters
 (--character, --since, --until, --event) always apply. Ranking mode:
-  semantic  — cosine similarity vs the query's OpenAI embedding (needs a key
+  semantic  — cosine similarity vs the query embedding (needs a key
               AND an embedded index).
   keyword   — SQLite FTS5 BM25 over chunk text (no key needed).
   auto      — semantic if embeddings + key are available, else keyword.
@@ -225,7 +225,7 @@ def main():
 
     have_embeddings = conn.execute(
         "SELECT COUNT(*) FROM chunks WHERE embedding IS NOT NULL").fetchone()[0] > 0
-    key, key_source = R.resolve_openai_key()
+    key, key_source = R.resolve_embedding_key()
 
     mode = args.mode
     if mode == "auto":

@@ -4,8 +4,8 @@ rag_lib.py — shared helpers for the Intertwined / sable-antiquary RAG index.
 Provider-agnostic pipeline: walk markdown -> chunk by heading -> extract
 metadata -> store text+metadata+embedding in SQLite.
 
-Embeddings use Qwen3-Embedding-8B via an OpenAI-compatible endpoint (NanoGPT).
-The key is resolved ONLY from a real credential path (see resolve_openai_key).
+Embeddings use Qwen3-Embedding-8B through OpenRouter's compatible endpoint.
+The key is resolved ONLY from a real credential path (see resolve_embedding_key).
 We never fabricate a placeholder.
 
 No third-party deps required (stdlib sqlite3 + urllib). If numpy is present
@@ -20,7 +20,7 @@ import urllib.request
 import urllib.error
 
 EMBED_MODEL = "qwen/qwen3-embedding-8b"
-EMBED_DIM = 4096  # qwen3-embedding-8b native dimension (verified via live smoke test; NanoGPT's own pricing table lists 1536, which is wrong)
+EMBED_DIM = 4096  # qwen3-embedding-8b native dimension, verified live
 
 # Directories we never index. ``archives`` holds superseded versions of files
 # that exist current elsewhere; indexing them surfaces outdated canon.
@@ -372,44 +372,30 @@ def walk_repo(repo_root):
 
 
 # ---------------------------------------------------------------------------
-# OpenAI embedding credential resolution + call. No fabricated keys.
+# Embedding credential resolution + call. No fabricated keys.
 # ---------------------------------------------------------------------------
-def resolve_openai_key():
-    """Return (key, source) or (None, reason). Checks, in order:
-    1. OPENAI_API_KEY env var
-    2. ~/.openclaw/openclaw.json models.providers.openai.apiKey
-    3. ~/.openclaw/credentials/nanogpt-api-key file
-    """
-    k = os.environ.get("OPENAI_API_KEY")
-    if k:
-        return k, "env:OPENAI_API_KEY"
-    cfg = os.path.expanduser("~/.openclaw/openclaw.json")
-    try:
-        with open(cfg) as f:
-            d = json.load(f)
-        prov = d.get("models", {}).get("providers", {}).get("openai", {})
-        for field in ("apiKey", "api_key", "key"):
-            if prov.get(field):
-                return prov[field], "openclaw.json:models.providers.openai.%s" % field
-    except Exception:
-        pass
-    # 3. NanoGPT credential file (shared by the OpenClaw provider + embeddings)
-    cred = os.path.expanduser("~/.openclaw/credentials/nanogpt-api-key")
+def resolve_embedding_key():
+    """Return the OpenRouter embedding credential without exposing it."""
+    for name in ("EMBEDDING_API_KEY", "OPENROUTER_API_KEY"):
+        k = os.environ.get(name)
+        if k:
+            return k, "env:%s" % name
+    cred = os.path.expanduser("~/.openclaw/credentials/openrouter-api-key")
     try:
         with open(cred) as f:
             k = f.read().strip()
         if k:
-            return k, "file:nanogpt-api-key"
+            return k, "file:openrouter-api-key"
     except Exception:
         pass
-    return None, ("No OpenAI credential found: OPENAI_API_KEY unset, no "
-                  "models.providers.openai entry, and no nanogpt-api-key file")
+    return None, ("No embedding credential found: EMBEDDING_API_KEY and "
+                  "OPENROUTER_API_KEY unset, and no openrouter-api-key file")
 
 
 def embed_texts(texts, key, base_url=None):
-    """Call OpenAI embeddings API for a batch. Returns list of float lists."""
-    default_base = "https://nano-gpt.com/api/v1" if (key or "").startswith("sk-nano") else "https://api.openai.com/v1"
-    base = (base_url or os.environ.get("OPENAI_BASE_URL") or default_base).rstrip("/")
+    """Call the OpenAI-compatible embeddings API for a batch."""
+    base = (base_url or os.environ.get("EMBEDDING_BASE_URL") or
+            "https://openrouter.ai/api/v1").rstrip("/")
     url = base + "/embeddings"
     payload = json.dumps({"model": EMBED_MODEL, "input": texts}).encode()
     req = urllib.request.Request(

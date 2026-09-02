@@ -10,8 +10,8 @@ Defaults --repo to the parent of this script's directory (so a copy living in
 
 Stages:
   1. walk + chunk + extract metadata  -> always runs, stored to SQLite
-  2. embed each chunk via OpenAI text-embedding-3-small -> only if a real
-     credential resolves (env OPENAI_API_KEY or openclaw.json openai provider).
+  2. embed each chunk via Qwen3-Embedding-8B on OpenRouter -> only if a real
+     OpenRouter credential resolves.
      With --no-embed, or when no key is found, chunks are stored WITHOUT
      embeddings and the script reports exactly why. No fake vectors are ever
      written; semantic search simply stays disabled until embeddings exist.
@@ -30,7 +30,7 @@ def main():
     default_repo = os.path.dirname(here)
     ap = argparse.ArgumentParser()
     ap.add_argument("--repo", default=default_repo)
-    ap.add_argument("--no-embed", action="store_true", help="skip the OpenAI embedding stage")
+    ap.add_argument("--no-embed", action="store_true", help="skip the embedding stage")
     ap.add_argument("--batch", type=int, default=64)
     args = ap.parse_args()
 
@@ -106,14 +106,14 @@ def main():
         embed_status = "skipped (--no-embed)"
         print("\nStage 2 skipped (--no-embed). Chunks stored without embeddings.")
     else:
-        key, source = R.resolve_openai_key()
+        key, source = R.resolve_embedding_key()
         if not key:
             embed_status = "BLOCKED: %s" % source
-            print("\nStage 2 BLOCKED — no OpenAI credential.")
+            print("\nStage 2 BLOCKED — no OpenRouter credential.")
             print("  %s" % source)
             print("  Chunks are stored with text + metadata only. Provide a key")
-            print("  (export OPENAI_API_KEY=... or add models.providers.openai.apiKey")
-            print("  to ~/.openclaw/openclaw.json) and re-run to enable semantic search.")
+            print("  (export OPENROUTER_API_KEY=... or install the permission-restricted")
+            print("  openrouter-api-key credential file) and re-run to enable semantic search.")
         else:
             print("\nStage 2: embedding via %s (key source: %s)" % (R.EMBED_MODEL, source))
             rows = conn.execute(
