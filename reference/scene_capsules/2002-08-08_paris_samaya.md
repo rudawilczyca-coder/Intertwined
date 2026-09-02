@@ -92,6 +92,11 @@ speaking privately near the ice-cream stand.
   she already knows that, then opened her practical safety audit with one
   question: if Theo loses control in Jackie's home, who stops him? Draco
   remains behind with Pierre and Edmund.
+- Jackie answered that she herself can stop Theo and that she has done so
+  before, without disclosing the silver dagger, the near-heart strike, or the
+  wrist he broke. Samaya caught the implication rather than accepting
+  capability as a safety plan. She clarified that she meant since Theo's
+  turning and asked whether he hurt Jackie when she stopped him.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
