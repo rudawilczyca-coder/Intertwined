@@ -3,8 +3,8 @@
 **Date:** Thursday, 8 August 2002
 
 **Status:** The reunion has ended shortly after 16:00. Samaya, Pierre, and
-Edmund have departed; Jackie and Draco remain outside the restaurant at the
-edge of the Bois de Boulogne.
+Edmund have departed; Jackie and Draco are at the taxi stop outside the
+restaurant at the edge of the Bois de Boulogne.
 
 **Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
@@ -165,8 +165,15 @@ edge of the Bois de Boulogne.
   their car departed, Draco admitted without performance that he liked Edmund,
   recognised that Samaya meant the reconciliation as well as Christmas, and
   held out his hand to Jackie with an invitation to leave before Paris billed
-  them for four consecutive happy hours. Whether Jackie takes it remains
-  Alice's turn.
+  them for four consecutive happy hours.
+- Jackie took Draco's hand, thanked him for coming and for accepting the
+  Christmas invitation she had extended without consulting him, then asked
+  what he wanted from the evening. Draco said she had been right to assume he
+  would attend and named the want plainly: return to the hotel for champagne,
+  the Opéra view, and completion of the intimacy interrupted by the bathroom
+  fall and room service that morning; afterwards, a private walk beside the
+  Seine. A taxi is approaching, but Draco has not hailed it. Alice's next turn
+  decides Jackie's answer.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
