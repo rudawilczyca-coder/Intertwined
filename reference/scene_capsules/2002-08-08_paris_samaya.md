@@ -172,8 +172,13 @@ restaurant at the edge of the Bois de Boulogne.
   would attend and named the want plainly: return to the hotel for champagne,
   the Opéra view, and completion of the intimacy interrupted by the bathroom
   fall and room service that morning; afterwards, a private walk beside the
-  Seine. A taxi is approaching, but Draco has not hailed it. Alice's next turn
-  decides Jackie's answer.
+  Seine. Jackie hailed the taxi, quietly arranged something with its notably
+  discreet driver, named the hotel aloud, then placed Draco's hand beneath her
+  dress and challenged the need to wait. Once the taxi was underway, Draco
+  traced his hand higher but stopped at the edge of her lace. He identified
+  her objection as an ambush and asked what, precisely, she proposed he do
+  with the twelve-to-fourteen-minute journey. Alice's next turn decides her
+  instruction and whether the taxi escalation continues.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
