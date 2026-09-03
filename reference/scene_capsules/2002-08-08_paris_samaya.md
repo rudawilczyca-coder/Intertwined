@@ -184,8 +184,18 @@ de Boulogne toward the Hôtel du Louvre.
   effortless authority, Jackie and Draco trade control through challenge. He
   obeyed with deliberately sparse pressure through the lace, refused to let
   her hurry his hand, then drew the edge of her underwear away without yet
-  touching beneath it and told her to ask properly. Alice's next turn decides
-  what Jackie asks for and whether Draco grants it.
+  touching beneath it and told her to ask properly. Jackie resisted begging
+  immediately, asked for only "a little," coaxed his finger deeper, and tried
+  to turn the contest by praising how depraved the Malfoy heir looked fingering
+  his wife in a Muggle cab. The explicitness hit Draco exactly as intended but
+  did not make his hand careless. He granted the little she requested through
+  one controlled finger, slow withdrawal and re-entry, and a precise curl,
+  then accused her of using the approaching hotel as shelter for her pride.
+  With roughly six minutes remaining, he withdrew until only the fingertip
+  remained, promised that anything she refused to ask for in the taxi would be
+  asked for upstairs, and told her to finish the sentence "I need..." Alice's
+  next turn decides whether Jackie completes the request before arrival and
+  how she answers his refusal to let the clock rescue her dignity.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
