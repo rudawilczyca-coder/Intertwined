@@ -3,8 +3,8 @@
 **Date:** Thursday, 8 August 2002
 
 **Status:** The reunion has ended shortly after 16:00. Samaya, Pierre, and
-Edmund have departed; Jackie and Draco are at the taxi stop outside the
-restaurant at the edge of the Bois de Boulogne.
+Edmund have departed; Jackie and Draco are in a taxi travelling from the Bois
+de Boulogne toward the Hôtel du Louvre.
 
 **Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
@@ -177,8 +177,15 @@ restaurant at the edge of the Bois de Boulogne.
   dress and challenged the need to wait. Once the taxi was underway, Draco
   traced his hand higher but stopped at the edge of her lace. He identified
   her objection as an ambush and asked what, precisely, she proposed he do
-  with the twelve-to-fourteen-minute journey. Alice's next turn decides her
-  instruction and whether the taxi escalation continues.
+  with the twelve-to-fourteen-minute journey. Jackie pressed his hand harder
+  against her underwear, lost the easy articulation with which she had begun
+  the ambush, and asked him to touch her slowly and make her beg for more.
+  Draco recognised the contested trust in being given the pace: unlike Theo's
+  effortless authority, Jackie and Draco trade control through challenge. He
+  obeyed with deliberately sparse pressure through the lace, refused to let
+  her hurry his hand, then drew the edge of her underwear away without yet
+  touching beneath it and told her to ask properly. Alice's next turn decides
+  what Jackie asks for and whether Draco grants it.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
