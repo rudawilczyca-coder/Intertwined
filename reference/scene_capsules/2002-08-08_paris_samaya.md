@@ -250,6 +250,19 @@ are playing out Jackie's public lobby challenge before returning upstairs.
   reminded her that she asked for his mouth and fingers upstairs, lifted her
   damp lace between them, and instructed her to turn around and put her hands
   on the door.
+- Jackie understood her lobby display as genuine enjoyment rather than charity
+  but still meaningless against Draco's chosen claim, represented alongside
+  Theo by the silver and gold rings on her hand. She looked over Draco with
+  open hunger, obeyed his instruction more eagerly than she obeys Theo, turned
+  slowly, placed both hands on the closed bedroom door with her legs slightly
+  apart, and told Draco she loves him too, calling him "my husband." Draco let
+  the title land, praised her obedience, and drew her discarded lace across
+  both rings before letting it fall. He moved her hair aside, kissed her neck,
+  lifted the dress, and touched her slowly from behind. After one controlled
+  stroke over her clit, he pressed one finger only a joint inside and stopped.
+  His left palm covers Jackie's hand and both wedding rings against the door;
+  his right remains shallowly inside her. He asks her to tell her husband she
+  loves him again while he gives her what she asked for.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
