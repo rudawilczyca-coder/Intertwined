@@ -3,8 +3,8 @@
 **Date:** Thursday, 8 August 2002
 
 **Status:** The reunion has ended shortly after 16:00. Samaya, Pierre, and
-Edmund have departed; Jackie and Draco are in a taxi travelling from the Bois
-de Boulogne toward the Hôtel du Louvre.
+Edmund have departed; Jackie and Draco have reached the Hôtel du Louvre and
+are playing out Jackie's public lobby challenge before returning upstairs.
 
 **Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
@@ -193,9 +193,26 @@ de Boulogne toward the Hôtel du Louvre.
   then accused her of using the approaching hotel as shelter for her pride.
   With roughly six minutes remaining, he withdrew until only the fingertip
   remained, promised that anything she refused to ask for in the taxi would be
-  asked for upstairs, and told her to finish the sentence "I need..." Alice's
-  next turn decides whether Jackie completes the request before arrival and
-  how she answers his refusal to let the clock rescue her dignity.
+  asked for upstairs, and told her to finish the sentence "I need..."
+- Jackie conceded the miscalculation and named needing Draco's mouth and
+  fingers—but upstairs. She guided his hand away, removed her lace underwear,
+  and placed it in his right pocket. She then instructed him to follow ten
+  paces behind, count every man who looked or wondered what she was not wearing,
+  avoid touching her until she tested his memory, and later report what the men
+  wanted, what he wanted to do about their looking, and what he intended to do
+  to her. The display was explicitly for Draco: the others could only wonder;
+  he was the man she was taking upstairs.
+- Draco accepted without doubt, grounded his certainty in the years he spent
+  wanting Jackie while permitted only to look, and added that she must not look
+  back for reassurance. Jackie obeyed, let down her hair, crossed the Hôtel du
+  Louvre foyer, and greeted the young concierge Jacques before asking in French
+  for a last-minute restaurant table.
+- Draco followed at the exact distance and counted six men: the driver,
+  doorman, two seated guests, the caller with the suitcase, and Jacques. His
+  jealousy remains cold certainty rather than fear. Jacques offered Jackie a
+  choice between an intimate table and one with a view. Draco has neither
+  touched her nor announced himself and waits across the foyer while Alice
+  decides how Jackie answers, completes the flirtation, and approaches the lift.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
