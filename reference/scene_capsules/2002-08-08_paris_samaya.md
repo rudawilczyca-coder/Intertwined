@@ -227,6 +227,16 @@ are playing out Jackie's public lobby challenge before returning upstairs.
   attention, his exact count, and his obedience. With his right hand still
   closed around her damp lace in his pocket and the lift slowing, he tells her
   to ask how many men he counted and then call him "poor Jacques" again.
+- Jackie kept both hands braced behind her to resist pulling Draco into a kiss,
+  acknowledged that he had obeyed, and explicitly asked how many men in the
+  foyer wanted his wife. Draco answered six immediately and identified each
+  one, distinguishing the five who wondered from Jacques, who hoped. With
+  Jackie's memory test complete, he took his right hand from his pocket with
+  her damp lace looped around two fingers, closed his left hand at the back of
+  her neck, and kissed her. He kept the kiss controlled rather than exposing
+  them to the opening doors. The lift bell has chimed but the doors have not
+  yet parted; Draco remains close and asks Jackie to tell him again what poor
+  Jacques gave her.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
