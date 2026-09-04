@@ -209,10 +209,24 @@ are playing out Jackie's public lobby challenge before returning upstairs.
   for a last-minute restaurant table.
 - Draco followed at the exact distance and counted six men: the driver,
   doorman, two seated guests, the caller with the suitcase, and Jacques. His
-  jealousy remains cold certainty rather than fear. Jacques offered Jackie a
-  choice between an intimate table and one with a view. Draco has neither
-  touched her nor announced himself and waits across the foyer while Alice
-  decides how Jackie answers, completes the flirtation, and approaches the lift.
+  jealousy remained cold certainty rather than fear. Jackie prolonged the
+  flirtation with Jacques, booked an intimate table for two at 20:00, and
+  arranged champagne, oysters, and smoked-salmon blinis for the Pissarro Suite
+  in one hour. Jacques offered to anticipate whatever else her demanding
+  evening required; only after Jackie left the desk did he notice Draco had
+  witnessed the exchange. Draco dismissed him without a word, restored the
+  ten-pace distance, and followed Jackie to the lift without touching her.
+- Inside the lift, Jackie praised Draco's politeness despite supposedly wanting
+  Jacques's jugular and called the concierge "poor Jacques" for giving her
+  exactly what she wanted. Draco selected their floor, waited for the doors to
+  close, and corrected her: killing Jacques would have been too brief. He
+  recited the concierge's looks and disappointment, crossed one of the lift's
+  three available paces, and braced his left hand against the brass beside her
+  shoulder without touching her. He said Jacques had provided only the
+  reservation, room service, and oysters; Draco had given Jackie the six men's
+  attention, his exact count, and his obedience. With his right hand still
+  closed around her damp lace in his pocket and the lift slowing, he tells her
+  to ask how many men he counted and then call him "poor Jacques" again.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
