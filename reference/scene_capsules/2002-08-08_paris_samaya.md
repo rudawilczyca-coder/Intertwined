@@ -237,6 +237,19 @@ are playing out Jackie's public lobby challenge before returning upstairs.
   them to the opening doors. The lift bell has chimed but the doors have not
   yet parted; Draco remains close and asks Jackie to tell him again what poor
   Jacques gave her.
+- When the lift opened, Jackie said Jacques's usefulness did not matter: even
+  if he had offered the British Crown, she would still have chosen Draco. She
+  walked ahead to the Pissarro Suite and turned only after Draco followed and
+  closed the door. Draco accepted the reassurance without asking her to prove
+  it again. He said believing that she had already chosen him was exactly why
+  he could remain across the foyer, and recognised the deeper argument beneath
+  her display: another man's usefulness does not create a scale on which Draco
+  must outweigh him to keep her love. He judged her methods deplorable,
+  remained opposed to Jacques on principle, and told Jackie he loves her with
+  no debt or condition attached to obedience, patience, or security. He then
+  reminded her that she asked for his mouth and fingers upstairs, lifted her
+  damp lace between them, and instructed her to turn around and put her hands
+  on the door.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
