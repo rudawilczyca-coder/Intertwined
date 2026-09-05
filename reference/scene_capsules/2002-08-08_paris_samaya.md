@@ -263,6 +263,27 @@ are playing out Jackie's public lobby challenge before returning upstairs.
   His left palm covers Jackie's hand and both wedding rings against the door;
   his right remains shallowly inside her. He asks her to tell her husband she
   loves him again while he gives her what she asked for.
+- Jackie abandoned the teasing and begged Draco to fuck her, repeating that
+  she wanted him to put a baby in her. Draco answered the reproductive meaning
+  without treating arousal as consent to conceive: one day, after they tell
+  Theodore, decide together what the child would mean, and Jackie asks in
+  daylight. He promised he would, then used two fingers and his mouth against
+  the bedroom door until Jackie climaxed. When she mocked his speech, he
+  answered with one word and then occupied his mouth more usefully.
+- Afterward Jackie turned, knelt voluntarily in the entrance corridor, asked
+  whether she might have Draco, and made him say please before taking him into
+  her mouth. She adjusted gradually to his greater size, controlled her own
+  breathing and depth, and used his attempts to speak as a cue to take him
+  deeper. Draco kept his hips still and his hands supportive rather than
+  forcing the distance.
+- Jackie counted a twenty-second breath hold within her own known limit, took
+  air, then resumed and guided Draco's open hand from the back of her head to
+  the outside of her throat—not to squeeze, but so he could feel himself while
+  she retained control. Draco had counted the same interval, warned her that
+  he was close, and climaxed only after Jackie deliberately continued. He
+  withdrew carefully, lowered himself to his knees before her, said he had
+  counted every second, pressed his forehead to hers, and told her he loved
+  her. This is the live handoff; room service is due around 18:00.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
