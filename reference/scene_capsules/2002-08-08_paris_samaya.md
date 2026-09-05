@@ -2,9 +2,9 @@
 
 **Date:** Thursday, 8 August 2002
 
-**Status:** The reunion has ended shortly after 16:00. Samaya, Pierre, and
-Edmund have departed; Jackie and Draco have reached the Hôtel du Louvre and
-are playing out Jackie's public lobby challenge before returning upstairs.
+**Status:** Approximately 18:00 in the Pissarro Suite. The reunion and lobby
+challenge are complete; after the upstairs intimacy, Jacques has entered with
+the ordered refreshments.
 
 **Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
@@ -283,7 +283,18 @@ are playing out Jackie's public lobby challenge before returning upstairs.
   he was close, and climaxed only after Jackie deliberately continued. He
   withdrew carefully, lowered himself to his knees before her, said he had
   counted every second, pressed his forehead to hers, and told her he loved
-  her. This is the live handoff; room service is due around 18:00.
+  her.
+- Jackie dismissed Draco's throat check as treating her like she could break,
+  removed her dress, and asked whether they would finally make it to the bed.
+  Draco distinguished care from fragility, then they spent the next forty
+  minutes on two further rounds whose specific acts and positions remain
+  deliberately compressed.
+- At 17:59 Jacques arrived personally with champagne, oysters, and smoked-salmon
+  blinis. Draco answered barefoot in a carelessly closed hotel robe, with
+  Jackie's discarded black dress still in the entrance corridor. Jacques
+  registered Draco's appearance and the dress, maintained professional
+  composure, wheeled the trolley inside, and announced the refreshments to
+  them both. This is the live handoff.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
