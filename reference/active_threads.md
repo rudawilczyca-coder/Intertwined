@@ -1,7 +1,7 @@
 # ACTIVE THREADS / LOADED GUNS
 
 **As of:** Friday, 9 August 2002, 07:07 — Paris / Theo detained at the London Camarilla court.
-**Last fixed beat:** Draco woke beside Jackie in the Pissarro Suite with his arm still around her, keeping Thursday night's promise through ordinary presence rather than another explanation.
+**Last fixed beat:** Jackie woke hungry but in better spirits, released Draco's numb arm, and proposed a ceremonial burial for it. Draco put the recovering arm back around her shoulders, summoned breakfast, and chose ordinary care without reopening Thursday's wound.
 **Current arc source:** `arcs/the_honeymoon_they_owed.md`.
 
 This is the single live-thread ledger. Each item records only current status, the unresolved edge, and its source. Event recap belongs in the cited source; present emotional state belongs in `reference/current_DracoTheo_state.md`.
@@ -13,8 +13,9 @@ This is the single live-thread ledger. Each item records only current status, th
 ## CURRENT ARC
 
 ### 🔴 Paris → Fontainebleau, Aug 6–10
-Tuesday through Thursday are complete. Friday has opened at 07:07 with Draco
-still beside Jackie after keeping his promise to remain through the night.
+Tuesday through Thursday are complete. Friday has opened after 07:07 with Draco
+still beside Jackie after keeping his promise to remain through the night; the
+morning has returned to teasing while he orders her breakfast.
 Still ahead: Friday's diplomatic reception and Adrien; Saturday's Fontainebleau
 World Cup Final.
 **Unresolved:** Friday's reception and Adrien; Saturday's final.
