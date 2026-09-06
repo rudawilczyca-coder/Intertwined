@@ -1,7 +1,7 @@
 # ACTIVE THREADS / LOADED GUNS
 
-**As of:** Thursday, 8 August 2002 — Paris / Theo detained at the London Camarilla court.
-**Last fixed beat:** Wednesday ended with Jackie kissing Draco's offered wrist scar and choosing sleep against his chest after Luc completed the portrait.
+**As of:** Friday, 9 August 2002, 07:07 — Paris / Theo detained at the London Camarilla court.
+**Last fixed beat:** Draco woke beside Jackie in the Pissarro Suite with his arm still around her, keeping Thursday night's promise through ordinary presence rather than another explanation.
 **Current arc source:** `arcs/the_honeymoon_they_owed.md`.
 
 This is the single live-thread ledger. Each item records only current status, the unresolved edge, and its source. Event recap belongs in the cited source; present emotional state belongs in `reference/current_DracoTheo_state.md`.
@@ -13,12 +13,11 @@ This is the single live-thread ledger. Each item records only current status, th
 ## CURRENT ARC
 
 ### 🔴 Paris → Fontainebleau, Aug 6–10
-Tuesday and Wednesday are complete. Thursday's only fixed meeting is Samaya,
-Pierre, and six-month-old Edmund in the Bois de Boulogne. Samaya is angry that
-Jackie missed her November 2001 wedding and knows Theo is alive and a vampire,
-but will not say so in Pierre's presence. Still ahead: Friday's diplomatic
-reception and Saturday's Fontainebleau World Cup Final.
-**Unresolved:** Thursday's reunion; Friday's reception and Adrien; Saturday's final.
+Tuesday through Thursday are complete. Friday has opened at 07:07 with Draco
+still beside Jackie after keeping his promise to remain through the night.
+Still ahead: Friday's diplomatic reception and Adrien; Saturday's Fontainebleau
+World Cup Final.
+**Unresolved:** Friday's reception and Adrien; Saturday's final.
 **Source:** `arcs/the_honeymoon_they_owed.md`.
 
 ### 🔴 Viola's audience / False Eli

@@ -56,7 +56,11 @@
 - Jackie retreats to the shower. Afterward, dressed in Draco's shirt, she explains that believing he left from sincere concern was how she kept herself from hating him. She discloses the pre-Tuscany rupture in which Theo left for three days, she broke his ribs in the Nott Manor duelling hall, and threatened to make him watch her slit her throat if he ever left again. She refuses to make such a threat against Draco but explains that her body still folds present security into past abandonment. Draco neither excuses her violence nor uses good intentions to erase the harm of his departure; he accepts that the husband who stayed and the man who left after saying he loved her are both him.
 - Jackie asks to be held, to stay in bed instead of attending dinner, and to wake knowing Draco will remain. Draco cancels the reservation, promises never again to choose to leave her, and holds her through the night. Thursday closes beneath the restored duvet with the champagne going flat and Draco understanding that morning—not another explanation—must prove him still there.
 
-## Friday, August 9, 2002 — planned pressure, not yet played
+## Friday, August 9, 2002 — in progress
+
+- At 07:07 Draco wakes first in the Pissarro Suite with his right arm numb but still around Jackie, exactly where he promised to remain. He understands that the proof of staying is ordinary rather than grand, opens the curtains by three inches, kisses Jackie's hair, and greets her with a joke about surviving the night, remaining tomorrow, and losing his arm in service to the marriage. The morning and reception beyond this opening remain unplayed.
+
+### Approved pressure — not yet played
 
 - Friday morning should restore the ordinary warmth and certainty of Jackie and Draco's marriage without treating Thursday's abandonment wound as erased or making Jackie fragile. At the diplomatic reception, a man may approach Jackie first for legitimate professional reasons—Auror recruitment, World Cup security, or hoped-for access to Potter—and keep her polite, focused attention longer than Draco likes.
 - Draco's petty internal ledger turns the moment into an unfair asymmetry: Jackie wanted him jealous on Thursday and then required proof he would stay, yet now appears free to leave him watching. Adrien subsequently gives Draco the concentrated public attention Jackie is giving elsewhere. Draco first encourages it as retaliation, then discovers that he genuinely wants Adrien, wants Jackie possessive, and enjoys controlling how close either of them comes.
