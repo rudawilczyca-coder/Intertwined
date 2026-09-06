@@ -2,9 +2,20 @@
 
 **Date:** Thursday, 8 August 2002
 
-**Status:** Approximately 18:00 in the Pissarro Suite. The reunion and lobby
-challenge are complete; after the upstairs intimacy, Jacques has entered with
-the ordered refreshments.
+**Status:** Shortly after 18:00 in the Pissarro Suite, after Jacques's departure.
+Jackie has challenged Draco to explain his offer to call Jacques back, explicitly
+distinguishing the stranger from Theo. Draco acknowledges pride and a desire to
+test whether she meant her proposal; willingness to call did not establish that
+he wanted its consequences. He chooses not to call for now and asks whether she
+wanted his jealousy or to hear that he wanted her to stay with him. Alice's turn.
+
+**Latest live development (2026-09-06):** Draco says he would want Theo present
+for himself, not as an interchangeable observer. He admits wanting to surprise
+Jackie before considering his offer properly, and enjoying her interest in his
+jealous response. He will not invite Jacques and then punish him for accepting;
+any inability to tolerate the situation is Draco's to state. No call is placed.
+The verified live Doc remains the authority for the complete dialogue; these
+notes record Draco's admissions, not objective knowledge of Jackie's motives.
 
 **Meeting location:** Beside the lower lake at the Bois de Boulogne, 13:00.
 
