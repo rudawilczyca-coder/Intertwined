@@ -305,7 +305,53 @@ motives or answer for her.
   Jackie's discarded black dress still in the entrance corridor. Jacques
   registered Draco's appearance and the dress, maintained professional
   composure, wheeled the trolley inside, and announced the refreshments to
-  them both. This is the live handoff.
+  them both.
+- Jackie emerged in a loosely tied hotel robe, ate an oyster while ice water
+  ran down her exposed chest, called Jacques *mon chéri*, and directed him to
+  wheel the trolley into the bedroom. Draco and Jacques fenced over the
+  concierge's professional composure; Jacques extended the 20:00 reservation
+  to 20:30 and left after accepting Draco's tip "for the service, not the
+  commentary."
+- Jackie used the wall and a clean leg sweep to put Draco on the carpet beneath
+  her, praised the look of jealousy on him, and suggested calling Jacques back
+  to watch. Draco admired the takedown, admitted the jealousy, and surprised
+  both of them by offering to make the call. He clarified that Jacques would
+  be present only as an excluded observer rather than sharing Theo's place,
+  and admitted that another man's desire for Jackie could feed his possessive
+  vanity rather than his old fear of inadequacy. The possibility remained
+  conditional and hypothetical; neither spouse actually wanted Jacques.
+- Jackie said she was glad Draco had reminded her she chose well, then invoked
+  Samuel Carrow to test the limit of his new security. Draco distinguished a
+  stranger's passing attraction from Carrow's history and enduring love for
+  Jackie. Jackie apologised, and their lighter conversation returned long
+  enough for her to serve the oysters and blinis across her naked body. Her
+  rule was food first and pleasure second: the erotic display was also a way
+  to make certain Draco ate.
+- After the food, Jackie asked Draco to close his eyes and used ice followed by
+  her mouth to test the restraint he had shown on their first night after
+  reconciliation. Draco trusted her, remained obedient, and admitted his
+  enjoyment. His joking claim that he preferred the frightened, more merciful
+  Jackie of 2001 struck the still-open wound created by his fourteen-month
+  absence. Jackie offered to stop; Draco immediately withdrew the joke and
+  apologised, but recognised that he had remembered his own guilt more clearly
+  than the grief she had lived inside.
+- Jackie retreated to the shower and cried where the water concealed it. When
+  she emerged in Draco's shirt, she explained that believing he had acted from
+  sincere concern was how she kept herself from hating him. She also disclosed
+  the pre-Tuscany rupture in which Theo left for three days: she broke his ribs
+  in the Nott Manor duelling hall and threatened to make him watch her slit her
+  throat if he ever left again. She explicitly refused to make that threat
+  against Draco, but explained that her body can still collapse past and
+  present into the same abandonment terror.
+- Draco did not excuse the violence or threat, defend his departure through
+  good intentions, or require Jackie to protect him from her reaction. He
+  accepted that the husband who has stayed and the man who left after saying
+  he loved her are both him. When Jackie asked only to be held, to remain in
+  bed instead of attending dinner, and to wake knowing he would still be
+  there, Draco cancelled the reservation, promised never again to choose to
+  leave her, and held her through the night. Thursday ends under the restored
+  duvet: Paris darkens beyond the curtains, the champagne goes flat, and
+  morning must arrive to prove him still beside her.
 
 - Samaya and Pierre married voluntarily in November 2001. The politically
   useful match had Genevieve's approval; the timing was accelerated by
@@ -355,4 +401,20 @@ motives or answer for her.
 
 - Gringotts raises the four Fontainebleau security rings at midnight.
 - Friday: diplomatic reception and Adrien.
+- **Approved Friday pressure, not yet played:** Friday morning should restore
+  the ordinary warmth and certainty of Jackie and Draco's marriage without
+  erasing Thursday's specific abandonment wound. At the reception, a man may
+  approach Jackie first for legitimate professional reasons—Auror recruitment,
+  World Cup security, or access to Potter—and hold her polite, focused
+  attention longer than Draco likes. Draco unfairly converts the previous
+  evening into a private score: Jackie wanted him jealous and then required
+  proof that he would stay, yet now appears free to leave him watching.
+- Adrien then offers Draco the concentrated public attention Jackie is giving
+  elsewhere. Draco initially permits and encourages it as petty retaliation,
+  but genuinely enjoys Adrien's desire, Jackie's possessiveness, and his own
+  control of the encounter. His flaw is not wanting Adrien; it is laundering
+  that want through Jackie and retaliation so he need not own it. The later
+  confrontation should make him admit the desire without collapsing into
+  guilt: Jackie may accept what he wanted while refusing responsibility for
+  authoring it. No Friday prose has yet been played.
 - Saturday: France v Wales World Cup final.
