@@ -60,6 +60,7 @@
 
 - At 07:07 Draco wakes first in the Pissarro Suite with his right arm numb but still around Jackie, exactly where he promised to remain. He understands that the proof of staying is ordinary rather than grand, opens the curtains by three inches, kisses Jackie's hair, and greets her with a joke about surviving the night, remaining tomorrow, and losing his arm in service to the marriage.
 - Jackie wakes hungry but in visibly better spirits, releases the numb arm, and proposes a ceremonial burial before her stomach interrupts. Draco refuses to hold a wake, puts the returning arm back around her shoulders, summons the breakfast menu, and asks what she wants while teasing the state of her hair. He neither inventories her mood nor reopens Thursday's wound: morning proceeds through ordinary care. The rest of the morning and the diplomatic reception remain unplayed.
+- Jackie orders eggs, fruit, pastries, hot chocolate, doppio coffee, and early-morning ice cream. While drifting against Draco's arm, she jokes that Jacques would not mind her wild natural bed-hair; the tone is her light way of saying that she and Draco are all right after Thursday. Draco recognises the reassurance without turning it into analysis, obtains strawberry ice cream from the initially hesitant hotel kitchen, and answers that Jacques has had enough access to their suite for one honeymoon. They remain tucked beneath the duvet while breakfast is prepared.
 
 ### Approved pressure — not yet played
 
