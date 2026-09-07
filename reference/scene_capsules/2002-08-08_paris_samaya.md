@@ -401,21 +401,27 @@ motives or answer for her.
 
 - Gringotts raises the four Fontainebleau security rings at midnight.
 - Friday: diplomatic reception in the magically expanded Hôtel de Lauzun;
-  Adrien remains ahead.
+  Marchand's security consultation with Jackie is in progress and Adrien has
+  approached Draco.
 - **Approved Friday pressure, partly played:** Commandant Lucien Marchand of the
   French Bureau des Aurors has approached Jackie for legitimate Fontainebleau
   security reasons and insight into which of three British Ministry answers
-  Harry Potter will actually follow. He has asked to borrow a few minutes;
-  Jackie has not answered. If she gives him sustained polite, focused attention,
-  Draco may unfairly convert Thursday evening into a private score: Jackie
-  wanted him jealous and then required proof that he would stay, yet now appears
-  free to leave him watching.
-- Adrien then offers Draco the concentrated public attention Jackie is giving
-  elsewhere. Draco initially permits and encourages it as petty retaliation,
+  Harry Potter will actually follow. Jackie answers in French, replaces his
+  formal address with “Jacqueline,” tells Draco to save her a dance, and follows
+  Marchand to the champagne table. Marchand's ward diagram exposes three
+  incompatible positions: Games expects Harry to remain in his enclosure, the
+  Auror Office grants independent authority to cross the inner ring, and Harry
+  says he will “use his judgment.” Draco is proud that Marchand recognises
+  Jackie's expertise, but privately blames Potter for taking his wife from his
+  arm without even attending.
+- Adrien has approached Draco with two champagne flutes and the concentrated
+  public attention Jackie is giving elsewhere. Hearing Jackie choose
+  “Jacqueline,” Draco takes Adrien's offered hand and answers with “Draco”—the
+  first small act of petty mirroring. Draco initially permits and encourages it as petty retaliation,
   but genuinely enjoys Adrien's desire, Jackie's possessiveness, and his own
   control of the encounter. His flaw is not wanting Adrien; it is laundering
   that want through Jackie and retaliation so he need not own it. The later
   confrontation should make him admit the desire without collapsing into
   guilt: Jackie may accept what he wanted while refusing responsibility for
-  authoring it. Adrien has not yet appeared.
+  authoring it. Their conversation has only begun.
 - Saturday: France v Wales World Cup final.
