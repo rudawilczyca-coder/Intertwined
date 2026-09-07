@@ -400,15 +400,16 @@ motives or answer for her.
 ## Clock beyond Thursday
 
 - Gringotts raises the four Fontainebleau security rings at midnight.
-- Friday: diplomatic reception and Adrien.
-- **Approved Friday pressure, not yet played:** Friday morning should restore
-  the ordinary warmth and certainty of Jackie and Draco's marriage without
-  erasing Thursday's specific abandonment wound. At the reception, a man may
-  approach Jackie first for legitimate professional reasons—Auror recruitment,
-  World Cup security, or access to Potter—and hold her polite, focused
-  attention longer than Draco likes. Draco unfairly converts the previous
-  evening into a private score: Jackie wanted him jealous and then required
-  proof that he would stay, yet now appears free to leave him watching.
+- Friday: diplomatic reception in the magically expanded Hôtel de Lauzun;
+  Adrien remains ahead.
+- **Approved Friday pressure, partly played:** Commandant Lucien Marchand of the
+  French Bureau des Aurors has approached Jackie for legitimate Fontainebleau
+  security reasons and insight into which of three British Ministry answers
+  Harry Potter will actually follow. He has asked to borrow a few minutes;
+  Jackie has not answered. If she gives him sustained polite, focused attention,
+  Draco may unfairly convert Thursday evening into a private score: Jackie
+  wanted him jealous and then required proof that he would stay, yet now appears
+  free to leave him watching.
 - Adrien then offers Draco the concentrated public attention Jackie is giving
   elsewhere. Draco initially permits and encourages it as petty retaliation,
   but genuinely enjoys Adrien's desire, Jackie's possessiveness, and his own
@@ -416,5 +417,5 @@ motives or answer for her.
   that want through Jackie and retaliation so he need not own it. The later
   confrontation should make him admit the desire without collapsing into
   guilt: Jackie may accept what he wanted while refusing responsibility for
-  authoring it. No Friday prose has yet been played.
+  authoring it. Adrien has not yet appeared.
 - Saturday: France v Wales World Cup final.
