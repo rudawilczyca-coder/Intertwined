@@ -1,7 +1,7 @@
 # ACTIVE THREADS / LOADED GUNS
 
-**As of:** Friday, 9 August 2002, 07:07 — Paris / Theo detained at the London Camarilla court.
-**Last fixed beat:** Jackie woke hungry but in better spirits, released Draco's numb arm, and proposed a ceremonial burial for it. Draco put the recovering arm back around her shoulders, summoned breakfast, and chose ordinary care without reopening Thursday's wound.
+**As of:** Friday, 9 August 2002, evening — Paris / Theo detained at the London Camarilla court.
+**Last fixed beat:** At the Hôtel de Lauzun reception, Jackie remains in a security consultation with Marchand after explaining Harry's predictable response to an attack. Across the rooms, Draco has accepted Adrien's invitation to waltz, required “Not too close,” and allowed Adrien to lead at the exact formal distance.
 **Current arc source:** `arcs/the_honeymoon_they_owed.md`.
 
 This is the single live-thread ledger. Each item records only current status, the unresolved edge, and its source. Event recap belongs in the cited source; present emotional state belongs in `reference/current_DracoTheo_state.md`.
@@ -13,12 +13,12 @@ This is the single live-thread ledger. Each item records only current status, th
 ## CURRENT ARC
 
 ### 🔴 Paris → Fontainebleau, Aug 6–10
-Tuesday through Thursday are complete. Friday has opened after 07:07 with Draco
-still beside Jackie after keeping his promise to remain through the night; the
-morning has returned to teasing while he orders her breakfast.
-Still ahead: Friday's diplomatic reception and Adrien; Saturday's Fontainebleau
-World Cup Final.
-**Unresolved:** Friday's reception and Adrien; Saturday's final.
+Tuesday through Thursday are complete. Friday has advanced into the diplomatic
+reception: Jackie is advising Marchand about Harry while Draco has allowed his
+attraction and private scorekeeping to carry him into a waltz led by Adrien.
+Still ahead: Jackie's response and the reception's confrontation; Saturday's
+Fontainebleau World Cup Final.
+**Unresolved:** the Adrien dance and its consequences; Saturday's final.
 **Source:** `arcs/the_honeymoon_they_owed.md`.
 
 ### 🔴 Viola's audience / False Eli

@@ -2,12 +2,16 @@
 
 **Date:** Thursday, 8 August 2002
 
-**Status:** Shortly after 18:00 in the Pissarro Suite, after Jacques's departure.
-Jackie has challenged Draco to explain his offer to call Jacques back, explicitly
-distinguishing the stranger from Theo. Draco answers that Jacques would be invited
-only to watch, not given Theo's place beside them. He admits that Jacques's desire
-and his own jealousy are part of the appeal, but keeps the offer conditional on
-both spouses still wanting it once it ceases to be hypothetical. Alice's turn.
+**Status:** Friday evening at the World Cup Diplomatic Reception in the Hôtel de
+Lauzun. Jackie remains across the reception rooms with Commandant Lucien Marchand
+after explaining from professional experience that Harry will stay inside the
+protected enclosure only until an attack begins. She briefly noticed the handsome
+stranger beside Draco before returning to the security consultation. Draco could
+not tell whether she looked at him or Adrien, chose the ungenerous interpretation,
+and accepted Adrien's invitation to waltz on the technical defence that Jackie had
+asked him to save her only one dance. In the music room Draco required “Not too
+close”; Adrien obeyed the exact formal distance and took the lead. Draco has set
+his hand at Adrien's shoulder and allowed the dance to begin. Alice's turn.
 
 **Latest live development (2026-09-06):** The fresh Sol turn supersedes both
 rejected Astra attempts. Draco admits disliking Jacques's flirtation and enjoying
