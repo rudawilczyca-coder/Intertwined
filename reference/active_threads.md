@@ -1,7 +1,7 @@
 # ACTIVE THREADS / LOADED GUNS
 
 **As of:** Friday, 9 August 2002, evening — Paris / Theo detained at the London Camarilla court.
-**Last fixed beat:** At the Hôtel de Lauzun reception, Jackie remains in a security consultation with Marchand after explaining Harry's predictable response to an attack. Across the rooms, Draco has accepted Adrien's invitation to waltz, required “Not too close,” and allowed Adrien to lead at the exact formal distance.
+**Last fixed beat:** At the Hôtel de Lauzun reception, Jackie remains in a security consultation with Marchand after explaining Harry's predictable response to an attack. Across the rooms, Draco has chosen to prolong Adrien's openly interested conversation, handing back his untouched flute and challenging him to gather evidence. No dance has been proposed or accepted.
 **Current arc source:** `arcs/the_honeymoon_they_owed.md`.
 
 This is the single live-thread ledger. Each item records only current status, the unresolved edge, and its source. Event recap belongs in the cited source; present emotional state belongs in `reference/current_DracoTheo_state.md`.
@@ -15,10 +15,11 @@ This is the single live-thread ledger. Each item records only current status, th
 ### 🔴 Paris → Fontainebleau, Aug 6–10
 Tuesday through Thursday are complete. Friday has advanced into the diplomatic
 reception: Jackie is advising Marchand about Harry while Draco has allowed his
-attraction and private scorekeeping to carry him into a waltz led by Adrien.
+attraction and private scorekeeping to keep him beside Adrien for further conversation.
 Still ahead: Jackie's response and the reception's confrontation; Saturday's
 Fontainebleau World Cup Final.
-**Unresolved:** the Adrien dance and its consequences; Saturday's final.
+**Unresolved:** whether Adrien can earn a dance invitation and Draco can own his
+choice; the encounter's consequences; Saturday's final.
 **Source:** `arcs/the_honeymoon_they_owed.md`.
 
 ### 🔴 Viola's audience / False Eli

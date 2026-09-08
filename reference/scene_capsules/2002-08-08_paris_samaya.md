@@ -8,10 +8,11 @@ after explaining from professional experience that Harry will stay inside the
 protected enclosure only until an attack begins. She briefly noticed the handsome
 stranger beside Draco before returning to the security consultation. Draco could
 not tell whether she looked at him or Adrien, chose the ungenerous interpretation,
-and accepted Adrien's invitation to waltz on the technical defence that Jackie had
-asked him to save her only one dance. In the music room Draco required “Not too
-close”; Adrien obeyed the exact formal distance and took the lead. Draco has set
-his hand at Adrien's shoulder and allowed the dance to begin. Alice's turn.
+and raised his glass to her. Adrien admits that the stories about Draco disagree
+and says he has not yet gathered enough evidence. Draco enjoys the challenge and
+prolongs the encounter by returning Adrien's untouched flute with “Then you have
+been inefficient.” Adrien answers, “I have only just begun.” No dance has yet been
+proposed or accepted. Alice's turn.
 
 **Latest live development (2026-09-06):** The fresh Sol turn supersedes both
 rejected Astra attempts. Draco admits disliking Jacques's flirtation and enjoying
@@ -406,7 +407,8 @@ motives or answer for her.
 - Gringotts raises the four Fontainebleau security rings at midnight.
 - Friday: diplomatic reception in the magically expanded Hôtel de Lauzun;
   Marchand's security consultation with Jackie is in progress and Adrien has
-  approached Draco.
+  approached Draco. It is a *cocktail dînatoire*, not a formal seated meal:
+  substantial savoury canapés circulate before macarons, petits fours and fruit.
 - **Approved Friday pressure, partly played:** Commandant Lucien Marchand of the
   French Bureau des Aurors has approached Jackie for legitimate Fontainebleau
   security reasons and insight into which of three British Ministry answers
@@ -429,5 +431,6 @@ motives or answer for her.
   that want through Jackie and retaliation so he need not own it. The later
   confrontation should make him admit the desire without collapsing into
   guilt: Jackie may accept what he wanted while refusing responsibility for
-  authoring it. Their conversation has only begun.
+  authoring it. Their conversation has only begun. Adrien has not proposed a
+  dance; Draco has not accepted one.
 - Saturday: France v Wales World Cup final.
