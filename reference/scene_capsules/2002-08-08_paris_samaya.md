@@ -406,7 +406,9 @@ motives or answer for her.
 - **Approved Friday pressure, partly played:** Commandant Lucien Marchand of the
   French Bureau des Aurors has approached Jackie for legitimate Fontainebleau
   security reasons and insight into which of three British Ministry answers
-  Harry Potter will actually follow. Jackie answers in French, replaces his
+  Harry Potter will actually follow. Jackie's answer carries weight because
+  she spent Phase 3 directly under Harry and knows his operational habits, not
+  because they are personal friends. Jackie answers in French, replaces his
   formal address with “Jacqueline,” tells Draco to save her a dance, and follows
   Marchand to the champagne table. Marchand's ward diagram exposes three
   incompatible positions: Games expects Harry to remain in his enclosure, the

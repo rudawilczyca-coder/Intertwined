@@ -283,7 +283,7 @@
 
 **The Ceremony**
 
-- Garden of Nott Manor, enchanted tent, will-o'-the-wisps. Guests: Samaya and Pierre, Anne, Luna and Neville, Harry and Ginny (visibly pregnant), Blaise, Goyle. Narcissa arrives impoverished but regal. Caroline absent.
+- Garden of Nott Manor, enchanted tent, will-o'-the-wisps. Guests: Samaya and Pierre, Anne, Luna and Neville, Blaise, Goyle. Narcissa arrives impoverished but regal. Caroline absent. Harry and Ginny are not present; the working assumption is that Harry received the socially expected invitation and politely declined because of an Auror-adjacent emergency.
 - **Theo officiates:** *"I as her husband permit it and encourage it."*
 - **Draco's vows:** *"I believe in showing up. In staying. I vow to be your shelter, your counsel, your unwavering ally."*
 - **The rings:** Protean rings from Hogwarts Charms class, inscribed: *J & D, 31.10.1999.* Draco places Jackie's beside Theo's wedding band: *"It's not a claim. It's a promise. I am yours."*

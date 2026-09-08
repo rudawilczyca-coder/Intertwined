@@ -72,6 +72,8 @@ Fiercely independent. Pragmatic. Loves hard, fights harder. Sharp-tongued but wa
 
 **With the Malice:** Consummated their bond through violent intimacy during the chase. The Malice respects her because she proved she could hurt Him and stop Him. He calls her "Little Wolf." Their relationship is currently reconciled and stable.
 
+**With Harry Potter:** Harry was Jackie's supervising Auror; they are now on first-name professional terms. Harry respects Jackie's dark-magic proficiency, quick field judgment, precise observation, and meticulous casework; Jackie has enough direct experience of him to predict his operational choices. They are not friends. Harry struggles to reconcile the Auror he considers intelligent and promising with her marriages to Theo and Draco and with the Slytherins constantly present in her life. The relationship contains unrealised friendship rather than estrangement or personal closeness. Harry does not know Theo is alive.
+
 ---
 
 ## Current Status (late June 2002)

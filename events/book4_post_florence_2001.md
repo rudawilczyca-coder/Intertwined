@@ -66,7 +66,7 @@
 - Passed.
 
 **Harry Potter Dynamic**
-- Potter provided tactical training books with personal annotations; relationship shifted toward grudging professional respect
+- Potter provided tactical training books with personal annotations; this began the shift from the unresolved 1999 dinner toward grudging professional respect. During the training year—especially Jackie's Phase 3 assignment directly under Harry—that respect develops into a reliable working rapport, but not friendship.
 
 **Post-Trial Confrontation at Nott Manor**
 - Jackie blocked bond, physically attacked both men, then weaponized the bond — flooded Theo with full weight of her depression/trauma

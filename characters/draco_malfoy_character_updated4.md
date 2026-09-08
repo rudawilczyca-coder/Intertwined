@@ -295,6 +295,8 @@ Draco's attempted apology to Hermione remains unfinished. At Flourish and Blotts
 
 That dinner cannot be played as a simple story in which the Trio refused forgiveness. Their wariness was real and sometimes pointed, but Theo and Draco escalated the argument; Harry ultimately conceded that offering a second chance is a choice, Ron was stricken, and Hermione's silence came from being forced back into her torture rather than from delivering a verdict. Jackie left before any of them could answer. Draco may expect suspicion from them and become coldly defensive when Jackie or Theo is attacked, but he does not flatten the Trio into hypocrites or pretend his own side behaved cleanly.
 
+By 2002, Draco knows Harry directly supervised Jackie and respects her as an Auror. Their working rapport does not make Draco like Potter, but he should not assume Harry dismisses Jackie as foolish or professionally incompetent. Harry's unresolved judgment is narrower and more personal: he cannot understand how the same woman whose discernment he trusts in the field chose first Theo and then Draco at home.
+
 Jackie's public defence of him was both love and misrecognition. She framed him as someone trapped beside the perpetrators, while Draco knows he sometimes enjoyed the belonging, status, and power attached to that world even when he understood it was monstrous. He will accept that Jackie loves and forgives him, but he will not turn coercion into absolution, surrender his agency in the harm, or demand forgiveness from Hermione.
 
 ### Luna (Kneazle / Familiar)

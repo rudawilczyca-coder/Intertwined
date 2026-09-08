@@ -118,7 +118,7 @@ Use this index to jump to specific events without scanning the full document. Or
 | July 25–26 | The trio toast “To Home”; Pansy's letter brings three World Cup final tickets; Genevieve counts legally-dead Theo in writing; Jackie and Draco plan four days in Paris before Fontainebleau |
 
 ### KEY CHARACTER REFERENCE
-- **Jackie Nott-Malfoy (née Taylor):** Maledictus curse broken (1999); snow leopard Animagus; Auror trainee; married Theo (Ministry-voided) and Draco (early April 2002); kept hyphenated name
+- **Jackie Nott-Malfoy (née Taylor):** Maledictus curse broken (1999); snow leopard Animagus; certified Auror after training under Harry Potter; married Theo (Ministry-voided) and Draco (early April 2002); kept hyphenated name
 - **Theodore Nott:** Vampire (turned Aug 11, 2001, sired by Filippo); black panther Animagus; the Malice (inner darkness, capital-H He/Him); legally dead; donor system + Sable Room feeding established; Malice stabilized and purposeful
 - **Draco Malfoy:** Ministry employee; Luna the Kneazle; married Jackie (early April 2002); war reparations paid in full by Genevieve Lavigne
 - **The Malice:** Stable, fed, has a moral code (hunts predators only); obeys *Finite* voluntarily as of Liverpool Raid; acknowledged Draco as "interesting"; reconciled with Jackie after the Liverpool crisis
@@ -944,7 +944,7 @@ Use this index to jump to specific events without scanning the full document. Or
 
 **The Ceremony**
 
-- Garden of Nott Manor, enchanted tent, will-o'-the-wisps. Guests: Samaya and Pierre, Anne, Luna and Neville, Harry and Ginny (visibly pregnant), Blaise, Goyle. Narcissa arrives impoverished but regal. Caroline absent.
+- Garden of Nott Manor, enchanted tent, will-o'-the-wisps. Guests: Samaya and Pierre, Anne, Luna and Neville, Blaise, Goyle. Narcissa arrives impoverished but regal. Caroline absent. Harry and Ginny are not present; the working assumption is that Harry received the socially expected invitation and politely declined because of an Auror-adjacent emergency.
 - **Theo officiates:** *"I as her husband permit it and encourage it."*
 - **Draco's vows:** *"I believe in showing up. In staying. I vow to be your shelter, your counsel, your unwavering ally."*
 - **The rings:** Protean rings from Hogwarts Charms class, inscribed: *J & D, 31.10.1999.* Draco places Jackie's beside Theo's wedding band: *"It's not a claim. It's a promise. I am yours."*
@@ -1621,7 +1621,7 @@ Use this index to jump to specific events without scanning the full document. Or
 - Passed.
 
 **Harry Potter Dynamic**
-- Potter provided tactical training books with personal annotations; relationship shifted toward grudging professional respect
+- Potter provided tactical training books with personal annotations; this began the shift from the unresolved 1999 dinner toward grudging professional respect. During the training year—especially Jackie's Phase 3 assignment directly under Harry—that respect develops into a reliable working rapport, but not friendship.
 
 **Post-Trial Confrontation at Nott Manor**
 - Jackie blocked bond, physically attacked both men, then weaponized the bond — flooded Theo with full weight of her depression/trauma

@@ -148,7 +148,7 @@ Use this index to find specific events without loading the full bible. Each book
 ---
 
 ### KEY CHARACTER REFERENCE
-- **Jackie Nott-Malfoy (née Taylor):** Maledictus curse broken (1999); snow leopard Animagus; Auror trainee; married Theo (Ministry-voided) and Draco (early April 2002); kept hyphenated name
+- **Jackie Nott-Malfoy (née Taylor):** Maledictus curse broken (1999); snow leopard Animagus; certified Auror after training under Harry Potter; married Theo (Ministry-voided) and Draco (early April 2002); kept hyphenated name
 - **Theodore Nott:** Vampire (turned Aug 11, 2001, sired by Filippo); black panther Animagus; the Malice (inner darkness, capital-H He/Him); legally dead; donor system + Sable Room feeding established; Malice stabilized and purposeful
 - **Draco Malfoy:** Ministry employee; Luna the Kneazle; married Jackie (early April 2002); war reparations paid in full by Genevieve Lavigne
 - **The Malice:** Stable, fed, has a moral code (hunts predators only); obeys *Finite* voluntarily as of Liverpool Raid; acknowledged Draco as "interesting"; reconciled with Jackie after the Liverpool crisis

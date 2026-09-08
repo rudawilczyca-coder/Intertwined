@@ -119,6 +119,14 @@ Each trainee is assigned to a Senior Auror for the full three-month phase. Assig
 
 **Jackie's assignment to Potter** is the cohort's most talked-about pairing. From the outside it reads as favoritism — the Slytherin girl married to a Nott, involved with a Malfoy, getting the golden assignment. From Potter's side, it's a judgment call based on her abilities. Either way, it makes her a target.
 
+### Harry Potter and Jackie — Professional End-State
+
+By Jackie's certification, she and Harry have an established working rapport, not a friendship. Harry directly supervised much of her field development and came to respect her proficiency at recognising and neutralising dark magic, her fast judgment under pressure, her eye for small discrepancies, and the meticulous paperwork she completed for his cases over an extended stretch. Jackie, in turn, knows his operational habits well enough to predict which formal instructions he will actually follow in the field.
+
+They use **Harry** and **Jackie**, but Harry is on a first-name basis with most of the younger cohort; this is ordinary professional familiarity, not evidence of special intimacy. The trainee/supervisor boundary also kept the relationship from becoming social while the program was active.
+
+The deeper barrier is Harry's unresolved judgment of Jackie's private life. He respects her intelligence and professional instincts, yet cannot reconcile those qualities with her choice to marry Theodore Nott and then, after Nott's legal death, Draco Malfoy. From Harry's perspective, Draco and the wider Slytherin orbit—Pansy Parkinson, Samuel Carrow, and Theo's continuing place in Jackie's identity—remain constant complications around someone he might otherwise have befriended. There is unrealised friendship potential between Harry and Jackie, but as of August 2002 they remain respected former supervisor and trainee. Harry does **not** know Theo is alive.
+
 **When a trainee is temporarily unavailable** (illness, leave, personal emergency), a substitute from the cohort may volunteer to cover their Senior Auror's paperwork and ride-along duties. Drake Lightwood volunteered to sub for Jackie during her week-long absence in late January 2002 and left the filing in such disarray that Jackie spent her first days back working overtime to repair it.
 
 **Core Activities:**
