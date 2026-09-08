@@ -217,6 +217,12 @@ They held hands across Jackie's sleeping body the night of the chase. Cold over 
 
 Theo refuses false consolation when Draco brings him an unmanageable thing. Their care now includes quiet physical contact without audience or emergency, and an instruction Draco can trust when explanation would only become another form of control.
 
+### Harry, Hermione, and the Golden Trio
+
+The November 1999 dinner confirmed Theo's expectation that the postwar establishment would treat men like him and Draco as permanently suspect—but it did not prove that the Trio simply refused forgiveness. Ron and Harry made pointed remarks, but Theo deliberately turned the tension into a systemic indictment; Ginny answered with the real danger of trusting people who had already proved dangerous, and Draco hardened the argument further. Harry eventually conceded Jackie's central point about choosing to offer a chance, while Hermione was too visibly retraumatized by Jackie's question about Malfoy Manor to answer it.
+
+Theo ended the discussion when he saw Jackie shaking and took her outside. He validated her hurt there, but his anger was not truly at the Trio; it was at the impossible collision of damaged people and at watching Jackie's hope strike another wall. In present portrayal, he may needle Harry, distrust institutions, and become fiercely protective of Jackie or Draco, but he should not remember the dinner as a clean moral victory or claim the Trio never tried.
+
 ### Filippo de' Medici (Sire)
 
 Filippo's blood turned Theo; this creates a sire-bond neither of them wanted. Filippo has guided Theo through the volatile early months in Florence. There's genuine care beneath the mentor dynamic — Filippo made Theo repair the chairs he broke in rage; the physical labor became meditative. The Franck duet on Christmas Eve was intimate in a way neither of them named.

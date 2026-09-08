@@ -34,7 +34,7 @@ Use this index to find specific events without loading the full bible. Each book
 | Sept 1999 | Eirik Fenholt kidnapping — torture, rape, rescue with Harry Potter; St. Mungo's catatonia; Samaya pulls Jackie out |
 | Oct 1999 | First post-kidnapping intimacy; Taylor Estate training with Samaya; Amalthea visit; Pensieve night; Wizengamot hearing (life sentence); Hermione encounter |
 | Oct 30–31, 1999 | Stag/bachelorette parties; Theo kisses Draco (stag night); Halloween wedding ceremony; wedding night — first time with Draco |
-| Nov 1999–Jan 2000 | Golden Trio dinner (disaster); Sectumsempra duel; dowry condition revealed; Jackie confesses Theo's rape to Draco; Draco asked to move out; Christmas gifts; Draco leaves (Dec 26) |
+| Nov 1999–Jan 2000 | Golden Trio dinner — attempted reconciliation collapses, Draco's Manor apology remains unfinished; Sectumsempra duel; dowry condition revealed; Jackie confesses Theo's rape to Draco; Draco asked to move out; Christmas gifts; Draco leaves (Dec 26) |
 | Jan–Feb 2000 | Theo's parents visit; Jackie reclaims agency through dueling; confrontation with Cyrus; Snake Soirée (first); betrothal clause voided; Narcissa sentenced |
 | Feb–Apr 2000 | Pansy teaches Jackie strategic cruelty; Jackie cracks Theo's ribs in training; Animagus breakthrough (snow leopard); Snake Soirée reprise — Jackie confronts Draco, brief kiss, offers future meeting |
 

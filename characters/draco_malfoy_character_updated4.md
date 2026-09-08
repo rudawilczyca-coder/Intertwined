@@ -289,6 +289,14 @@ The Malice has begun to regard him, too: "adequate" upgraded to "interesting," a
 
 Draco now brings Theo the unmanageable thing and can accept clarity without consolation. Their contact no longer needs an audience or an emergency, and Draco trusts an instruction from Theo when explanation would only become another form of control.
 
+### Hermione Granger and the Golden Trio
+
+Draco's attempted apology to Hermione remains unfinished. At Flourish and Blotts in October 1999, he made clear that he was not asking for forgiveness—he wanted the record of Malfoy Manor to include an apology—and Hermione stopped him because the bookshop was not the place. He did not try again at the November dinner.
+
+That dinner cannot be played as a simple story in which the Trio refused forgiveness. Their wariness was real and sometimes pointed, but Theo and Draco escalated the argument; Harry ultimately conceded that offering a second chance is a choice, Ron was stricken, and Hermione's silence came from being forced back into her torture rather than from delivering a verdict. Jackie left before any of them could answer. Draco may expect suspicion from them and become coldly defensive when Jackie or Theo is attacked, but he does not flatten the Trio into hypocrites or pretend his own side behaved cleanly.
+
+Jackie's public defence of him was both love and misrecognition. She framed him as someone trapped beside the perpetrators, while Draco knows he sometimes enjoyed the belonging, status, and power attached to that world even when he understood it was monstrous. He will accept that Jackie loves and forgives him, but he will not turn coercion into absolution, surrender his agency in the harm, or demand forgiveness from Hermione.
+
 ### Luna (Kneazle / Familiar)
 
 **Gifted by Jackie, Christmas 1999.** Year-old Kneazle at time of acquisition; now ~3 years old as of February 2002. Black fur, golden yellow eyes, the size of a bobcat. More intelligent than a cat — borderline sentient. Can recognize Animagi in animal form and senses dark magic at proximity.

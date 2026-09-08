@@ -27,7 +27,7 @@ Use this index to jump to specific events without scanning the full document. Or
 | Sept 1999 | Eirik Fenholt kidnapping — torture, rape, rescue with Harry Potter; St. Mungo's catatonia; Samaya pulls Jackie out |
 | Oct 1999 | First post-kidnapping intimacy; Taylor Estate training with Samaya; Amalthea visit; Pensieve night; Wizengamot hearing (life sentence); Hermione encounter |
 | Oct 30–31, 1999 | Stag/bachelorette parties; Theo kisses Draco (stag night); Halloween wedding ceremony; wedding night — first time with Draco |
-| Nov 1999–Jan 2000 | Golden Trio dinner (disaster); Sectumsempra duel; dowry condition revealed; Jackie confesses Theo's rape to Draco; Draco asked to move out; Christmas gifts; Draco leaves (Dec 26) |
+| Nov 1999–Jan 2000 | Golden Trio dinner — attempted reconciliation collapses, Draco's Manor apology remains unfinished; Sectumsempra duel; dowry condition revealed; Jackie confesses Theo's rape to Draco; Draco asked to move out; Christmas gifts; Draco leaves (Dec 26) |
 | Jan–Feb 2000 | Theo's parents visit; Jackie reclaims agency through dueling; confrontation with Cyrus; Snake Soirée (first); betrothal clause voided; Narcissa sentenced |
 | Feb–Apr 2000 | Pansy teaches Jackie strategic cruelty; Jackie cracks Theo's ribs in training; Animagus breakthrough (snow leopard); Snake Soirée reprise — Jackie confronts Draco, brief kiss, offers future meeting |
 
@@ -918,7 +918,7 @@ Use this index to jump to specific events without scanning the full document. Or
 
 - Jackie and Draco handle a reporter — she goes full pureblood diplomat. Butterbeers at the Leaky. Draco's devastating joke: *"Technically, I'm not the one fucking insufferable. Yet."*
 - Draco shows her his retrieved Protean ring. She kisses him in public.
-- **Hermione encounter at Flourish and Blotts.** Hermione asks why Theo and Draco. Jackie: *"If we decide people are nothing more than the sum of their worst failures, then we leave them no room to change."* Draco begins to apologize for Malfoy Manor — Hermione stops him: *"Not here."*
+- **Hermione encounter at Flourish and Blotts.** Hermione offers help with the Fenholt aftermath, then privately asks Jackie why Theo and Draco — and how she can stomach it. Jackie: *"If we decide people are nothing more than the sum of their worst failures, then we leave them no room to change."* Draco says his apology is not a request for forgiveness but an attempt to make the record accurate; he begins apologizing for Malfoy Manor, and Hermione stops him: *"Not here."*
 - Jackie proposes dinner together — **Saturday, November 6, Muggle restaurant.** Hermione agrees.
 
 ---
@@ -981,8 +981,13 @@ Use this index to jump to specific events without scanning the full document. Or
 
 ### November 1999 – April 2000: Confrontations & Breakdown
 
-**One Week Post-Wedding**
-- Dinner with Golden Trio: disaster. Theo argues system rejects people like him/Draco; Jackie frames them as victims. Tension escalates.
+**Saturday, November 6 — Dinner with the Golden Trio**
+- The seven-person reconciliation dinner takes place at a Muggle Indian restaurant: Jackie, Theo, and Draco with Hermione, Harry, Ginny, and Ron. Shared food briefly creates genuine common ground, but Harry and Ron's pointed remarks about prejudice and Auror trust put Theo and Draco on the defensive.
+- Theo argues that the postwar system excludes people like him and Draco even after they change; Ginny names the danger of trusting wizards who have already proved untrustworthy. Draco insists that people can change but trust must be earned rather than awarded with a pardon. The exchange is adversarial on both sides, not a simple refusal by the Trio to forgive.
+- Jackie rejects both positions and argues that somebody must offer trust first. Trying to prove Draco was also a victim, she asks Hermione whether Draco enjoyed what happened at Malfoy Manor. Hermione is visibly thrown back into the trauma and cannot answer.
+- Jackie's defence lands painfully on Draco: he recognizes it as love, but knows that captivity and coercion do not erase the times he enjoyed belonging, status, and proximity to power. Being framed as only a victim feels like another denial of the truth he had tried to own.
+- Harry concedes that Jackie is right about second chances being a choice; Ron is stricken rather than triumphant. Jackie interprets Hermione's silence as condemnation, says they do not know forgiveness, and leaves before anyone can answer. Theo follows and validates her hurt; Draco pays the bill and leaves separately, emotionally emptied.
+- **Lasting state:** Draco's Malfoy Manor apology remains unfinished. The dinner leaves all sides wary and ashamed, with no clean moral victor and no reconciliation achieved.
 
 **November 7, 1999**
 - Recreational duel: Jackie wins with Theo. Theo vs. Draco: Draco uses Sectumsempra, nearly kills Theo. Blood transfusion and healing spells save him.
