@@ -3,16 +3,16 @@
 **Date:** Thursday, 8 August 2002
 
 **Status:** Friday evening at the World Cup Diplomatic Reception in the Hôtel de
-Lauzun. Jackie remains across the reception rooms with Commandant Lucien Marchand
-after explaining from professional experience that Harry will stay inside the
-protected enclosure only until an attack begins. She briefly noticed the handsome
-stranger beside Draco before returning to the security consultation. Draco could
-not tell whether she looked at him or Adrien, chose the ungenerous interpretation,
-and raised his glass to her. Adrien admits that the stories about Draco disagree
-and says he has not yet gathered enough evidence. Draco enjoys the challenge and
-prolongs the encounter by returning Adrien's untouched flute with “Then you have
-been inefficient.” Adrien answers, “I have only just begun.” No dance has yet been
-proposed or accepted. Alice's turn.
+Lauzun, roughly fifteen minutes after Adrien told Draco, “I have only just begun.”
+During that interval Jackie checks Draco every few minutes and repeatedly sees him
+still engaged with Adrien beside the broom-shaped fountain, apparently fine. She
+continues her easy professional exchange with Commandant Lucien Marchand, samples
+two circulating savoury bites, praises the stadium model's clean third-tier ward
+anchoring, and laughs with him. Marchand then invites her to meet continental
+liaison colleagues working a trans-Alpine smuggling route. Jackie sets down her
+empty flute and follows him deeper into the gallery. No dance has been proposed or
+accepted on-page; Draco and Adrien's corresponding fifteen minutes remain unplayed.
+Sable's turn.
 
 **Latest live development (2026-09-06):** The fresh Sol turn supersedes both
 rejected Astra attempts. Draco admits disliking Jacques's flirtation and enjoying
@@ -431,6 +431,12 @@ motives or answer for her.
   that want through Jackie and retaliation so he need not own it. The later
   confrontation should make him admit the desire without collapsing into
   guilt: Jackie may accept what he wanted while refusing responsibility for
-  authoring it. Their conversation has only begun. Adrien has not proposed a
-  dance; Draco has not accepted one.
+  authoring it. Their first exchange has now extended for at least fifteen
+  minutes, although its contents after Adrien's “I have only just begun” remain
+  unplayed. Adrien has not proposed a dance; Draco has not accepted one.
+- Jackie and Marchand's conversation continues for roughly fifteen minutes. Her
+  periodic glances establish only that Draco remains beside Adrien and appears
+  absorbed rather than distressed; they do not establish what the men discuss.
+  Jackie follows Marchand deeper into the gallery to meet continental liaison
+  colleagues, leaving Sable to play the matching interval before moving beyond it.
 - Saturday: France v Wales World Cup final.

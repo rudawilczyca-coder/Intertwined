@@ -1,7 +1,7 @@
 # ACTIVE THREADS / LOADED GUNS
 
 **As of:** Friday, 9 August 2002, evening — Paris / Theo detained at the London Camarilla court.
-**Last fixed beat:** At the Hôtel de Lauzun reception, Jackie remains in a security consultation with Marchand after explaining Harry's predictable response to an attack. Across the rooms, Draco has chosen to prolong Adrien's openly interested conversation, handing back his untouched flute and challenging him to gather evidence. No dance has been proposed or accepted.
+**Last fixed beat:** At the Hôtel de Lauzun reception, roughly fifteen minutes have passed since Draco chose to prolong Adrien's openly interested conversation. Jackie has checked them every few minutes, seen Draco apparently absorbed and fine beside the broom-shaped fountain, and continued with Marchand. She now follows Marchand deeper into the gallery to meet continental liaison colleagues. Draco and Adrien's corresponding interval remains unplayed; no dance has been proposed or accepted on-page.
 **Current arc source:** `arcs/the_honeymoon_they_owed.md`.
 
 This is the single live-thread ledger. Each item records only current status, the unresolved edge, and its source. Event recap belongs in the cited source; present emotional state belongs in `reference/current_DracoTheo_state.md`.
@@ -16,7 +16,9 @@ This is the single live-thread ledger. Each item records only current status, th
 Tuesday through Thursday are complete. Friday has advanced into the diplomatic
 reception: Jackie is advising Marchand about Harry while Draco has allowed his
 attraction and private scorekeeping to keep him beside Adrien for further conversation.
-Still ahead: Jackie's response and the reception's confrontation; Saturday's
+Jackie's side has advanced fifteen minutes and ended with her following Marchand
+toward a continental liaison group; Draco and Adrien's matching interval is next.
+Still ahead: the reception's escalation and confrontation; Saturday's
 Fontainebleau World Cup Final.
 **Unresolved:** whether Adrien can earn a dance invitation and Draco can own his
 choice; the encounter's consequences; Saturday's final.
