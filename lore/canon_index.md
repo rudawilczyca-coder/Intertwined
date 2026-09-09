@@ -135,6 +135,7 @@ Use this index to find specific events without loading the full bible. Each book
 | July 12–21 | Ruby refuses contact; Jackie invokes Ruby's scars and is expelled; Haven House rupture; Jackie apologises to Draco July 18 |
 | July 22–25 | Four-night questions-game text thread; Ruby survives first moon July 24; no-contact goodbye “I love U”; Draco's “I love you” bounces unread |
 | July 25–26 | “To Home” blood-and-wine toast; Genevieve sends three World Cup final tickets and counts Theo in writing; Jackie and Draco plan Paris before Fontainebleau |
+| July 31 | Draco sends Hermione the apology letter Ruby challenged him to stop withholding; he names school cruelty, Malfoy Manor, and his use of Hermione's silence at the 1999 dinner as an escape; asks for neither forgiveness nor reply; Hermione's reaction remains unestablished |
 
 ### BOOK TEN: PARIS & FONTAINEBLEAU (August 2002 — in progress)
 → `arcs/the_honeymoon_they_owed.md`

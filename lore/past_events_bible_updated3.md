@@ -2288,7 +2288,7 @@ Three things happened on February 20th.
 
 ---
 
-## BOOK NINE: THE RUBY ARC (May – July 26, 2002)
+## BOOK NINE: THE RUBY ARC (May – July 31, 2002)
 
 ### PHASE ONE: AN ORDINARY WORLD (May – June 30, 2002)
 
@@ -2331,10 +2331,15 @@ Three things happened on February 20th.
 - Hope delivered Pansy's letter on Genevieve Lavigne stationery with **three tickets** to the France–Wales Quidditch World Cup final below Fontainebleau on August 10. Genevieve counted Theo, a legally dead man, in writing. Theo's cover identity and feeding/travel safeguards remain to be settled.
 - Jackie proposed taking Draco to Paris for four days before the final—the honeymoon their April wedding never had. Theo endorsed it and named a want of his own: the coerced first Nott wedding deserves repair one day through chosen vows, a honeymoon, and “a weekend where nobody's father exists.” On Friday, July 26, Draco said yes to Paris.
 
-### END-OF-ARC STATE — FRIDAY, JULY 26, 2002
+### CODA: THE LETTER (July 31, 2002)
+
+- Fulfilling the commitment Ruby forced him to stop treating as optional, Draco completed and sent Hermione a written apology. He named his chosen school cruelty and use of the slur, his failure to act at Malfoy Manor, and the November 1999 dinner—especially that Hermione had been asked to revisit her torture in public and that he let her silence become his escape from finishing the apology.
+- The letter offered no account of how much Draco had changed, asked for neither forgiveness nor a reply, and left Hermione free to receive it however she chose. Her receipt, reaction, and any answer remain unestablished.
+
+### END-OF-ARC STATE — WEDNESDAY, JULY 31, 2002
 
 - **Ruby:** survived her first moon; protected by Charlie's pack; all memories intact; no-contact with Draco; location unknown to Haven House; Vex with her. Her “I love U” reached Draco. His answer did not reach her.
-- **Draco:** physically healed; honours no-contact absolutely; keeps the final message and undelivered reply; grieving but held. Paris and Fontainebleau are next.
+- **Draco:** physically healed; honours no-contact absolutely; keeps the final message and undelivered reply; grieving but held. On July 31 he sent Hermione the apology Ruby had challenged him to stop withholding. Paris and Fontainebleau are next.
 - **Jackie:** apologised to Draco for her defence turning cruel; remains unresolved with Ruby; planning the Paris honeymoon. The herbary door keeps the knife scar.
 - **Theo:** stable on the contracted vessel system; explicitly counted by Genevieve; will hold Haven House during Paris and Portkey to the final. His wedding-repair want is now spoken.
 - **Robbie:** in Muggle custody and charged for July 11 and Swansea 2001; Obliviated only of magic; removed from the board.
@@ -2347,7 +2352,6 @@ Three things happened on February 20th.
 - Genevieve's written acknowledgement that Theo lives, and the question of what she wants.
 - Theo and Jackie's future wedding repair and honeymoon.
 - The Charlie–Draco doorway conversation from July 11.
-- Draco's apology letter, promised before the end of July.
 - The “Yours” parallel, Jackie's private-exit arithmetic, and the soul-bond question remain dormant.
 - Ruby and the Blackthorn pack continue off-page. No-contact is canon, not an invitation to engineer a reunion.
 
@@ -2358,4 +2362,4 @@ Three things happened on February 20th.
 ---
 
 *[End of The Complete Past Events Bible]*
-*Last updated: Friday, July 26, 2002 (story date) — includes the completed Ruby Arc and the Paris/World Cup pivot.*
+*Last updated: Wednesday, July 31, 2002 (story date) — includes the completed Ruby Arc, Draco's sent apology to Hermione, and the Paris/World Cup pivot.*

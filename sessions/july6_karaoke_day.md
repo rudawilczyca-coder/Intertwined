@@ -31,7 +31,7 @@ During/after the film Draco said aloud: **"Muggle"** (twice), **"nobody's holdin
 - Ruby: "Have you ever come clean and apologized to your Carrie?"
 - Draco: **No.** Not one Carrie — a career: the girl he called "a word I won't translate into any dialect" (Hermione-shaped, unnamed), the round-faced boy whose failures he made theatre (Neville-shaped), and "it became genuinely dark… my family's name was on the letterhead of the darkness." His architecture: *an apology is a transaction that bills the injured party* — never found a version that wasn't for his benefit; pays instead in distance ("a garden you once salted") and suspects it's cowardice. Also: the one he treated worst **came back for him** when he was "in real danger, the kind you don't walk out of alone" — never thanked (Harry / the fire; kept Statute-vague).
 - **Ruby's scalpel (landed clean):** he doesn't get to choose whether he deserves to apologize; send it, let them choose — *"as long as you hold it off, you can tell yourself that they would've accepted, and sleep better at night."*
-- Draco conceded totally ("Adjudicated. Against me… The unsent letter isn't mercy, it's escrow"). **COMMITTED (canon, dated):** letter to the girl he called the word, **posted before end of July 2002**, verdict accepted without appeal — "including hating me in writing by return post" (caught his own "return owl" mid-word).
+- Draco conceded totally ("Adjudicated. Against me… The unsent letter isn't mercy, it's escrow"). **COMMITTED AND DISCHARGED (canon):** the letter to Hermione was sent on **31 July 2002**, with no request for forgiveness or reply; Hermione's reaction remains unestablished. Draco accepts her verdict without appeal — including hating him in writing by return post (he caught his own "return owl" mid-word).
 - Ruby's forgiveness ethic (canon): forgives if guilt is admitted; **Clary estrangement** = she won't acknowledge the hurt to the family. Draco's private irony, interior only: *someday I'll be the one at her door with the drafted versions, over a night exactly like this one, and those terms will be the only thing I have.*
 
 ## §IV. Night — the nightmares
@@ -169,7 +169,7 @@ Draco's answer (canon architecture):
 - **⚠️ NEXT MAJOR BEAT — TO BE PLANNED OOC WITH ALICE BEFORE PLAYING: Robbie knocks on Ruby's door, Wed 10 / Thu 11 July** ("the flat"). Alice wants a proper planning pass (like the block): beats, Draco's location/arrival, the clause ("she tells him everything, never alone in the room again"), Vex factor, what Robbie wants, exit condition, aftermath. Draco's grass promise stands and is now armed alongside his morning vow ("he escalates against both of us").
 
 **Draco's obligations ledger (all canon):**
-1. **Apology letter** to "the girl he called the word" — posted before end of July 2002, verdict accepted without appeal.
+1. **Apology letter** to Hermione — ✅ sent 31 July 2002; verdict accepted without appeal; no response established.
 2. **"One day I'll tell you about that school properly — it's owed."**
 3. **The clause:** she tells him everything moving forward / she's never the only person in the room when it hurts.
 4. Karaoke (✅ discharged this session).
