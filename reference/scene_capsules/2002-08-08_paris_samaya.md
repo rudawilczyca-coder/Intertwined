@@ -3,16 +3,15 @@
 **Date:** Thursday, 8 August 2002
 
 **Status:** Friday evening at the World Cup Diplomatic Reception in the Hôtel de
-Lauzun, roughly fifteen minutes after Adrien told Draco, “I have only just begun.”
-During that interval Jackie checks Draco every few minutes and repeatedly sees him
-still engaged with Adrien beside the broom-shaped fountain, apparently fine. She
-continues her easy professional exchange with Commandant Lucien Marchand, samples
-two circulating savoury bites, praises the stadium model's clean third-tier ward
-anchoring, and laughs with him. Marchand then invites her to meet continental
-liaison colleagues working a trans-Alpine smuggling route. Jackie sets down her
-empty flute and follows him deeper into the gallery. No dance has been proposed or
-accepted on-page; Draco and Adrien's corresponding fifteen minutes remain unplayed.
-Sable's turn.
+Lauzun, immediately before the formal addresses. Both sides of the same fifteen
+minutes have now been played. Jackie checks Draco periodically, sees him still
+absorbed with Adrien and continues with Marchand before following him toward a
+continental liaison group. Adrien earns Draco's professional respect through
+foreign-contract sparring and remains publicly beside him through interruptions
+and recognition by British officials. After Jackie moves deeper into the gallery,
+Adrien plainly asks Draco to dance after the speeches. Draco agrees to one dance
+at formal distance. The dance has been agreed but has not begun. Adrien's last line
+is, “I have gathered one more piece of evidence.” Alice's turn.
 
 **Latest live development (2026-09-06):** The fresh Sol turn supersedes both
 rejected Astra attempts. Draco admits disliking Jacques's flirtation and enjoying
@@ -436,7 +435,9 @@ motives or answer for her.
   unplayed. Adrien has not proposed a dance; Draco has not accepted one.
 - Jackie and Marchand's conversation continues for roughly fifteen minutes. Her
   periodic glances establish only that Draco remains beside Adrien and appears
-  absorbed rather than distressed; they do not establish what the men discuss.
-  Jackie follows Marchand deeper into the gallery to meet continental liaison
-  colleagues, leaving Sable to play the matching interval before moving beyond it.
+  absorbed rather than distressed. During the matching interval Adrien reveals
+  that he advises the French Magical Games Committee on foreign contracts; he and
+  Draco spar over contract language and weather two public interruptions without
+  Adrien creating distance. Adrien then asks Draco for a dance after the speeches.
+  Draco agrees to one dance at formal distance; it has not begun.
 - Saturday: France v Wales World Cup final.

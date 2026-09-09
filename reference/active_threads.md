@@ -1,7 +1,7 @@
 # ACTIVE THREADS / LOADED GUNS
 
 **As of:** Friday, 9 August 2002, evening — Paris / Theo detained at the London Camarilla court.
-**Last fixed beat:** At the Hôtel de Lauzun reception, roughly fifteen minutes have passed since Draco chose to prolong Adrien's openly interested conversation. Jackie has checked them every few minutes, seen Draco apparently absorbed and fine beside the broom-shaped fountain, and continued with Marchand. She now follows Marchand deeper into the gallery to meet continental liaison colleagues. Draco and Adrien's corresponding interval remains unplayed; no dance has been proposed or accepted on-page.
+**Last fixed beat:** At the Hôtel de Lauzun reception, both sides of the same fifteen-minute interval have been played. Jackie has followed Marchand deeper into the gallery to meet continental liaison colleagues. After sustained professional sparring and two public interruptions, Adrien asks Draco to dance after the formal addresses. Draco agrees to one dance at formal distance. The dance has not begun.
 **Current arc source:** `arcs/the_honeymoon_they_owed.md`.
 
 This is the single live-thread ledger. Each item records only current status, the unresolved edge, and its source. Event recap belongs in the cited source; present emotional state belongs in `reference/current_DracoTheo_state.md`.
@@ -15,13 +15,13 @@ This is the single live-thread ledger. Each item records only current status, th
 ### 🔴 Paris → Fontainebleau, Aug 6–10
 Tuesday through Thursday are complete. Friday has advanced into the diplomatic
 reception: Jackie is advising Marchand about Harry while Draco has allowed his
-attraction and private scorekeeping to keep him beside Adrien for further conversation.
-Jackie's side has advanced fifteen minutes and ended with her following Marchand
-toward a continental liaison group; Draco and Adrien's matching interval is next.
+attraction and private scorekeeping to keep him beside Adrien through fifteen
+minutes of conversation. Adrien has now earned and received agreement to one
+formal-distance dance after the addresses; the dance has not begun.
 Still ahead: the reception's escalation and confrontation; Saturday's
 Fontainebleau World Cup Final.
-**Unresolved:** whether Adrien can earn a dance invitation and Draco can own his
-choice; the encounter's consequences; Saturday's final.
+**Unresolved:** the agreed Adrien dance and whether Draco can own his choice; the
+encounter's consequences; Saturday's final.
 **Source:** `arcs/the_honeymoon_they_owed.md`.
 
 ### 🔴 Viola's audience / False Eli
