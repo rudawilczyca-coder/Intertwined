@@ -3,10 +3,10 @@
 ## Live working scene
 - Saturday, 10 August 2002, afternoon. France–Wales World Cup Final.
 - Google Doc: https://docs.google.com/document/d/1QTeorprmy5PmNHG3lmm_r1TXyV2hAFcGYfhKpv6RbiY/edit
-- Opening is a live working draft, not yet archived played canon.
-- Draco stands at the hospitality-village junction overlooking the stadium. Welsh accents and dragon merchandise briefly prompt an involuntary search for Ruby, who is not present. He comments on confectionery and galettes.
-- Bastien meets them with gougères. Vivienne, Margaux and Élodie are beneath a nearby awning. Bastien offers Jackie the bag and asks whether she is hungry. Her response is unwritten.
-- No transport method or security clearance has been established by this opening. No stadium ward bypass is implied.
+- Opening is a live working draft, not yet archived played canon. The earlier rushed opening was withdrawn and replaced in full.
+- Draco and Jackie are on a forest path at Fontainebleau. The first sensory facts are cicadas, pine needles, sun-warmed sandstone, bars of afternoon light, and the distant crowd sounding like water against a shore. The stadium and hospitality village have not yet appeared directly.
+- Draco stops, turns towards Jackie with one hand loose in his trouser pocket, and says, “All right. This part is rather beautiful.” Her response is unwritten.
+- No cousins, vendors, security crossing, Ruby association, transport method, or stadium ward bypass has entered the played scene.
 - Alice alone writes Jackie. Sable writes Draco and NPCs. No Jackie action, dialogue or interiority may be inferred from this capsule.
 
 ## Incoming continuity
