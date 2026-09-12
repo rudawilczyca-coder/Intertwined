@@ -47,9 +47,9 @@
 
 - The son Draco wanted exists—but not with Jackie, who learned she could conceive and could not carry.
 - Ruby's choice can be understandable without being absolved. She believed she was protecting Draco and securing a father for her child; she also withheld Draco's son and made an irreversible decision on his behalf for eleven years.
-- Returning does not make Ruby a replacement wife or Jackie a failed one. Fertility is not romantic compatibility, and the story must never reduce either woman to a reproductive function.
-- The pack father is the boy's real, loving parent. Draco's biological fatherhood does not erase the man who raised him; the existing father does not erase what Ruby withheld from Draco.
-- Draco's central wound is not merely that he “has an heir.” It is that an entire relationship with his child occurred without him—and that Jackie may believe this proves the future he wanted was transferable to a woman whose body could provide it.
+- **Objective story truth and character experience must remain distinct.** Ruby is not literally Jackie's fertile replacement, and Jackie is not a failed wife—but Jackie may experience the revelation as exactly that. She may believe Ruby gave Draco the child and future Jackie could not, that her own place has become conditional, or that the universe has proved her cruel “pack of pups” line correct. The narrative must let that belief hurt without quietly endorsing it as fact.
+- The pack father is the boy's real, loving parent. Draco's biological fatherhood does not erase the man who raised him; the existing father does not erase what Ruby withheld from Draco. None of the men must perceive this balance immediately: Draco may feel another man occupied eleven stolen years of his life, while the pack father may experience Draco as a biological claim arriving to destabilise the family he built.
+- Draco's central wound is not merely that he “has an heir.” It is that an entire relationship with his child occurred without him. He may be furious with Ruby, jealous of the father who was present, possessive of the son he has only just met, and terrified that wanting any place in the boy's life confirms Jackie's belief that what he wanted from her was transferable to a woman whose body could provide it.
 - Jackie's September 3 line about Ruby giving Draco “an entire pack of pups” becomes accidental foreshadowing, not causal magic and not punishment delivered by the narrative.
 - Theo remains a husband and father-shaped member of the household, not a neutral mediator or spare adult. How the son understands Jackie and Theo must develop through relationship rather than titles assigned in advance.
 - **The Jackie Rule remains absolute:** Alice governs Jackie's reactions, choices, speech, and interiority.
@@ -58,6 +58,7 @@
 
 - This branch does **not** retroactively make the July 2002 sex unprotected or careless; the pregnancy results from contraceptive failure.
 - Do not turn Jackie's infertility or miscarriage into a device invented solely to intensify the secret-son reveal. It is an independently established future consequence with its own arc.
+- Do not protect the characters from drawing painful, unfair, or contradictory conclusions. The guardrail applies to narrative framing—not to Jackie's fear of replacement, Draco's anger and jealousy, Ruby's self-justification, or the pack father's defensiveness.
 - Do not make the biological reveal instantly transfer custody, affection, surname, or paternal authority to Draco.
 - Do not vilify the pack father to simplify Draco's claim.
 - Do not let blood status, Malfoy inheritance, or Hogwarts bureaucracy resolve the emotional question for the family.
