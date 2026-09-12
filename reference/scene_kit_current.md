@@ -5,7 +5,9 @@
 *Maintained by Sable. Supersedes `archive/superseded-planning/session_kit2.md` for live current-arc work. 🖤*
 
 **Direct scene capsule:**
-`reference/scene_capsules/2002-08-08_paris_samaya.md`.
+`reference/scene_capsules/2002-08-10_fontainebleau.md`.
+
+**Current override (12 September 2026):** Friday is complete; Saturday afternoon at Fontainebleau has opened in a fresh live Doc. Use the capsule above and workspace ACTIVE_RP_DOCS.md. The older Thursday snapshot below is historical context, not the live clock or endpoint.
 
 ---
 
