@@ -7,7 +7,7 @@
 - Jackie and Draco have crossed the first Muggle-repelling ward and the second ticket ward, descended through the hospitality village, and reached the Lavigne tent. The third reading ring remains ahead and unreached.
 - Bastien greeted Jackie outside, completed a warm handshake with Draco, and departed with a crate of Friday's empty bottles for the hospitality collection point.
 - Jackie and Draco are now inside the magically expanded Lavigne lounge with Margaux and Élodie. Geneviève and Vivienne are at tea with the Welsh representation captain's aunt over possible mining shares; Francine remained at the château to oversee the quartz interests.
-- Margaux greeted Draco with poised teasing. Élodie complained that the shelves were arranged by colour, then asked Draco whether he still plays music. He answered yes; she replied, “Good.” This is the live endpoint.
+- Margaux greeted Draco with poised teasing. Élodie complained that the shelves were arranged by colour, then asked Draco whether he still plays music. Jackie redirected the question to Élodie to protect the private truth of the piano shared with Theo. Élodie said she sometimes plays but finds the resonance difficult to adjust. Margaux offered the tent-town's food and souvenirs, warning that Vivienne is in a foul mood after losing several bets. Draco accepted the redirect, favoured exploring, and Élodie recommended pear pastries over the blue macarons. Draco is holding his hand out to Jackie and asking, “Tent-town?” This is the live endpoint; Jackie's answer is unwritten.
 - Alice alone writes Jackie. The French cousins are a shared ensemble and may be played by either Alice or Sable. No Jackie action, dialogue or interiority may be inferred from this capsule.
 
 ## Incoming continuity
