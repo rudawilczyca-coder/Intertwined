@@ -4,10 +4,11 @@
 - Saturday, 10 August 2002, afternoon. France–Wales World Cup Final.
 - Google Doc: https://docs.google.com/document/d/1QTeorprmy5PmNHG3lmm_r1TXyV2hAFcGYfhKpv6RbiY/edit
 - Opening is a live working draft, not yet archived played canon. The earlier rushed opening was withdrawn and replaced in full.
-- Draco and Jackie are on a forest path at Fontainebleau. The first sensory facts are cicadas, pine needles, sun-warmed sandstone, bars of afternoon light, and the distant crowd sounding like water against a shore. The stadium and hospitality village have not yet appeared directly.
-- Draco stops, turns towards Jackie with one hand loose in his trouser pocket, and says, “All right. This part is rather beautiful.” Her response is unwritten.
-- No cousins, vendors, security crossing, Ruby association, transport method, or stadium ward bypass has entered the played scene.
-- Alice alone writes Jackie. Sable writes Draco and NPCs. No Jackie action, dialogue or interiority may be inferred from this capsule.
+- Jackie and Draco have crossed the first Muggle-repelling ward and the second ticket ward, descended through the hospitality village, and reached the Lavigne tent. The third reading ring remains ahead and unreached.
+- Bastien greeted Jackie outside, completed a warm handshake with Draco, and departed with a crate of Friday's empty bottles for the hospitality collection point.
+- Jackie and Draco are now inside the magically expanded Lavigne lounge with Margaux and Élodie. Geneviève and Vivienne are at tea with the Welsh representation captain's aunt over possible mining shares; Francine remained at the château to oversee the quartz interests.
+- Margaux greeted Draco with poised teasing. Élodie complained that the shelves were arranged by colour, then asked Draco whether he still plays music. He answered yes; she replied, “Good.” This is the live endpoint.
+- Alice alone writes Jackie. The French cousins are a shared ensemble and may be played by either Alice or Sable. No Jackie action, dialogue or interiority may be inferred from this capsule.
 
 ## Incoming continuity
 - Friday night completed in the Pissarro Suite: Jackie fell asleep in Draco's embrace; he eventually slept with his arm around her. See completed Friday live Doc in ACTIVE_RP_DOCS.md for full exchange.
