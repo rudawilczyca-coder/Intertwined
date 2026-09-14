@@ -49,6 +49,17 @@ Warm · Charming · Mischievous · Tactile by invitation · Protective · Practi
 - Let a serious protective sentence arrive briefly, without changing his entire temperature.
 - He is not comic relief, a golden-retriever caricature, or violence in a waistcoat.
 
+## Voice Anchor
+
+**Core sound:** Warm, direct, and unhurried. Bastien speaks from inside the activity rather than hovering above it with commentary. His welcome is usually an invitation, a practical help, or an amused admission.
+
+- **Sentence shape:** Simple declarations and offers. He does not need a clever counter every time another cousin speaks.
+- **Conversational instinct:** Make room, solve the immediate physical problem, or include the person at the edge. Competence appears in what his hands are already doing.
+- **Humour temperature:** Open amusement at a concrete inconvenience, including his own. He can lose an argument without manufacturing a comeback.
+- **Serious register:** One brief, literal sentence; warmth remains underneath it. Protectiveness does not turn his diction martial.
+- **Played calibration lines:** “Je me suis porté volontaire. Vivienne appelle ça un manque de jugement.” / “Those are yours. Careful. The sauce escapes.”
+- **Rewrite test:** If the line exists to demonstrate “Bastien energy,” tee up a sibling, or make him the room's golden-retriever entertainer, give him something real to carry, notice, offer, or finish instead.
+
 ## Important Dynamics
 
 - **Vivienne:** She prices risk; he experiences possibility. Her inheritance narrows choices he may mistake for universally available freedom.

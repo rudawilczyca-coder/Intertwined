@@ -49,6 +49,17 @@ Observant · Socially agile · Cunning · Selectively candid · Loyal · Confide
 - Humour is possible without becoming a signature quip in every exchange.
 - She should acquire voice through active scenes. Do not imitate a hypothetical “spy voice” before play earns it.
 
+## Voice Anchor
+
+**Core sound:** Socially easy, observant, and lightly practical. Margaux rarely announces that she has noticed something. She supplies one useful fact, lets the room decide it was ordinary, and moves on.
+
+- **Sentence shape:** Plain, mid-length statements and questions. Avoid matched setup–counter–punchline exchanges; her intelligence should not require a polished final button.
+- **Conversational instinct:** Offer the detail that changes what people do—route, timing, who is waiting—without explaining how she learned to notice it.
+- **Humour temperature:** Dry camouflage, usually attached to something concrete already happening. She does not quip merely to prove sibling chemistry.
+- **Information pressure:** When she wants more, one specific question or a held look is enough. She can allow silence to do the harvesting.
+- **Played calibration lines:** “Margaux is already wearing shoes.” / “Use the north Portkey field. The western path looks shorter, but by evening it won't be.”
+- **Rewrite test:** If the line could belong unchanged to any clever spy, sarcastic sister, or Eloise-shaped rebel, replace the performance with one precise observation that affects the scene.
+
 ## Important Dynamics
 
 - **Vivienne:** Public future and private preparation. Margaux was shaped as her right hand, but support can include withholding agreement or preventing unnecessary exposure.

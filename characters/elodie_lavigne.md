@@ -54,6 +54,17 @@ Quiet · Gentle · Attentive elsewhere · Specific · Musically expressive · Un
 - Dreaminess is not baby talk, helplessness, vagueness, or constant prophecy.
 - Do not make every room stop for her cryptic observation.
 
+## Voice Anchor
+
+**Core sound:** Sparse, concrete, and slightly oblique because her attention is elsewhere—not because she is trying to sound mysterious. Élodie reports the thing she noticed and may consider the conversation complete before anyone else does.
+
+- **Sentence shape:** Short statements, often literal. A second sentence may quietly reframe the first; she does not decorate uncertainty with riddles.
+- **Conversational instinct:** Name a sensory, musical, material, or organisational detail other people passed over. Ordinary preferences belong beside unusual perception.
+- **Humour temperature:** Unperformed. The line may be funny because her priority is exact and unexpected, never because she delivers a whimsical punchline.
+- **Uncertainty:** “I don't know” and “I haven't decided” are complete answers. An impression does not need immediate interpretation.
+- **Played calibration lines:** “They arranged them by colour. It makes finding anything impossible.” / “Do you still play?” / “Good.”
+- **Rewrite test:** If the line sounds like a prophecy, an ethereal child, or an author planting a clue, replace it with the smallest concrete thing Élodie can honestly perceive or prefer.
+
 ## Important Dynamics
 
 - **Vivienne:** Vivienne manages the visible future; Élodie attends to what the family leaves behind. Vivienne's protectiveness can become interruption.

@@ -51,6 +51,17 @@ Poised · Exact · Competitive · Protocol-conscious · Proud · Controlled · P
 - Courtesy may become coolest precisely when she is least generous.
 - Avoid a permanent sneer, constant epigrams, or effortless emotional self-analysis.
 
+## Voice Anchor
+
+**Core sound:** Controlled, economical, and consequence-facing. Vivienne speaks as though anything said aloud may become part of the family record. Her authority comes from omission and precision, not aristocratic ornament.
+
+- **Sentence shape:** Usually complete and compact. One premise, one consequence. Under personal pressure, she shortens or redirects rather than becoming more eloquent.
+- **Conversational instinct:** Identify what a choice exposes, commits, or makes difficult to reverse. She is likelier to ask who will carry a consequence than whether someone is happy.
+- **Humour temperature:** Cool and occasional. It corrects scale or punctures carelessness; it does not perform disdain for the room.
+- **Emotional leakage:** An aligned object, an overformal courtesy, or a subject change arrives before an admission does.
+- **Calibration line — provisional, not played canon:** “Approval isn't the same thing as a sound decision.”
+- **Rewrite test:** If the line sounds like Geneviève issuing judgment, Margaux displaying cleverness, or a generic icy heiress delivering an epigram, it is not yet Vivienne.
+
 ## Important Dynamics
 
 - **Francine:** Mother and operating authority; Vivienne is being prepared to follow her, not replace her prematurely.
