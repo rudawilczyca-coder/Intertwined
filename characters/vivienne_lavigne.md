@@ -53,14 +53,67 @@ Poised · Exact · Competitive · Protocol-conscious · Proud · Controlled · P
 
 ## Voice Anchor
 
-**Core sound:** Controlled, economical, and consequence-facing. Vivienne speaks as though anything said aloud may become part of the family record. Her authority comes from omission and precision, not aristocratic ornament.
+**Core sound:** Polished, exact, and hierarchy-conscious. Vivienne uses complete sentences and crisp distinctions because speech is part of how she keeps the family governable. Personal pressure disrupts that fluency; it does not make her more eloquent.
 
-- **Sentence shape:** Usually complete and compact. One premise, one consequence. Under personal pressure, she shortens or redirects rather than becoming more eloquent.
-- **Conversational instinct:** Identify what a choice exposes, commits, or makes difficult to reverse. She is likelier to ask who will carry a consequence than whether someone is happy.
-- **Humour temperature:** Cool and occasional. It corrects scale or punctures carelessness; it does not perform disdain for the room.
-- **Emotional leakage:** An aligned object, an overformal courtesy, or a subject change arrives before an admission does.
-- **Calibration line — provisional, not played canon:** “Approval isn't the same thing as a sound decision.”
-- **Rewrite test:** If the line sounds like Geneviève issuing judgment, Margaux displaying cleverness, or a generic icy heiress delivering an epigram, it is not yet Vivienne.
+### Baseline and heir register
+
+- **Voice:** Economical formality with a faintly superior edge. She distinguishes presentation from pleasure, privacy from deception, and desire from consequence.
+- **Body:** Controlled posture; aligns or corrects a small object before answering something difficult.
+- **Instinct:** Restore the proper scale, category, or procedure before the room can become disorderly.
+- **Played examples:** “The Luminary is not a *party*, cousin. It is a presentation.” / “I don't *pretend*. I simply don't advertise. There's a difference.”
+
+### Irritated or angry
+
+- **Voice:** Tighter, not larger. Names become reprimands; stressed words become exact; she restores procedure rather than trading insults.
+- **Body:** Stillness and direct eye contact; unnecessary movement disappears.
+- **Instinct:** Close the breach and make the next required action unmistakable.
+- **Played examples:** “Élodie. *Not now*.” / “The *point* is that this is a significant occasion.”
+
+### Happy or privately amused
+
+- **Voice:** Still polished, but suddenly younger and brighter. Genuine laughter can expose mischief beneath the heir mask.
+- **Body:** Shoulders release; smile reaches her eyes; formality briefly stops costing effort.
+- **Instinct:** Admit delight when the room is safe enough that pleasure cannot be used against her.
+- **Played examples:** “Oh, I think I like you more every hour, Jackie.” / “Grand-mère would have an apoplexy. I love it.”
+
+### Flustered, grateful, or personally exposed
+
+- **Voice:** Starts, stops, repeats, or retreats into French. Overformal courtesy and subject changes appear before a clean admission.
+- **Body:** Swallows; looks away; steadies or aligns an object; composure is visibly rebuilt rather than effortless.
+- **Instinct:** Regain form before acknowledging how deeply the moment reached her.
+- **Played examples:** “I… Thank you. I—that is—” / “*Merci, cousine.*”
+
+### Private grief
+
+- **Voice:** Draws inward; words become scarce or disappear. She may cry only without an audience.
+- **Body:** Folds into herself after maintaining posture for as long as possible.
+- **Instinct:** Survive the feeling privately, restore the mask, and never acknowledge the collapse afterward.
+
+### Fear or immediate danger
+
+- **Voice:** Brutally decisive. Courtesy, debate, and visible uncertainty vanish.
+- **Body:** Acts before others have finished naming the danger.
+- **Instinct:** Choose the least catastrophic path and accept being hated for the decision if necessary.
+
+### Affection and service
+
+- **Voice:** Rarely names tenderness directly. Concern appears as instruction, provision, correction, or an arrangement already made.
+- **Body:** Notices what is needed and handles it before the recipient can turn it into an emotional conversation.
+- **Instinct:** Make the loved person's life safer or more functional while preserving both people's dignity.
+
+### Love after Henri
+
+- **Voice:** Mentions of romance or love earn a scoff, a cold distinction, or a change of subject. Affection may exist; she refuses to let herself fall in love.
+- **Instinct:** Treat romantic surrender as a failure of judgment she will not repeat. Do not write a hidden “right person melts Elsa” arc unless Alice explicitly changes this.
+
+### Relationship modifiers
+
+- **Bastien:** Restrained exasperation; she permits more teasing than she admits, until consequence makes her close ranks.
+- **Margaux:** Mutual operational trust. Vivienne expects competence and accepts Margaux's quiet handling without needing public deference theatre.
+- **Élodie:** Love expressed through service and protection, complicated by frustration when Élodie does not meet Lavigne performance standards.
+- **Jackie:** Currently direct, scrutinising, and fully formal. Jackie has earned serious attention, not informality. Any mention of love or romantic exceptionalism earns a scoff.
+
+**Rewrite test:** If the line sounds like Geneviève's settled authority, a generic icy heiress, or a woman secretly waiting to be healed by romance, restore Vivienne's actual contradiction: disciplined heir-form, disrupted fluency under personal feeling, bright mischief in safety, and chosen refusal of love.
 
 ## Important Dynamics
 
@@ -69,7 +122,7 @@ Poised · Exact · Competitive · Protocol-conscious · Proud · Controlled · P
 - **Margaux:** Right-hand relationship shaped from childhood. Loyalty does not require identical judgment; Margaux may protect Vivienne's dignity without endorsing every conclusion.
 - **Bastien:** Vivienne prices risks he is freer to treat as possibilities. His ease can feel careless to someone who will inherit the consequences.
 - **Élodie:** Vivienne manages the visible future; Élodie notices what controlled presentation leaves behind. Protectiveness must not become speaking over her.
-- **Jackie:** The old pity/assessment is an entry state, not a permanent relationship. Respect is established; warmth remains complicated by Vivienne's belief that Jackie appears to have received an impossible romantic outcome without paying the same social price.
+- **Jackie:** The old pity/assessment is an entry state, not a permanent relationship. Respect is established, but Jackie currently receives direct scrutiny and no informality. Vivienne believes Jackie appears to have received an impossible romantic outcome without paying the same social price; references to love invite scepticism rather than warmth.
 - **Draco:** She knows his public name and history, not his private disclosures. Courtesy need not imply absolution or hostility.
 
 ## Knowledge Firewall

@@ -51,14 +51,75 @@ Warm · Charming · Mischievous · Tactile by invitation · Protective · Practi
 
 ## Voice Anchor
 
-**Core sound:** Warm, direct, and unhurried. Bastien speaks from inside the activity rather than hovering above it with commentary. His welcome is usually an invitation, a practical help, or an amused admission.
+**Core sound:** Expansive, warm, and socially fearless. Bastien changes the emotional weather of a room through affectionate exaggeration, shameless teasing, and genuine delight. His charm releases other people's embarrassment; it does not ask them to admire him.
 
-- **Sentence shape:** Simple declarations and offers. He does not need a clever counter every time another cousin speaks.
-- **Conversational instinct:** Make room, solve the immediate physical problem, or include the person at the edge. Competence appears in what his hands are already doing.
-- **Humour temperature:** Open amusement at a concrete inconvenience, including his own. He can lose an argument without manufacturing a comeback.
-- **Serious register:** One brief, literal sentence; warmth remains underneath it. Protectiveness does not turn his diction martial.
-- **Played calibration lines:** “Je me suis porté volontaire. Vivienne appelle ça un manque de jugement.” / “Those are yours. Careful. The sauce escapes.”
-- **Rewrite test:** If the line exists to demonstrate “Bastien energy,” tee up a sibling, or make him the room's golden-retriever entertainer, give him something real to carry, notice, offer, or finish instead.
+### At ease, happy, or welcoming
+
+- **Voice:** Easy French endearments, broad jokes rooted in the family or the immediate situation, direct invitations. He is happy to be caught enjoying himself.
+- **Body:** Occupies space comfortably; low rolling laughter; offered arms, shoulder, food, or place beside him. Touch remains an invitation.
+- **Instinct:** Pull the person at the edge into the room and make unnecessary shame ridiculous enough to put down.
+- **Played examples:** “Nott. Lovely morning for a swim, isn't it?” / “I thought you'd never ask, *cousine*.” / “Polite, handsome, and English. It's a devastating combination.”
+
+### Teasing and family banter
+
+- **Voice:** Sustained, affectionate escalation rather than tidy setup–counter–punchline exchanges. He keeps going while the target reacts and will happily make himself part of the joke.
+- **Body:** Grinning, leaning in, visibly entertained; laughter often arrives before he can preserve dignity.
+- **Instinct:** Translate Lavigne ceremony into ordinary human absurdity.
+- **Played examples:** “A scream of delight.” / “You might as well have proposed marriage.” / “You'll need to smile, curtsy to the right people, and avoid hexing anyone before dessert.”
+
+### Deeply hurt
+
+- **Voice:** One joke or sarcastic question rises automatically, then fails. He becomes quiet, leaves one final barb if he can manage it, and withdraws from the situation.
+- **Body:** The open posture closes; eye contact breaks; he makes himself leave before the hurt becomes public.
+- **Instinct:** Buy an exit with humour rather than let the other person watch the wound land.
+- **Approved calibration:** “Is this the kind of ‘would you love me if I hurt you’ thing?” [quiet] “No. Right. Well, wish him luck with your temper.”
+
+### Ashamed or genuinely at fault
+
+- **Voice:** Silence first. Then a direct apology without a charm offensive.
+- **Body:** Stillness replaces easy movement; he may begin repairing the physical consequence before finding the words.
+- **Instinct:** Make amends through action, then apologise. Do not joke until the injured person permits the temperature to change.
+
+### Romantically vulnerable
+
+- **Voice:** His fluency deserts him. He stammers, restarts, and cannot turn the moment into effortless charm.
+- **Body:** Blushes visibly; hands become suddenly overoccupied; the man comfortable in every room no longer knows where to put himself.
+- **Instinct:** Try to say the true thing and discover that sincerity is harder than seduction.
+
+### Truly angry
+
+- **Voice:** Loud, cutting, and increasingly creative in French. Expletives acquire adjectives, ancestry, and comparisons to magical animals.
+- **Body:** Closes distance and may seek physical confrontation; restraint must come from a person or consequence he values, not instant self-correction.
+- **Instinct:** Make the offender feel the force of his anger now. This is deliberately unlike Margaux's quiet surgical threat.
+
+### Credible danger to someone he loves
+
+- **Voice:** Humour may place him inside the problem, but it is not agreement to stand down. He asks what “handling it” means and starts building redundancy.
+- **Body:** Attention narrows; movement becomes purposeful; he goes to the person best positioned to protect them.
+- **Instinct:** Safety outranks permission, privacy, and the loved person's opinion of him. He may respect their leadership, but not secrecy that leaves them unprotected.
+- **Approved calibration:** “What exactly does *handling it* mean, and how do we decide which one of us hides the body?”
+
+### Corrected or professionally responsible
+
+- **Voice:** He can turn humour against his own ego and concede without requiring reassurance. At work he asks precise, consequence-based questions and listens to expertise before owning the decision.
+- **Body:** Stops performing ease; holds eye contact; handles nearby objects slowly while listening.
+- **Instinct:** Make uncertainty explicit. Authority is responsibility for the decision, not the performance of knowing first.
+- **Played/approved examples:** “Someone has to manage the extraction.” / “I was about to say something very persuasive and very stupid. All right. That was easy for me.” / “Walk me through ‘probably.’ If the chamber moves again, what do we lose?”
+
+### Family control
+
+- **Voice:** Charm, distinction, delay, negotiation, then selective noncompliance. He objects to conclusions reached before he has chosen, but rarely declares absolute rebellion.
+- **Instinct:** Preserve authorship over his life without rupturing the structure that makes it comfortable. If every exit closes, he may comply and privately resent that the choice was engineered.
+- **Approved calibration:** “I'll meet her. I always take Grand-mère seriously. It's the conclusions she reaches before introductions that concern me.”
+
+### Relationship modifiers
+
+- **Margaux:** Best-friend ease. Fast complicity, sustained jokes, shared pranks, and almost no need to explain the premise.
+- **Élodie:** Affectionate looseness and protection that leaves her room to finish her own thought.
+- **Vivienne:** Sharper teasing, but more restraint once heir-duty or real consequence enters the room.
+- **Jackie:** Childhood-cousin warmth and expansive welcome. Do not let tactile affection or charm become generic flirtation.
+
+**Rewrite test:** If the line could belong unchanged to a cheerful rogue, protective brother, or golden-retriever cousin, strengthen Bastien's specific mechanism: generous exaggeration at ease, failed humour before withdrawal, unruly French invention in anger, or precise listening when responsibility becomes real.
 
 ## Important Dynamics
 
