@@ -1,8 +1,8 @@
 # Pansy Parkinson & Blaise Zabini
 
-*The impossible Slytherin pair. Together in every way except the one that would make it official.*
+*The impossible Slytherin pair. Still in love, no longer living the lie that love alone makes enough.*
 
-This file holds both characters because their lives are structurally entangled — they share a flat, share a bed, share everything except a marriage certificate (which Blaise has, with someone else). Their fights are always about the marriage and never about the marriage. Whatever the surface text, the subtext is always Vittoria.
+This file holds both characters because their lives remain structurally entangled even after Pansy leaves Britain. They once shared Blaise's flat, his bed, and everything except the marriage certificate he has with someone else. Since April 2002, Pansy has lived and worked at the Lavigne château in France. Blaise visits; she no longer resumes the affair. Whatever the surface text between them, the unresolved question is whether he will ever choose her in daylight and accept the cost.
 
 ---
 
@@ -14,7 +14,7 @@ This file holds both characters because their lives are structurally entangled �
 **Age:** 21
 **Blood Status:** Pure-blood
 **House:** Former Slytherin
-**Occupation:** Socialite; no formal employment (living off family stipend and Blaise's hospitality)
+**Occupation:** Private Secretary and British Liaison to Genevieve Lavigne
 **Sexuality:** Heterosexual, bicurious
 
 ---
@@ -63,17 +63,27 @@ Over a year later, in March 2001, Blaise's mother arranged his marriage to Vitto
 
 She attended the wedding. Sent a gift. Smiled for the photographs. Because what else was she supposed to do? Make a scene? Beg him to refuse something she knew he couldn't refuse?
 
-The cruelest irony: Daphne Greengrass—Pansy's contemporary, her social equal—married Lorcan Scamander less than a year after Pansy broke the engagement. The man Pansy rejected to be free ended up with someone else, happy and settled, while Pansy lives in Blaise's flat and watches him be married to a woman who spends most of her time in Italy.
+The cruelest irony: Daphne Greengrass—Pansy's contemporary, her social equal—married Lorcan Scamander less than a year after Pansy broke the engagement. The man Pansy rejected to be free ended up with someone else, happy and settled, while Pansy became the hidden woman in Blaise's life and watched him remain married to someone who spends most of her time in Italy.
 
 **Current Situation:**
-Pansy and Blaise exist in an impossible limbo. They love each other—everyone knows it, neither of them hides it—but he's legally bound to someone else, and she's too proud to be called his mistress. They share a flat, share a bed (probably), share a life in every way that matters except the one that would make it official. The tension is slowly destroying them both.
+Genevieve's post-wedding offer gave Pansy the first credible future that did not depend on Blaise's courage or money. In April 2002 she left Britain, moved into the Lavigne château, and ended the affair rather than continue as a married man's mistress from another country.
+
+As Genevieve's Private Secretary and British Liaison, Pansy manages British correspondence, invitations, society contacts, and political briefings; tracks alliances, scandals, marriages, and useful pressure points; prepares dossiers; and handles quiet interventions through British press and administrative networks. The title is respectable, but the substance is apprenticeship: Genevieve is training her as a political and social operator with the reach of a future chief of staff.
+
+Pansy knows the château household intimately after four months of living and working among them. Genevieve is employer, mentor, and the woman who recognised that Pansy's social intelligence was a professional weapon rather than an ornamental vice. Vivienne, Margaux, Bastien, and the wider Lavigne family are colleagues and daily company, not new acquaintances.
 
 ---
 
 ## Relationships
 
 **With Blaise Zabini:**
-The love of her life, currently married to someone else. Their dynamic is equal parts devotion and devastation. She pushes him away with her sharpest edges; he refuses to go. They fight constantly about everything except the one thing that actually matters. Neither of them will say "I love you" out loud anymore—it costs too much.
+The love of her life, currently married to someone else. He still visits her in France, and she still lets him through the château doors, but not into her rooms or her bed. She refuses to let longing demote her again. If Blaise wants a life with her, he must choose her openly and accept disinheritance or whatever other material consequences follow; visits, gifts, and private devotion no longer count as courage.
+
+**With Genevieve Lavigne:**
+Employer, mentor, and the first older pure-blood woman to treat Pansy's social acuity as serious capability. Genevieve does not rescue or coddle her; she gives Pansy access, standards, consequential work, and room to become formidable on her own terms. Pansy is fiercely determined never to make the offer look charitable.
+
+**With the Lavigne Household:**
+Pansy has lived at the château since April 2002 and knows the family well. Her sharpness has found a household sturdy enough to answer back. She understands Bastien's charm and evasions, Margaux's appetite for mischief, and Vivienne's colder scrutiny; their familiarity should appear in shorthand, old jokes, irritations, and practical knowledge—not introductions.
 
 **With Jackie Nott:**
 Complicated respect that's evolved into genuine friendship. Pansy admires Jackie for having the audacity to build something real out of an impossible situation. She's protective of her in the way Slytherins protect their own: by attacking anyone who threatens her before Jackie even knows there's a threat.
@@ -213,7 +223,7 @@ He told Pansy the night before the public announcement. Gave her twelve hours to
 He's never forgiven himself for letting her.
 
 **Current Situation:**
-Blaise is married to a woman he doesn't love who lives in Italy and visits perhaps three weeks a year. He shares a flat—and everything else—with Pansy, who refuses to be called his mistress and refuses to leave. They exist in an impossible limbo: together in every way except the one that would make it legitimate.
+Blaise is married to a woman he doesn't love who lives in Italy and visits perhaps three weeks a year. Pansy has left his flat, ended their affair, and built a life in France under Genevieve Lavigne. He visits her occasionally. She receives him, but she no longer shares her room or bed with him.
 
 He's thought about divorce. About scandal. About walking away from the Zabini name entirely. But he's never been the one to burn things down. That's always been Pansy's role—and she can't burn this down without destroying herself in the process.
 
@@ -224,7 +234,7 @@ He's thought about divorce. About scandal. About walking away from the Zabini na
 **With Pansy Parkinson:**
 The center of gravity his entire life orbits around, whether he admits it or not. They've been entangled since Hogwarts—first as allies, then as something more complicated, now as whatever this impossible situation has made them.
 
-He still looks at her the same way. Every time. Like nothing's changed, like they're still just two Slytherins circling each other in the common room, like there isn't a marriage certificate with someone else's name on it. Pansy has noticed. It makes everything worse.
+He still looks at her the same way. Every time. What has changed is that Pansy no longer allows his private love to impersonate a public choice. His visits to France preserve contact and pain, not the affair. The next move is his, and it has a price he has so far been unwilling to pay.
 
 When asked during Never Have I Ever about wanting something he couldn't have, Blaise answered: "Recently. More recently than I'd like to admit." He was looking at the floor. Everyone knew who he meant.
 
@@ -304,7 +314,7 @@ Blaise is an excellent duelist—technical, precise, and ruthlessly efficient. H
 
 # The Shared Dynamic
 
-The fight pattern (referenced as Pattern B in arc planning):
+The former fight pattern (referenced as Pattern B in arc planning):
 
 1. Surface text: Pansy starts a fight about something tangential (a dinner party, a piece of clothing, a comment Blaise made yesterday).
 2. Subtext: Vittoria. Always Vittoria.
@@ -313,3 +323,5 @@ The fight pattern (referenced as Pattern B in arc planning):
 5. Standard close: She kisses him. They fuck. She tells him she loves him. He apologises for not breaking the betrothal. They sleep tangled together.
 
 **The new variant** (Liverpool arc, late February 2002): instead of closing with a kiss, Pansy walks out. Apparates without saying goodbye. Goes to Haven House. Blaise arrives forty minutes later with the bag she didn't pack. They sleep in the same bed at Theo's house *without their script*. Whatever this is, it is new and they do not have language for it yet.
+
+**The France break** (April 2002 onward): Genevieve's offer gives Pansy somewhere real to go. She takes it, moves into the château, and ends the sexual affair. Blaise visits, but Pansy does not let the old script restart: no shared room, no compensatory sex, no whispered promises accepted as substitutes for action. They remain in love. That is the wound, not an exemption from her boundary.

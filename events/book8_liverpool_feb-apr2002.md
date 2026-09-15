@@ -75,7 +75,7 @@ Three things happened on February 20th.
 - **Prophet record corrected.** The legal and social record acknowledging the engagement was amended through Lavigne administrative channels.
 - **Wedding attendance confirmed.** Genevieve would attend in person.
 - **Reparations paid.** Genevieve paid Draco's Malfoy war reparations in full, drawn from the Lavigne administrative account. She disclosed the source of the gesture: a 1987 debt. Narcissa had smuggled basilisk venom to Genevieve during the first war. *"Your mother's debt to me is now yours to keep."* The financial pressure that had defined Draco's post-war situation was erased in a single transaction.
-- **Pansy offered a position.** Genevieve extended an offer of post-wedding employment to Pansy Parkinson.
+- **Pansy offered a position.** Genevieve offered Pansy post-wedding employment as her Private Secretary and British Liaison: British correspondence, society and political briefings, dossiers, quiet press and administrative interventions, and an apprenticeship in Lavigne family operations.
 
 **March 7: Jackie Goes to Ferrara / The Gap Breaks**
 
@@ -223,7 +223,7 @@ Three things happened on February 20th.
 - **Jackie + Theo:** Three-inch distance ELIMINATED. Jackie fed the Malice's blood obsession; it converted from desperate need to manageable appetite. Full physical proximity now safe. Soul bond status remains unresolved.
 - **Draco + Theo:** Strengthened through the arc. Draco can work through Theo's worst nights. The Malice has acknowledged him as "interesting" and called him "pretty one." Draco requesting to be present (not in the kitchen) for future Malice encounters with Jackie.
 - **The Malice:** Stable, fed, purposeful. Has a moral code. Obeys *Finite* voluntarily — twice in 24 hours, including once through the venom feedback loop with Jackie's blood in His mouth. Remembers the raid fully — and Theo felt all of it. Has fed from Jackie for the first time since Rome; the obsessive hunger has downgraded to manageable appetite. The chase consummated their bond through violent intimacy.
-- **Pansy + Blaise:** Operational partners through the arc; stayed at Haven House during the investigation. **Since moved out** — Pansy took Genevieve's position (now in France); Blaise lives in his own flat and visits her occasionally.
+- **Pansy + Blaise:** Operational partners through the arc; stayed at Haven House during the investigation. **Since moved out** — Pansy took Genevieve's position and moved into the Lavigne château in France. She ended the affair rather than remain Blaise's mistress. Blaise lives in his own flat and visits her occasionally, but they no longer share a room or bed; love remains, and any renewed relationship now requires him to choose her openly and accept the cost.
 - **Narcissa:** Conditional truce. Heirs demand clock started February 27, 2002.
 - **Genevieve:** Active in the family's affairs. Wedding attended. Reparations paid. Pansy recruited.
 - **Ferrara:** Contracted vessel arrangement active. Camarilla political backing secured (three Primogen debts).
