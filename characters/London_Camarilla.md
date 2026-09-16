@@ -6,6 +6,15 @@
 
 ## Prince Viola
 
+**August 2002 confrontation — Alice's 2026-09-16 clarification:** Read
+`../reference/london_court_confrontation_brief.md` before continuing. Viola wants
+Theo politically useful, regards his mortal spouses chiefly as bargaining chips,
+and expects household pressure to secure compliance. She authorised coercion;
+knowledge of its extent would not produce remorse. Leandro's capture publicly
+offends her authority and privately changes her calculations. Her attachment to
+Nell gives the medic unusual latitude, but never permission to sire. Do not soften
+these points into respect for mortals as equals or compassion for Theo.
+
 ![Prince Viola reference portrait](Viola_reference.jpg)
 
 ### Core Profile

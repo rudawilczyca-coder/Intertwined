@@ -10,6 +10,25 @@ Nothing in Proposals is binding until Alice says so.
 
 ## Settled Canon
 
+### Court role and current relationships — confirmed 2026-09-16
+
+Alice confirmed: Nell is the court medic, managing donors and their welfare as
+“livestock” as well as treating vampires. She tends the aftermath of Theo's
+bleeding, not the procedure itself. Curiosity, especially about the Malice,
+motivates her interest. She has spoken to Him once or twice, addressing Him as
+a distinct person with snappy, snarky banter: holds her ground, teases rather
+than goads, and bears no malice towards Him.
+
+Viola keeps this bright spark close because she is easy to be around, though
+Viola will not admit the attachment. Nell has informal mascot/wildcard latitude:
+she usually gets what she asks for, except permission to sire. Her desire to
+sire and Viola's repeated refusal are **confirmed canon**. Nell is pragmatically
+obedient with private resentment and frustrated ambitions.
+
+See `../reference/london_court_confrontation_brief.md`. The proposed historical
+reason for Viola's refusal and proposed identification with Theo below remain
+unapproved; confirming the ambition does not confirm those explanations.
+
 ### Identity
 
 - **Name:** Nell Harrow. Born **Kornelia Tarska**, in Warsaw.

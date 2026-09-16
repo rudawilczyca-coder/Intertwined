@@ -1,5 +1,11 @@
 # Saturday — Fontainebleau
 
+**Next-scene preparation:** Alice's completed 2026-09-16 brainstorming is saved
+in `../london_court_confrontation_brief.md`. Read before continuing: confirmed
+Viola/Filippo/Nell motives, captivity state, bond limits, and deliberately open
+outcomes. This is author-level context, not newly played events or shared
+character knowledge.
+
 ## Completed scene — archive closed
 - Story date: Saturday, 10 August 2002, continuing into early Sunday, 11 August 2002. France–Wales World Cup Final.
 - Google Doc: https://docs.google.com/document/d/1QTeorprmy5PmNHG3lmm_r1TXyV2hAFcGYfhKpv6RbiY/edit

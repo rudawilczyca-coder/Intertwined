@@ -1,5 +1,16 @@
 # Filippo de' Medici — Character File
 
+## London confrontation update — confirmed 2026-09-16
+
+For the August 2002 court scene, read
+`../reference/london_court_confrontation_brief.md` (Filippo section).
+He and Viola have prior unresolved friction (details unchosen). He delayed
+Theo's presentation hoping the triad would choose Florence, partly for Jackie's
+proximity, and overestimated the protection of Theo's proven control and his
+own standing. This is his mistake. His standing as sire brings both authority
+and liability; he may make commitments for them that they dislike. These current
+facts supplement the older post-Luminary snapshot below.
+
 ---
 
 ## Overview
