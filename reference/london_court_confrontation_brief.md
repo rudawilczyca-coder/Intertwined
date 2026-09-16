@@ -100,3 +100,21 @@ by this briefing work.
 - Childhood confinement in a damp dark place was floated as plausible, NOT
   established history. No catalogue of childhood abuse, cellar incident, or
   compulsory confrontation flashback has been canonised.
+
+## Court atmosphere — Alice's clarification, 14979 (2026-09-16)
+
+- The intended horror is humans treated as livestock, not spectacular gore or
+  fountains of blood. They are fed and clothed but effectively have no rights
+  or say. Maintenance is not respect for their personhood.
+- Humans are present, fed upon, then left aside without care; they may be
+  sitting on sofas or sleeping on the floor. These are atmosphere possibilities,
+  not a requirement to stage every image or a new played event.
+- Venom makes apparent willingness unreadable to observers. Contentment,
+  compliance or lack of resistance does not establish free consent. Do not
+  infer everyone's original circumstances or invent universal abduction.
+- This is Jackie and Draco encountering that insignificance again, after the
+  Rome court, not discovering vampire attitudes for the first time. Preserve
+  the Jackie Rule: Alice authors her response; do not prewrite her horror.
+- Nell's keeping mortal supplies healthy and treating injuries can coexist
+  with this institutional disregard. Do not automatically turn medical care
+  into rights, freedom to leave, or secret abolitionism.
