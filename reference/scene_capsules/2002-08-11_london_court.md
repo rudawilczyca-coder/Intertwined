@@ -28,6 +28,29 @@ conditions under which Theo might remain at home. Jackie's answer is unwritten.
 
 ## Knowledge and unresolved state
 
+## Current exchange — household claim
+
+Alice's Jackie turn (Telegram 14986): she privately deflects Draco's question
+with “Not now,” conceals the bond from vampiric hearing, holds Theo's wedding
+band in her hoodie pocket and builds a mental barrier against the onslaught.
+She declares membership in Filippo's household and challenges the pretense
+that her answers matter. Her fear about whether London's recognition means
+belonging to Viola remains PRIVATE, not something any NPC hears or answers.
+
+Sable's following turn: Viola says her answers matter to Theo, then asks Filippo
+to acknowledge household membership. He does and sits. Nell identifies silver
+and cuts away Leandro's damaged shirt, without removing restraints or completing
+treatment. Filippo admits leaving Theo's position unresolved. Viola defers
+Draco's complaint about impersonation and seeks an undertaking. She permits
+seeing Theo but not taking him away while his status remains unresolved; nobody
+has reached him yet. Filippo tells Draco he is prepared to take Theo back to
+Florence if remaining in London prevents release. This is an offer/position,
+NOT an agreed relocation, a concluded bargain, or Theo's consent.
+
+Source pair: `../../pieces/2002-08-11_london_court_household_exchange.md`.
+
+## Continuing knowledge boundaries
+
 - Theo remains offstage; author-confirmed depletion does not become Draco's
   knowledge without evidence. Nell's prior contact with the Malice is not yet
   known to the arriving household. Delivery of the attendant's message to Theo
