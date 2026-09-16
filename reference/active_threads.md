@@ -1,7 +1,7 @@
 # ACTIVE THREADS / LOADED GUNS
 
-**As of:** Friday, 9 August 2002, evening — Paris / Theo detained at the London Camarilla court.
-**Last fixed beat:** At the Hôtel de Lauzun reception, both sides of the same fifteen-minute interval have been played. Jackie has followed Marchand deeper into the gallery to meet continental liaison colleagues. After sustained professional sparring and two public interruptions, Adrien asks Draco to dance after the formal addresses. Draco agrees to one dance at formal distance. The dance has not begun.
+**As of:** Early Sunday, 11 August 2002 — the London court's official Underground entrance, after the Fontainebleau Saturday scene closed.
+**Last fixed beat:** The complete Saturday batch is archived in the Fontainebleau Doc. Filippo, Jackie, Draco, and bound Leandro have reached the court's Underground entrance. The Seneschal confirmed Theo is present, said an attendant would tell him they had arrived, and said she would arrange medical attention for Leandro; neither receipt nor treatment is observed. The scene ends exactly on the Malice line: “Close, Little Wolf. Have you enjoyed your honeymoon, while they BLED US?”
 **Current arc source:** `arcs/the_honeymoon_they_owed.md`.
 
 This is the single live-thread ledger. Each item records only current status, the unresolved edge, and its source. Event recap belongs in the cited source; present emotional state belongs in `reference/current_DracoTheo_state.md`.
@@ -12,26 +12,37 @@ This is the single live-thread ledger. Each item records only current status, th
 
 ## CURRENT ARC
 
-### 🔴 Paris → Fontainebleau, Aug 6–10
-Tuesday through Thursday are complete. Friday has advanced into the diplomatic
-reception: Jackie is advising Marchand about Harry while Draco has allowed his
-attraction and private scorekeeping to keep him beside Adrien through fifteen
-minutes of conversation. Adrien has now earned and received agreement to one
-formal-distance dance after the addresses; the dance has not begun.
-Still ahead: the reception's escalation and confrontation; Saturday's
-Fontainebleau World Cup Final.
-**Unresolved:** the agreed Adrien dance and whether Draco can own his choice; the
-encounter's consequences; Saturday's final.
+### 🟢 Paris → Fontainebleau, Aug 6–early Aug 11 — completed
+Tuesday through Friday and Saturday's France–Wales World Cup Final are played and
+archived. The Saturday scene moved from the family box through the False-Eli
+reveal, Leandro's containment and disclosure, the overnight watch, Filippo's
+arrival, the Protean-ring handoff, and the ornate-pocket-watch Portkey to the
+London court's official Underground entrance. The story date is now early Sunday,
+11 August 2002.
+**Closed:** at the foot of the court stairs, immediately after the Seneschal
+confirmed Theo's presence and the Malice's exact line above. No new confrontation
+Doc has begun; brainstorming must precede any continuation.
 **Source:** `arcs/the_honeymoon_they_owed.md`.
 
-### 🔴 Viola's audience / False Eli
-During his nightly walk Theo accepted Viola's formal invitation rather than expose Haven House to her next approach. After an audience concerning his unpresented status and a refused donor test, she detained him under prepared wards. Viola's intended False-Eli operation is now in motion; Leandro Velluti is still intended to reach Fontainebleau wearing Eli Lavigne's face.
-**Unresolved:** Theo's treatment through Sunday and eventual presentation terms; how Viola deduces the Eli cover; Leandro's briefing and behaviour; the reveal mechanism.
+### 🔴 Viola's audience / Theo's detention
+Theo remains detained at the London Camarilla court after refusing Viola's formal
+presentation. Leandro Velluti's False-Eli operation was exposed at Fontainebleau;
+he remains in the group's custody as leverage. Filippo joined Jackie and Draco for
+the London entry. The Seneschal confirmed Theo is present and said an attendant
+would inform him of their arrival; delivery is not confirmed in the observed prose.
+She said she would arrange medical attention for Leandro under observation; no
+treatment is confirmed. Viola's terms and Theo's reunion remain unwritten.
+**Unresolved:** the court audience, Theo's presentation and release terms, the
+status of Leandro's exchange value, and what Viola does next.
 **Source:** `pieces/theo_aug6_7_2002_an_invitation.md`; `characters/London_Camarilla.md` → "Viola's Interest in the France–Wales Final" and "The False-Eli Operation".
 
-### 🔴 Eli cover against the Fontainebleau perimeter
-Theo's cover is fixed: prepared Polyjuice and Eli's supplied hair are together in the office desk's second drawer. Gringotts raises four rings Thursday midnight; anything crossing the third ring is read.
-**Unresolved:** how a legally dead vampire crosses under an identity Genevieve already recognised at the April wedding.
+### 🟠 Eli cover / genuine Eli status
+The False-Eli operation played through the stadium and was exposed only after the
+private-memory test. The genuine Eli supplied hair for Theo's disguise, but Pansy's
+intention to check where he is was not followed by a played safety confirmation in
+the observed overnight batch. Do not promote that status beyond unconfirmed.
+**Unresolved:** genuine Eli's confirmed status, Geneviève's eventual knowledge,
+and the consequences of the substitution.
 **Source:** `arcs/the_honeymoon_they_owed.md`; France 1.0 in `events/book4_post_florence_2001.md`.
 
 ### 🟠 Children
@@ -76,7 +87,7 @@ Jackie intends to send three old books to Sylvie through the Lavigne raven netwo
 | **Dante** | Three Liverpool manifests connect him to the legal architecture; not yet actionable. | `events/book8_liverpool_feb-apr2002.md`; `characters/Dante_Character.md` |
 | **Voss / Aldous Greaves** | Alive in Camarilla custody; identity remains a working assumption, not confirmed fact. | `events/book8_liverpool_feb-apr2002.md` |
 | **Drake Lightwood** | Albion Maritime leverage exists and has never been activated. | `events/book8_liverpool_feb-apr2002.md`; `characters/auror_trainees.md` |
-| **Soul bond** | Theo's direction transferred to the Malice when he died and lay dormant. During the Aug 6–7 taking, the Malice reached Jackie through it for the first time; sleeping Jackie translated the unfamiliar contact into the January 6 nightmare and does not consciously know its source. | `arcs/the_honeymoon_they_owed.md`; `lore/canon_index.md`; `characters/London_Camarilla.md` |
+| **Soul bond** | The Malice is the ancient cold fury Theo carried before turning and shares the same bidirectional bond. Theo's sending side was cut by death, but the Malice retains access. France's distance made contact difficult except for an extreme nightmare burst; proximity now causes involuntary affect bleed-through without conscious sending. Theo must learn containment. | `arcs/the_honeymoon_they_owed.md`; `reference/scene_capsules/2002-08-10_fontainebleau.md`; `lore/canon_index.md`; `characters/London_Camarilla.md` |
 | **Theo's Malice continuity** | He experienced the Liverpool Malice run without blackout; meaning still unknown. | `events/book8_liverpool_feb-apr2002.md` |
 
 ---

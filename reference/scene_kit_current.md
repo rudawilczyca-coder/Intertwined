@@ -7,14 +7,14 @@
 **Direct scene capsule:**
 `reference/scene_capsules/2002-08-10_fontainebleau.md`.
 
-**Current override (12 September 2026):** Friday is complete; Saturday afternoon at Fontainebleau has opened in a fresh live Doc. Use the capsule above and workspace ACTIVE_RP_DOCS.md. The older Thursday snapshot below is historical context, not the live clock or endpoint.
+**Current override (16 September 2026):** Saturday at Fontainebleau is complete into early Sunday, 11 August 2002, and the accepted batch is archived in the existing Doc. Use the capsule above and workspace ACTIVE_RP_DOCS.md for the closed cursor. The older Thursday snapshot below is historical context, not the live clock or endpoint. No new confrontation Doc has begun; brainstorming must precede any continuation.
 
 ---
 
 ## NOW — the in-story clock
-- **Thursday, 8 August 2002, Paris.** Wednesday is complete. Jackie and Draco slept after Luc Moreau's finished portrait sitting; Thursday's first scene has not yet begun.
-- **Where everyone is:** Jackie + Draco in Paris. **Theo is detained at the London Camarilla court;** Jackie and Draco do not yet know he is gone.
-- **The clock ahead:** Thursday — Jackie's proposed meeting with **Samaya, Pierre, and six-month-old Edmund** in the Bois de Boulogne; **Gringotts raises the four Fontainebleau rings at midnight.** Friday — diplomatic reception and Adrien. Saturday — **France v Wales, World Cup final below Fontainebleau**, Lavigne box.
+- **Early Sunday, 11 August 2002, London court Underground entrance.** Saturday's France–Wales World Cup Final and honeymoon scene are complete. The accepted story endpoint is: “Close, Little Wolf. Have you enjoyed your honeymoon, while they BLED US?”
+- **Where everyone is:** Jackie, Draco, Filippo, and bound Leandro are at the court's official Underground entrance, at the foot of the stairs. The Seneschal confirmed Theo is present and said an attendant would tell him they had arrived; receipt is not confirmed. She said she would arrange medical attention for Leandro under observation; no treatment is observed. Pansy and Bastien remain in France. Pansy's intended check on genuine Eli has no played safety confirmation in the observed batch.
+- **The clock ahead:** no continuation prose is authorized yet. Brainstorm the next Malice/court confrontation before opening a new Doc. Preserve the exact endpoint and do not predetermine Alice's Jackie response.
 - **Authoritative history:** `arcs/the_honeymoon_they_owed.md` (Aug 6) → `lore/past_events_bible_updated3.md` Book Nine (through July 26) → `lore/canon_index.md` for fast lookup.
 - **Present character state:** `reference/current_DracoTheo_state.md`. **Live-thread ledger:** `reference/active_threads.md`.
 
@@ -36,11 +36,12 @@
 - **Only Jackie knows:** her private exit arithmetic. **Alice's to reveal — do not have them learn it.**
 - **Draco + Jackie, as of Aug 6:** he wants children with her for himself, not for Narcissa's deadline; she said one day she wants to carry his child. Unfinished, and Theo isn't in it yet.
 - **Genevieve knows Theo lives** — she counted him in writing with the third ticket. Nobody knows what she wants.
-- **The Malice knows He reached Jackie through the soul bond during the taking.** Jackie experienced only the January 6 nightmare and does not consciously know its source. Draco knows neither the reach nor the taking.
+- **The Malice knows He reached Jackie through the soul bond during the taking.** The Malice is the ancient cold fury Theo carried before turning and shares the same bidirectional bond; Theo's sending side was cut by death, but the Malice retains access. France's distance made contact difficult except for an extreme nightmare burst. Proximity now causes involuntary affect bleed-through even without conscious sending; Theo must learn containment. Jackie experienced only the January 6 nightmare and does not consciously know its source. Draco knows neither the reach nor the taking.
 
 ## LIVE PRESSURES AT THIS MOMENT (full ledger → `reference/active_threads.md`)
-- **Theo's cover for Saturday is Eli Lavigne** — Jackie left the prepared Polyjuice and Eli's supplied hair in the office desk's second drawer. Vasseur has just told them Gringotts raises four rings from Thursday midnight, with anything crossing the third ring **read**.
-- **⚠️ Theo has been taken from Haven House.** The full scene and mechanism are reserved for later play. Prince Viola's audience / False-Eli operation is now in motion, but Jackie and Draco do not know this.
+- **⚠️ Theo is detained at the London court.** Leandro Velluti's False-Eli operation was exposed at Fontainebleau. Jackie and Draco know Theo is alive and detained; Filippo is with them, and Leandro remains bound in their custody as leverage. The Seneschal confirmed Theo is present, but message receipt and any medical treatment remain unconfirmed.
+- **The genuine Eli's status is unconfirmed.** Eli supplied hair for Theo's disguise. Pansy said she would check where he is, but no played confirmation appears in the observed batch.
+- **The Malice has reached Jackie at close range.** Keep the exact endpoint above. The author clarification in the capsule governs the bond mechanics; do not invent a response or confrontation before brainstorming.
 - **The 2001 Luminary crowd will be watching.** Last time that crowd saw them, Draco was nearly assassinated and Theo died.
 - **The children conversation is open and unfinished**, with Narcissa's three-year clock running underneath it.
 - **Luc's portrait is complete.** Draco admitted that Luc was attractive and allowed the discovery to stand. Jackie kissed the offered wrist scar and chose sleep rather than sexual release; Draco carries that unresolved charge into Thursday and Friday.
