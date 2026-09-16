@@ -51,6 +51,27 @@ Source pair: `../../pieces/2002-08-11_london_court_household_exchange.md`.
 
 ## Continuing knowledge boundaries
 
+## Latest cursor — at Theo's door
+
+Continuation sources: `../../pieces/2002-08-11_london_court_terms_and_access.md`
+and `../../pieces/2002-08-11_london_court_before_the_door.md`.
+Viola proposes presentation, answering summons and unspecified services; no
+agreement or relocation is settled. Nell dresses Leandro's wound and recommends
+visiting Theo rather than making him walk. Viola permits the visit. Alice's
+Jackie follows Nell into the corridor and demands what was done to her husband;
+the anger's bond origin remains private.
+
+Nell explains deliberate bleeding and restricted feeding, her own role tending
+the aftermath, and the need for permission to restore strength. Filippo tells her
+to request permission and offers to remain during feeding; approval is not yet
+received. At the closed door Nell asks about feeding history. Draco discloses
+the old Jackie-specific stopping difficulty, explicitly noting Theo's progress.
+Nell proposes feeding something else first. Theo audibly recognises Draco;
+Draco tells him both spouses and Filippo are there. Theo says “Don't open it yet.”
+Door remains CLOSED. No feeding, attack, visual examination by family, release,
+new bond disclosure, or action by Jackie is supplied. This cursor supersedes
+older offstage/unknown-condition statements below; other boundaries still hold.
+
 - Theo remains offstage; author-confirmed depletion does not become Draco's
   knowledge without evidence. Nell's prior contact with the Malice is not yet
   known to the arriving household. Delivery of the attendant's message to Theo
