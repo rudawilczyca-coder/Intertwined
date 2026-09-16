@@ -1,6 +1,13 @@
 # CURRENT DRACO + THEO STATE
 
-**As of:** Early Sunday, 11 August 2002 — London court Underground entrance / Theo confirmed present in Viola's court.
+**As of:** Early Sunday, 11 August 2002 — opening audience with Viola / Theo still offstage in custody.
+
+Live continuation: `scene_capsules/2002-08-11_london_court.md`; preparation in
+`london_court_confrontation_brief.md`. Draco has passed the human livestock in
+the sitting room and demanded Theo home. Viola has addressed Jackie about
+conditions for his remaining there. Nell is examining Leandro under observation;
+no completed treatment or removal of restraints. Earlier arrival facts below
+remain the preceding state, not the live location.
 
 This is the replaceable present-tense state layer for Draco and Theo. It records what currently shapes portrayal without retelling the scenes that established it. Exact dialogue and event sequence stay in the cited played sources. Live external pressures stay in `reference/active_threads.md`.
 

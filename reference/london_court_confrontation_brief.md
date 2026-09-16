@@ -103,6 +103,11 @@ by this briefing work.
 
 ## Court atmosphere — Alice's clarification, 14979 (2026-09-16)
 
+Further clarification (14982): opening a human's vein would not provoke moral
+condemnation here; at most it might be criticised as wasteful. Most vampires
+do not do it, but their restraint is preference, not an enforceable protection
+for the human. Convey permitted violence, not a compulsory on-page killing.
+
 - The intended horror is humans treated as livestock, not spectacular gore or
   fountains of blood. They are fed and clothed but effectively have no rights
   or say. Maintenance is not respect for their personhood.
