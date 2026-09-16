@@ -27,6 +27,6 @@
 
 ## Author-only Saturday plan, not accomplished events
 - Actual Theo remains detained in London. Viola has sent Leandro as False Eli; the spouses do not know, and his arrival and stadium entry have remained convincing. Public flirting can seem like overcommitted cover, never proof by itself.
-- Pansy first unease; spouses verify together. Conceal suspicion through match, test without alerting him. Impossible factual error supplies proof; exact tell remains unwritten and unspoiled. First major sequence ultimately reaches exposure or containment; no principal response predetermined.
+- Pansy first unease; spouses verify together. Conceal suspicion through match, test without alerting him. Impossible factual error supplies proof. The exact tell and Leandro's first countermove are now locked in a private Sable-only authorial note and remain unspoiled; its 16 September 2026 SHA-256 commitment is `196b44aff283b1984df2d28b35e4c01308482860a06c14a401734652304bd279`. First major sequence ultimately reaches exposure or containment; no principal response predetermined.
 - Geneviève fooled initially. Adrien attendance remains open.
 - Prior World Cup attendance for Jackie is unconfirmed. Future miscarriage/2014 secret-son planning is not present character knowledge.
