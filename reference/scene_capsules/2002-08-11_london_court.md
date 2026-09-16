@@ -52,6 +52,23 @@ Source pair: `../../pieces/2002-08-11_london_court_household_exchange.md`.
 ## Continuing knowledge boundaries
 
 ## Latest cursor — at Theo's door
+### Superseding continuation — Jackie asks to leave (Telegram 15011)
+
+Alice writes Jackie collapsing under hunger/fury through the bond. A thud
+strikes the door; the Malice speaks “So you came to save us after all” aloud
+and mentally. Her private “You're... Hurting... Me...” prompts a slight retreat;
+she shields again and aloud insists the door stay shut and she needs to leave.
+NPCs witness the collapse and hear only the audible lines, not the bond exchange.
+
+Source: `../../pieces/2002-08-11_london_court_closed_door_withdrawal.md`.
+Draco kneels and offers support/escort without moving Jackie or determining her
+answer. Nell offers an empty room across the landing, asks Jackie about a bite;
+Draco prematurely says no (his observation, not a medical determination).
+Filippo remains by the closed latch and sends Nell to ask Viola for blood.
+She goes upstairs and calls the Seneschal; permission and feeding are still
+unresolved. No door opening, attack, relocation of Jackie, or disclosure of the
+bond occurs. Draco ends by offering to carry her or support her standing.
+
 
 Continuation sources: `../../pieces/2002-08-11_london_court_terms_and_access.md`
 and `../../pieces/2002-08-11_london_court_before_the_door.md`.
