@@ -106,6 +106,6 @@
 
 ### Explicit author clarification (OOC; 16 September 2026)
 
-- The Malice is the ancient cold fury Theo carried even before turning and shares the same bidirectional bond. Theo's sending side was cut by death, but the Malice still has access. France's distance made contact difficult except for an extreme nightmare burst; proximity now causes involuntary affect bleed-through even without conscious sending. Theo must learn containment. This is continuity clarification, not additional played prose or a predetermined response.
+- The Malice is the ancient cold fury Theo carried even before turning and shares the same bidirectional bond. Theo's sending side was cut by death, but the Malice still has access. France's distance made contact difficult except for an extreme nightmare burst; proximity now causes involuntary affect bleed-through even without conscious sending. The Malice must learn to contain what He transmits; the fury itself does not disappear. This is continuity clarification, not additional played prose or a predetermined response.
 
 **Theo scene:** `pieces/theo_aug6_7_2002_an_invitation.md`.
