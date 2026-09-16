@@ -73,6 +73,7 @@ The Doc does not contain the subsequent OOC/audio material or any new confrontat
 - [`reference/scene_capsules/2002-08-10_fontainebleau.md`](../reference/scene_capsules/2002-08-10_fontainebleau.md) now marks Saturday complete into early Sunday, records the exact endpoint, corrects genuine Eli's status to unconfirmed, distinguishes arranged medical attention from observed treatment, and records the explicit Malice mechanics clarification as OOC continuity.
 - [`reference/active_threads.md`](../reference/active_threads.md) now points the ledger at early Sunday at the London court entrance, closes the Paris→Fontainebleau arc, and leaves Viola's audience / genuine Eli / medical and message receipt edges explicitly unresolved.
 - [`reference/scene_kit_current.md`](../reference/scene_kit_current.md) now has the 16 September override and current Underground cursor; it retains the older Thursday material as historical context.
+- [`reference/current_DracoTheo_state.md`](../reference/current_DracoTheo_state.md) now reflects the verified early-Sunday knowledge state rather than the superseded Aug 7 snapshot.
 - [`arcs/the_honeymoon_they_owed.md`](../arcs/the_honeymoon_they_owed.md) now summarizes the accepted overnight, Filippo, ring, Portkey, and court-entry events and the early-Sunday closure.
 - `/home/sable/.openclaw/workspace/ACTIVE_RP_DOCS.md` now marks Fontainebleau completed, points at the archive/report, and records the exact endpoint and no-new-confrontation boundary.
 
