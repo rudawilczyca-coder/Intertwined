@@ -52,6 +52,22 @@ by this briefing work.
 - Viola's earlier promise that he would be guarded and fed is in the opening
   scene; its relationship to later treatment remains available to play.
 
+## Feeding-history clarification — 2026-09-17, Telegram 15000–15002
+
+Alice recalls the specific post-turning mechanism: the Malice's possession of
+Jackie became entangled with blood hunger; Theo initially could not accept blood
+that was not hers. Do not flatten this into generic hunger around either spouse.
+`../events/book5_vigil_departure_2001.md` confirms rejection of preserved blood,
+His admission that direct feeding would drain Jackie, and stabilisation on bags
+spiked with her blood (August 15–16, 2001). The same source records the dangerous
+attack on Draco at waking; Jackie-specific fixation does not make others safe.
+
+Preserve subsequent development: Theodore's character card, Vampirism section,
+records the mid-April 2002 feeding converting obsessive need into manageable
+appetite and lifting the proximity restriction. Current depletion may test this
+specific history; relapse, renewed inability to accept donor blood, and an attack
+are NOT established or predetermined. Original vigil chat title not yet recovered.
+
 ## Filippo (14967)
 
 - Prior friction with Viola: an unresolved grievance or rivalry exists. Its
