@@ -52,6 +52,22 @@ Source pair: `../../pieces/2002-08-11_london_court_household_exchange.md`.
 ## Continuing knowledge boundaries
 
 ## Latest cursor — at Theo's door
+### Current endpoint — private room / bond disclosure (Telegram 15014)
+
+Alice has Jackie stand and walk with Draco into Nell's indicated room: single
+bed, bolted desk, chair, wardrobe, no windows; Lumos then light switch. She sits
+and quietly tells Draco the Malice tapped into the bond and she feels Him in
+her head. She has not yet explained speech, exact messages, or reciprocity.
+
+Source: `../../pieces/2002-08-11_london_court_bond_disclosure.md`.
+Draco closes the door, casts Muffliato around it (no claim it blocks the bond or
+proof against every listener), sits near Jackie, links her earlier tunnel
+distress and collapse to the disclosure as questions/inferences. He offers his
+hand without deciding her response and promises not to tell others before they
+talk. Ends asking whether she receives feelings or actual speech. No further
+knowledge is supplied. Filippo remains with the closed cell; Nell's request,
+feeding, and all release terms remain unresolved. Supersedes previous endpoint.
+
 ### Superseding continuation — Jackie asks to leave (Telegram 15011)
 
 Alice writes Jackie collapsing under hunger/fury through the bond. A thud
