@@ -6,11 +6,11 @@ He picked up his wand and stood. There was no useful answer to why something was
 
 Draco lifted the muffling charm just long enough to pass through the door and closed it behind him. Across the landing, Filippo turned at the sound. He was still standing where Draco had left him, coat open, one hand hanging at his side. "She's staying in the room," Draco said quietly. "She asked me to come." Filippo studied him for a moment, then nodded. He did not ask what had passed between them, and Draco was grateful not to have to decide how much to withhold.
 
-Footsteps came down the stairs before either of them touched the door. Nell carried a stoppered flask and a folded cloth. "Viola has agreed to a feed with you present," she told Filippo. "I'll assess him afterwards." She passed the flask to him while she took out her wand. Draco watched the dark liquid move inside the glass. It had required a journey upstairs and a conversation to obtain something that had been waiting in their kitchen at home.
+Footsteps came down the stairs before either of them touched the door. Nell carried a stoppered flask and a folded cloth. "Viola has agreed to a feed with you present," she told Filippo. "I'll assess him afterwards." She passed the flask to him and took a small key from her case. Draco watched the dark liquid move inside the glass. It had required a journey upstairs and a conversation to obtain something that had been waiting in their kitchen at home.
 
 Nell knocked. "Theodore. I've brought blood. Move away from the door."
 
-For a few seconds nothing happened. Then Draco heard a dragging step, another, and the small creak of a bed taking weight. "All right," came the answer. Nell waited a moment longer before touching her wand to the lock. Filippo entered first. Draco followed only as far as the doorway and stopped there.
+For a few seconds nothing happened. Then Draco heard a dragging step, another, and the small creak of a bed taking weight. "All right," came the answer. Nell waited a moment longer before turning the key in the lock. Filippo entered first. Draco followed only as far as the doorway and stopped there.
 
 Theo sat on the edge of a narrow bed, leaning forward with his forearms on his thighs. His shirt was open at the throat and pulled crooked across one shoulder. There were dressings around his arms, one clean and one marked through, and he held himself with an effort Draco could see even before he lifted his head. His eyes found Draco at once. Nothing in the room moved for a moment except Nell, setting the cloth on the bedside table.
 
