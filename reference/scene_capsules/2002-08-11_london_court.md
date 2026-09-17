@@ -52,6 +52,22 @@ Source pair: `../../pieces/2002-08-11_london_court_household_exchange.md`.
 ## Continuing knowledge boundaries
 
 ## Latest cursor — at Theo's door
+### Newest endpoint — Draco sees Theo (Telegram 15020)
+
+Alice writes Jackie wanting to remain nearby, agreeing to wait until Theo is
+fed, and asking Draco to go to him with Filippo present. Source continuation:
+`../../pieces/2002-08-11_london_court_familiar_face.md`.
+Draco agrees, promises not to offer blood or dismiss Filippo, kisses her head,
+leaves her in the room and keeps the bond private. Nell returns with a flask:
+Viola permits a feed with Filippo present and subsequent assessment. Nell asks
+Theo to move away from the cell door; footsteps/bed creak and his “All right”
+precede opening. Filippo enters first, Draco initially stays at threshold.
+Draco sees Theo weakened on bed with arm dressings. Theo asks where Jackie is;
+Draco says across landing waiting while he feeds. At Theo's request Draco
+enters and shuts the door, remaining beside it. Filippo supports the flask
+as Theo takes it with both hands. No drinking/recovery yet narrated, no Jackie
+reaction or new bond effect supplied; release/residency terms remain open.
+
 ### Current endpoint — private room / bond disclosure (Telegram 15014)
 #### Latest beat — avalanche description (Telegram 15017)
 
