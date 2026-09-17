@@ -52,6 +52,28 @@ Source pair: `../../pieces/2002-08-11_london_court_household_exchange.md`.
 ## Continuing knowledge boundaries
 
 ## Latest cursor — at Theo's door
+### Newest endpoint — first feed / Draco returns to Jackie (Telegram 15291)
+
+Alice writes Jackie alone behind Draco's Muffliato, experiencing the Malice's
+hunger and fury whenever her shield wavers. She knows He is aware of her
+presence, waits without hearing the corridor or cell, then rises and paces.
+
+Source continuation: `../../pieces/2002-08-11_london_court_first_feed.md`.
+Theo drinks the full flask while Filippo steadies it. The first blood restores
+some strength but does not fully repair the depletion. Close narration moves
+between Theo and Draco; the Malice speaks briefly inside Theo. He perceives
+Jackie's restless movement through the bond and sends her words without the
+surrounding hunger or fury: “We're feeding, Little Wolf. Stop wearing a path
+into their floor.” No Jackie reception or response is supplied.
+
+Draco recognises that the Malice sent to Jackie and sets a boundary addressed
+to both Theo and Him: no further sending without asking her. Theo admits that
+proximity makes the bond stronger than it was in France and that he cannot yet
+close the Malice's side. After the flask is emptied, Nell tells Theo to give it
+a minute. Draco changes “I'll bring her” to “I'll ask her to come,” leaves the
+cell, lifts the Muffliato from Jackie's room, knocks, and says Theo has fed and
+wants to see her. Jackie has not opened the door, entered, answered, or reacted.
+
 ### Newest endpoint — Draco sees Theo (Telegram 15020)
 
 Alice writes Jackie wanting to remain nearby, agreeing to wait until Theo is
