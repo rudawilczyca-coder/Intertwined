@@ -1,3 +1,7 @@
+# Rejected draft — non-canon
+
+Rejected by Alice on 18 September 2026 for chaotic point-of-view switching and unnatural dialogue. Preserved as revision evidence only; do not use as played canon.
+
 ### Draco
 
 The first swallow made Theo's face tighten.
