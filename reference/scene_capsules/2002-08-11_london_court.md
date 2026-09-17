@@ -53,6 +53,20 @@ Source pair: `../../pieces/2002-08-11_london_court_household_exchange.md`.
 
 ## Latest cursor — at Theo's door
 ### Current endpoint — private room / bond disclosure (Telegram 15014)
+#### Latest beat — avalanche description (Telegram 15017)
+
+Jackie confirms tunnel and collapse were the Malice; she suspects proximity
+makes His bleed-through uncontrolled or that He will not restrain it. She
+takes Draco's hand to her face as an anchor and confirms both speech and felt
+emotion, describing endless icy fury, too much for her. Draco now knows these
+facts, but not her exact prior exchanges or whether He can hear her in return.
+
+Source: `../../pieces/2002-08-11_london_court_avalanche.md`. Draco keeps his hand
+with her, moves his chair nearer, asks whether He can hear her but explicitly
+does not request she reopen contact to test it. Offers continued anchoring and
+moving farther away if needed. No relocation, shield success, feeding result,
+or new understanding of bond mechanics is asserted.
+
 
 Alice has Jackie stand and walk with Draco into Nell's indicated room: single
 bed, bolted desk, chair, wardrobe, no windows; Lumos then light switch. She sits
