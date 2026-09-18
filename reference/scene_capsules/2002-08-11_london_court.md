@@ -5,7 +5,7 @@
 - Author-confirmed preparation: `../london_court_confrontation_brief.md`.
 - Previous scene: `2002-08-10_fontainebleau.md`; honeymoon archive is closed.
 - Opening source: `../../pieces/2002-08-11_london_court_opening.md`.
-- Status: Active; accepted through Draco opening Jackie's door after Theo's first authorised feed.
+- Status: Active; accepted through Jackie crossing the threshold and gathering Theo against her after his first authorised feed.
 
 ## Opening cursor
 
@@ -51,7 +51,36 @@ Source pair: `../../pieces/2002-08-11_london_court_household_exchange.md`.
 
 ## Continuing knowledge boundaries
 
-## Latest cursor — at Theo's door
+## Latest cursor — reunion at Theo's bedside
+
+### Newest endpoint — Jackie crosses the threshold and holds Theo (Telegram 15469)
+
+Draco follows Jackie across the landing rather than restraining her. He reports
+that Theo emptied the flask, has clearer sight and a steady grip, may stand later
+but must not fight or take stairs alone, and is not yet released. Through his
+Protean wedding band he sends Pansy `VIVIT. PASTUS. DETENTUS.`—alive, fed,
+detained. The band warms to show the message passed to its twin; no receipt or
+reply from Pansy is established.
+
+At the threshold, Jackie threatens the Malice through the bond. He answers once,
+quietly, that she has already made Him regret attacking her and that this is why
+He believes her. Theo limits the answer to that single contact, and the Malice
+withdraws without another shove of hunger. Theo tells Jackie that neither of them
+will attack her, describes himself as better but not well, admits the detention
+worked, asks what the bond contact cost her without demanding an immediate answer,
+and leaves an open hand on the mattress. Draco remains at the open door with his
+wand lowered; Filippo and Nell remain in the room.
+
+Jackie crosses the threshold by her own choice, runs to Theo, and gathers his
+head against her chest. She calls him an idiot, says that Theo and the Malice let
+the court hold them and should have killed their captors, then breaks off while
+trying to express what she feared after Leandro said he was not Theo. She shakes
+while holding him and deliberately allows the Malice to feel her anger and relief.
+Theo's physical and verbal response, any reciprocal bond contact, Draco's response,
+and the still-unsettled release terms are unwritten.
+
+## Prior cursor — at Theo's door
+
 ### Newest endpoint — first authorised feed / Draco opens Jackie's door (Telegram 15313)
 
 Alice explicitly accepts the Fable comparison turn as canon. Source:
