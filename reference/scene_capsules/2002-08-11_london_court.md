@@ -5,7 +5,7 @@
 - Author-confirmed preparation: `../london_court_confrontation_brief.md`.
 - Previous scene: `2002-08-10_fontainebleau.md`; honeymoon archive is closed.
 - Opening source: `../../pieces/2002-08-11_london_court_opening.md`.
-- Status: Sable's delivered opening; subject to Alice's normal corrections.
+- Status: Active; accepted through Draco opening Jackie's door after Theo's first authorised feed.
 
 ## Opening cursor
 
@@ -52,6 +52,29 @@ Source pair: `../../pieces/2002-08-11_london_court_household_exchange.md`.
 ## Continuing knowledge boundaries
 
 ## Latest cursor — at Theo's door
+### Newest endpoint — first authorised feed / Draco opens Jackie's door (Telegram 15313)
+
+Alice explicitly accepts the Fable comparison turn as canon. Source:
+`../../pieces/2002-08-11_london_court_first_authorised_feed.md`.
+
+Theo drinks the entire stored-blood flask while Filippo supports it. The blood
+steadies his hands and clears his sight but does not remove the hunger. Inside
+their shared mind, the Malice complains about glass and confinement, admits He
+was too loud when He knocked Jackie down through the bond, and presses the fact
+that He alone can still feel her. Theo orders Him not to reach for Jackie until
+Theo can hold the line. The Malice nevertheless sends one measured message:
+“Fed now, Little Wolf. Softer.” Theo cannot stop that contact. No reception,
+feeling, answer, or other reaction from Jackie is supplied.
+
+Nell examines Theo's dressings, eyes and grip. She judges that he will be able
+to stand tonight but should not fight or take the stairs alone; release remains
+Viola's and the Seneschal's decision. Theo asks Draco whether Jackie can bear
+being near him. Draco refuses to decide or promise on her behalf and says he
+will ask. Theo accepts that. Draco leaves Filippo with Theo, crosses the landing,
+lifts the Muffliato and opens Jackie's door. This is the exact live endpoint:
+Jackie's response to the opened door, the bond message, Theo's condition, or
+the invitation remains unwritten.
+
 ### Newest endpoint — Jackie waits across the landing (Telegram 15291)
 
 Alice writes Jackie alone behind Draco's Muffliato, experiencing the Malice's
