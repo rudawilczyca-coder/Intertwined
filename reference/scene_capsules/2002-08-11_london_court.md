@@ -86,6 +86,12 @@ close was what she wanted, or whether she went through because Bastien thought
 she would not. Release, residency, presentation, and the court's final terms
 remain unresolved.
 
+### Latest accepted continuation — Jackie addresses Viola (live source after Telegram 15492)
+
+Jackie remains standing between Draco and Filippo and tells Viola she cannot force Theo to appear against his wishes, while offering responsibility rather than avoidance and identifying three Primogen debts arranged by Cosimo Ferrara. Viola asks whether the household would assist a refusal of a future summons. Theo answers that it depends what her people arrive to do. Viola then asks whether Ferrara's backing is being invoked in the negotiation or merely noted as available. Filippo identifies the backing as political debts, not unrestricted favours. Viola asks for Theo's attendance, compliance with accepted obligations, and confidence that future disagreements will not require the whole household. Draco requires the terms and their guarantees before any promise. Viola ends by waiting for Jackie's answer. No correction text named in the archive request appears in the accepted source, and no new continuation is inferred here.
+
+Source: `../../archive/2026-09-19_london_court_latest_turns.md`.
+
 Source sequence: Telegram 15471, 15472, 15473, 15474, 15476, 15477, 15478,
 15479, 15480, 15481, 15482 (with the corrected dragon line), 15485, and the
 replacement response 15492. OOC/tool chatter, the superseded assistant reply,
