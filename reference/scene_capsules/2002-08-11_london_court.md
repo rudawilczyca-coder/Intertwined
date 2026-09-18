@@ -5,7 +5,7 @@
 - Author-confirmed preparation: `../london_court_confrontation_brief.md`.
 - Previous scene: `2002-08-10_fontainebleau.md`; honeymoon archive is closed.
 - Opening source: `../../pieces/2002-08-11_london_court_opening.md`.
-- Status: Active; accepted through Jackie crossing the threshold and gathering Theo against her after his first authorised feed.
+- Status: Active; accepted through Theo's replacement response to Jackie's dragon confession, ending with his question about whether she wanted to get that close or went through because Bastien thought she wouldn't (Telegram 15492).
 
 ## Opening cursor
 
@@ -51,9 +51,49 @@ Source pair: `../../pieces/2002-08-11_london_court_household_exchange.md`.
 
 ## Continuing knowledge boundaries
 
-## Latest cursor — reunion at Theo's bedside
+## Latest cursor — after the dragon confession
 
-### Newest endpoint — Jackie crosses the threshold and holds Theo (Telegram 15469)
+### Newest endpoint — Theo answers Jackie's dragon confession (Telegram 15492)
+
+The accepted continuation after Jackie embraces Theo is archived verbatim in
+`../../archive/2026-09-18_london_court_batch_turns.md`. Theo admits that he chose
+to remain detained rather than release the Malice in a room he could not read,
+apologises for deciding alone, and says he is done making that decision without
+his family. Jackie asks Filippo to get him out. Filippo commits to accepting
+responsibility, seeking presentation and recognition of Haven House as Theo's
+residence, and asking for release into his custody for the remainder of the
+night; he will bring Viola's terms back before agreeing to anything beyond his
+own responsibility. No release, final terms, Florence relocation, or completed
+presentation is established.
+
+Jackie says she cannot go to Florence. Theo, Draco, and Filippo reject
+relocation as the solution while accepting that a properly stated presentation
+may be necessary. Jackie asks Nell about her wounds. Nell says the cuts are
+clean but that one flask was insufficient, she cannot take the stairs or fight,
+and the court kept Theo weak; she then leaves with Filippo to take the terms
+upstairs. Jackie announces that she has something to tell Theo, and he offers
+his hand and says, “Tell me.”
+
+Jackie describes the World Cup dragon wager: she crossed the enclosure wards,
+ran alongside the Welsh Green, escaped with only the fur at the tip of her tail
+singed, and lost because crossing the ward disqualified her. In Theo's response
+the corrected internal line is: “The dragon would not have cared.” Draco says
+the fur was singed rather than her skin and confirms, “I checked.” The
+Fontainebleau capsule records the same fact: Draco verified that Jackie was
+alive and unburned after the run. Theo is angry but admits he would have wanted
+to see her run, not watch her burn. He ends by asking whether getting that
+close was what she wanted, or whether she went through because Bastien thought
+she would not. Release, residency, presentation, and the court's final terms
+remain unresolved.
+
+Source sequence: Telegram 15471, 15472, 15473, 15474, 15476, 15477, 15478,
+15479, 15480, 15481, 15482 (with the corrected dragon line), 15485, and the
+replacement response 15492. OOC/tool chatter, the superseded assistant reply,
+and its erroneous red-wolf witness detail are not canon or archive material.
+
+## Prior cursor — reunion at Theo's bedside
+
+### Prior endpoint — Jackie crosses the threshold and holds Theo (Telegram 15469)
 
 Draco follows Jackie across the landing rather than restraining her. He reports
 that Theo emptied the flask, has clearer sight and a steady grip, may stand later
@@ -76,8 +116,8 @@ head against her chest. She calls him an idiot, says that Theo and the Malice le
 the court hold them and should have killed their captors, then breaks off while
 trying to express what she feared after Leandro said he was not Theo. She shakes
 while holding him and deliberately allows the Malice to feel her anger and relief.
-Theo's physical and verbal response, any reciprocal bond contact, Draco's response,
-and the still-unsettled release terms are unwritten.
+This endpoint is superseded by the continuation above; its release terms were
+still unsettled when the next turn began.
 
 ## Prior cursor — at Theo's door
 
