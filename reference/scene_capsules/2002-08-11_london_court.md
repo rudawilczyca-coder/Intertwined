@@ -5,7 +5,7 @@
 - Author-confirmed preparation: `../london_court_confrontation_brief.md`.
 - Previous scene: `2002-08-10_fontainebleau.md`; honeymoon archive is closed.
 - Opening source: `../../pieces/2002-08-11_london_court_opening.md`.
-- Status: Active; accepted through Theo's replacement response to Jackie's dragon confession, ending with his question about whether she wanted to get that close or went through because Bastien thought she wouldn't (Telegram 15492).
+- Status: Active; archived through Jackie’s London-connections warning (Telegram 15609). Latest assistant continuation is disputed and excluded; release and service terms remain unresolved.
 
 ## Opening cursor
 
@@ -86,11 +86,20 @@ close was what she wanted, or whether she went through because Bastien thought
 she would not. Release, residency, presentation, and the court's final terms
 remain unresolved.
 
-### Latest accepted continuation — Jackie addresses Viola (live source after Telegram 15492)
+### Current cursor — corrected archive through Telegram 15609
 
-Jackie remains standing between Draco and Filippo and tells Viola she cannot force Theo to appear against his wishes, while offering responsibility rather than avoidance and identifying three Primogen debts arranged by Cosimo Ferrara. Viola asks whether the household would assist a refusal of a future summons. Theo answers that it depends what her people arrive to do. Viola then asks whether Ferrara's backing is being invoked in the negotiation or merely noted as available. Filippo identifies the backing as political debts, not unrestricted favours. Viola asks for Theo's attendance, compliance with accepted obligations, and confidence that future disagreements will not require the whole household. Draco requires the terms and their guarantees before any promise. Viola ends by waiting for Jackie's answer. No correction text named in the archive request appears in the accepted source, and no new continuation is inferred here.
+This supersedes older cursor states below. Source: `../../archive/2026-09-19_london_court_latest_turns.md`.
 
-Source: `../../archive/2026-09-19_london_court_latest_turns.md`.
+- The reunion, dragon conversation and return of Filippo occurred. Jackie offered either spouse’s blood; Theo chose Draco, fed with Filippo supervising, and stopped when Draco told him. No wound-sealing saliva; cloth and bandage used.
+- Theo can stand and climb slowly but is not fully healed. Draco's wrist is dressed; Filippo still wears his black coat. Filippo accepted Jackie's invitation to stay at Haven House during recovery.
+- Nell challenged the live feeding, acknowledged his improvement, and told him to use the rail. They returned upstairs together to the audience room.
+- Corrected Viola lines: “That is the arrangement, Mr Nott.” replaces “I heard you the first time”; she does not claim to have heard Jackie's downstairs offer. She asks about enforcing summons, then whether Ferrara's backing is invoked or reserved.
+- Ferrara's backing comprises three Primogen debts leveraged for the household, not three unrestricted personal favours. No debts have been invoked, transferred or spent here.
+- Latest user position: Jackie stands between Theo and Filippo; Filippo is seated to her left. Her earlier spoken instruction withdrawing her sitting is applied, not archived as story speech.
+- Jackie says they wish to remain part of the court but have their own London ties and will use them if needed. Her exhaustion, private frustration with Draco and second thoughts are not knowledge available to other characters.
+- The subsequent assistant draft treating this as a household approval process was challenged. It is preserved only under `archive/rejected/2026-09-19_viola_household_consultation.md`. Do not import its conditional release, meeting or written guarantees into canon. No response to Jackie's latest warning is yet settled.
+- Viola treats mortals as leverage, not equal co-negotiators. Addressing Jackie to extract surety or clarify her claim is distinct from requiring her approval for Theo's status. The actual vampire counterparts remain Theo and Filippo.
+
 
 Source sequence: Telegram 15471, 15472, 15473, 15474, 15476, 15477, 15478,
 15479, 15480, 15481, 15482 (with the corrected dragon line), 15485, and the
