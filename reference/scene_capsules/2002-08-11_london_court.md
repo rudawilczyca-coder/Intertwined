@@ -5,7 +5,7 @@
 - Author-confirmed preparation: `../london_court_confrontation_brief.md`.
 - Previous scene: `2002-08-10_fontainebleau.md`; honeymoon archive is closed.
 - Opening source: `../../pieces/2002-08-11_london_court_opening.md`.
-- Status: Active; archived through Jackie’s London-connections warning (Telegram 15609). Latest assistant continuation is disputed and excluded; release and service terms remain unresolved.
+- Status: **Closed** (2026-09-20). Full scene archived in three batches: `archive/2026-09-18_london_court_batch_turns.md`, `archive/2026-09-19_london_court_latest_turns.md`, `archive/2026-09-20_london_court_final_turns.md`. Closure report: `archive/2026-09-20_london_court_closure_report.md`. Scene endpoint: trio departs the audience room after Viola grants three days for Filippo’s release-or-retain decision.
 
 ## Opening cursor
 

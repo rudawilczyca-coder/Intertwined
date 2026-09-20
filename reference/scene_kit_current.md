@@ -5,17 +5,17 @@
 *Maintained by Sable. Supersedes `archive/superseded-planning/session_kit2.md` for live current-arc work. 🖤*
 
 **Direct scene capsule:**
-`reference/scene_capsules/2002-08-10_fontainebleau.md`.
+`reference/scene_capsules/2002-08-11_london_court.md` — **CLOSED** (2026-09-20).
 
-**Current override (16 September 2026):** Saturday at Fontainebleau is complete into early Sunday, 11 August 2002, and the accepted batch is archived in the existing Doc. Use the capsule above and workspace ACTIVE_RP_DOCS.md for the closed cursor. The older Thursday snapshot below is historical context, not the live clock or endpoint. No new confrontation Doc has begun; brainstorming must precede any continuation.
+**Current state (20 September 2026):** The London Court scene is complete. The trio departed the audience room after Viola granted three days for Filippo's release-or-retain decision. No new scene or Doc has begun; brainstorming must precede any continuation.
 
 ---
 
 ## NOW — the in-story clock
-- **Early Sunday, 11 August 2002, London court Underground entrance.** Saturday's France–Wales World Cup Final and honeymoon scene are complete. The accepted story endpoint is: “Close, Little Wolf. Have you enjoyed your honeymoon, while they BLED US?”
-- **Where everyone is:** Jackie, Draco, Filippo, and bound Leandro are at the court's official Underground entrance, at the foot of the stairs. The Seneschal confirmed Theo is present and said an attendant would tell him they had arrived; receipt is not confirmed. She said she would arrange medical attention for Leandro under observation; no treatment is observed. Pansy and Bastien remain in France. Pansy's intended check on genuine Eli has no played safety confirmation in the observed batch.
-- **The clock ahead:** no continuation prose is authorized yet. Brainstorm the next Malice/court confrontation before opening a new Doc. Preserve the exact endpoint and do not predetermine Alice's Jackie response.
-- **Authoritative history:** `arcs/the_honeymoon_they_owed.md` (Aug 6) → `lore/past_events_bible_updated3.md` Book Nine (through July 26) → `lore/canon_index.md` for fast lookup.
+- **Early Sunday, 11 August 2002, departing the London court.** The court confrontation is complete. The accepted story endpoint is Theo saying “She's not offering freedom. She's offering belonging,” with the Malice murmuring *Home* as the trio walks out together.
+- **Where everyone is:** Jackie, Draco, Theo, and Filippo are leaving the court. Theo is ambulatory but weakened — can walk and climb stairs slowly, cannot fight. Draco's wrist is dressed after the live feed. Nell remains at the court. Leandro remains in the court's custody (Nell was treating his wound). Pansy and Bastien remain in France. Pansy received Draco's Protean message (VIVIT. PASTUS. DETENTUS.) but no reply is established. Genuine Eli's status is unconfirmed.
+- **The clock ahead:** No continuation prose is authorised yet. Three-day recovery period at Haven House with Filippo in residence. Brainstorm the next scene before opening a new Doc. Key pending decisions: Filippo's release-or-retain choice, Theo's presentation to London, Viola's proposed “service.”
+- **Authoritative history:** `arcs/the_honeymoon_they_owed.md` (Aug 6) → `lore/past_events_bible_updated3.md` Book Nine (through July 26) → `lore/canon_index.md` for fast lookup. London Court archive: `archive/2026-09-20_london_court_closure_report.md`.
 - **Present character state:** `reference/current_DracoTheo_state.md`. **Live-thread ledger:** `reference/active_threads.md`.
 
 ## THE WALLS (non-negotiable)
