@@ -1,8 +1,10 @@
 # ACTIVE THREADS / LOADED GUNS
 
-**As of:** Early Sunday, 11 August 2002 — the London court's official Underground entrance, after the Fontainebleau Saturday scene closed.
-**Last fixed beat:** The complete Saturday batch is archived in the Fontainebleau Doc. Filippo, Jackie, Draco, and bound Leandro have reached the court's Underground entrance. The Seneschal confirmed Theo is present, said an attendant would tell him they had arrived, and said she would arrange medical attention for Leandro; neither receipt nor treatment is observed. The scene ends exactly on the Malice line: “Close, Little Wolf. Have you enjoyed your honeymoon, while they BLED US?”
-**Current arc source:** `arcs/the_honeymoon_they_owed.md`.
+**As of:** Early Sunday, 11 August 2002 — departing the London court for Haven House.
+**Last fixed beat:** Viola granted a three-day decision window. Theo leaves with
+Jackie, Draco and Filippo, saying, “She's not offering freedom. She's offering
+belonging,” while the Malice murmurs *Home*. Leandro and Nell remain at court.
+**Current arc source:** `reference/scene_capsules/2002-08-11_haven_house_decision_window.md`.
 
 This is the single live-thread ledger. Each item records only current status, the unresolved edge, and its source. Event recap belongs in the cited source; present emotional state belongs in `reference/current_DracoTheo_state.md`.
 
@@ -19,22 +21,22 @@ reveal, Leandro's containment and disclosure, the overnight watch, Filippo's
 arrival, the Protean-ring handoff, and the ornate-pocket-watch Portkey to the
 London court's official Underground entrance. The story date is now early Sunday,
 11 August 2002.
-**Closed:** at the foot of the court stairs, immediately after the Seneschal
-confirmed Theo's presence and the Malice's exact line above. No new confrontation
-Doc has begun; brainstorming must precede any continuation.
+**Closed:** the France/Fontainebleau portion ends at the foot of the court stairs.
+The subsequent London Court confrontation is separately closed and archived;
+the active continuation is the Haven House decision window below.
 **Source:** `arcs/the_honeymoon_they_owed.md`.
 
-### 🔴 Viola's audience / Theo's detention
-Theo remains detained at the London Camarilla court after refusing Viola's formal
-presentation. Leandro Velluti's False-Eli operation was exposed at Fontainebleau;
-he remains in the group's custody as leverage. Filippo joined Jackie and Draco for
-the London entry. The Seneschal confirmed Theo is present and said an attendant
-would inform him of their arrival; delivery is not confirmed in the observed prose.
-She said she would arrange medical attention for Leandro under observation; no
-treatment is confirmed. Viola's terms and Theo's reunion remain unwritten.
-**Unresolved:** the court audience, Theo's presentation and release terms, the
-status of Leandro's exchange value, and what Viola does next.
-**Source:** `pieces/theo_aug6_7_2002_an_invitation.md`; `characters/London_Camarilla.md` → "Viola's Interest in the France–Wales Final" and "The False-Eli Operation".
+### 🟠 Haven House decision window / Wednesday presentation
+The Court audience and reunion are complete. Theo is released into Filippo's
+responsibility for three days. They return to Haven House to recover, test the
+Malice's bond contact, consider Filippo's credible Florence alternative, and
+prepare Theo for presentation. Theo and Filippo intend to return Wednesday
+without Jackie and Draco; the hearing itself is planned off-page.
+**Unresolved:** Filippo's formally played release decision, the household's
+Tuesday contraception/children decision, Viola's exact ongoing service, the
+first assigned task, and the aftermath of Wednesday's presentation.
+**Source:** `reference/scene_capsules/2002-08-11_haven_house_decision_window.md`;
+`archive/2026-09-20_london_court_closure_report.md`.
 
 ### 🟠 Eli cover / genuine Eli status
 The False-Eli operation played through the stadium and was exposed only after the
@@ -47,7 +49,12 @@ and the consequences of the substitution.
 
 ### 🟠 Children
 Draco has told Jackie he wants children with her for himself; Jackie has said she wants to carry his child one day. Theo has not heard this. Narcissa's three-year heirs clock continues underneath.
-**Unresolved:** timing, Theo's place, legal names and inheritance, and reproductive mechanics.
+Tuesday's planned scene brings Theo into the conversation before the time skip;
+Jackie intends to raise stopping her contraceptive potion, while the exact
+household decision remains unplayed.
+**Unresolved:** whether they accept pregnancy as a possibility immediately or
+use another method temporarily, timing, legal names and inheritance, and
+reproductive mechanics.
 **Source:** `arcs/the_honeymoon_they_owed.md`; `events/book8_liverpool_feb-apr2002.md` → Feb 27.
 
 ### 🟠 Luc Moreau's portrait

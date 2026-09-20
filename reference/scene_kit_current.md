@@ -5,16 +5,22 @@
 *Maintained by Sable. Supersedes `archive/superseded-planning/session_kit2.md` for live current-arc work. 🖤*
 
 **Direct scene capsule:**
-`reference/scene_capsules/2002-08-11_london_court.md` — **CLOSED** (2026-09-20).
+`reference/scene_capsules/2002-08-11_haven_house_decision_window.md` — **ACTIVE PLANNING CAPSULE** (2026-09-20).
 
-**Current state (20 September 2026):** The London Court scene is complete. The trio departed the audience room after Viola granted three days for Filippo's release-or-retain decision. No new scene or Doc has begun; brainstorming must precede any continuation.
+**Current state (20 September 2026):** The London Court scene is complete. Alice
+and Sable have agreed the Sunday-through-Wednesday Haven House decision arc and
+the post-arc time-skip boundary. No new live Doc has begun; open the next scene
+from the active capsule rather than the closed Court capsule.
 
 ---
 
 ## NOW — the in-story clock
 - **Early Sunday, 11 August 2002, departing the London court.** The court confrontation is complete. The accepted story endpoint is Theo saying “She's not offering freedom. She's offering belonging,” with the Malice murmuring *Home* as the trio walks out together.
 - **Where everyone is:** Jackie, Draco, Theo, and Filippo are leaving the court. Theo is ambulatory but weakened — can walk and climb stairs slowly, cannot fight. Draco's wrist is dressed after the live feed. Nell remains at the court. Leandro remains in the court's custody (Nell was treating his wound). Pansy and Bastien remain in France. Pansy received Draco's Protean message (VIVIT. PASTUS. DETENTUS.) but no reply is established. Genuine Eli's status is unconfirmed.
-- **The clock ahead:** No continuation prose is authorised yet. Three-day recovery period at Haven House with Filippo in residence. Brainstorm the next scene before opening a new Doc. Key pending decisions: Filippo's release-or-retain choice, Theo's presentation to London, Viola's proposed “service.”
+- **The clock ahead:** Three-day recovery/decision period at Haven House with
+  Filippo in residence, followed by Theo and Filippo's Wednesday presentation.
+  The accepted day-by-day plan, including Tuesday's children/contraception
+  conversation and the early-October time skip, is in the active capsule.
 - **Authoritative history:** `arcs/the_honeymoon_they_owed.md` (Aug 6) → `lore/past_events_bible_updated3.md` Book Nine (through July 26) → `lore/canon_index.md` for fast lookup. London Court archive: `archive/2026-09-20_london_court_closure_report.md`.
 - **Present character state:** `reference/current_DracoTheo_state.md`. **Live-thread ledger:** `reference/active_threads.md`.
 
@@ -36,14 +42,29 @@
 - **Only Jackie knows:** her private exit arithmetic. **Alice's to reveal — do not have them learn it.**
 - **Draco + Jackie, as of Aug 6:** he wants children with her for himself, not for Narcissa's deadline; she said one day she wants to carry his child. Unfinished, and Theo isn't in it yet.
 - **Genevieve knows Theo lives** — she counted him in writing with the third ticket. Nobody knows what she wants.
-- **The Malice knows He reached Jackie through the soul bond during the taking.** The Malice is the ancient cold fury Theo carried before turning and shares the same bidirectional bond; Theo's sending side was cut by death, but the Malice retains access. France's distance made contact difficult except for an extreme nightmare burst. Proximity now causes involuntary affect bleed-through even without conscious sending; Theo must learn containment. Jackie experienced only the January 6 nightmare and does not consciously know its source. Draco knows neither the reach nor the taking.
+- **The Malice knows He reached Jackie through the soul bond during the taking.**
+  The Malice is the ancient cold fury Theo carried before turning and shares the
+  same bidirectional bond; Theo's sending side was cut by death, but the Malice
+  retains access. France's distance made contact difficult except for an extreme
+  nightmare burst. Proximity now causes involuntary affect bleed-through even
+  without conscious sending; Theo must learn containment. Jackie now knows the
+  Court contact was the Malice. Draco knows He can reach her with speech and
+  emotion and that the icy fury overwhelmed her; he does not automatically know
+  every private exchange or the full mechanics.
 
 ## LIVE PRESSURES AT THIS MOMENT (full ledger → `reference/active_threads.md`)
-- **⚠️ Theo is detained at the London court.** Leandro Velluti's False-Eli operation was exposed at Fontainebleau. Jackie and Draco know Theo is alive and detained; Filippo is with them, and Leandro remains bound in their custody as leverage. The Seneschal confirmed Theo is present, but message receipt and any medical treatment remain unconfirmed.
+- **Theo has been released for a three-day decision window.** He is depleted but
+  ambulatory and returning to Haven House under Filippo's responsibility. The
+  formal release-or-retain choice and independent presentation remain ahead.
 - **The genuine Eli's status is unconfirmed.** Eli supplied hair for Theo's disguise. Pansy said she would check where he is, but no played confirmation appears in the observed batch.
-- **The Malice has reached Jackie at close range.** Keep the exact endpoint above. The author clarification in the capsule governs the bond mechanics; do not invent a response or confrontation before brainstorming.
+- **The Malice has reached Jackie at close range.** Proximity alone is tolerable;
+  surfaced or active contact bypasses her shields too easily. Monday's private
+  containment testing is planned; do not prewrite Jackie's response.
 - **The 2001 Luminary crowd will be watching.** Last time that crowd saw them, Draco was nearly assassinated and Theo died.
-- **The children conversation is open and unfinished**, with Narcissa's three-year clock running underneath it.
+- **The children conversation is scheduled for Tuesday and remains unplayed.**
+  Draco and Jackie have discussed wanting a child; Theo has not. Jackie intends
+  to raise stopping the contraceptive potion, but Alice owns her exact turn and
+  the triad's shared decision must be earned in scene.
 - **Luc's portrait is complete.** Draco admitted that Luc was attractive and allowed the discovery to stand. Jackie kissed the offered wrist scar and chose sleep rather than sexual release; Draco carries that unresolved charge into Thursday and Friday.
 - **Jackie's three books go to Sylvie by Lavigne raven** — and Vasseur warned the network itself gets noticed.
 - **Samaya's reunion is the only fixed Thursday meeting.** She is angry that Jackie missed her November 2001 wedding, knows Theo is alive and a vampire but will not say so in front of Pierre, and is deeply worried about Jackie's safety and Auror career. Full guardrails: `characters/samaya_taylor.md`.

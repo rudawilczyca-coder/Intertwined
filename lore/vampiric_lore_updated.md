@@ -165,7 +165,13 @@ The magical ability does not disappear. It transforms. Denied its natural channe
 ## VI. Weaknesses
 
 **Sunlight:**
-Lethal on contact. Immediate and total. No gradation — even brief direct exposure is fatal. Vampires are therefore strictly nocturnal in their movement, and any dwelling they occupy long-term will be underground or entirely lightproof.
+Direct exposure begins burning and damaging a vampire immediately, but first
+contact is not instantaneous annihilation. Destruction occurs within seconds and
+may take up to roughly a minute depending on the vampire, the intensity and
+extent of exposure, and circumstances. This is not a safe grace period or a
+reliable stopwatch: even a brief crossing is dangerous and injurious. Vampires
+are therefore strictly nocturnal in ordinary movement, and any dwelling they
+occupy long-term will be underground or entirely lightproof.
 
 **Silver:**
 Burns on contact with skin. Not lethal in small amounts, but painful and damaging. Silver restraints or silver-coated weapons are effective tools against vampires.
@@ -321,7 +327,7 @@ A human can become a ghoul deliberately (through willingly accepting doses of va
 
 | Property | Detail |
 |----------|--------|
-| Sunlight | Lethal on contact, immediate |
+| Sunlight | Damage begins on contact; destruction within seconds to roughly one minute |
 | Fire | Lethal |
 | Decapitation | Lethal |
 | Specific dark magic | Lethal |
