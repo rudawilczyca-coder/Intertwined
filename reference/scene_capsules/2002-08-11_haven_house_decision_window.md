@@ -3,7 +3,7 @@
 - Story dates: Sunday, 11 August through Wednesday, 14 August 2002.
 - Opening location: leaving the London court, then Haven House, Notting Hill.
 - Previous scene: `2002-08-11_london_court.md` — **closed**.
-- Status: **Active planning capsule; prose unplayed.**
+- Status: **Active scene; opening return batch played and archived.** The later decision-window beats below remain planned and unplayed.
 - Intended endpoint: Theo and Filippo return from Wednesday's off-page
   presentation with Viola's terms established; the story may then skip to early
   October for Jackie and Draco's visit to Amalthea.
@@ -35,6 +35,35 @@ presentation, recognised residence, and service to London remain to be settled.
   `VIVIT. PASTUS. DETENTUS.`; no reply has yet been played.
 - The genuine Eli's safety remains unconfirmed in played canon.
 
+## Played opening return — archived 2026-09-23
+
+The accepted opening return is published in **Intertwined — Haven House —
+Sunday, 11 August 2002** (Google Doc
+`1NovuVIspPVWlTsPntVRkFTBYa8Kx6Da4WuI-OP_lRKw`) and preserved verbatim in
+`../../archive/2026-09-23_haven_house_turns.md`.
+
+- Draco Side-Alonged Theo from the Underground tunnel into the Haven House
+  living room. Jackie Side-Alonged Filippo to the doorstep, and Draco invited
+  him across the threshold. Direct sunlight began blistering Filippo's exposed
+  skin before he was covered again.
+- Luna attacked Jackie. Jackie reported a few scratches and no blood. Draco
+  contained Luna; she later ate chicken after opening or raiding the pantry.
+- Theo was pale, bandaged, and nearly collapsed while moving from the
+  mantelpiece to the armchair. Jackie brought three blood bags; Theo drank two,
+  and Filippo accepted one. Filippo's blisters began receding.
+- Filippo accepted the upstairs shower. Jackie settled beside Draco on the
+  sofa. Luna climbed into Jackie's lap and purred her to sleep. Theo and Draco
+  also fell asleep in the living room.
+- Exact archived endpoint: “For several minutes, the only sound in the room
+  was Luna's purr. Then Draco let his own eyes close.”
+
+This batch does not establish the Sunday donor feed, the Monday bond testing,
+the Florence conversation, the Tuesday family-future discussion, or the
+Wednesday court presentation. Those remain future beats below. The source
+request mentioned an endpoint ending “When he finally slept, his arm remained
+around her.” That wording is not present in the verified Haven House Telegram
+batch; it belongs to the older Paris capsule and has not been imported here.
+
 ## Sunday, 11 August — return, threshold, collapse
 
 ### Travel and ward geometry
@@ -61,18 +90,21 @@ presentation, recognised residence, and service to London remain to be settled.
   detention and the France crisis prevented anyone arranging care.
 - She is intelligent and capable of finding food; she is angry and neglected,
   not starving.
-- Planned comic release: once the door opens, Luna becomes a black mass of fur
-  aimed at Jackie, echoing her old grudge from being kept in a gift box before
-  Draco received her. Alice controls whether Luna reaches, scratches, or is
-  intercepted; do not determine Jackie's action or injury.
-- Filippo's installation as a guest may carry quiet domestic comedy: an ancient
-  Florentine vampire entering the exhausted, disorderly household for the first
-  time. Do not turn him into a caricature.
+- Played opening beat: Luna launched herself at Jackie as a black mass of fur,
+  echoing her old grudge from being kept in a gift box before Draco received
+  her. Draco intercepted her. Jackie reported a few scratches and no blood;
+  do not add injury beyond the accepted turn.
+- Played domestic texture: Filippo entered the exhausted, disorderly household
+  for the first time, remained unimpressed by its scale, and accepted the
+  upstairs shower. Keep him ancient and dry rather than caricaturing him.
 
 ### Blood and rest
 
 - Ferrara's contracted donor is scheduled for Sunday evening (established
   Sunday schedule, normally around 9 PM).
+- Played opening logistics: Jackie brought three blood bags from the Quiet Room;
+  Theo drank two, and Filippo accepted one. Theo remained depleted but steadier;
+  no donor feed has been played.
 - Until then, Theo can use bagged blood. Filippo may argue that after deliberate
   starvation Theo should feed enough before the donor arrives that he does not
   take too much from a living person.
