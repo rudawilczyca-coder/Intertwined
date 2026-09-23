@@ -19,19 +19,20 @@
 
 ## Alternating structure
 
-- Five Alice turns + five accepted Sable turns.
-- 46 Heading 3 speaker sections; 127 Normal Text body paragraphs after spacer cleanup.
+- Five Ruby turns + five accepted Sable turns.
+- 10 Heading 3 author sections; 127 Normal Text body paragraphs after spacer cleanup.
 - Exact label sequence:
 
 ```text
-Jackie | Draco | Theodore | Draco | Filippo | Theodore | Filippo | Draco | Jackie | Filippo | Draco | Filippo | Draco | Theodore | Draco | Filippo | Theodore | Jackie | Theodore | Filippo | Draco | Theodore | Draco | Filippo | Theodore | Draco | Jackie | Draco | Filippo | Theodore | Draco | Theodore | Jackie | Draco | Theodore | Filippo | Draco | Filippo | Draco | Filippo | Theodore | Draco | Theodore | Draco | Theodore | Draco
+Ruby | Sable | Ruby | Sable | Ruby | Sable | Ruby | Sable | Ruby | Sable
 ```
 
 ## Verification
 
-- Initial Markdown import had 81 converter spacer paragraphs. All 81 were removed in reverse document-index order; the final nonempty paragraph's terminal newline was retained.
-- Final raw Docs structure: 173 paragraphs plus the section break; 46 `HEADING_3` labels, 127 `NORMAL_TEXT` body paragraphs, 0 empty paragraphs, and no other paragraph styles.
-- Per-section normalized text comparison: 46/46 sections matched the local verbatim batch; no missing or extra story text.
+- The initial character-perspective layout was replaced at Alice's request with one author heading per accepted turn.
+- The replacement Markdown import produced 117 spacer paragraphs. All were removed in reverse document-index order; the final nonempty paragraph's terminal newline was retained.
+- Final raw Docs structure: 137 paragraphs plus the section break; 10 `HEADING_3` labels, 127 `NORMAL_TEXT` body paragraphs, 0 empty paragraphs, and no other paragraph styles.
+- Exact author-heading sequence verified as `Ruby | Sable | Ruby | Sable | Ruby | Sable | Ruby | Sable | Ruby | Sable`; no story prose was rewritten.
 - Raw tail: `For several minutes, the only sound in the room was Luna’s purr. Then Draco let his own eyes close.`
 - Rich text: raw readback found 0 italic spans. The accepted batch contained no intentional italic markup to preserve; no italics were lost.
 - OOC/duplicate scan: no `OOC`, tool, progress, image, or duplicate-delivery text in the story body.
