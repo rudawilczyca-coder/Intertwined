@@ -3,7 +3,7 @@
 - Story dates: Sunday, 11 August through Wednesday, 14 August 2002.
 - Opening location: leaving the London court, then Haven House, Notting Hill.
 - Previous scene: `2002-08-11_london_court.md` — **closed**.
-- Status: **Active scene; opening return batch played and archived.** The later decision-window beats below remain planned and unplayed.
+- Status: **Active scene; return and Sunday-afternoon recovery batches played and archived.** The later decision-window beats below remain planned and unplayed.
 - Intended endpoint: Theo and Filippo return from Wednesday's off-page
   presentation with Viola's terms established; the story may then skip to early
   October for Jackie and Draco's visit to Amalthea.
@@ -63,6 +63,32 @@ Wednesday court presentation. Those remain future beats below. The source
 request mentioned an endpoint ending “When he finally slept, his arm remained
 around her.” That wording is not present in the verified Haven House Telegram
 batch; it belongs to the older Paris capsule and has not been imported here.
+
+## Played Sunday afternoon — archived 2026-09-24
+
+The accepted continuation is published in the same live Google Doc and
+preserved verbatim in `../../archive/2026-09-24_haven_house_turns.md`.
+
+- Jackie, Draco, and Theo woke after seven hours asleep in the living room.
+  Theo could stand and cross the room carefully but remained weak.
+- Theo drank a third bag of blood. Jackie ordered enough Indian food for four;
+  the Sunday donor remained due at nine.
+- Jackie realised that the nightmare she had on Tuesday night was the result of
+  the Malice trying to call her through the bond after Theo was taken. Theo had
+  not known He could reach her or that He had done so. The Malice said only that
+  He called; distance and sleep translated that contact through Jackie's mind.
+- The Malice bypassed Jackie's shields during the kitchen conversation. Jackie
+  declined immediate testing and left to wake Draco. Filippo asked what
+  nightmare Theo meant; Theo refused to disclose it because it belonged to
+  Jackie. Filippo accepted that boundary while retaining the question.
+- Jackie woke Draco by threatening to tell Theo about Monsieur Morel. Draco
+  followed her upstairs. They began a shower before food and further sleep.
+- Exact archived endpoint: “He held the glass shower door open for her, steam
+  curling out past his arm.”
+
+This batch does not establish the Sunday donor feed, the substance of Jackie's
+nightmare as disclosed to Filippo, Monday testing, Filippo's decision, or any
+later planned beat.
 
 ## Sunday, 11 August — return, threshold, collapse
 
