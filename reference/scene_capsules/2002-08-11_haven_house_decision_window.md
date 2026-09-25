@@ -86,6 +86,34 @@ preserved verbatim in `../../archive/2026-09-24_haven_house_turns.md`.
 - Exact archived endpoint: “He held the glass shower door open for her, steam
   curling out past his arm.”
 
+## Played Sunday shower and Draco’s self-recognition — archived 2026-09-25
+
+The accepted continuation is published in the same live Google Doc and
+preserved verbatim in `../../archive/2026-09-25_haven_house_turns.md`.
+
+- Draco washed Jackie’s hair. Jackie told him he eventually needed to talk to
+  Theo, meaning Draco’s attraction to men; Draco misunderstood her as referring
+  to the planned family-future conversation and delivered a careful statement
+  about wanting children with Jackie before her laughter stopped him.
+- Jackie clarified by shouting that Draco should tell Theo he was bisexual.
+  Theo heard her from downstairs and climbed to the bedroom despite his
+  depletion.
+- Theo questioned Draco about Adrien Morel. Draco admitted that he enjoyed the
+  waltz, wanted Adrien, and wanted Jackie to witness that desire. Theo’s
+  response was possessive but not accusatory.
+- Theo explained that the Wyvern’s Nest kiss made him suspect Draco was not
+  straight and that Florence made him certain. He had waited because Draco’s
+  identity was not Theo’s to name. Draco answered yes when asked whether he now
+  knew for himself.
+- Jackie said she had also understood in Florence or shortly before, citing
+  Draco’s attention to handsome visitors at the Thickey Ward and his jealousy
+  when Eli flirted with Theo. The Indian takeaway arrived; Jackie went
+  downstairs and left Draco and Theo to talk or kiss while she kept the food
+  warm.
+- Exact archived endpoint: “She didn't specify which one of them she was
+  talking through, before turning and running down the stairs barefoot, two
+  steps at a time.”
+
 This batch does not establish the Sunday donor feed, the substance of Jackie's
 nightmare as disclosed to Filippo, Monday testing, Filippo's decision, or any
 later planned beat.
