@@ -7,16 +7,15 @@
 **Direct scene capsule:**
 `reference/scene_capsules/2002-08-11_haven_house_decision_window.md` — **ACTIVE PLANNING CAPSULE** (2026-09-20).
 
-**Current state (20 September 2026):** The London Court scene is complete. Alice
-and Sable have agreed the Sunday-through-Wednesday Haven House decision arc and
-the post-arc time-skip boundary. No new live Doc has begun; open the next scene
-from the active capsule rather than the closed Court capsule.
+**Current state (27 September 2026):** Sunday at Haven House is complete. The
+Monday live Doc has begun with Theo and Filippo alone after Jackie and Draco
+leave for the Ministry. Continue from the active capsule and Monday cursor.
 
 ---
 
 ## NOW — the in-story clock
-- **Early Sunday, 11 August 2002, departing the London court.** The court confrontation is complete. The accepted story endpoint is Theo saying “She's not offering freedom. She's offering belonging,” with the Malice murmuring *Home* as the trio walks out together.
-- **Where everyone is:** Jackie, Draco, Theo, and Filippo are leaving the court. Theo is ambulatory but weakened — can walk and climb stairs slowly, cannot fight. Draco's wrist is dressed after the live feed. Nell remains at the court. Leandro remains in the court's custody (Nell was treating his wound). Pansy and Bastien remain in France. Pansy received Draco's Protean message (VIVIT. PASTUS. DETENTUS.) but no reply is established. Genuine Eli's status is unconfirmed.
+- **Monday morning, 12 August 2002, Haven House.** Jackie and Draco have left for the Ministry. Theo and Filippo are alone in the parlour with Luna. Filippo has asked Theo to consider Florence and whether London is truly the future all three spouses want. Theo has not answered.
+- **Where everyone is:** Theo is at Haven House, steadier after Sunday's donor feed but still bruised and recovering. Filippo is staying as guest, sire, and temporary medical supervision. Jackie and Draco are at the Ministry. Nell and Leandro remain at the London court. Pansy and Bastien remain in France. Genuine Eli's status is unconfirmed.
 - **The clock ahead:** Three-day recovery/decision period at Haven House with
   Filippo in residence, followed by Theo and Filippo's Wednesday presentation.
   The accepted day-by-day plan, including Tuesday's children/contraception
@@ -58,8 +57,9 @@ from the active capsule rather than the closed Court capsule.
   formal release-or-retain choice and independent presentation remain ahead.
 - **The genuine Eli's status is unconfirmed.** Eli supplied hair for Theo's disguise. Pansy said she would check where he is, but no played confirmation appears in the observed batch.
 - **The Malice has reached Jackie at close range.** Proximity alone is tolerable;
-  surfaced or active contact bypasses her shields too easily. Monday's private
-  containment testing is planned; do not prewrite Jackie's response.
+  surfaced or active contact bypasses her shields too easily. The household has
+  rejected deliberate testing and will treat it as a small inconvenience to
+  observe only if it intrudes.
 - **The 2001 Luminary crowd will be watching.** Last time that crowd saw them, Draco was nearly assassinated and Theo died.
 - **The children conversation is scheduled for Tuesday and remains unplayed.**
   Draco and Jackie have discussed wanting a child; Theo has not. Jackie intends

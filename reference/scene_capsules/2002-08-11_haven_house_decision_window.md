@@ -3,7 +3,7 @@
 - Story dates: Sunday, 11 August through Wednesday, 14 August 2002.
 - Opening location: leaving the London court, then Haven House, Notting Hill.
 - Previous scene: `2002-08-11_london_court.md` — **closed**.
-- Status: **Active scene; return and Sunday-afternoon recovery batches played and archived.** The later decision-window beats below remain planned and unplayed.
+- Status: **Active scene; Sunday is complete and Monday morning has begun.** The Sunday return, recovery, household conversation, donor feed, and nightfall are played and archived. Monday's private Theo–Filippo decision conversation is now live.
 - Intended endpoint: Theo and Filippo return from Wednesday's off-page
   presentation with Viola's terms established; the story may then skip to early
   October for Jackie and Draco's visit to Amalthea.
@@ -57,9 +57,9 @@ Sunday, 11 August 2002** (Google Doc
 - Exact archived endpoint: “For several minutes, the only sound in the room
   was Luna's purr. Then Draco let his own eyes close.”
 
-This batch does not establish the Sunday donor feed, the Monday bond testing,
-the Florence conversation, the Tuesday family-future discussion, or the
-Wednesday court presentation. Those remain future beats below. The source
+At this batch boundary, the Sunday donor feed, later household conversation,
+Florence conversation, Tuesday family-future discussion, and Wednesday court
+presentation had not yet occurred. The source
 request mentioned an endpoint ending “When he finally slept, his arm remained
 around her.” That wording is not present in the verified Haven House Telegram
 batch; it belongs to the older Paris capsule and has not been imported here.
@@ -114,9 +114,50 @@ preserved verbatim in `../../archive/2026-09-25_haven_house_turns.md`.
   talking through, before turning and running down the stairs barefoot, two
   steps at a time.”
 
-This batch does not establish the Sunday donor feed, the substance of Jackie's
-nightmare as disclosed to Filippo, Monday testing, Filippo's decision, or any
-later planned beat.
+This batch does not establish the later Sunday household conversation, donor
+feed, Monday Theo–Filippo conversation, or any later planned beat.
+
+## Played Sunday dinner and nightfall — archived 2026-09-27
+
+The completed Sunday continuation is published in the same Google Doc and
+preserved verbatim in `../../archive/2026-09-27_haven_house_turns.md`.
+
+- Jackie collected the Indian takeaway while Filippo remained clear of direct
+  sunlight. They discussed the practical limits of vampire travel, Filippo's
+  remembered mornings, Jackie's hope that Theo will remain engaged with the
+  world after she and Draco die, and Filippo's mortal wish for a daughter with
+  Elisabetta.
+- Draco and Theo remained upstairs long enough to kiss and let the finished
+  identity conversation settle. Theo joked that he would now have to be jealous
+  of any man near Draco who was more handsome than him; Draco assured him that
+  this left very few candidates.
+- Theo and Draco joined the others for dinner. The household recalled the
+  Albanian village and Theo's panther form; the sheep remain a threatened but
+  undisclosed story.
+- Filippo explicitly advised against deliberately testing Jackie's contact with
+  the Malice. The household will observe the small proximity inconvenience if
+  it intrudes rather than provoke it into becoming a danger.
+- Ferrara's contracted donor arrived at nine. Theo fed safely and without
+  incident; the Malice quieted, the donor left steady and well-paid, and the
+  household settled for the night.
+- Exact Sunday endpoint: “Sunday ended with the wards intact, the Malice fed,
+  and every person beneath Haven House’s roof exactly where they had chosen to
+  remain.”
+
+## Played Monday opening — archived 2026-09-27
+
+Monday's new live Google Doc is **Intertwined — Haven House — Monday, 12 August
+2002** (`1ZH0popJOhsFn9YuAQn1rgYGG9pN6s1a00Abc4HnqWzQ`). Its opening is
+preserved in `../../archive/2026-09-27_haven_house_monday_opening.md`.
+
+- Jackie and Draco have left for the Ministry. Theo and Filippo are alone at
+  Haven House with Luna.
+- Theo is materially steadier after the donor feed but still bruised and
+  recovering from Viola's court.
+- Filippo has asked Theo to genuinely consider Florence and whether London is
+  the future all three spouses want, rather than simply the future none has
+  questioned.
+- Live cursor: Theo has not answered Filippo's final question.
 
 ## Sunday, 11 August — return, threshold, collapse
 
@@ -157,50 +198,33 @@ later planned beat.
 - Ferrara's contracted donor is scheduled for Sunday evening (established
   Sunday schedule, normally around 9 PM).
 - Played opening logistics: Jackie brought three blood bags from the Quiet Room;
-  Theo drank two, and Filippo accepted one. Theo remained depleted but steadier;
-  no donor feed has been played.
+  Theo drank two, and Filippo accepted one. Theo later drank the third bag.
 - Until then, Theo can use bagged blood. Filippo may argue that after deliberate
   starvation Theo should feed enough before the donor arrives that he does not
   take too much from a living person.
 - Whether an additional live feed is offered before the donor remains a live
   household choice. Do not volunteer Jackie or decide her response.
-- The Sunday donor feed should demonstrate controlled abundance after court
-  deprivation: Theo feeds from a person and stops safely. Do not predetermine
-  Jackie's participation or reaction.
+- The Sunday donor feed is played: Theo fed from Ferrara's contracted donor and
+  stopped safely; the donor left steady and well-paid.
 - Most of Sunday should remain quiet. Once the threshold, Luna, blood logistics,
   and guest arrangements are handled, the exhausted household sleeps/rests for
   much of the day. Do not force Draco and Jackie's unfinished argument into this
   day merely to manufacture conflict.
 
-## Monday, 12 August — bond cost and the Florence alternative
+## Monday, 12 August — the Florence alternative
 
-### Private bond testing
-
-The household tests what proximity between Jackie, Theo, and the Malice now
-means. This is intimate discovery, not Viola's public demonstration.
-
-Author-set mechanics:
+### Proximity contact remains an inconvenience, not an experiment
 
 - Proximity alone is tolerable while the Malice remains quiet and does not reach
   through the bond.
 - When He rises close to the surface or actively taps the bond, He bypasses
-  Jackie's shields far too easily and overwhelms her.
-- Theo's depletion keeps the Malice near the surface and makes bleed-through
-  more likely. Feeding improves regulation but does not erase the mechanism.
-- Jackie is likely to minimise the cost, say she is fine, and power through;
-  only Alice may write whether and how she does so.
-- The Malice knows the true cost because He is inside the contact. His live
-  dilemma is whether stopping would override Jackie's stated agency or whether
-  continuing would collude with concealed harm.
-- Preferred Malice choice: He initially honours an informed request to continue,
-  but does not lie to Theo. Once He recognises that Jackie is concealing the
-  actual cost, He tells Theo plainly. He protects her by surrendering access,
-  not by paternalistically deciding at the first discomfort.
-- Theo cannot feel Jackie through his severed side of the bond. The Malice can
-  reach where Theo cannot; Theo is likely to hate the asymmetry. Keep the
-  reaction character-led rather than therapeutic.
-- *Pax* and *Finite* retain their established meanings. Their exact effect on
-  bond contact may be tested in play; do not announce a result before evidence.
+  Jackie's shields too easily. Feeding improves regulation but does not erase
+  the mechanism.
+- The household will not schedule or provoke a formal test. They will notice the
+  contact if it intrudes and learn its boundaries naturally. Do not turn it into
+  a weapon trial, a therapeutic exercise, or a manufactured Monday set piece.
+- *Pax* and *Finite* retain their established meanings. No new effect on bond
+  contact has been established.
 
 ### Filippo and Theo — bilateral choice
 
