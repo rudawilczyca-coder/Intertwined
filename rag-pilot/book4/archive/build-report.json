@@ -1,0 +1,89 @@
+{
+  "alternate_messages": 8,
+  "attachments": 12,
+  "automatic_supersessions": [
+    {
+      "conversation_uuid": "43f1c5a4-c916-4904-beff-ff131f9d6cbf",
+      "sequence_indices": [],
+      "title": "The vial's choice"
+    },
+    {
+      "conversation_uuid": "f7103aab-a80a-4986-b639-b6350fafb0d7",
+      "sequence_indices": [],
+      "title": "First day in Draco's London flat"
+    },
+    {
+      "conversation_uuid": "0ff6952e-48c4-45d6-abb6-9086b90cd046",
+      "sequence_indices": [],
+      "title": "Soul tether consequences and morning after"
+    },
+    {
+      "conversation_uuid": "1036e3cf-db91-4cd8-8e0c-77e3363006fa",
+      "sequence_indices": [],
+      "title": "Second day in Draco's flat"
+    },
+    {
+      "conversation_uuid": "d930dbf2-9cfc-42d2-a1a3-5cb32c354628",
+      "sequence_indices": [],
+      "title": "Returning to the Taylor Estate"
+    },
+    {
+      "conversation_uuid": "2b2e7454-1c60-4e77-9624-d95af1322102",
+      "sequence_indices": [],
+      "title": "Auror tryouts under Potter's scrutiny"
+    },
+    {
+      "conversation_uuid": "064c5a75-d962-4127-8f17-7e6e2939529b",
+      "sequence_indices": [],
+      "title": "Celebration at the Verdant Table"
+    },
+    {
+      "conversation_uuid": "06d50174-96b5-44d8-9f3a-c01ea4fe7328",
+      "sequence_indices": [],
+      "title": "Confronting Samuel at Carrow Manor"
+    },
+    {
+      "conversation_uuid": "21c4d566-07dc-47bd-9aaf-6640c12d0f19",
+      "sequence_indices": [],
+      "title": "Returning home with secrets"
+    },
+    {
+      "conversation_uuid": "125062a8-46de-46bb-a5f8-555318dc6b06",
+      "sequence_indices": [],
+      "title": "France Day 1"
+    },
+    {
+      "conversation_uuid": "0ba16a02-8c23-4e85-9800-733c63826804",
+      "sequence_indices": [
+        5,
+        134,
+        290,
+        361,
+        369
+      ],
+      "title": "France Day 2 + 3"
+    },
+    {
+      "conversation_uuid": "bdf76bfa-f168-4554-a899-83f4f63543af",
+      "sequence_indices": [
+        244
+      ],
+      "title": "France Arc roleplay session day 5 + 6"
+    },
+    {
+      "conversation_uuid": "ca8cc87f-e19d-4d47-8fea-a329e937198c",
+      "sequence_indices": [
+        5,
+        7,
+        35,
+        100
+      ],
+      "title": "France Arc Day 7"
+    }
+  ],
+  "conversations": 13,
+  "hidden_variants": 365,
+  "inline_superseded": 11,
+  "messages": 1704,
+  "selected_story_messages": 1192
+}

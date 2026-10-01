@@ -1,0 +1,179 @@
+{
+  "schema_version": 1,
+  "description": "Twenty-seven manually checked Book Four retrieval questions: paraphrases, chronology, exact dialogue, branch traps, and an unsupported-name negative control.",
+  "questions": [
+    {
+      "id": "b04-q01",
+      "question": "What changed in the soul tether after Jackie swallowed Filippo's vial?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-1-part-0"}]
+    },
+    {
+      "id": "b04-q02",
+      "question": "Which memory did Theo choose to send Jackie during their exchange, and why did it matter?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-1-part-0"}]
+    },
+    {
+      "id": "b04-q03",
+      "question": "How did Jackie turn her wedding ring into a concentration aid?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-1-part-0"}]
+    },
+    {
+      "id": "b04-q04",
+      "question": "Why had Cyrus arranged Jackie's marriage to Theo instead of Samaya's?",
+      "expected": [
+        {"conversation_uuid": "d930dbf2-9cfc-42d2-a1a3-5cb32c354628", "sequence_index": 7},
+        {"contains": "events/book4_post_florence_2001.md#section-1-part-1"}
+      ]
+    },
+    {
+      "id": "b04-q05",
+      "question": "What happened to the house-elf who comforted Theo as a child?",
+      "expected": [
+        {"conversation_uuid": "d930dbf2-9cfc-42d2-a1a3-5cb32c354628", "sequence_index": 26},
+        {"contains": "events/book4_post_florence_2001.md#section-1-part-1"}
+      ]
+    },
+    {
+      "id": "b04-q06",
+      "question": "How did Amalthea test and then accept Theo in the conservation?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-1-part-1"}]
+    },
+    {
+      "id": "b04-q07",
+      "question": "How fast did Jackie finish the first Auror trial, and what injury did she take?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-3-part-0"}]
+    },
+    {
+      "id": "b04-q08",
+      "question": "What unconventional tactic let Jackie beat the magical maze?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-3-part-0"}]
+    },
+    {
+      "id": "b04-q09",
+      "question": "What secret did Jackie keep from Pemberton during the Mind Sieve?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-3-part-0"}]
+    },
+    {
+      "id": "b04-q10",
+      "question": "When did Harry begin moving from unresolved hostility toward professional respect for Jackie?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-3-part-0"}]
+    },
+    {
+      "id": "b04-q11",
+      "question": "At what point did Theo first tell both Jackie and Draco aloud that he loved them?",
+      "expected": [
+        {"conversation_uuid": "0ba16a02-8c23-4e85-9800-733c63826804", "sequence_index": 156},
+        {"contains": "events/book4_post_florence_2001.md#section-4-part-0"}
+      ]
+    },
+    {
+      "id": "b04-q12",
+      "question": "How long had Samuel loved Jackie before he confessed?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-5-part-0"}]
+    },
+    {
+      "id": "b04-q13",
+      "question": "What restrictions did Theo impose on Jackie's future contact with Samuel?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-5-part-0"}]
+    },
+    {
+      "id": "b04-q14",
+      "question": "What were the two safewords and the core rules Theo set on Sunday night?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-5-part-0"}]
+    },
+    {
+      "id": "b04-q15",
+      "question": "Why did the trio travel to the Lavigne estate in August?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-6-part-0"}]
+    },
+    {
+      "id": "b04-q16",
+      "question": "What did Draco do for Colette after she fell into the pool?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-6-part-0"}]
+    },
+    {
+      "id": "b04-q17",
+      "question": "What price did Geneviève demand before buying Nott Manor?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-6-part-1"}]
+    },
+    {
+      "id": "b04-q18",
+      "question": "What did Draco promise Jackie after she said she might never trust Theo again?",
+      "expected": [
+        {"conversation_uuid": "bdf76bfa-f168-4554-a899-83f4f63543af", "sequence_index": 186},
+        {"contains": "events/book4_post_florence_2001.md#section-6-part-1"}
+      ]
+    },
+    {
+      "id": "b04-q19",
+      "question": "What did Filippo reveal about how he handled his supernatural allure around Jackie?",
+      "expected": [
+        {"conversation_uuid": "bdf76bfa-f168-4554-a899-83f4f63543af", "sequence_index": 226},
+        {"conversation_uuid": "bdf76bfa-f168-4554-a899-83f4f63543af", "sequence_index": 227},
+        {"contains": "events/book4_post_florence_2001.md#section-6-part-1"}
+      ]
+    },
+    {
+      "id": "b04-q20",
+      "question": "Why did Jackie choose the Malice rather than forgive Theo?",
+      "expected": [
+        {"conversation_uuid": "bdf76bfa-f168-4554-a899-83f4f63543af", "sequence_index": 183},
+        {"contains": "events/book4_post_florence_2001.md#section-6-part-2"},
+        {"contains": "events/book4_post_florence_2001.md#section-6-part-4"}
+      ]
+    },
+    {
+      "id": "b04-q21",
+      "question": "What did Jackie and Filippo mean when they acknowledged another life?",
+      "expected": [
+        {"conversation_uuid": "ca8cc87f-e19d-4d47-8fea-a329e937198c", "sequence_index": 55},
+        {"contains": "events/book4_post_florence_2001.md#section-6-part-2"}
+      ]
+    },
+    {
+      "id": "b04-q22",
+      "question": "What evidence of the Malice's claiming did Draco see the next morning?",
+      "expected": [
+        {"conversation_uuid": "ca8cc87f-e19d-4d47-8fea-a329e937198c", "sequence_index": 77},
+        {"contains": "events/book4_post_florence_2001.md#section-6-part-3"}
+      ]
+    },
+    {
+      "id": "b04-q23",
+      "question": "Who attacked at the Luminary, and whose hesitation put Theo in the curse's path?",
+      "expected": [{"contains": "events/book4_post_florence_2001.md#section-6-part-3"}]
+    },
+    {
+      "id": "b04-q24",
+      "question": "Did Filippo's blood heal Theo after the ballroom attack, or did he turn?",
+      "expected": [
+        {"conversation_uuid": "ca8cc87f-e19d-4d47-8fea-a329e937198c", "sequence_index": 102},
+        {"contains": "events/book4_post_florence_2001.md#section-6-part-3"}
+      ],
+      "forbidden": [
+        {"conversation_uuid": "ca8cc87f-e19d-4d47-8fea-a329e937198c", "sequence_index": 98}
+      ]
+    },
+    {
+      "id": "b04-q25",
+      "question": "What was Theo's condition at the end of Book Four?",
+      "expected": [
+        {"contains": "events/book4_post_florence_2001.md#section-6-part-3"},
+        {"contains": "events/book4_post_florence_2001.md#section-6-part-4"}
+      ]
+    },
+    {
+      "id": "b04-q26",
+      "question": "What did Theo say was the first time someone gave him something that size willingly?",
+      "expected": [
+        {"conversation_uuid": "43f1c5a4-c916-4904-beff-ff131f9d6cbf", "sequence_index": 76}
+      ]
+    },
+    {
+      "id": "b04-q27",
+      "question": "What password did Maribel Fawley use to enter the Luminary?",
+      "answerable": false,
+      "required_terms": ["Maribel", "Fawley"]
+    }
+  ]
+}

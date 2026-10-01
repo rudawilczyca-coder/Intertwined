@@ -12,3 +12,6 @@
 .rag/index.db
 .rag/index.sqlite
 .rag/__pycache__/
+scripts/__pycache__/
+rag-pilot/book4/derived/index.sqlite3
+rag-pilot/book4/__pycache__/

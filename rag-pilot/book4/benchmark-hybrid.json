@@ -1,0 +1,493 @@
+{
+  "mode": "hybrid",
+  "passed": 21,
+  "total": 27,
+  "results": [
+    {
+      "id": "b04-q01",
+      "question": "What changed in the soul tether after Jackie swallowed Filippo's vial?",
+      "passed": true,
+      "top_sources": [
+        "events/book4_post_florence_2001.md#section-1-part-0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d1b4e-42f0-7043-af5d-dbfc0cfb3070?index=223&part=0",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d2214-bfaa-7c42-91d6-5623f1dbcbcd?index=102&part=1",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d220e-c141-77ad-bede-05fc34e7eae7?index=97&part=0",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d2214-bfaa-7c42-91d6-5623f1dbcbcd?index=102&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6878729942583656
+      }
+    },
+    {
+      "id": "b04-q02",
+      "question": "Which memory did Theo choose to send Jackie during their exchange, and why did it matter?",
+      "passed": true,
+      "top_sources": [
+        "events/book4_post_florence_2001.md#section-1-part-0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019d029a-0105-7c53-ab1a-11fe99a0e3e8?index=270&part=0",
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019ccfa3-4ebf-7272-a46a-fb93194e28a1?index=32&part=1",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d1b37-daa1-7928-b07a-ddf0c578ba41?index=221&part=0",
+        "events/book4_post_florence_2001.md#section-1-part-1"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6863912480900182
+      }
+    },
+    {
+      "id": "b04-q03",
+      "question": "How did Jackie turn her wedding ring into a concentration aid?",
+      "passed": true,
+      "top_sources": [
+        "claude:1036e3cf-db91-4cd8-8e0c-77e3363006fa/message:019cc77c-b9cf-7154-8247-f9c4df138b51?index=11&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019d0238-d52f-70f7-ad5b-c1c2d0ba09f5?index=258&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cf836-30b2-7798-9c22-c6bc4f74c552?index=10&part=0",
+        "claude:1036e3cf-db91-4cd8-8e0c-77e3363006fa/message:019ccb03-fa80-73cb-8eeb-3bd4aabc945b?index=68&part=0",
+        "events/book4_post_florence_2001.md#section-1-part-0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6712984041583012
+      }
+    },
+    {
+      "id": "b04-q04",
+      "question": "Why had Cyrus arranged Jackie's marriage to Theo instead of Samaya's?",
+      "passed": true,
+      "top_sources": [
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019ccfa3-4ebf-7272-a46a-fb93194e28a1?index=32&part=0",
+        "events/book4_post_florence_2001.md#section-1-part-1",
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019cce00-4b87-7346-892e-e24a60e208d1?index=1&part=1",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cf85e-873d-7d4f-9c9a-0c4bdfb35ce3?index=18&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cf850-9785-724d-88dc-422755186517?index=14&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6558868888818038
+      }
+    },
+    {
+      "id": "b04-q05",
+      "question": "What happened to the house-elf who comforted Theo as a child?",
+      "passed": true,
+      "top_sources": [
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019ccfa3-4ebf-7272-a46a-fb93194e28a1?index=32&part=3",
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019ccf76-d74e-73dd-b7a7-2f022562fa4f?index=26&part=1",
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019cd2e7-e839-72b8-b1b0-09d89d20974f?index=35&part=0",
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019ccf76-d74e-73dd-b7a7-2f022562fa4f?index=26&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019d029a-0106-706c-96b1-2daf5b447182?index=271&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6159117057157716
+      }
+    },
+    {
+      "id": "b04-q06",
+      "question": "How did Amalthea test and then accept Theo in the conservation?",
+      "passed": true,
+      "top_sources": [
+        "events/book4_post_florence_2001.md#section-1-part-1",
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019cd418-4e8c-73a6-9231-be5a2540d411?index=49&part=0",
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019ccf9e-6502-7bf3-9737-395cde2ecad5?index=30&part=0",
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019cd499-2419-7f4c-9460-e8dcd621b130?index=61&part=1",
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019ccec2-996f-70a3-a4b7-3c8cd3f5d1a1?index=5&part=2"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.5808404647211834
+      }
+    },
+    {
+      "id": "b04-q07",
+      "question": "How fast did Jackie finish the first Auror trial, and what injury did she take?",
+      "passed": true,
+      "top_sources": [
+        "events/book4_post_florence_2001.md#section-3-part-0",
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd984-0837-7c90-b138-7a3e25e15c14?index=37&part=0",
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd857-c29c-7586-891e-2b3b2e534cf4?index=5&part=2",
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd875-c7fd-7ebc-8d22-75b0b0064727?index=6&part=0",
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd88e-245e-768c-8357-f4f5baa8766c?index=9&part=2"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.726039874786447
+      }
+    },
+    {
+      "id": "b04-q08",
+      "question": "What unconventional tactic let Jackie beat the magical maze?",
+      "passed": false,
+      "top_sources": [
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd88e-245e-7969-b5b3-cdcfa0eac145?index=8&part=2",
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd88e-245e-7969-b5b3-cdcfa0eac145?index=8&part=0",
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd875-c7fd-791e-9895-2396e1597508?index=7&part=0",
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd88e-245e-7969-b5b3-cdcfa0eac145?index=8&part=1",
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd984-0837-7c90-b138-7a3e25e15c14?index=37&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6532490600664831
+      }
+    },
+    {
+      "id": "b04-q09",
+      "question": "What secret did Jackie keep from Pemberton during the Mind Sieve?",
+      "passed": false,
+      "top_sources": [
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd918-ee49-7857-a895-028bd0c2e6f7?index=22&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d16d5-da73-76c9-882b-62dd09a13a61?index=153&part=0",
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd88e-245e-768c-8357-f4f5baa8766c?index=9&part=3",
+        "claude:2b2e7454-1c60-4e77-9624-d95af1322102/message:019cd918-ee49-7857-a895-028bd0c2e6f7?index=22&part=4",
+        "claude:43f1c5a4-c916-4904-beff-ff131f9d6cbf/message:019cb97a-1932-7620-b214-d9c64ac35a49?index=60&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6813136271392949
+      }
+    },
+    {
+      "id": "b04-q10",
+      "question": "When did Harry begin moving from unresolved hostility toward professional respect for Jackie?",
+      "passed": false,
+      "top_sources": [
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d0cd5-a6b0-7931-92e6-a9a533b1fd45?index=11&part=1",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019d06fe-46d6-72c6-801e-468da04e08a9?index=393&part=0",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d2003-e928-7e39-9e2c-65ac6708c9c5?index=12&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d0cd5-a6b0-7931-92e6-a9a533b1fd45?index=11&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cfd6a-19d6-7901-b777-a83473e8be18?index=117&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.5583211267460559
+      }
+    },
+    {
+      "id": "b04-q11",
+      "question": "At what point did Theo first tell both Jackie and Draco aloud that he loved them?",
+      "passed": true,
+      "top_sources": [
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019d07b4-60c3-79b9-b1a2-4f9420c57377?index=420&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cfea0-da3c-7b55-8a4d-5dc8b6f84a83?index=191&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cfed9-a158-79c3-8e12-07dce4655476?index=207&part=6",
+        "claude:1036e3cf-db91-4cd8-8e0c-77e3363006fa/message:019ccab7-2bb1-7010-89ff-86752e3ef697?index=52&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cfe2b-e1e6-7daa-92dc-7061a397134f?index=156&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.7357115561462859
+      }
+    },
+    {
+      "id": "b04-q12",
+      "question": "How long had Samuel loved Jackie before he confessed?",
+      "passed": true,
+      "top_sources": [
+        "claude:06d50174-96b5-44d8-9f3a-c01ea4fe7328/message:019ce119-8411-7472-adf6-a60c4b62d833?index=89&part=1",
+        "claude:06d50174-96b5-44d8-9f3a-c01ea4fe7328/message:019cde46-ebba-7c9a-9b02-f8900a5c6f15?index=19&part=0",
+        "events/book4_post_florence_2001.md#section-5-part-0",
+        "claude:06d50174-96b5-44d8-9f3a-c01ea4fe7328/message:019cdf0d-5575-72c3-a65a-60a8f79786cf?index=51&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cfe90-2d10-7f99-87f1-a2144869886c?index=185&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.668098409526407
+      }
+    },
+    {
+      "id": "b04-q13",
+      "question": "What restrictions did Theo impose on Jackie's future contact with Samuel?",
+      "passed": true,
+      "top_sources": [
+        "events/book4_post_florence_2001.md#section-5-part-0",
+        "claude:06d50174-96b5-44d8-9f3a-c01ea4fe7328/message:019cde87-b6ff-7884-ad7b-c2dbe7458d68?index=26&part=0",
+        "events/book4_post_florence_2001.md#section-6-part-1",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cf85e-873d-76d0-8241-ba68fe28ac82?index=19&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cf908-f486-7e55-976b-c7f5fabd7cab?index=51&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6770024872545938
+      }
+    },
+    {
+      "id": "b04-q14",
+      "question": "What were the two safewords and the core rules Theo set on Sunday night?",
+      "passed": true,
+      "top_sources": [
+        "events/book4_post_florence_2001.md#section-5-part-0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019d07f0-ba01-72ec-a4a0-b9fd79b8070c?index=435&part=0",
+        "claude:064c5a75-d962-4127-8f17-7e6e2939529b/message:019cdcb1-1c18-79fb-8c19-c1ffe35f54f2?index=67&part=0",
+        "claude:f7103aab-a80a-4986-b639-b6350fafb0d7/message:019cba7e-a9e9-7cba-8d54-961f35217a3c?index=15&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cf908-f486-723a-ac06-07b022f08980?index=52&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6455139318663679
+      }
+    },
+    {
+      "id": "b04-q15",
+      "question": "Why did the trio travel to the Lavigne estate in August?",
+      "passed": true,
+      "top_sources": [
+        "events/book4_post_florence_2001.md#section-6-part-0",
+        "claude:125062a8-46de-46bb-a5f8-555318dc6b06/message:019cf264-4346-7c97-b683-a92128d57cfc?index=1&part=0",
+        "events/book4_post_florence_2001.md#section-6-part-3",
+        "claude:125062a8-46de-46bb-a5f8-555318dc6b06/message:019cf2c6-748c-7d50-9aa5-b5fc6b338477?index=4&part=1",
+        "claude:125062a8-46de-46bb-a5f8-555318dc6b06/message:019cf264-4346-78ec-9f31-769868f8d5c2?index=0&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.5840221985867583
+      }
+    },
+    {
+      "id": "b04-q16",
+      "question": "What did Draco do for Colette after she fell into the pool?",
+      "passed": false,
+      "top_sources": [
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d1179-8fe0-739f-a33e-4dffb2cdd772?index=74&part=1",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d11d2-7e99-767c-b218-d765813b2f87?index=81&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d118b-7289-7689-a651-06b557adc2ac?index=76&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cf89b-5ec5-7158-84f9-6420d4cef9cc?index=30&part=1",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cf94b-7811-7f64-b958-d601ba92b1c2?index=67&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.7705033750145673
+      }
+    },
+    {
+      "id": "b04-q17",
+      "question": "What price did Geneviève demand before buying Nott Manor?",
+      "passed": true,
+      "top_sources": [
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d16c7-e381-7682-88c3-c755c3b92a19?index=152&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d16b1-313f-7612-9788-1e2c9b8c496f?index=146&part=1",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d16c7-e381-7c4a-a55c-2b3cc214bbf6?index=151&part=0",
+        "events/book4_post_florence_2001.md#section-6-part-1",
+        "claude:21c4d566-07dc-47bd-9aaf-6640c12d0f19/message:019ce476-792d-7d02-aa16-7fe5150c750c?index=73&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.5827270487353461
+      }
+    },
+    {
+      "id": "b04-q18",
+      "question": "What did Draco promise Jackie after she said she might never trust Theo again?",
+      "passed": false,
+      "top_sources": [
+        "claude:064c5a75-d962-4127-8f17-7e6e2939529b/message:019cdcb1-1c18-7e26-8d21-1a1a6282cf2a?index=68&part=0",
+        "claude:125062a8-46de-46bb-a5f8-555318dc6b06/message:019cf3e4-b8c3-7cc7-aa0a-f0db46462e83?index=31&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d179f-02b2-78b5-a702-0050fbd0593e?index=184&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d12cc-d6f4-7c2a-bbe5-30594d7bac70?index=107&part=1",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d207a-42c1-77db-a0b9-dc9b63683a93?index=29&part=1"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.7227295878705366
+      }
+    },
+    {
+      "id": "b04-q19",
+      "question": "What did Filippo reveal about how he handled his supernatural allure around Jackie?",
+      "passed": true,
+      "top_sources": [
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d1b5b-6388-774f-b84f-d7e3c426224b?index=226&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d1b6f-32ed-790b-aa02-8bdf4936ecde?index=227&part=0",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d20ea-02c5-7957-b3ec-b74025a490b6?index=45&part=1",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d12b5-fc40-7094-a265-734fb37d3310?index=99&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d1c51-d40d-70c0-9800-970b7b53b82f?index=255&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.7242547212109627
+      }
+    },
+    {
+      "id": "b04-q20",
+      "question": "Why did Jackie choose the Malice rather than forgive Theo?",
+      "passed": true,
+      "top_sources": [
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d179f-02b2-7f91-853f-6623984a542f?index=183&part=0",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d207a-42c1-7ffd-912f-16b847866ba7?index=28&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d12c9-924f-7af8-8446-fdffc158368d?index=105&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d12b5-fc40-7094-a265-734fb37d3310?index=99&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d0d15-2227-73c3-9387-e29b6e26006e?index=20&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.7190052081468621
+      }
+    },
+    {
+      "id": "b04-q21",
+      "question": "What did Jackie and Filippo mean when they acknowledged another life?",
+      "passed": false,
+      "top_sources": [
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d20d6-f15b-7d45-8581-dfa2648907d1?index=40&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d1b4e-42f0-7043-af5d-dbfc0cfb3070?index=223&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d199c-85c5-76c7-b052-87e3181c3caf?index=195&part=0",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d11fc-4e1e-77c2-8a18-44389701e238?index=87&part=0",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d21dd-9c03-736b-97b1-58d3e90cab85?index=91&part=2"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.679837900370677
+      }
+    },
+    {
+      "id": "b04-q22",
+      "question": "What evidence of the Malice's claiming did Draco see the next morning?",
+      "passed": true,
+      "top_sources": [
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d21d2-05cb-7a08-974d-c6789aa6d8bb?index=85&part=0",
+        "claude:1036e3cf-db91-4cd8-8e0c-77e3363006fa/message:019ccad8-9839-740f-bb36-5625d1e8696b?index=58&part=0",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d21d9-6f03-7094-ac0a-b276d3de70fd?index=87&part=0",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d21ac-ca62-7bc8-bbad-abcfd2c88bb5?index=77&part=2",
+        "claude:f7103aab-a80a-4986-b639-b6350fafb0d7/message:019cbf58-0067-7c41-9307-2bbf7b848fd6?index=58&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6400350257469648
+      }
+    },
+    {
+      "id": "b04-q23",
+      "question": "Who attacked at the Luminary, and whose hesitation put Theo in the curse's path?",
+      "passed": true,
+      "top_sources": [
+        "events/book4_post_florence_2001.md#section-6-part-3",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d21ea-a1e6-7da6-aeb5-e36267c914f4?index=93&part=2",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d21fd-2332-7144-b94c-25446c6a3e7b?index=95&part=0",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d2214-bfaa-7c42-91d6-5623f1dbcbcd?index=102&part=2",
+        "events/book4_post_florence_2001.md#section-6-part-0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6273792472776629
+      }
+    },
+    {
+      "id": "b04-q24",
+      "question": "Did Filippo's blood heal Theo after the ballroom attack, or did he turn?",
+      "passed": true,
+      "top_sources": [
+        "events/book4_post_florence_2001.md#section-6-part-3",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d220e-c141-77ad-bede-05fc34e7eae7?index=97&part=0",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d2214-bfaa-7c42-91d6-5623f1dbcbcd?index=102&part=0",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d21fd-2332-7144-b94c-25446c6a3e7b?index=95&part=2",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d2214-bfaa-7c42-91d6-5623f1dbcbcd?index=102&part=2"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.67188166644863
+      }
+    },
+    {
+      "id": "b04-q25",
+      "question": "What was Theo's condition at the end of Book Four?",
+      "passed": true,
+      "top_sources": [
+        "events/book4_post_florence_2001.md#section-6-part-4",
+        "claude:bdf76bfa-f168-4554-a899-83f4f63543af/message:019d1bdd-db9b-75cc-b841-8b303aba2ff4?index=238&part=1",
+        "claude:1036e3cf-db91-4cd8-8e0c-77e3363006fa/message:019cc77c-b9cf-7154-8247-f9c5566173a6?index=12&part=0",
+        "claude:1036e3cf-db91-4cd8-8e0c-77e3363006fa/message:019cc7be-84b2-70c7-bec3-4a48e992b9a1?index=19&part=0",
+        "claude:1036e3cf-db91-4cd8-8e0c-77e3363006fa/message:019cc567-af99-743e-b206-64965272f6d8?index=1&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.5929130046325902
+      }
+    },
+    {
+      "id": "b04-q26",
+      "question": "What did Theo say was the first time someone gave him something that size willingly?",
+      "passed": true,
+      "top_sources": [
+        "claude:43f1c5a4-c916-4904-beff-ff131f9d6cbf/message:019cb9bc-25df-714a-a56d-b0961d357dee?index=76&part=0",
+        "claude:43f1c5a4-c916-4904-beff-ff131f9d6cbf/message:019cb7a4-eafe-70cb-80a1-b30a49c691d7?index=32&part=0",
+        "claude:43f1c5a4-c916-4904-beff-ff131f9d6cbf/message:019cb53d-3bfb-70ea-8741-29addf6094af?index=3&part=0",
+        "claude:43f1c5a4-c916-4904-beff-ff131f9d6cbf/message:019cb86f-7d85-77fa-ba39-e95c1598b575?index=36&part=0",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019cfed9-a158-79c3-8e12-07dce4655476?index=207&part=4"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.6239193054028604
+      }
+    },
+    {
+      "id": "b04-q27",
+      "question": "What password did Maribel Fawley use to enter the Luminary?",
+      "passed": true,
+      "top_sources": [
+        "claude:125062a8-46de-46bb-a5f8-555318dc6b06/message:019cf2c6-748c-76eb-a626-05e78738a2a0?index=5&part=2",
+        "claude:ca8cc87f-e19d-4d47-8fea-a329e937198c/message:019d21dd-9c03-736b-97b1-58d3e90cab85?index=91&part=2",
+        "claude:125062a8-46de-46bb-a5f8-555318dc6b06/message:019cf264-4346-78ec-9f31-769868f8d5c2?index=0&part=0",
+        "claude:d930dbf2-9cfc-42d2-a1a3-5cb32c354628/message:019ccfa3-4ebf-7272-a46a-fb93194e28a1?index=32&part=4",
+        "claude:0ba16a02-8c23-4e85-9800-733c63826804/message:019d018d-d5ed-782f-8f92-725d5a137aeb?index=234&part=0"
+      ],
+      "diagnostics": {
+        "mode": "hybrid",
+        "keyword_hits": 60,
+        "semantic_status": "ok via credential-file:openrouter-api-key",
+        "max_semantic_similarity": 0.4652871782559399
+      }
+    }
+  ]
+}
