@@ -60,7 +60,7 @@ The movement was slow enough to betray him, though his face did not. A narrow br
 
 “Be careful.”
 
-“I have been careful with you for twenty months.” Filippo’s voice remained level. “Care is not the same thing as avoidance.”
+“I have been careful with you for a year.” Filippo’s voice remained level. “Care is not the same thing as avoidance.”
 
 Luna lifted her head. Neither man looked at her.
 
