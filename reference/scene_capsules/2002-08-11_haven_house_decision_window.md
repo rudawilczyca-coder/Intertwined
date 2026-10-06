@@ -157,7 +157,39 @@ preserved in `../../archive/2026-09-27_haven_house_monday_opening.md`.
 - Filippo has asked Theo to genuinely consider Florence and whether London is
   the future all three spouses want, rather than simply the future none has
   questioned.
-- Live cursor: Theo has not answered Filippo's final question.
+- Superseded cursor (see below): Theo has not answered Filippo's final question.
+
+## Played Monday Florence conversation — archived 2026-10-07
+
+Accepted turns: `../../archive/2026-10-06_haven_house_monday_turns.md`.
+
+- Theo says he wants to stay but agrees to consider Florence. He authorises
+  enquiries only: no arrangements and no promises on Jackie's or Draco's behalf.
+- Filippo names Lorenzo Vannini (International Magical Co-operation) and
+  Beatrice Contarini (treaty law) as respected Italian Ministry contacts, not
+  retainers. He argues Jackie will never outgrow Potter's shadow in London and
+  that two difficult surnames will count against her.
+- Theo defends Jackie's choice to keep Nott when she married Draco after Theo
+  was legally declared dead. He would have given the name up himself.
+- The Malice says Filippo wants Jackie close and has since before the turning.
+  Theo asks Filippo directly.
+- Filippo admits it: "Not none." He says that once Theo's control was proven he
+  should have presented him to London on his own terms. He delayed partly
+  because he hoped all three would choose Florence and Jackie would be near.
+  Theo paid for that with three days at Viola's court. Filippo says his wanting
+  her near does not make the career prospects false. He would not live in their
+  house; the same city would be "sufficient."
+- Theo says he would go if Jackie and Draco wanted Florence. He will not ask
+  them to stay for him. But Haven House (theirs for less than a year, his since
+  January) is the first place any of them has felt at home. He will not be the
+  one to trade it away for them.
+- Filippo will still write to Beatrice and Lorenzo; what the household does
+  with the answers is theirs.
+- Theo tells Filippo never again to wait on Theo's life to get what he wants.
+  Filippo notes that releasing Theo on Wednesday leaves him nothing to stand
+  behind when Viola sends for Theo. Theo: "Then she'll have to ask me."
+- Filippo's formal release decision is still open. Endpoint: Filippo reopens
+  his book at the same page; "Theo let him have it."
 
 ## Sunday, 11 August — return, threshold, collapse
 

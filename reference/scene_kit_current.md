@@ -8,13 +8,13 @@
 `reference/scene_capsules/2002-08-11_haven_house_decision_window.md` — **ACTIVE PLANNING CAPSULE** (2026-09-20).
 
 **Current state (27 September 2026):** Sunday at Haven House is complete. The
-Monday live Doc has begun with Theo and Filippo alone after Jackie and Draco
-leave for the Ministry. Continue from the active capsule and Monday cursor.
+Monday live Doc holds Theo and Filippo's accepted Florence conversation
+(archived 2026-10-07). Continue from the active capsule and Monday cursor.
 
 ---
 
 ## NOW — the in-story clock
-- **Monday morning, 12 August 2002, Haven House.** Jackie and Draco have left for the Ministry. Theo and Filippo are alone in the dining room with Luna. Filippo has asked Theo to consider Florence and whether London is truly the future all three spouses want. Theo has not answered.
+- **Monday morning, 12 August 2002, Haven House.** Jackie and Draco have left for the Ministry. Theo and Filippo are alone in the dining room with Luna. Theo has answered: he would go if Jackie and Draco wanted Florence, but Haven House is the first home any of them has had. Filippo admitted his delay was partly hoping Jackie would be near; Theo told him Viola will have to ask Theo himself. Filippo's release decision remains open; endpoint: Filippo reopens his book at the same page.
 - **Where everyone is:** Theo is at Haven House, steadier after Sunday's donor feed but still bruised and recovering. Filippo is staying as guest, sire, and temporary medical supervision. Jackie and Draco are at the Ministry. Nell and Leandro remain at the London court. Pansy and Bastien remain in France. Genuine Eli's status is unconfirmed.
 - **The clock ahead:** Three-day recovery/decision period at Haven House with
   Filippo in residence, followed by Theo and Filippo's Wednesday presentation.
