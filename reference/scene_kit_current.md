@@ -14,7 +14,7 @@ leave for the Ministry. Continue from the active capsule and Monday cursor.
 ---
 
 ## NOW — the in-story clock
-- **Monday morning, 12 August 2002, Haven House.** Jackie and Draco have left for the Ministry. Theo and Filippo are alone in the parlour with Luna. Filippo has asked Theo to consider Florence and whether London is truly the future all three spouses want. Theo has not answered.
+- **Monday morning, 12 August 2002, Haven House.** Jackie and Draco have left for the Ministry. Theo and Filippo are alone in the dining room with Luna. Filippo has asked Theo to consider Florence and whether London is truly the future all three spouses want. Theo has not answered.
 - **Where everyone is:** Theo is at Haven House, steadier after Sunday's donor feed but still bruised and recovering. Filippo is staying as guest, sire, and temporary medical supervision. Jackie and Draco are at the Ministry. Nell and Leandro remain at the London court. Pansy and Bastien remain in France. Genuine Eli's status is unconfirmed.
 - **The clock ahead:** Three-day recovery/decision period at Haven House with
   Filippo in residence, followed by Theo and Filippo's Wednesday presentation.

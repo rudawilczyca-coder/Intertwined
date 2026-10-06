@@ -12,17 +12,17 @@ The wards settled first. Their faint pressure moved through the walls and floorb
 
 False sunlight filled the windows.
 
-It lay across the parlour carpet in broad August squares, warm in colour and harmless to the two vampires inside them. Dust moved through it. Somewhere in the kitchen, the clock above the stove marked the half-hour with a small, officious chime.
+It lay across the dining-room floor in broad August squares, warm in colour and harmless to the two vampires inside them. Dust moved through it. Somewhere in the kitchen, the clock above the stove marked the half-hour with a small, officious chime.
 
-Theo stood at the parlour window with one hand against the frame.
+Theo stood at the dining-room window with one hand against the frame.
 
 The donor’s blood had repaired the worst of the hollowness beneath his eyes. It had steadied his hands, restored the economy of his balance, quieted the Malice until His presence had become a pressure rather than a voice. It had not undone three days beneath Viola’s court. Bruises still shadowed Theo’s wrists. When he shifted his weight, he did it carefully.
 
 Behind him, a page turned.
 
-Filippo had occupied the armchair nearest the bookcase sometime before dawn. The curtains in the library had been checked twice; the wards, once. Now he sat inside a patch of manufactured morning with an open book in one hand and no apparent objection to the illusion.
+Filippo had occupied the chair at the end of the dining table sometime before dawn. The curtains throughout the house had been checked twice; the wards, once. Now he sat inside a patch of manufactured morning with an open book in one hand and no apparent objection to the illusion.
 
-Luna had chosen the low table between them. Her tail moved once across the print.
+Luna had chosen the window-sill beside Theo. Her tail moved once against the glass.
 
 “You can stop pretending to read,” Theo said.
 
@@ -42,7 +42,7 @@ Theo’s reflection stared back from the glass—pale, dark-eyed, dressed in yes
 
 The word entered the room without force and removed the last excuse from it.
 
-Filippo set the book on the arm of the chair. Outside, a Muggle woman crossed the square with a terrier straining ahead of her. Theo watched until both disappeared behind the plane trees.
+Filippo set the book on the dining table. Outside, a Muggle woman passed along the street with a terrier straining ahead of her. Theo watched until both disappeared beyond the edge of the window.
 
 “I want you to consider Florence,” Filippo said.
 
@@ -83,4 +83,3 @@ Theo looked towards the hall, where two coats were missing from their hooks and 
 Filippo waited.
 
 “Tell me,” he said at last, “whether London is the future all three of you want—or merely the one none of you have yet been willing to question.”
-
