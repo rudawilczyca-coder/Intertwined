@@ -203,7 +203,7 @@ Jackie's parting order: be disgustingly, obnoxiously happy together, or she'll k
 
 **Sound:** Guitar-driven, often building from a restrained verse to a wall of distortion. Samuel's voice is the central instrument — powerful and controlled, with the ability to go from near-spoken confession to something approaching a scream without losing pitch. He uses the dynamic deliberately.
 
-**Themes:** The band's material covers post-war disillusionment, inherited ideology, unacknowledged grief, rejected legacy. The songs are the most honest thing about him. *Ashes of the Heir* is about the war's outcome as personal betrayal. *Wands Lowered* is about unrecognized loss. *Between the Lines* is about Jackie without being about Jackie, and at least three people in Samuel's life have noticed.
+**Themes:** The band's material covers post-war disillusionment, inherited ideology, unacknowledged grief, rejected legacy. The songs are the most honest thing about him. *Ashes of the Heir* is about the war's outcome as personal betrayal. *Wands Lowered* is about unrecognized loss. *Between the Lines* is about Jackie without being about Jackie, and at least three people in Samuel's life have noticed (performed by March 2001). *Someone Else's* is quieter and more exposed, and was stuck without an ending until Jackie sang him the phoenix bridge at Carrow Manor (July 21, 2001). It debuted as a duet with Mira Vance.
 
 **Venue:** Bar circuit in Knockturn Alley, gaining traction. The crowd is mixed — people who were on the losing side of the war, people who just like the music, people who find both in the same place. Samuel plays to all of them without apology.
 

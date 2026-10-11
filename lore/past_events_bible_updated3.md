@@ -1644,7 +1644,7 @@ Use this index to jump to specific events without scanning the full document. Or
 
 **Saturday, July 21:**
 - Jackie confronted Samuel about his feelings; he confessed 8-month love
-- Jackie sang impromptu bridge to Samuel's unfinished song ("Between the Lines") — moment of creative intimacy
+- Jackie sang impromptu bridge to Samuel's unfinished song ("Someone Else's", the phoenix bridge: *"But every Phoenix has to face the fire's grace"*) — moment of creative intimacy. Not "Between the Lines", which was already finished and performed in March
 - Physical tension escalated; nearly slept together; Jackie stopped at last moment
 - Slept in same bed without sex; Jackie curled against Samuel's chest
 
