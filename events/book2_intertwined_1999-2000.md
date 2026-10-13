@@ -154,6 +154,7 @@
 - Physical injuries healed within hours. Jackie doesn't focus her eyes, doesn't speak, recoils from any touch. Mind-healer: *"Her mind has retreated. There is no spell to mend this."*
 - Visitors over weeks: Draco and Theo daily; Anne, Camille, Luna and Neville (announce their engagement), Harry (confirms Eirik set to receive the Dementor's Kiss — later changed to life imprisonment).
 - The bond returns as Jackie's magic recovers. Theo braces for the onslaught — but what comes through is almost nothing. Her emotions are hollowed out.
+- **September 13: Jackie's 19th birthday, unacknowledged by her.** Draco brings a small white cake with sugared violets and a single candle. Theo brings the grey library blanket and folds it at her feet, because touch makes her flinch. Draco calls her "Jacqueline" coldly, then turns on Theo (the bond tells him "nothing"; Theo was in the house that night; before that, the fortnight in London). Theo: *"Can we not do that today?"* Draco stops and leaves the ring by her water glass. Draco: *"Next year we will do this properly. Somewhere with a sky."* Theo: *"Next year she'll make us."* Full text: `pieces/theo_draco_sept13_1999_nineteen.md` (accepted 2026-10-13).
 
 **Early October — Samaya Arrives**
 
@@ -442,6 +443,7 @@
 
 - Jackie and Theo travel the world together for nine months. Countries include Japan (Mahoutokoro), Lisbon, Istanbul, Marrakesh, the Pillars of the Unreturned, and many more.
 - Regular letters exchanged with Draco throughout. The correspondence evolves from stiff formality to genuine confessions and dry observations.
+- **13 September 2000, Jackie's 20th birthday (Alice ruling, 2026-10-13):** Jackie and Theo spend it somewhere far away, under a real sky. Draco is alone in his Ministry apartment. The "somewhere with a sky" promise from her 19th came true for two of the three. Location and details not yet established.
 - Samuel Carrow wrote to Jackie for five months during her darkest period; she never replied.
 
 ---
