@@ -71,3 +71,7 @@ never treat those results as accepted scene history without corroboration.
 - Keep the SQLite file off GitHub because it contains the full private text.
 - Add new live Google Docs to Drive first. A later exporter may add them to the
   local index, but Drive remains their primary readable home.
+
+## Reviewed chronology recovery — 13 October 2026
+
+The [Chronicle recovery ledger](../reference/chronicle_export_recovery_2026-10-13.md) records factual additions recovered for the Intertwined calendar from accepted export branches, with message IDs and explicit date caveats. It complements the event books; unresolved early-June, April and December date conflicts remain visible rather than silently becoming exact dates. The original exports remain immutable.
