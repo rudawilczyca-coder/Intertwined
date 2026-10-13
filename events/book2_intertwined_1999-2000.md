@@ -51,7 +51,7 @@
 - **Date set:** Halloween. Private vows, manor grounds. No Ministry, no spectacle.
 - **Guests:** Anne Hawthorne (witness), Narcissa Malfoy (Draco's suggestion — Jackie is anxious but agrees), Samaya (invited by letter). Cyrus Taylor explicitly excluded.
 - **Rings:** Jackie suggests the Protean rings from their Charms class — already a pair, the first connection they made. Draco doesn't know where his is; he'll write to Narcissa.
-- **Jackie's name:** She announces she wants to hyphenate — *Jaqueline Nott-Malfoy*. Draco's expression cracks into something unguarded.
+- **Jackie's name:** She announces she wants to hyphenate — *Jacqueline Nott-Malfoy*. Draco's expression cracks into something unguarded.
 
 ---
 
